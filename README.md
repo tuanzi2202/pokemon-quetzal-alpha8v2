@@ -60,6 +60,7 @@
 
 ## 注意
 
-- 长对话多为机翻，可继续润色 `locale/`。
+- 指针剧情已启用英文残留、控制码、乱码、缺字和官译术语构建门禁；后续润色请写入
+  `locale/zh_CN/dialogue_repairs_zh.jsonl`，再运行 `python tools/repair_dialogue_locale.py`。
 - 一次性 `fix_*` 已迁到 `archive/oneshot/`，不要再堆回 `tools/`。
 - 换 ROM 后若仍见旧字：清应用数据，或 bump `MbRomBootstrap.ROM_PACK_VERSION`。

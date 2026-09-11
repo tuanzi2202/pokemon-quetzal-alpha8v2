@@ -154,7 +154,7 @@ def scrub_all(zh: str) -> str:
         (rf"(?i){B}FORTREE{E}", "茵郁市"),
         (rf"(?i){B}PETALBURG{E}", "橙华市"),
         (rf"(?i){B}RUSTBORO{E}", "卡那兹市"),
-        (rf"(?i){B}OLDALE{E}", "古辰镇"),
+        (rf"(?i){B}OLDALE{E}", "古玫镇"),
         (rf"(?i){B}LITTLEROOT{E}", "未白镇"),
         (rf"(?i){B}LAVARIDGE{E}", "釜炎镇"),
         (rf"(?i){B}COVE LILY{E}", "琉璃"),

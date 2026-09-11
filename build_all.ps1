@@ -4,6 +4,9 @@ $Root = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location $Root
 Write-Host "[CN] dump (optional if already done)"
 # python tools\dump_text.py
+Write-Host "[CN] audit dialogue controls / English / official terms"
+python tools\audit_dialogue_zh.py --fail-on-issues
+if ($LASTEXITCODE -ne 0) { throw "dialogue audit failed" }
 Write-Host "[CN] font patch"
 & cmd /c "fontpatch\build.bat"
 if ($LASTEXITCODE -ne 0) { throw "font patch failed" }

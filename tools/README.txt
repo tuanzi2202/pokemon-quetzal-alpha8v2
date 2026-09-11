@@ -5,6 +5,7 @@ tools/ — 日常构建与维护（精简后）
 
 构建链（build_all.ps1）
 ----------------------
+audit_dialogue_zh.py
 apply_text.py
 force_ui_zh.py
 force_mode_zh.py
@@ -25,6 +26,7 @@ merge_locale_zh.py
 clean_locale_zh.py
 official_names_zh.py
 import_item_glossary.py
+repair_dialogue_locale.py
 
 库
 --

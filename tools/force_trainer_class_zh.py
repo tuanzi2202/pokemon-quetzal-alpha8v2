@@ -83,13 +83,13 @@ CLASS_ZH: dict[str, str] = {
     "YOUNG COUPLE": "年轻夫妇",
     "OLD COUPLE": "老夫妇",
     "SIS AND BRO": "兄妹组合",
-    "SALON MAIDEN": "沙龙少女",
-    "DOME ACE": "巨蛋高手",
-    "PALACE MAVEN": "宫殿大师",
-    "ARENA TYCOON": "竞技大亨",
-    "FACTORY HEAD": "工厂首脑",
-    "PIKE QUEEN": "水管女王",
-    "PYRAMID KING": "金字塔之王",
+    "SALON MAIDEN": "对战塔大君",
+    "DOME ACE": "巨蛋超级巨星",
+    "PALACE MAVEN": "宫殿守护者",
+    "ARENA TYCOON": "竞技场主将",
+    "FACTORY HEAD": "工厂头目",
+    "PIKE QUEEN": "水管皇后",
+    "PYRAMID KING": "金字塔法老",
 }
 
 
