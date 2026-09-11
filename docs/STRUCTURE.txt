@@ -1,0 +1,50 @@
+QuetzalCN_084 目录结构
+======================
+
+文档入口：docs/00_INDEX.txt
+三大工程：docs/PROJECTS.txt   ← QuetzalCN / MyBoyQuetzal / MyBoyQuetzalHQ
+汉化详步：docs/LOCALIZE_HOWTO.txt
+补漏英文：docs/FIX_REMAINING_EN.txt
+脚本用途：docs/TOOLS.txt
+打包部署：docs/PACKAGING.txt
+主副屏：  docs/DUALSCREEN.txt
+
+KEEP（日常）
+-----------
+build_all.ps1
+README.md
+.gitignore
+docs/                 见 00_INDEX.txt
+golden/               英文母盘（只读）
+out/                  发布 ROM quetzal_084_cn.gba
+work/                 cn_build.gba + gtrans_cache.json + free_cursor.txt
+locale/zh_CN/         中文 JSONL（权威译文）
+dump/                 英文导出
+glossary/             官译词表
+blacklists/           联机保护区
+fontpatch/            中文字库补丁（活跃）
+charset/README.txt    指向 fontpatch
+vendor/armips.exe
+vendor/Pokemon_GBA_Font_Patch-main/
+tools/                精简后日常脚本 — 见 docs/TOOLS.txt 与 tools/README.txt
+
+ARCHIVE（不进 build_all）
+-------------------------
+archive/oneshot/      历史 fix_* / 旧 fill_* / mt_* / 旧 scan
+archive/investigate/  _inv_* / _dump_* / a8 字库反汇编
+
+归档脚本 ROOT 已失效；重跑请拷回 tools/（见 archive/README.txt）。
+
+旁工程（仓库根目录）— 作用见 docs/PROJECTS.txt
+------------------------------------------------
+QuetzalCN_084/        本工程：只出中文 GBA ROM
+MyBoyQuetzal/         双屏壳 APK（日常：格查尔双屏）
+MyBoyQuetzalHQ/       双屏 + HQ4x 超分（格查尔双屏·超分）
+emulator-shaders/     GLSL 着色器源（shaderpack）
+（旧 MyBoyQuetzalSR 已删除，由 HQ 取代）
+
+新增脚本放哪
+------------
+- 进正式构建链 → tools/，并改 build_all.ps1 + docs/PIPELINE.txt + docs/TOOLS.txt
+- 一次性补丁 / 调查 → archive/oneshot 或 archive/investigate
+- 译文 → locale/zh_CN/，不要只写死在 fix 脚本里

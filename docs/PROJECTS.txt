@@ -1,0 +1,76 @@
+三大工程分别干什么
+==================
+
+工作区根目录：d:\aaaaaaa_bianyi\
+三者并列，不要混在一起改。
+
+
+1) QuetzalCN_084/  —— 汉化 ROM（本仓库文档所在工程）
+-------------------------------------------------
+作用：把格查尔 0.8.4 英文母盘做成可联机的简体中文 GBA。
+
+产出：
+  out/quetzal_084_cn.gba
+
+不含：模拟器 APK（本目录没有 .apk）。
+
+日常命令：
+  .\build_all.ps1
+
+文档入口：docs/00_INDEX.txt
+
+
+2) MyBoyQuetzal/  —— 双屏模拟器壳（日常安装这个）
+----------------------------------------------
+作用：My Boy 改造的「格查尔双屏」；主屏 Host + 副屏 :player2 联机。
+带汉化热更、设置返回按钮、副屏设置同进程等。
+
+包名：com.fastemulator.gba
+桌面名：格查尔双屏
+
+编译好的 APK：
+  hardening/out/myboy_quetzal_dualscreen_signed.apk
+
+重编：
+  powershell -File hardening\scripts\00_release.ps1
+
+ROM 热更目录：
+  /sdcard/Android/data/com.fastemulator.gba/files/quetzal_084_cn_test.gba
+
+
+3) MyBoyQuetzalHQ/  —— 双屏 + GPU 像素超分（可选画质版）
+----------------------------------------------------
+作用：从最新 MyBoyQuetzal 复制的超分分支；默认 OpenGL + HQ4x，
+让 240×160 在平板上更清晰（像素着色器，不是 AI 超分）。
+
+包名：com.fastemulator.gba.hq（可与原版并排安装）
+桌面名：格查尔双屏·超分
+
+编译好的 APK：
+  hardening/out/myboy_quetzal_hq_signed.apk
+  hardening/out/emulator_shaders_signed.apk   ← 必须先装着色器包
+
+重编：
+  powershell -File hardening\scripts\00_release.ps1
+
+详案：MyBoyQuetzalHQ/docs/SR_PLAN.txt
+
+ROM 热更目录：
+  /sdcard/Android/data/com.fastemulator.gba.hq/files/quetzal_084_cn_test.gba
+
+
+怎么选
+------
+| 目标           | 用哪个              |
+|----------------|---------------------|
+| 改中文 / 补漏  | QuetzalCN_084       |
+| 正常双屏联机   | MyBoyQuetzal        |
+| 要更清晰画质   | MyBoyQuetzalHQ      |
+
+流程记忆：ROM 在 QuetzalCN_084 里编 → 推到对应包名的 files/ → 用 MyBoy* 打开。
+
+
+相关旁工程（了解即可）
+--------------------
+emulator-shaders/   GLSL 源码，打成 shaderpack 给 HQ 用
+（旧 MyBoyQuetzalSR 已删除，由 HQ 取代）

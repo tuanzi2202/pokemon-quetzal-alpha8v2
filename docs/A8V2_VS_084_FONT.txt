@@ -1,0 +1,35 @@
+A8v2 字库接线 → 0.8.4 移植
+============================
+
+A8 可运行接线（已验证反汇编）
+----------------------------
+- Divert：RenderText CharRead @ 0x08005858
+  `ldr r0,[r6]; ldr r3,=handler; mov pc,r3`
+- Handler：0x09215BEC
+  - 双字节汉字 hi∈[1,0x1E]\{6,0x1B}，index=((hi'<<8)|lo)<<6
+  - 标点 0x36–0x3F → index 0x1B28+ch
+  - 字模：大 0x09F12748 / 小 0x09F80108（每字 64B 2bpp）
+  - 解压：跳入 DecompressGlyph @0x68AC（4×DecompressGlyphTile）
+  - 中文返回 CopyGlyph 路径 @0x5BF0；拉丁返回 @0x5864（char-0xF8）
+
+0.8.4 对应
+----------
+- **真** Divert：FontNormal→RenderText @ 0x0800588C，CharRead @ **0x0800596C**
+- 拉丁返回：0x08005978
+- 中文返回：0x08005D34（CopyGlyph）
+- 死副本（勿钩）：0x0821CBB8 / CharRead 0x0821CC68（无 BL 调用方）
+- gCurGlyph：0x03003090
+- DecompressGlyphTile：0x08004C08
+- 字模：Wokann 1bpp @ 0x09D9B5A8
+
+构建
+----
+fontpatch/ 使用 Wokann 字模 + A8StyleChinese（接真 CharRead）
+build_all.ps1 → out/quetzal_084_cn.gba
+
+当前策略（2026-08-06）
+----------------------
+1. Divert 真 CharRead @ 0x0800596C（不是 21CC68）
+2. 字模 Wokann 1bpp；DEBUG_SOLID_GLYPH 可先验证路径
+3. 禁止 handler 里 `pop {…,lr}`（Thumb→pop pc）
+4. DEBUG_SKIP_JP_CHECK=1 避免 +0x21 误判

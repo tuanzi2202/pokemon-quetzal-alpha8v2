@@ -1,0 +1,8 @@
+{
+  "keep": [
+    {"label": "rom_header", "start": 0, "end": 512},
+    {"label": "PokemonSioInfo", "start": 3957600, "end": 3965792},
+    {"label": "note", "detail": "ROM offsets decimal; LINK LOSS / NOWSLOT live in this window (~0x3C4000-0x3C6000). Never rewrite."}
+  ],
+  "sha256_golden": "e9fc9cf506ad11db7642e7d65774e2bb0e5f174eb9aceda725cd961ab9aee070"
+}

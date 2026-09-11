@@ -1,0 +1,60 @@
+Quetzal 0.8.4 discover report
+============================
+ROM size: 33554432
+SHA256: e9fc9cf506ad11db7642e7d65774e2bb0e5f174eb9aceda725cd961ab9aee070
+
+Link markers:
+  PokemonSioInfo: ['0x3c4360']
+  LINK_LOSS: ['0x3c4370', '0x3c4388']
+  NOWSLOT: ['0x3c43dc']
+  PKM_QUETZAL: ['0xa0']
+
+Menu needle offsets (Gen3 bytes, no EOS):
+  NEW GAME: ['0x101b9c8']
+  CONTINUE: ['0x101b9d1']
+  OPTIONS: ['0x101dc6f', '0x102492c', '0x10257d4', '0x10257e4']
+  BAG: ['0x279c56', '0x27ed4e', '0x280bdc', '0x282082', '0x2823d0']
+  SAVE: ['0x287be3', '0x101edb7', '0x102245b', '0x16febe4', '0x1701b95']
+  POKeMON: ['0x1021d23']
+  PLAYER: ['0x3c469d', '0x3c46ab', '0x3c46b9', '0x3c46c7', '0x101bc0b']
+  YES: ['0x29353d', '0x4c6078', '0xfaa4e3', '0xfc3498', '0xfc3fa3']
+  NO: ['0xa548', '0x4b918', '0x941c0', '0x941c4', '0x9865c']
+  CANCEL: ['0x3c473a', '0x3ca018', '0x4ba465', '0xfc7b74', '0x101bcb8']
+  TEXT SPEED: ['0x10222fc']
+  BATTLE STYLE: ['0x1022314']
+  SOUND: ['0xfc34ef', '0x1022321', '0x1024926']
+  BUTTON MODE: ['0x1022334']
+  FRAME: ['0x1022327', '0x1024a66']
+  CONFIRM: ['0x101c442', '0x10223fc', '0x102389a']
+  MULTIPLAYER: []
+  Multiplayer: ['0x4c6953', '0x4c6967']
+
+Scanned strings: 8000
+Top string banks (64KB):
+  bank 0x330000 count=942
+  bank 0x320000 count=689
+  bank 0x2D0000 count=573
+  bank 0x310000 count=563
+  bank 0x350000 count=512
+  bank 0x300000 count=464
+  bank 0x2F0000 count=454
+  bank 0x2C0000 count=444
+  bank 0x2E0000 count=418
+  bank 0x2A0000 count=410
+  bank 0x2B0000 count=410
+  bank 0x340000 count=402
+
+Top free runs (>=0x800):
+  0x01D9B5A8 len=0x264A58 fill=0xFF
+  0x0179FD48 len=0x11624 fill=0x00
+  0x01030771 len=0xD477 fill=0x00
+  0x01041E75 len=0x5CA7 fill=0x00
+  0x006165CC len=0x5900 fill=0x00
+  0x00EB9878 len=0x4E04 fill=0x00
+  0x00EB5A20 len=0x3E3C fill=0x00
+  0x00ED9A1C len=0x3D00 fill=0x00
+  0x010D8138 len=0x3A29 fill=0x00
+  0x010E0338 len=0x3A29 fill=0x00
+
+Wrote D:\aaaaaaa_bianyi\QuetzalCN_084\blacklists\regions.json
+Wrote D:\aaaaaaa_bianyi\QuetzalCN_084\dump\discover_sample.jsonl

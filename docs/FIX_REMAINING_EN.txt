@@ -1,0 +1,132 @@
+格查尔 0.8.4 — 发现未汉化内容后如何补
+======================================
+
+现象
+----
+游戏里仍看到英文 / 半中半英 / 错译（如 lives→「还活着」）/ 截断乱码。
+
+
+一、先判断：是不是「旧 ROM」
+----------------------------
+主屏中文、副屏英文 → 多半不是漏翻，是副屏进程握着旧 ROM。
+处理见 DUALSCREEN.txt（force-stop、重拉副屏、同文件硬链接）。
+
+确认当前 out/quetzal_084_cn.gba 已热更，且两端指纹一致后再查漏翻。
+
+
+二、拿到英文原文
+----------------
+1. 游戏里抄下完整英文（含换行、人名大小写）。
+2. 或 log / 截图 OCR。
+
+
+三、在母盘里定位 offset
+----------------------
+在 QuetzalCN_084：
+
+  python -c "..."
+或写小脚本：
+
+  from pathlib import Path
+  from gen3_charmap import encode_plain, decode_bytes
+  golden = Path('golden/en_0.8.4.gba').read_bytes()
+  cn = Path('out/quetzal_084_cn.gba').read_bytes()
+  core = encode_plain("Town Map")[:-1]   # 不要最后的 FF
+  i = 0
+  while True:
+      j = golden.find(core, i)
+      if j < 0: break
+      eos = golden.find(b'\xff', j)
+      print(hex(j), decode_bytes(golden[j:eos+1]))
+      print('  CN now:', decode_bytes(cn[j:cn.find(b'\xff', j)+1]))
+      i = j + 1
+
+注意：
+  - 同一句可能有多份拷贝（如多句 DAD）；每处都要查 CN 是否已改。
+  - 「CN now」仍等于英文 = 漏翻或写失败。
+  - 「CN now」已是中文但游戏仍英文 = 游戏读的是别的指针拷贝 / 旧 mmap。
+
+
+四、扫描残留英文（批量）
+------------------------
+日常：
+
+  python tools/scan_remaining_en.py
+
+产出多在 work/（若被 gitignore，跑完立刻看控制台）。
+
+历史更大扫描在 archive/oneshot/（scan_remain_all 等），需要时拷回 tools/ 再跑。
+
+
+五、补丁策略（按优先级）
+------------------------
+
+### A. 能进 locale 的（推荐）
+
+1. 在 locale/zh_CN/all_en_zh.jsonl 增加或修正：
+   en = 母盘原文（控制码保留）
+   zh = 中文
+2. .\build_all.ps1
+   或至少 apply_text + diff_guard + 拷贝 out/
+
+### B. 短 UI / 物品名（可 inplace）
+
+参考脚本（仍在 tools/）：
+  tools/fix_options_berries_trainers.py   # 选项 / 树果 / 训练家 intro
+  tools/fix_hand_dialogue_zh.py           # 手写对话（Wally「去哪儿了」等）
+  tools/force_randomizer_zh.py             # 新游戏随机化整页
+  tools/force_mode_zh.py                   # 难度 / 模式向导
+  tools/scan_remaining_en.py               # 扫残留英文
+
+手写补丁模板与更多历史脚本：archive/oneshot/
+（如曾用的 DAD / PKMN / Mega Ring 一次性脚本已删，逻辑见 archive 或自行按下方模板重写）
+
+
+### C. 指针 UI（菜单 / 模式向导）
+
+  force_ui_zh.py / force_mode_zh.py / force_names_zh.py
+
+验证时跟黄金里的指针，不要只看原 site。
+
+### D. 一次性对话手修
+
+小脚本模板（放 archive/oneshot 或临时 tools）：
+
+  HAND = { 0x295324: "爸爸:……{WAIT_CLEAR}……", }
+  # put_inplace 或 reloc
+  # bump 0x1DCB5E0 指纹
+  # 写回 out/ + work/cn_build.gba
+
+参考：
+  archive/oneshot/fix_dad_and_mixed_en.py
+  archive/oneshot/fix_cottage_mode_clock.py
+  （曾用的 fix_dad_remain_en / fix_pkmn_* 已删；按上方模板重写即可）
+
+
+六、半中半英 / 错机翻
+--------------------
+特征：只有「宝可梦」被替换，其余仍英文；或 lives→还活着。
+
+1. 不要用「与黄金完全相同才补」的扫描（会漏掉半翻）。
+2. 用「仍含大量拉丁字母」条件扫（fill_latin_* 已归档，可参考）。
+3. 错译：改 locale 或 gtrans_cache.json 后重 apply；
+   关键句手写覆盖 ROM（并写回 locale 以免下次冲掉）。
+
+
+七、补完后检查清单
+------------------
+[ ] out/quetzal_084_cn.gba 已更新
+[ ] diff_guard.py OK（若动过大范围）
+[ ] 指纹 0x1DCB5E0 已变（方便确认热更生效）
+[ ] adb push 到 quetzal_084_cn_test.gba
+[ ] am force-stop；主屏+副屏都重开
+[ ] 游戏内走到原英文处确认
+[ ] 有价值的译文已写进 locale（避免只活在 ROM）
+
+
+八、不要做的事
+--------------
+- 整段恢复 0xFC0000–0xFD0000 黄金（会冲掉特性/UI 中文）
+- 手改 assembled/ 或别的工程里的 scripts.zip（本工程无此树）
+- 在副屏还开着时只热更主屏文件却不杀 :player2
+- 把 70+ 个 fix_* 再堆回 tools/

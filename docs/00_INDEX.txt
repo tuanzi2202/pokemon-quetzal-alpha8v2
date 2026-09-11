@@ -1,0 +1,34 @@
+格查尔 0.8.4 中文工程 — 文档索引
+================================
+
+本目录（QuetzalCN_084/docs/）
+
+  00_INDEX.txt           本文件
+  PROJECTS.txt           【必读】三大工程各自干什么 / APK 在哪
+  STRUCTURE.txt          目录结构 / KEEP vs archive
+  PIPELINE.txt           一键构建与联机验收（摘要）
+  LOCALIZE_HOWTO.txt     【详】汉化完整步骤（字库→locale→apply→force）
+  FIX_REMAINING_EN.txt   【详】发现未汉化内容后如何定位与补丁
+  TOOLS.txt              【详】tools/ 每个脚本用途
+  PACKAGING.txt          打包 ROM / 热更平板 / 打 MyBoy APK
+  DUALSCREEN.txt         主副屏同 ROM、返回键、常见坑
+  DISCOVER.txt           discover 运行快照（只读参考）
+  A8V2_VS_084_FONT.txt   字库钩子移植笔记
+  DEBUG_PROBES.txt       死副本钩子 / 时钟等调试笔记
+
+相关工程（仓库根目录旁）— 详见 PROJECTS.txt
+
+  QuetzalCN_084/         汉化 ROM（本工程）
+  MyBoyQuetzal/          双屏模拟器 APK（日常）
+  MyBoyQuetzalHQ/        双屏 + HQ4x 超分 APK（可选）
+  emulator-shaders/      My Boy GLSL 着色器源码
+
+建议阅读顺序
+------------
+1. PROJECTS.txt         先分清三个目录各自干什么
+2. STRUCTURE.txt        知道改哪里、不改哪里
+3. TOOLS.txt            每个脚本干什么
+4. LOCALIZE_HOWTO.txt   做汉化
+5. FIX_REMAINING_EN.txt 补漏网英文
+6. PACKAGING.txt        出 ROM / 装到平板
+7. DUALSCREEN.txt       主副屏不一致或卡住时

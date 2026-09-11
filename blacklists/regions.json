@@ -1,0 +1,454 @@
+{
+  "rom_size": 33554432,
+  "sha256": "e9fc9cf506ad11db7642e7d65774e2bb0e5f174eb9aceda725cd961ab9aee070",
+  "markers": {
+    "PokemonSioInfo": [
+      3949408
+    ],
+    "LINK_LOSS": [
+      3949424,
+      3949448
+    ],
+    "NOWSLOT": [
+      3949532
+    ],
+    "PKM_QUETZAL": [
+      160
+    ]
+  },
+  "menu_hits": {
+    "NEW GAME": [
+      16890312
+    ],
+    "CONTINUE": [
+      16890321
+    ],
+    "OPTIONS": [
+      16899183,
+      16927020,
+      16930772,
+      16930788
+    ],
+    "BAG": [
+      2595926,
+      2616654,
+      2624476,
+      2629762,
+      2630608,
+      2630741,
+      2663258,
+      2663621,
+      2727166,
+      2847112
+    ],
+    "SAVE": [
+      2653155,
+      16903607,
+      16917595,
+      24112100,
+      24124309,
+      24126163,
+      24126233
+    ],
+    "POKeMON": [
+      16915747
+    ],
+    "PLAYER": [
+      3950237,
+      3950251,
+      3950265,
+      3950279,
+      16890891,
+      16914047,
+      16914991,
+      16916961,
+      16916971,
+      16916981
+    ],
+    "YES": [
+      2700605,
+      5005432,
+      16426211,
+      16528536,
+      16531363,
+      16543052,
+      16546603,
+      16902485,
+      16916989,
+      16918985
+    ],
+    "NO": [
+      42312,
+      309528,
+      606656,
+      606660,
+      624220,
+      624224,
+      1541760,
+      2305244,
+      2305248,
+      2530446
+    ],
+    "CANCEL": [
+      3950394,
+      3973144,
+      4957285,
+      16546676,
+      16891064,
+      16891083,
+      16893007,
+      16893014,
+      16893027,
+      16898484
+    ],
+    "TEXT SPEED": [
+      16917244
+    ],
+    "BATTLE STYLE": [
+      16917268
+    ],
+    "SOUND": [
+      16528623,
+      16917281,
+      16927014
+    ],
+    "BUTTON MODE": [
+      16917300
+    ],
+    "FRAME": [
+      16917287,
+      16927334
+    ],
+    "CONFIRM": [
+      16892994,
+      16917500,
+      16922778
+    ],
+    "MULTIPLAYER": [],
+    "Multiplayer": [
+      5007699,
+      5007719
+    ]
+  },
+  "keep_ranges": [
+    {
+      "label": "PokemonSioInfo",
+      "start": 3941216,
+      "end": 3965792
+    },
+    {
+      "label": "LINK_LOSS",
+      "start": 3941232,
+      "end": 3965808
+    },
+    {
+      "label": "LINK_LOSS",
+      "start": 3941256,
+      "end": 3965832
+    },
+    {
+      "label": "NOWSLOT",
+      "start": 3941340,
+      "end": 3965916
+    },
+    {
+      "label": "PKM_QUETZAL",
+      "start": 0,
+      "end": 16544
+    },
+    {
+      "label": "rom_header",
+      "start": 0,
+      "end": 512
+    }
+  ],
+  "allow_ranges": [
+    {
+      "label": "string_bank_33",
+      "start": 3342336,
+      "end": 3407872,
+      "string_hits": 942
+    },
+    {
+      "label": "string_bank_32",
+      "start": 3276800,
+      "end": 3342336,
+      "string_hits": 689
+    },
+    {
+      "label": "string_bank_2D",
+      "start": 2949120,
+      "end": 3014656,
+      "string_hits": 573
+    },
+    {
+      "label": "string_bank_31",
+      "start": 3211264,
+      "end": 3276800,
+      "string_hits": 563
+    },
+    {
+      "label": "string_bank_35",
+      "start": 3473408,
+      "end": 3538944,
+      "string_hits": 512
+    },
+    {
+      "label": "string_bank_30",
+      "start": 3145728,
+      "end": 3211264,
+      "string_hits": 464
+    },
+    {
+      "label": "string_bank_2F",
+      "start": 3080192,
+      "end": 3145728,
+      "string_hits": 454
+    },
+    {
+      "label": "string_bank_2C",
+      "start": 2883584,
+      "end": 2949120,
+      "string_hits": 444
+    },
+    {
+      "label": "string_bank_2E",
+      "start": 3014656,
+      "end": 3080192,
+      "string_hits": 418
+    },
+    {
+      "label": "string_bank_2A",
+      "start": 2752512,
+      "end": 2818048,
+      "string_hits": 410
+    },
+    {
+      "label": "string_bank_2B",
+      "start": 2818048,
+      "end": 2883584,
+      "string_hits": 410
+    },
+    {
+      "label": "string_bank_34",
+      "start": 3407872,
+      "end": 3473408,
+      "string_hits": 402
+    },
+    {
+      "label": "string_bank_29",
+      "start": 2686976,
+      "end": 2752512,
+      "string_hits": 380
+    },
+    {
+      "label": "string_bank_27",
+      "start": 2555904,
+      "end": 2621440,
+      "string_hits": 347
+    },
+    {
+      "label": "string_bank_28",
+      "start": 2621440,
+      "end": 2686976,
+      "string_hits": 330
+    },
+    {
+      "label": "string_bank_36",
+      "start": 3538944,
+      "end": 3604480,
+      "string_hits": 316
+    },
+    {
+      "label": "string_bank_3C",
+      "start": 3932160,
+      "end": 3997696,
+      "string_hits": 180
+    },
+    {
+      "label": "string_bank_26",
+      "start": 2490368,
+      "end": 2555904,
+      "string_hits": 166
+    },
+    {
+      "label": "free_01D9B5A8",
+      "start": 31045032,
+      "end": 33554432,
+      "fill": 255
+    },
+    {
+      "label": "free_0179FD48",
+      "start": 24771912,
+      "end": 24843116,
+      "fill": 0
+    },
+    {
+      "label": "free_01030771",
+      "start": 16975729,
+      "end": 17030120,
+      "fill": 0
+    },
+    {
+      "label": "free_01041E75",
+      "start": 17047157,
+      "end": 17070876,
+      "fill": 0
+    },
+    {
+      "label": "free_006165CC",
+      "start": 6383052,
+      "end": 6405836,
+      "fill": 0
+    },
+    {
+      "label": "free_00EB9878",
+      "start": 15439992,
+      "end": 15459964,
+      "fill": 0
+    },
+    {
+      "label": "free_00EB5A20",
+      "start": 15424032,
+      "end": 15439964,
+      "fill": 0
+    },
+    {
+      "label": "free_00ED9A1C",
+      "start": 15571484,
+      "end": 15587100,
+      "fill": 0
+    },
+    {
+      "label": "free_010D8138",
+      "start": 17662264,
+      "end": 17677153,
+      "fill": 0
+    },
+    {
+      "label": "free_010E0338",
+      "start": 17695544,
+      "end": 17710433,
+      "fill": 0
+    },
+    {
+      "label": "free_010E8538",
+      "start": 17728824,
+      "end": 17743712,
+      "fill": 0
+    },
+    {
+      "label": "free_00F368DA",
+      "start": 15952090,
+      "end": 15966603,
+      "fill": 0
+    }
+  ],
+  "free_top": [
+    {
+      "offset": 31045032,
+      "length": 2509400,
+      "fill": 255
+    },
+    {
+      "offset": 24771912,
+      "length": 71204,
+      "fill": 0
+    },
+    {
+      "offset": 16975729,
+      "length": 54391,
+      "fill": 0
+    },
+    {
+      "offset": 17047157,
+      "length": 23719,
+      "fill": 0
+    },
+    {
+      "offset": 6383052,
+      "length": 22784,
+      "fill": 0
+    },
+    {
+      "offset": 15439992,
+      "length": 19972,
+      "fill": 0
+    },
+    {
+      "offset": 15424032,
+      "length": 15932,
+      "fill": 0
+    },
+    {
+      "offset": 15571484,
+      "length": 15616,
+      "fill": 0
+    },
+    {
+      "offset": 17662264,
+      "length": 14889,
+      "fill": 0
+    },
+    {
+      "offset": 17695544,
+      "length": 14889,
+      "fill": 0
+    },
+    {
+      "offset": 17728824,
+      "length": 14888,
+      "fill": 0
+    },
+    {
+      "offset": 15952090,
+      "length": 14513,
+      "fill": 0
+    },
+    {
+      "offset": 4864406,
+      "length": 13898,
+      "fill": 0
+    },
+    {
+      "offset": 5291482,
+      "length": 13268,
+      "fill": 0
+    },
+    {
+      "offset": 17429848,
+      "length": 11818,
+      "fill": 0
+    },
+    {
+      "offset": 17562968,
+      "length": 11818,
+      "fill": 0
+    },
+    {
+      "offset": 17596248,
+      "length": 11818,
+      "fill": 0
+    },
+    {
+      "offset": 17396574,
+      "length": 11814,
+      "fill": 0
+    },
+    {
+      "offset": 17463134,
+      "length": 11814,
+      "fill": 0
+    },
+    {
+      "offset": 17496414,
+      "length": 11814,
+      "fill": 0
+    }
+  ],
+  "string_scan": {
+    "count": 8000,
+    "start": 1835008,
+    "end": 4063232
+  }
+}

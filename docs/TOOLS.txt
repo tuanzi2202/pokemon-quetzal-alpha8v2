@@ -1,0 +1,116 @@
+tools/ 脚本说明（日常保留）
+============================
+
+入口总览见 docs/00_INDEX.txt。
+一键构建：根目录 build_all.ps1（会调用下方「构建链」脚本）。
+
+已删除（2026-08）：一次性调试/补丁
+  _dump_mode_rand.py / _chk_dad_copies.py
+  fix_dad_remain_en.py / fix_pkmn_megaring_townmap.py / fix_pkmn_full_and_push.py
+历史更多脚本在 archive/oneshot/ 与 archive/investigate/。
+
+
+一、构建链（build_all.ps1 直接调用）
+------------------------------------
+apply_text.py
+  把 locale/zh_CN/all_en_zh.jsonl 写入 work/cn_build.gba（多为指针 reloc）。
+  用法：python tools/apply_text.py locale/zh_CN/all_en_zh.jsonl
+
+force_ui_zh.py
+  强制开始菜单等高价值 UI（图鉴/宝可梦/背包/导航/保存/选项/退出等）。
+
+force_mode_zh.py
+  新游戏「难度 / 模式 / 解锁」向导中文（含选择游戏模式、难度档等）。
+  同步写 out/quetzal_084_cn.gba。
+
+force_randomizer_zh.py
+  新游戏随机化向导全文（RANDOMIZER/御三家/严格规则/各页标签与帮助）。
+  同步写 out/。补漏时也可单独重跑。
+
+force_names_zh.py
+  按 official_names_zh 官译强制人名/地名等。
+
+force_trainer_class_zh.py
+  对话框/对战名牌上的训练家头衔（YOUNGSTER→少年、PKMN TRAINER→精灵训练家 等）。
+  表址 0x4065EC，66×13 字节定长，只能 inplace。
+
+diff_guard.py
+  校验改动是否落在允许区；联机敏感区必须不变。失败则勿发布。
+
+
+二、导出 / 译文准备（按需，非每次构建）
+--------------------------------------
+discover.py
+  扫描母盘，更新 blacklists/regions.json、空闲区线索。
+
+dump_text.py
+  从 golden 导出 Gen3 字符串 → dump/*.jsonl。
+
+dump_dialogue_ptrs.py
+  跟指针导出对话（比盲扫更安全）。
+
+translate_batch.py
+  英文 JSONL → 中文，仅精确短语表（安全、覆盖面小）。
+
+merge_locale_zh.py
+  合并 dump + 短语 + 官译 + 机翻缓存 → 重建 all_en_zh.jsonl。
+
+clean_locale_zh.py
+  清洗 locale/cache：统一「宝可梦」、去垃圾行。依赖 fill_and_apply_remaining。
+
+official_names_zh.py
+  官译 EN→简中词表（库，被 force_names / merge / fill 引用）。
+
+
+三、编码库（被其它脚本 import，勿删）
+------------------------------------
+chs_encode.py
+  汉字双字节编解码 + encode_text_safe（缺字→?）。
+  码表：fontpatch/PMRSEFRLG_charmap.txt。
+
+gen3_charmap.py
+  西文 Emerald 码表、decode_bytes / encode_plain。
+
+fill_and_apply_remaining.py
+  路径常量、机翻缓存、质量检查等共享枢纽（clean_locale / restore_clock 依赖）。
+  也可用于按 locale 再刷一轮 inplace（慎用）。
+
+
+四、维护 / 补漏（按需）
+----------------------
+scan_remaining_en.py
+  扫描 ROM 中仍偏英文的串，辅助找漏网。
+
+fix_hand_dialogue_zh.py
+  手写 reloc 漏网对话（如 Quetzal「我们的满充去哪儿了？」）。
+  改 HAND 字典后重跑；同步 out/ + bump 指纹。
+
+fix_options_berries_trainers.py
+  选项菜单、树果名、部分训练家 intro。verify_and_bump_fp 会 import OPTIONS。
+
+verify_and_bump_fp.py
+  用指针校验选项/模式是否中文，bump ROM 指纹 0x1DCB5E0，同步 out/work。
+
+fix_clock_and_mom_open.py
+  时钟相关误改后的修复 + 开场妈妈等手写串。
+
+restore_clock_ui.py
+  仅还原壁钟 UI（星期名保持英文窄槽）；禁止整段拷贝 FC 池。
+
+
+五、常用命令速查
+----------------
+全量：
+  .\build_all.ps1
+
+只重跑随机化界面：
+  copy /Y out\quetzal_084_cn.gba work\cn_build.gba
+  python tools/force_randomizer_zh.py
+
+扫残留英文：
+  python tools/scan_remaining_en.py
+
+校验选项+指纹：
+  python tools/verify_and_bump_fp.py
+
+补漏流程详见 docs/FIX_REMAINING_EN.txt。

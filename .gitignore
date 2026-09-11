@@ -1,0 +1,33 @@
+# QuetzalCN_084 — ignore build noise / device dumps
+# Keep source, locale data, dumps and curated glossaries. ROM images and
+# machine-generated caches stay local and must never be committed.
+*.gba
+work/gtrans_cache.json
+work/*.txt
+work/device_*.gba
+work/*.log
+work/*.err
+work/ts_*
+work/*scan*
+work/still_en_*
+work/latin_*
+work/gtrans_need.json
+work/gtrans_fail.json
+work/fc_strings.txt
+work/remain_*
+work/junk_*
+work/map_en_*
+work/_dialogue_*
+work/_real_*
+work/_last_need.txt
+
+# Python
+__pycache__/
+*.pyc
+.Python
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~

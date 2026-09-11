@@ -1,0 +1,76 @@
+{"id": "004C5854", "offset": 5003348, "length": 7, "en": "Gastly", "hex": "c1d5e7e8e0edff", "zh": "Gastly"}
+{"id": "004C587F", "offset": 5003391, "length": 8, "en": "Quetzal", "hex": "cbe9d9e8eed5e0ff", "zh": "Quetzal"}
+{"id": "004C588E", "offset": 5003406, "length": 13, "en": "  Kangaskhan", "hex": "0000c5d5e2dbd5e7dfdcd5e2ff", "zh": "  Kangaskhan"}
+{"id": "004C58BB", "offset": 5003451, "length": 8, "en": "Quetzal", "hex": "cbe9d9e8eed5e0ff", "zh": "Quetzal"}
+{"id": "004C58CA", "offset": 5003466, "length": 11, "en": "  Alakazam", "hex": "0000bbe0d5dfd5eed5e1ff", "zh": "  Alakazam"}
+{"id": "004C58F7", "offset": 5003511, "length": 8, "en": "Quetzal", "hex": "cbe9d9e8eed5e0ff", "zh": "Quetzal"}
+{"id": "004C5905", "offset": 5003525, "length": 11, "en": "   Persian", "hex": "000000cad9e6e7ddd5e2ff", "zh": "   Persian"}
+{"id": "004C5933", "offset": 5003571, "length": 8, "en": "Quetzal", "hex": "cbe9d9e8eed5e0ff", "zh": "Quetzal"}
+{"id": "004C5FA3", "offset": 5005219, "length": 220, "en": "                                                                                                                                                                                                                     YES\nNO", "hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000d3bfcdfec8c9ff", "zh": "                                                                                                                                                                                                                     YES\nNO"}
+{"id": "004C6083", "offset": 5005443, "length": 13, "en": "Terminating.", "hex": "ced9e6e1dde2d5e8dde2dbadff", "zh": "Terminating."}
+{"id": "004C609F", "offset": 5005471, "length": 31, "en": " not found.\nPlease try again.{WAIT_CLEAR}", "hex": "00e2e3e800dae3e9e2d8adfecae0d9d5e7d900e8e6ed00d5dbd5dde2adfbff", "zh": " not found.\nPlease try again.{WAIT_CLEAR}"}
+{"id": "004C60BE", "offset": 5005502, "length": 97, "en": "Starting up the BERRY BLENDER.{WAIT_CLEAR}Please select a BERRY from your BAG\nto put in the BERRY BLENDER.{WAIT_CLEAR}", "hex": "cde8d5e6e8dde2db00e9e400e8dcd900bcbfccccd300bcc6bfc8bebfccadfbcae0d9d5e7d900e7d9e0d9d7e800d500bcbfccccd300dae6e3e100ede3e9e600bcbbc1fee8e300e4e9e800dde200e8dcd900bcbfccccd300bcc6bfc8bebfccadfbff", "zh": "Starting up the BERRY BLENDER.{WAIT_CLEAR}Please select a BERRY from your BAG\nto put in the BERRY BLENDER.{WAIT_CLEAR}"}
+{"id": "004C6121", "offset": 5005601, "length": 11, "en": " was made!", "hex": "00ebd5e700e1d5d8d9abff", "zh": " was made!"}
+{"id": "004C612C", "offset": 5005612, "length": 7, "en": "MISTER", "hex": "c7c3cdcebfccff", "zh": "MISTER"}
+{"id": "004C6133", "offset": 5005619, "length": 7, "en": "LADDIE", "hex": "c6bbbebec3bfff", "zh": "LADDIE"}
+{"id": "004C613A", "offset": 5005626, "length": 7, "en": "LASSIE", "hex": "c6bbcdcdc3bfff", "zh": "LASSIE"}
+{"id": "004C6141", "offset": 5005633, "length": 7, "en": "MASTER", "hex": "c7bbcdcebfccff", "zh": "MASTER"}
+{"id": "004C6148", "offset": 5005640, "length": 5, "en": "DUDE", "hex": "becfbebfff", "zh": "DUDE"}
+{"id": "004C614D", "offset": 5005645, "length": 5, "en": "MISS", "hex": "c7c3cdcdff", "zh": "MISS"}
+{"id": "004C616C", "offset": 5005676, "length": 29, "en": "Press the A Button to start.", "hex": "cae6d9e7e700e8dcd900bb00bce9e8e8e3e200e8e300e7e8d5e6e8adff", "zh": "Press the A Button to start."}
+{"id": "004C6189", "offset": 5005705, "length": 21, "en": "Please wait a while.", "hex": "cae0d9d5e7d900ebd5dde800d500ebdcdde0d9adff", "zh": "Please wait a while."}
+{"id": "004C619E", "offset": 5005726, "length": 23, "en": "Communication standby…", "hex": "bde3e1e1e9e2ddd7d5e8dde3e200e7e8d5e2d8d6edb0ff", "zh": "Communication standby…"}
+{"id": "004C61B5", "offset": 5005749, "length": 39, "en": "Would you like to blend another BERRY?", "hex": "d1e3e9e0d800ede3e900e0dddfd900e8e300d6e0d9e2d800d5e2e3e8dcd9e600bcbfccccd3acff", "zh": "Would you like to blend another BERRY?"}
+{"id": "004C61DC", "offset": 5005788, "length": 62, "en": "You've run out of BERRIES for\nblending in the BERRY BLENDER.{WAIT_CLEAR}", "hex": "d3e3e9b4ead900e6e9e200e3e9e800e3da00bcbfccccc3bfcd00dae3e6fed6e0d9e2d8dde2db00dde200e8dcd900bcbfccccd300bcc6bfc8bebfccadfbff", "zh": "You've run out of BERRIES for\nblending in the BERRY BLENDER.{WAIT_CLEAR}"}
+{"id": "004C6224", "offset": 5005860, "length": 16, "en": " CASE is full.{WAIT_CLEAR}", "hex": "00bdbbcdbf00dde700dae9e0e0adfbff", "zh": " CASE is full.{WAIT_CLEAR}"}
+{"id": "004C6234", "offset": 5005876, "length": 45, "en": " has no BERRIES to put in\nthe BERRY BLENDER.", "hex": "00dcd5e700e2e300bcbfccccc3bfcd00e8e300e4e9e800dde2fee8dcd900bcbfccccd300bcc6bfc8bebfccadff", "zh": " has no BERRIES to put in\nthe BERRY BLENDER."}
+{"id": "004C6269", "offset": 5005929, "length": 16, "en": " CASE is full.{WAIT_CLEAR}", "hex": "00bdbbcdbf00dde700dae9e0e0adfbff", "zh": " CASE is full.{WAIT_CLEAR}"}
+{"id": "004C6279", "offset": 5005945, "length": 20, "en": "RESULTS OF BLENDING", "hex": "ccbfcdcfc6cecd00c9c000bcc6bfc8bec3c8c1ff", "zh": "RESULTS OF BLENDING"}
+{"id": "004C628D", "offset": 5005965, "length": 11, "en": "BERRY USED", "hex": "bcbfccccd300cfcdbfbeff", "zh": "BERRY USED"}
+{"id": "004C6298", "offset": 5005976, "length": 7, "en": " BERRY", "hex": "00bcbfccccd3ff", "zh": " BERRY"}
+{"id": "004C629F", "offset": 5005983, "length": 6, "en": "Time:", "hex": "cedde1d9f0ff", "zh": "Time:"}
+{"id": "004C62A5", "offset": 5005989, "length": 7, "en": " min. ", "hex": "00e1dde2ad00ff", "zh": " min. "}
+{"id": "004C62AC", "offset": 5005996, "length": 6, "en": " sec.", "hex": "00e7d9d7adff", "zh": " sec."}
+{"id": "004C62B2", "offset": 5006002, "length": 14, "en": "MAXIMUM SPEED", "hex": "c7bbd2c3c7cfc700cdcabfbfbeff", "zh": "MAXIMUM SPEED"}
+{"id": "004C62C0", "offset": 5006016, "length": 5, "en": " RPM", "hex": "00cccac7ff", "zh": " RPM"}
+{"id": "004C62CB", "offset": 5006027, "length": 8, "en": "RANKING", "hex": "ccbbc8c5c3c8c1ff", "zh": "RANKING"}
+{"id": "004C62D3", "offset": 5006035, "length": 14, "en": "The level is ", "hex": "cedcd900e0d9ead9e000dde700ff", "zh": "The level is "}
+{"id": "004C62E1", "offset": 5006049, "length": 19, "en": ", and the feel is ", "hex": "b800d5e2d800e8dcd900dad9d9e000dde700ff", "zh": ", and the feel is "}
+{"id": "004C678E", "offset": 5007246, "length": 13, "en": "HOF achieved", "hex": "c2c9c000d5d7dcddd9ead9d8ff", "zh": "HOF achieved"}
+{"id": "004C679B", "offset": 5007259, "length": 24, "en": "HOF: VERY HARD perfects", "hex": "c2c9c0f000d0bfccd300c2bbccbe00e4d9e6dad9d7e8e7ff", "zh": "HOF: VERY HARD perfects"}
+{"id": "004C67C2", "offset": 5007298, "length": 10, "en": " perfects", "hex": "00e4d9e6dad9d7e8e7ff", "zh": " perfects"}
+{"id": "004C67CC", "offset": 5007308, "length": 12, "en": "Games saved", "hex": "c1d5e1d9e700e7d5ead9d8ff", "zh": "Games saved"}
+{"id": "004C67D8", "offset": 5007320, "length": 18, "en": "Trainers defeated", "hex": "cee6d5dde2d9e6e700d8d9dad9d5e8d9d8ff", "zh": "Trainers defeated"}
+{"id": "004C67EA", "offset": 5007338, "length": 16, "en": "Rematch battles", "hex": "ccd9e1d5e8d7dc00d6d5e8e8e0d9e7ff", "zh": "Rematch battles"}
+{"id": "004C67FE", "offset": 5007358, "length": 13, "en": "mon defeated", "hex": "e1e3e200d8d9dad9d5e8d9d8ff", "zh": "mon defeated"}
+{"id": "004C6814", "offset": 5007380, "length": 12, "en": "mon battles", "hex": "e1e3e200d6d5e8e8e0d9e7ff", "zh": "mon battles"}
+{"id": "004C6824", "offset": 5007396, "length": 11, "en": "mon caught", "hex": "e1e3e200d7d5e9dbdce8ff", "zh": "mon caught"}
+{"id": "004C6839", "offset": 5007417, "length": 11, "en": "mon caught", "hex": "e1e3e200d7d5e9dbdce8ff", "zh": "mon caught"}
+{"id": "004C6850", "offset": 5007440, "length": 11, "en": "mon caught", "hex": "e1e3e200d7d5e9dbdce8ff", "zh": "mon caught"}
+{"id": "004C685B", "offset": 5007451, "length": 17, "en": "Caught using rod", "hex": "bdd5e9dbdce800e9e7dde2db00e6e3d8ff", "zh": "Caught using rod"}
+{"id": "004C686C", "offset": 5007468, "length": 13, "en": "Eggs hatched", "hex": "bfdbdbe700dcd5e8d7dcd9d8ff", "zh": "Eggs hatched"}
+{"id": "004C687D", "offset": 5007485, "length": 14, "en": "mon/eggs sold", "hex": "e1e3e2bad9dbdbe700e7e3e0d8ff", "zh": "mon/eggs sold"}
+{"id": "004C688B", "offset": 5007499, "length": 11, "en": "Items used", "hex": "c3e8d9e1e700e9e7d9d8ff", "zh": "Items used"}
+{"id": "004C6896", "offset": 5007510, "length": 16, "en": "Items collected", "hex": "c3e8d9e1e700d7e3e0e0d9d7e8d9d8ff", "zh": "Items collected"}
+{"id": "004C68A6", "offset": 5007526, "length": 18, "en": "Berries collected", "hex": "bcd9e6e6ddd9e700d7e3e0e0d9d7e8d9d8ff", "zh": "Berries collected"}
+{"id": "004C68B8", "offset": 5007544, "length": 19, "en": "Pokedex times used", "hex": "cae3dfd9d8d9ec00e8dde1d9e700e9e7d9d8ff", "zh": "Pokedex times used"}
+{"id": "004C68CB", "offset": 5007563, "length": 18, "en": "Dexnav times used", "hex": "bed9ece2d5ea00e8dde1d9e700e9e7d9d8ff", "zh": "Dexnav times used"}
+{"id": "004C68DD", "offset": 5007581, "length": 14, "en": "PC times used", "hex": "cabd00e8dde1d9e700e9e7d9d8ff", "zh": "PC times used"}
+{"id": "004C68EB", "offset": 5007595, "length": 20, "en": "Teleport times used", "hex": "ced9e0d9e4e3e6e800e8dde1d9e700e9e7d9d8ff", "zh": "Teleport times used"}
+{"id": "004C690D", "offset": 5007629, "length": 11, "en": "mon center", "hex": "e1e3e200d7d9e2e8d9e6ff", "zh": "mon center"}
+{"id": "004C6918", "offset": 5007640, "length": 18, "en": "Purchased in mart", "hex": "cae9e6d7dcd5e7d9d800dde200e1d5e6e8ff", "zh": "Purchased in mart"}
+{"id": "004C692E", "offset": 5007662, "length": 17, "en": "mon contests won", "hex": "e1e3e200d7e3e2e8d9e7e8e700ebe3e2ff", "zh": "mon contests won"}
+{"id": "004C693F", "offset": 5007679, "length": 20, "en": "Safari zone visited", "hex": "cdd5dad5e6dd00eee3e2d900eadde7dde8d9d8ff", "zh": "Safari zone visited"}
+{"id": "004C6953", "offset": 5007699, "length": 20, "en": "Multiplayer sesions", "hex": "c7e9e0e8dde4e0d5edd9e600e7d9e7dde3e2e7ff", "zh": "Multiplayer sesions"}
+{"id": "004C6967", "offset": 5007719, "length": 24, "en": "Multiplayer battles won", "hex": "c7e9e0e8dde4e0d5edd9e600d6d5e8e8e0d9e700ebe3e2ff", "zh": "Multiplayer battles won"}
+{"id": "004C697F", "offset": 5007743, "length": 13, "en": "Coop battles", "hex": "bde3e3e400d6d5e8e8e0d9e7ff", "zh": "Coop battles"}
+{"id": "004C6990", "offset": 5007760, "length": 11, "en": "mon trades", "hex": "e1e3e200e8e6d5d8d9e7ff", "zh": "mon trades"}
+{"id": "004C8D85", "offset": 5016965, "length": 4, "en": "cAw", "hex": "d7bbebff", "zh": "cAw"}
+{"id": "004CCF9D", "offset": 5033885, "length": 4, "en": "hii", "hex": "dcddddff", "zh": "hii"}
+{"id": "004CD4A5", "offset": 5035173, "length": 4, "en": "AAj", "hex": "bbbbdeff", "zh": "AAj"}
+{"id": "004CE5D2", "offset": 5039570, "length": 6, "en": "UhEE ", "hex": "cfdcbfbf00ff", "zh": "UhEE "}
+{"id": "004CE6B2", "offset": 5039794, "length": 5, "en": "EAAE", "hex": "bfbbbbbfff", "zh": "EAAE"}
+{"id": "004CEDF7", "offset": 5041655, "length": 7, "en": "jjzj  ", "hex": "dedeeede0000ff", "zh": "jjzj  "}
+{"id": "004CF718", "offset": 5043992, "length": 4, "en": "hRa", "hex": "dcccd5ff", "zh": "hRa"}
+{"id": "004CFC25", "offset": 5045285, "length": 6, "en": " UhEE", "hex": "00cfdcbfbfff", "zh": " UhEE"}
+{"id": "004CFD72", "offset": 5045618, "length": 6, "en": "EA AE", "hex": "bfbb00bbbfff", "zh": "EA AE"}

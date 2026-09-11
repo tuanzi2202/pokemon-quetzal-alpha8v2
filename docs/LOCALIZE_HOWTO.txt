@@ -1,0 +1,191 @@
+格查尔 0.8.4 — 汉化详细步骤
+============================
+
+目标
+----
+从英文母盘 golden/en_0.8.4.gba 产出可联机的简体中文 ROM：
+  out/quetzal_084_cn.gba
+主屏 / 副屏必须字节级同一 ROM（见 DUALSCREEN.txt）。
+各脚本用途见 TOOLS.txt。
+
+
+〇、原则（先读完再动手）
+------------------------
+1. 母盘 golden/ 只读，不要手改。
+2. 正式译文优先写入 locale/zh_CN/*.jsonl，再 apply；
+   不要长期依赖「只改 ROM、不写 locale」的一次性脚本。
+3. 联机敏感区禁止乱改：blacklists/regions.json + tools/diff_guard.py 必须通过。
+4. 中文编码只能走 tools/chs_encode.py + fontpatch/PMRSEFRLG_charmap.txt
+   （双字节汉字；控制码 {WAIT_CLEAR}/{FD:xx}/{FC:xx} 必须保留）。
+5. 槽位装不下时：优先「指针重定位到空闲区」，不要硬截断成乱码。
+6. 一次性应急脚本放 archive/oneshot/，不要堆回 tools/ 根目录。
+
+
+一、环境
+--------
+- Windows + PowerShell
+- Python 3（能 import 本仓库 tools/）
+- 字库汇编：vendor/armips.exe（fontpatch/build.bat 会调用）
+- 可选：ADB（热更到平板）
+
+
+二、首次 / 全量重建（推荐入口）
+------------------------------
+在 QuetzalCN_084 根目录：
+
+  .\build_all.ps1
+
+该脚本实际顺序：
+  1) fontpatch\build.bat
+       从 golden 复制 → armips 打中文字库钩子 → work/cn_build.gba
+  2) 删除 work/free_cursor.txt（让后续 reloc 重新从空闲区分配）
+  3) python tools/apply_text.py locale/zh_CN/all_en_zh.jsonl
+  4) python tools/force_ui_zh.py          # 开始菜单等
+  5) python tools/force_mode_zh.py        # 新游戏难度/模式向导
+  6) python tools/force_randomizer_zh.py
+  7) python tools/force_names_zh.py       # 官译人名地名
+  8) python tools/force_trainer_class_zh.py  # 对话框名牌头衔
+  9) python tools/diff_guard.py          # 失败则整包作废
+ 10) copy work/cn_build.gba → out/quetzal_084_cn.gba
+
+验收：out/quetzal_084_cn.gba 存在且与 work/cn_build.gba 同内容。
+
+
+三、分步详解（理解管线时按此做）
+--------------------------------
+
+### 3.1 发现字符串区 / 空闲区（一般已完成，可跳过）
+
+  python tools/discover.py
+
+产出：
+  - blacklists/regions.json（允许改 / 禁止改）
+  - docs/DISCOVER.txt 类报告
+  - 空闲区线索（后续 reloc 用 work/free_cursor.txt）
+
+### 3.2 从母盘导出英文字符串（一般已完成）
+
+  python tools/dump_text.py
+  python tools/dump_dialogue_ptrs.py   # 对话指针更安全的一份
+
+产出：dump/*.jsonl（按 bank）
+
+### 3.3 准备 / 更新中文 locale
+
+主文件：
+  locale/zh_CN/all_en_zh.jsonl
+格式每行大致：
+  {"offset": 123, "en": "...", "zh": "..."}
+  或带 id/hex 字段（以现有文件为准）
+
+常用工具：
+  python tools/translate_batch.py dump/<bank>.jsonl
+      # 仅精确短语表，安全但覆盖面小
+  python tools/merge_locale_zh.py
+      # 合并 dump + 短语 + 官译 + 机翻缓存
+  python tools/clean_locale_zh.py
+      # 统一「宝可梦」、清垃圾行
+  python tools/official_names_zh.py
+      # 词表（被 force_names 使用）
+
+机翻缓存（可保留）：
+  work/gtrans_cache.json
+  由 fill_and_apply_remaining / archive 里旧 MT 脚本维护。
+
+控制码规则（写 zh 时）：
+  - 保留 {WAIT_CLEAR} {WAIT_SCROLL} {FC:xx} {FD:xx} 等
+  - 换行用 \n（编码后为 0xFE）
+  - 玩家名等占位不要手删 {FD:01} 之类
+  - 英文专名可保留或改官译（见 glossary/）
+
+### 3.4 打中文字库（必须先于大量中文写入）
+
+  fontpatch\build.bat
+
+作用：
+  - 把卧看微尘 1bpp 字模与 CharRead 钩子打进 work/cn_build.gba
+  - 钩子地址见 fontpatch/include/text.h / PIPELINE.txt
+  - 切勿再用死副本钩子 0x21CC68
+
+失败时：检查 vendor/armips.exe、fontpatch 路径、golden 是否存在。
+
+### 3.5 把 locale 写入 ROM（reloc 为主）
+
+  python tools/apply_text.py locale/zh_CN/all_en_zh.jsonl
+
+要点：
+  - 多数字符串「指针改到空闲区」，原文槽可留英文残骸（游戏读指针）
+  - 验证时不要只看原 offset 的字节，要跟指针或用游戏内实际显示
+  - 编码走 chs_encode.encode_text_safe；缺字变「?」并统计 missing
+
+### 3.6 强制 UI / 模式 / 名字（指针级）
+
+这些不依赖 locale 是否扫全，专门盖关键界面：
+
+  python tools/force_ui_zh.py         # 图鉴/宝可梦/背包/导航/保存/选项/退出 等
+  python tools/force_mode_zh.py       # Choose game difficulty / VERY EASY …
+  python tools/force_randomizer_zh.py
+  python tools/force_names_zh.py
+
+选项菜单、树果名等还可：
+  python tools/fix_options_berries_trainers.py
+
+### 3.7 联机保护区校验（必过）
+
+  python tools/diff_guard.py
+
+失败 = 动了不该动的区（联机/SIO 等）。回退本次改动，对照 blacklists。
+
+### 3.8 发布拷贝
+
+  copy work\cn_build.gba out\quetzal_084_cn.gba
+
+可选：bump 指纹方便热更辨认
+  偏移 0x1DCB5E0 起 16 字节（tools/verify_and_bump_fp.py）
+
+
+四、编码与槽位（写补丁前必懂）
+------------------------------
+
+### 4.1 编码
+
+  from chs_encode import encode_text_safe, load_charmap
+  enc, missing = encode_text_safe("城镇地图")
+  # enc 以 0xFF 结尾；汉字约 2 字节/字
+
+### 4.2 原地写入（inplace）
+
+仅当：len(中文编码) ≤ 原英文槽（到 0xFF）+ 紧跟的 00 填充。
+
+适合：Town Map、短物品名等。
+
+### 4.3 指针重定位（reloc）
+
+当中文更长（如 PKMN→宝可梦，4 字节槽装不下）：
+  1) 在空闲区写入新串（work/free_cursor.txt 记录游标）
+  2) 把所有指向旧 offset 的 32-bit 指针改为新地址
+  3) 指针形态常见：0x08xxxxxx 或 0x09xxxxxx（高位 bank）
+
+无指针且无填充的死槽：只能缩写或整张表迁走（难），见 FIX_REMAINING_EN.txt。
+
+### 4.4 验证「游戏是否真的用中文」
+
+  - 原 site 仍可能是英文（仅指针已改）→ 正常
+  - 用黄金指针位置读当前 ROM 的 dword，再解目标串
+  - 或进游戏看；热更后必须 force-stop 再开（含副屏）
+
+
+五、日常「只改几句译文」最小流程
+--------------------------------
+1. 改 locale/zh_CN/all_en_zh.jsonl 对应条目（或新建 offset）
+2. 若只改 locale：可从已有 work/cn_build.gba 再 apply
+     （注意：多次 apply 空闲区会涨；必要时从 fontpatch 重建）
+3. 稳妥做法：直接 .\build_all.ps1
+4. PACKAGING.txt 热更到设备
+
+
+六、与 MyBoy 的关系
+------------------
+汉化工程只产出 GBA。双屏壳在 MyBoyQuetzal。
+ROM 进模拟器：见 PACKAGING.txt。
+主副屏必须同一 ROM：见 DUALSCREEN.txt。

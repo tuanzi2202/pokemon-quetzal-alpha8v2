@@ -1,0 +1,101 @@
+格查尔 0.8.4 — 打包与部署
+========================
+
+一、产出物（三大工程对照）
+------------------------
+详见 docs/PROJECTS.txt。
+
+汉化 ROM（本工程 QuetzalCN_084）：
+  out/quetzal_084_cn.gba
+  ← 本目录没有 APK
+
+双屏 APK（旁工程 MyBoyQuetzal）— 日常用：
+  hardening/out/myboy_quetzal_dualscreen_signed.apk
+  包名：com.fastemulator.gba
+  桌面名：格查尔双屏
+
+超分 APK（旁工程 MyBoyQuetzalHQ）— 可选画质：
+  hardening/out/myboy_quetzal_hq_signed.apk
+  hardening/out/emulator_shaders_signed.apk   （须先装）
+  包名：com.fastemulator.gba.hq
+  桌面名：格查尔双屏·超分
+
+
+二、只更新汉化 ROM（最快，日常）
+--------------------------------
+1. 在本工程完成汉化（.\build_all.ps1 或小补丁脚本）
+2. ADB 热更（优先于 APK 内嵌 ROM）：
+
+  adb connect 172.21.16.19:5555
+  adb -s 172.21.16.19:5555 shell "am force-stop com.fastemulator.gba"
+  adb -s 172.21.16.19:5555 push out\quetzal_084_cn.gba ^
+    /sdcard/Android/data/com.fastemulator.gba/files/quetzal_084_cn_test.gba
+
+3. 打开「格查尔双屏」；若用双屏，从主屏重新「启动副屏」
+   （旧 :player2 会握着旧 mmap，必须杀掉重开）
+
+4. 可选：同步进 APK 资源，避免卸热更后回退旧内嵌：
+
+  copy /Y out\quetzal_084_cn.gba ..\MyBoyQuetzal\vendor\quetzal.gba
+  copy /Y out\quetzal_084_cn.gba ..\MyBoyQuetzal\decompile\apktool\assets\roms\quetzal.gba
+
+
+三、打双屏 APK（改了 Java / 要换内嵌 ROM 时）
+--------------------------------------------
+目录：../MyBoyQuetzal
+
+  powershell -File hardening\scripts\00_release.ps1
+
+步骤含义：
+  01_inject.ps1     编译 Mb* Java → smali_classes3
+  02_apktool_build  打 unsigned.apk
+  03_sign.ps1       zipalign + 签名
+
+安装：
+
+  adb install -r hardening\out\myboy_quetzal_dualscreen_signed.apk
+
+改 ROM 逻辑（同文件 / 硬链接 / ROM_PACK_VERSION）后必须重装 APK；
+只改 GBA 文本则热更即可。
+
+
+四、GPU 超分版打包（推荐 MyBoyQuetzalHQ）
+----------------------------------------
+目录：../MyBoyQuetzalHQ
+
+  powershell -File hardening\scripts\00_release.ps1
+  # 内含 10_build_shaderpack.ps1
+
+先装着色器包，再装模拟器：
+
+  adb install -r hardening\out\emulator_shaders_signed.apk
+  adb install -r hardening\out\myboy_quetzal_hq_signed.apk
+
+热更路径：
+
+  /sdcard/Android/data/com.fastemulator.gba.hq/files/quetzal_084_cn_test.gba
+
+（旧分支 MyBoyQuetzalSR 已删除，统一用 HQ。）
+
+
+五、版本与缓存
+--------------
+- MbRomBootstrap.ROM_PACK_VERSION
+  提高后会重新从 assets / 热更文件抽取 ROM。
+- 热更文件存在时优先覆盖 files/roms/quetzal.gba
+  （并硬链接 quetzal_p2.gba 到同一 inode）。
+- 指纹：ROM 0x1DCB5E0 起 16 字节，logcat 搜 ROMFP / freeZh。
+
+
+六、联机相关打包注意
+--------------------
+- 主副必须同一 ROM 字节（否则脚本/文本不一致，像「副屏没汉化」）。
+- 存档分离：Host=quetzal.sav，Guest=quetzal_p2.sav（显示名别名）。
+- 不要一边 CN 一边 EN 测联机（负向：应不同步）。
+
+
+七、快速检查命令
+----------------
+  adb shell "md5sum /sdcard/Android/data/com.fastemulator.gba/files/quetzal_084_cn_test.gba"
+  python -c "import hashlib;from pathlib import Path;print(hashlib.md5(Path('out/quetzal_084_cn.gba').read_bytes()).hexdigest())"
+  adb logcat -d | findstr /i "MbRom ROMFP openFile P2"

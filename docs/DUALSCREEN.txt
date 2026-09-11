@@ -1,0 +1,58 @@
+格查尔双屏 — 主副屏与返回键
+============================
+
+架构（不是同一进程）
+--------------------
+Host（主屏）
+  进程：默认
+  Activity：com.fastemulator.gba.EmulatorActivity
+  存档：quetzal.sav
+  ROM 显示名：quetzal.gba
+
+Guest（副屏）
+  进程：:player2
+  Activity：com.playmod.mb.SecondaryEmulatorActivity
+  存档：quetzal_p2.sav
+  ROM 显示名：quetzal_p2.gba（别名）
+
+ROM 字节：两边必须打开同一文件（同一 inode）。
+实现：MbRomProvider.openFile 始终打开 files/roms/quetzal.gba；
+      ensureRom 把 quetzal_p2.gba 硬链接到同一 inode。
+
+
+为何「主屏中文、副屏英文」
+--------------------------
+不是主屏做了额外翻译。常见原因：
+1. 热更后 :player2 仍 mmap 旧 ROM → am force-stop 后重拉副屏
+2. 曾存在独立 quetzal_p2.gba 副本且内容漂移（旧逻辑）
+3. 开了两个 App（格查尔双屏 vs 格查尔双屏·GPU），热更只推了一边
+
+处理：
+  adb shell am force-stop com.fastemulator.gba
+  adb push out\quetzal_084_cn.gba .../quetzal_084_cn_test.gba
+  打开主屏 → 重新启动副屏
+
+
+副屏「设置左滑返回」卡住
+--------------------------
+根因：副屏进程 :player2 打开的是默认进程里的 EmulatorSettings，
+界面常跑到主屏；在副屏上左滑只会打到 SecondaryEmulatorActivity（已在栈底）→ 无反应。
+
+修复（需重装 MyBoyQuetzal APK）：
+  - SecondaryEmulatorActivity.c() 打开 com.playmod.mb.SecondaryEmulatorSettings
+  - 该 Activity 声明 android:process=":player2" + 同 taskAffinity
+  - 设置页左上角返回按钮（MbSettingsChrome + layout/settings.xml）
+  - 返回键/finish 仍交给系统正常处理
+
+重装：
+  cd MyBoyQuetzal
+  .\hardening\scripts\00_release.ps1
+  adb install -r hardening\out\myboy_quetzal_dualscreen_signed.apk
+  adb shell am force-stop com.fastemulator.gba
+
+
+操作建议
+--------
+- 改 ROM 后：先 force-stop，再开主屏，再开副屏
+- 不要依赖「副屏一直挂机」跨多次热更
+- 联机前确认两边已进同一地图、同一 ROM 版本（logcat ROMFP）

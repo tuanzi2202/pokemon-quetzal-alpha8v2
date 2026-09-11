@@ -1,0 +1,83 @@
+格查尔 0.8.4 汉化管线（保联机）
+================================
+
+完整文档见 docs/00_INDEX.txt
+  汉化详步：LOCALIZE_HOWTO.txt
+  补漏英文：FIX_REMAINING_EN.txt
+  打包部署：PACKAGING.txt
+  主副屏：  DUALSCREEN.txt
+
+目录
+----
+golden/en_0.8.4.gba     英文母盘（只读）
+work/cn_build.gba       当前构建
+out/quetzal_084_cn.gba  发布 ROM
+fontpatch/              卧看微尘字库补丁（已适配 Quetzal 地址）
+dump/                   英文 Gen3 字符串导出
+locale/zh_CN/           中文 JSONL
+tools/                  日常 discover / dump / apply / force_* / diff_guard
+archive/                历史一次性补丁与调查（不进日常构建）
+
+一键构建
+--------
+  .\build_all.ps1
+
+等价步骤
+--------
+1. python tools/discover.py          （可选；已有 blacklists 时可跳过）
+2. python tools/dump_text.py         （可选；已有 dump/ 时可跳过）
+3. python tools/translate_batch.py dump/<bank>.jsonl
+   或维护 locale/zh_CN/all_en_zh.jsonl（merge_locale_zh.py）
+4. fontpatch\build.bat               （字模 + CharRead divert → work/cn_build.gba）
+5. python tools/apply_text.py locale/zh_CN/all_en_zh.jsonl
+6. python tools/force_ui_zh.py       （开始菜单等）
+7. python tools/force_mode_zh.py     （新游戏难度/模式向导）
+8. python tools/force_randomizer_zh.py
+9. python tools/force_names_zh.py    （官方人名地名）
+10. python tools/diff_guard.py       （须 OK；PokemonSioInfo 区不变）
+11. copy work\cn_build.gba out\quetzal_084_cn.gba
+
+维护（按需，非 build_all）
+--------------------------
+详见 docs/TOOLS.txt。常用：
+- tools/clean_locale_zh.py
+- tools/scan_remaining_en.py
+- tools/verify_and_bump_fp.py
+- tools/fix_options_berries_trainers.py
+- tools/fix_clock_and_mom_open.py / restore_clock_ui.py
+- 历史 oneshot → archive/oneshot/
+
+联机验收清单
+------------
+mGBA 双开（同一 quetzal_084_cn.gba）：
+  [ ] Wi-Fi/连接线联机建立
+  [ ] 两边进「多人游戏」按 A
+  [ ] 同地图可见对方
+  [ ] 对战/黑屏后按 05_SAVE_AND_LINK 流程可重进多人
+  [ ] 一边 CN 一边 EN → 应不同步（负向）
+
+平板 MyBoyQuetzal：
+  [ ] vendor + assets 已换同一 CN ROM
+  [ ] 00_release.ps1 出包安装
+  [ ] 热更：files/quetzal_084_cn_test.gba 后 force-stop 再开
+  [ ] 主/副同 ROM 联机同上
+  [ ] 副屏 My Boy 设置可用左滑/返回退出（见 DUALSCREEN.txt）
+
+字库说明
+--------
+vendor/Pokemon_GBA_Font_Patch-main + vendor/armips.exe
+Quetzal 适配地址见 fontpatch/include/text.h
+  CharRead hook  0x0800596C（真 RenderText@588C；勿用死副本 21CC68）
+  AfterRead join 0x08005978
+  CopyGlyph join 0x08005D34
+  Hack CODE     0x08EB9878
+  Hack FONTS     0x09D9B5A8
+  开始菜单强制汉化：tools/force_ui_zh.py（图鉴/宝可梦/背包/导航/保存/选项/退出）
+  GetStringWidth：暂未钩；对话若换行异常再补 Quetzal 专用宽度钩
+
+注意
+----
+- 译文为词表+短语表初翻；开始菜单/系统短语已强制中文；长对话仍偏机翻，可继续润色 locale。
+- 主屏副屏必须使用字节级同一 ROM。
+- 换 ROM 后若仍见旧字：清应用数据，或 bump MbRomBootstrap.ROM_PACK_VERSION。
+- 不要把 archive/ 里的一次性脚本堆回 tools/；新译文优先写 locale。

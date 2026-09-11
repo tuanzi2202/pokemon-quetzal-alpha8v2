@@ -1,0 +1,284 @@
+{"offset": 3235831, "en": "MON", "zh": "伊布"}
+{"offset": 3302684, "en": "MON", "zh": "伊布"}
+{"offset": 3303149, "en": "MON", "zh": "伊布"}
+{"offset": 5003348, "en": "Gastly", "zh": "火恐龙"}
+{"offset": 16527422, "en": "MON", "zh": "伊布"}
+{"offset": 16527438, "en": "RUBY", "zh": "蓝鳄"}
+{"offset": 16527469, "en": "GOLD", "zh": "噗噗猪"}
+{"offset": 16527474, "en": "LEAF", "zh": "负电拍拍"}
+{"offset": 16527479, "en": "SILVER", "zh": "沙漠蜻蜓"}
+{"offset": 16528101, "en": "ICE", "zh": "鬼斯通"}
+{"offset": 16530553, "en": "EASY", "zh": "布鲁"}
+{"offset": 16534681, "en": "LAY", "zh": "大竺葵"}
+{"offset": 16536025, "en": "ALL", "zh": "幸福蛋"}
+{"offset": 16537193, "en": "JOY", "zh": "毒蔷薇"}
+{"offset": 16539902, "en": "EATS", "zh": "熊宝宝"}
+{"offset": 16541122, "en": "SCHOOL", "zh": "小磁怪"}
+{"offset": 16542221, "en": "HERO", "zh": "顽皮雷弹"}
+{"offset": 16581052, "en": "OLDALE TOWN", "zh": "古辰镇"}
+{"offset": 16581064, "en": "DEWFORD TOWN", "zh": "武斗镇"}
+{"offset": 16581077, "en": "LAVARIDGE TOWN", "zh": "釜炎镇"}
+{"offset": 16581092, "en": "FALLARBOR TOWN", "zh": "秋叶镇"}
+{"offset": 16581107, "en": "VERDANTURF TOWN", "zh": "茵郁镇"}
+{"offset": 16581123, "en": "PACIFIDLOG TOWN", "zh": "暮水镇"}
+{"offset": 16581139, "en": "PETALBURG CITY", "zh": "橙华市"}
+{"offset": 16581154, "en": "SLATEPORT CITY", "zh": "凯那市"}
+{"offset": 16581169, "en": "MAUVILLE CITY", "zh": "紫堇市"}
+{"offset": 16581183, "en": "RUSTBORO CITY", "zh": "卡那兹市"}
+{"offset": 16581197, "en": "FORTREE CITY", "zh": "茵绿市"}
+{"offset": 16581210, "en": "LILYCOVE CITY", "zh": "琉璃市"}
+{"offset": 16581224, "en": "MOSSDEEP CITY", "zh": "绿岭市"}
+{"offset": 16581238, "en": "SOOTOPOLIS CITY", "zh": "琉璜市"}
+{"offset": 16581254, "en": "EVER GRANDE CITY", "zh": "彩幽市"}
+{"offset": 16581271, "en": "ROUTE 101", "zh": "第101号道路"}
+{"offset": 16581281, "en": "ROUTE 102", "zh": "第102号道路"}
+{"offset": 16581291, "en": "ROUTE 103", "zh": "第103号道路"}
+{"offset": 16581301, "en": "ROUTE 104", "zh": "第104号道路"}
+{"offset": 16581311, "en": "ROUTE 105", "zh": "第105号道路"}
+{"offset": 16581321, "en": "ROUTE 106", "zh": "第106号道路"}
+{"offset": 16581331, "en": "ROUTE 107", "zh": "第107号道路"}
+{"offset": 16581341, "en": "ROUTE 108", "zh": "第108号道路"}
+{"offset": 16581351, "en": "ROUTE 109", "zh": "第109号道路"}
+{"offset": 16581361, "en": "ROUTE 110", "zh": "第110号道路"}
+{"offset": 16581371, "en": "ROUTE 111", "zh": "第111号道路"}
+{"offset": 16581381, "en": "ROUTE 112", "zh": "第112号道路"}
+{"offset": 16581391, "en": "ROUTE 113", "zh": "第113号道路"}
+{"offset": 16581401, "en": "ROUTE 114", "zh": "第114号道路"}
+{"offset": 16581411, "en": "ROUTE 115", "zh": "第115号道路"}
+{"offset": 16581421, "en": "ROUTE 116", "zh": "第116号道路"}
+{"offset": 16581431, "en": "ROUTE 117", "zh": "第117号道路"}
+{"offset": 16581441, "en": "ROUTE 118", "zh": "第118号道路"}
+{"offset": 16581451, "en": "ROUTE 119", "zh": "第119号道路"}
+{"offset": 16581461, "en": "ROUTE 120", "zh": "第120号道路"}
+{"offset": 16581471, "en": "ROUTE 121", "zh": "第121号道路"}
+{"offset": 16581481, "en": "ROUTE 122", "zh": "第122号道路"}
+{"offset": 16581491, "en": "ROUTE 123", "zh": "第123号道路"}
+{"offset": 16581501, "en": "ROUTE 124", "zh": "第124号道路"}
+{"offset": 16581511, "en": "ROUTE 125", "zh": "第125号道路"}
+{"offset": 16581521, "en": "ROUTE 126", "zh": "第126号道路"}
+{"offset": 16581531, "en": "ROUTE 127", "zh": "第127号道路"}
+{"offset": 16581541, "en": "ROUTE 128", "zh": "第128号道路"}
+{"offset": 16581551, "en": "ROUTE 129", "zh": "第129号道路"}
+{"offset": 16581561, "en": "ROUTE 130", "zh": "第130号道路"}
+{"offset": 16581571, "en": "ROUTE 131", "zh": "第131号道路"}
+{"offset": 16581581, "en": "ROUTE 132", "zh": "第132号道路"}
+{"offset": 16581591, "en": "ROUTE 133", "zh": "第133号道路"}
+{"offset": 16581601, "en": "ROUTE 134", "zh": "第134号道路"}
+{"offset": 16581622, "en": "GRANITE CAVE", "zh": "石之洞窟"}
+{"offset": 16581635, "en": "MT. CHIMNEY", "zh": "烟囱山"}
+{"offset": 16581647, "en": "SAFARI ZONE", "zh": "狩猎地带"}
+{"offset": 16581659, "en": "BATTLE FRONTIER", "zh": "对战开拓区"}
+{"offset": 16581675, "en": "PETALBURG WOODS", "zh": "橙华森林"}
+{"offset": 16581691, "en": "RUSTURF TUNNEL", "zh": "通关隧道"}
+{"offset": 16581706, "en": "ABANDONED SHIP", "zh": "弃船"}
+{"offset": 16581721, "en": "NEW MAUVILLE", "zh": "新紫堇"}
+{"offset": 16581734, "en": "METEOR FALLS", "zh": "流星瀑布"}
+{"offset": 16581747, "en": "MT. PYRE", "zh": "送神之山"}
+{"offset": 16581767, "en": "SHOAL CAVE", "zh": "浅滩洞穴"}
+{"offset": 16581778, "en": "SEAFLOOR CAVERN", "zh": "海底洞窟"}
+{"offset": 16581794, "en": "VICTORY ROAD", "zh": "冠军之路"}
+{"offset": 16581821, "en": "CAVE OF ORIGIN", "zh": "觉醒之祠"}
+{"offset": 16581852, "en": "FIERY PATH", "zh": "火焰小径"}
+{"offset": 16581863, "en": "JAGGED PASS", "zh": "凹凸山道"}
+{"offset": 16581875, "en": "SEALED CHAMBER", "zh": "封印之室"}
+{"offset": 16581958, "en": "SKY PILLAR", "zh": "天空之柱"}
+{"offset": 16582450, "en": "VICTORY ROAD", "zh": "冠军之路"}
+{"offset": 16582504, "en": "SAFARI ZONE", "zh": "狩猎地带"}
+{"offset": 16583127, "en": "ALTERING CAVE", "zh": "变化洞窟"}
+{"offset": 16583380, "en": "ARTISAN CAVE", "zh": "匠人之洞"}
+{"offset": 16583416, "en": "DESERT UNDERPASS", "zh": "沙漠地下道"}
+{"offset": 16680148, "en": "PETALBURG WOODS", "zh": "橙华森林"}
+{"offset": 16680185, "en": "ABANDONED SHIP", "zh": "弃船"}
+{"offset": 16680244, "en": "NEW MAUVILLE", "zh": "新紫堇"}
+{"offset": 16680361, "en": "METEOR FALLS", "zh": "流星瀑布"}
+{"offset": 16680395, "en": "RUSTURF TUNNEL", "zh": "通关隧道"}
+{"offset": 16680448, "en": "MT. PYRE", "zh": "送神之山"}
+{"offset": 16680457, "en": "SHOAL CAVE", "zh": "浅滩洞穴"}
+{"offset": 16680468, "en": "SEAFLOOR CAVERN", "zh": "海底洞窟"}
+{"offset": 16680484, "en": "GRANITE CAVE", "zh": "石之洞窟"}
+{"offset": 16680527, "en": "FIERY PATH", "zh": "火焰小径"}
+{"offset": 16680538, "en": "JAGGED PASS", "zh": "凹凸山道"}
+{"offset": 16680550, "en": "SKY PILLAR", "zh": "天空之柱"}
+{"offset": 16680634, "en": "SEALED CHAMBER", "zh": "封印之室"}
+{"offset": 16680713, "en": "ALTERING CAVE", "zh": "变化洞窟"}
+{"offset": 16680727, "en": "DESERT UNDERPASS", "zh": "沙漠地下道"}
+{"offset": 16776332, "en": "WALLY", "zh": "满充"}
+{"offset": 16890224, "en": "RUBY", "zh": "蓝鳄"}
+{"offset": 16890242, "en": "MAGMA", "zh": "太阳岩"}
+{"offset": 16890248, "en": "ARCHIE", "zh": "水梧桐"}
+{"offset": 16890255, "en": "MAXIE", "zh": "赤焰松"}
+{"offset": 16890276, "en": "BRENDAN", "zh": "小阳"}
+{"offset": 16890284, "en": "MAY", "zh": "小遥"}
+{"offset": 16890296, "en": "MON", "zh": "伊布"}
+{"offset": 16890300, "en": "PROF. BIRCH", "zh": "小田卷博士"}
+{"offset": 16891334, "en": "LILLIE", "zh": "烈焰猴"}
+{"offset": 16891406, "en": "MON", "zh": "伊布"}
+{"offset": 16891459, "en": "MON", "zh": "伊布"}
+{"offset": 16892091, "en": "BLUE", "zh": "甜甜萤"}
+{"offset": 16892924, "en": "MON", "zh": "伊布"}
+{"offset": 16899636, "en": "MON", "zh": "伊布"}
+{"offset": 16900970, "en": "POSTER", "zh": "哥达鸭"}
+{"offset": 16900990, "en": "GOLD", "zh": "噗噗猪"}
+{"offset": 16900995, "en": "SILVER", "zh": "沙漠蜻蜓"}
+{"offset": 16902135, "en": "DAD", "zh": "爸爸"}
+{"offset": 16902139, "en": "MOM", "zh": "妈妈"}
+{"offset": 16902143, "en": "WALLACE", "zh": "米可利"}
+{"offset": 16902151, "en": "STEVEN", "zh": "大吾"}
+{"offset": 16902158, "en": "BRAWLY", "zh": "藤树"}
+{"offset": 16902165, "en": "WINONA", "zh": "娜琪"}
+{"offset": 16902172, "en": "PHOEBE", "zh": "芙蓉"}
+{"offset": 16902179, "en": "GLACIA", "zh": "波妮"}
+{"offset": 16902538, "en": "MR. BRINEY", "zh": "哈奇"}
+{"offset": 16903009, "en": "BATTLE FRONTIER", "zh": "对战开拓区"}
+{"offset": 16903590, "en": "MON", "zh": "伊布"}
+{"offset": 16904317, "en": "MON", "zh": "伊布"}
+{"offset": 16904416, "en": "MON", "zh": "伊布"}
+{"offset": 16904921, "en": "LILYCOVE CITY", "zh": "琉璃市"}
+{"offset": 16904935, "en": "SLATEPORT CITY", "zh": "凯那市"}
+{"offset": 16904950, "en": "CAVE OF ORIGIN", "zh": "觉醒之祠"}
+{"offset": 16904965, "en": "MT. PYRE", "zh": "送神之山"}
+{"offset": 16904974, "en": "SKY PILLAR", "zh": "天空之柱"}
+{"offset": 16906133, "en": "MON", "zh": "伊布"}
+{"offset": 16906149, "en": "MON", "zh": "伊布"}
+{"offset": 16906162, "en": "MON", "zh": "伊布"}
+{"offset": 16906966, "en": "MON", "zh": "伊布"}
+{"offset": 16912801, "en": "MON", "zh": "伊布"}
+{"offset": 16913075, "en": "MON", "zh": "伊布"}
+{"offset": 16916155, "en": "BLUE", "zh": "甜甜萤"}
+{"offset": 16917482, "en": "SILVER", "zh": "沙漠蜻蜓"}
+{"offset": 16917489, "en": "GOLD", "zh": "噗噗猪"}
+{"offset": 16917563, "en": "MON", "zh": "伊布"}
+{"offset": 16917967, "en": "HOENN", "zh": "丰缘"}
+{"offset": 16918129, "en": "HOENN", "zh": "丰缘"}
+{"offset": 16918289, "en": "MON", "zh": "伊布"}
+{"offset": 16918845, "en": "MON", "zh": "伊布"}
+{"offset": 16922827, "en": "STEVEN", "zh": "大吾"}
+{"offset": 16922881, "en": "DAD", "zh": "爸爸"}
+{"offset": 16922885, "en": "MOM", "zh": "妈妈"}
+{"offset": 16922991, "en": "ELITE FOUR", "zh": "四天王"}
+{"offset": 16923002, "en": "CHAMPION", "zh": "冠军"}
+{"offset": 16923819, "en": "EASY", "zh": "布鲁"}
+{"offset": 16925151, "en": "mon", "zh": "玛力露丽"}
+{"offset": 16927060, "en": "MON", "zh": "伊布"}
+{"offset": 16927070, "en": "KANTO", "zh": "关都"}
+{"offset": 16927082, "en": "JOHTO", "zh": "城都"}
+{"offset": 16927094, "en": "HOENN", "zh": "丰缘"}
+{"offset": 16927106, "en": "SINNOH", "zh": "神奥"}
+{"offset": 16927119, "en": "UNOVA", "zh": "合众"}
+{"offset": 16927131, "en": "KALOS", "zh": "卡洛斯"}
+{"offset": 16927143, "en": "ALOLA", "zh": "阿罗拉"}
+{"offset": 16927155, "en": "GALAR", "zh": "伽勒尔"}
+{"offset": 16927167, "en": "PALDEA", "zh": "帕底亚"}
+{"offset": 16927271, "en": "HEAL", "zh": "小拉达"}
+{"offset": 16927683, "en": "DEFAULT", "zh": "卡比兽"}
+{"offset": 16927736, "en": "ALL", "zh": "幸福蛋"}
+{"offset": 16927905, "en": "MON", "zh": "伊布"}
+{"offset": 16928517, "en": "GOLD", "zh": "噗噗猪"}
+{"offset": 16928534, "en": "KANTO", "zh": "关都"}
+{"offset": 16928540, "en": "JOHTO", "zh": "城都"}
+{"offset": 16928546, "en": "SINNOH", "zh": "神奥"}
+{"offset": 16928553, "en": "UNOVA", "zh": "合众"}
+{"offset": 16928559, "en": "KALOS", "zh": "卡洛斯"}
+{"offset": 16928565, "en": "ALOLA", "zh": "阿罗拉"}
+{"offset": 16928571, "en": "GALAR", "zh": "伽勒尔"}
+{"offset": 16928577, "en": "PALDEA", "zh": "帕底亚"}
+{"offset": 16928584, "en": "BULBASAUR", "zh": "妙蛙种子"}
+{"offset": 16928628, "en": "GASTLY", "zh": "火恐龙"}
+{"offset": 16928691, "en": "SNEASEL", "zh": "角金鱼"}
+{"offset": 16928727, "en": "TREECKO", "zh": "铁壳蛹"}
+{"offset": 16928771, "en": "TRAPINCH", "zh": "大比鸟"}
+{"offset": 16928804, "en": "PIPLUP", "zh": "烈雀"}
+{"offset": 16928826, "en": "MUNCHLAX", "zh": "阿柏蛇"}
+{"offset": 16928848, "en": "ROTOM", "zh": "皮卡丘"}
+{"offset": 16928914, "en": "CHESPIN", "zh": "尼多后"}
+{"offset": 16928947, "en": "ESPURR", "zh": "尼多王"}
+{"offset": 16929024, "en": "GROOKEY", "zh": "超音蝠"}
+{"offset": 16929112, "en": "CHARCADET", "zh": "摩鲁蛾"}
+{"offset": 16929200, "en": "WEATHER", "zh": "火暴猴"}
+{"offset": 16929222, "en": "OVERCAST", "zh": "风速狗"}
+{"offset": 16929305, "en": "ARIA", "zh": "腕力"}
+{"offset": 16929341, "en": "ASH", "zh": "菊草叶"}
+{"offset": 16929455, "en": "SOLO", "zh": "呆壳兽"}
+{"offset": 16929466, "en": "SCHOOL", "zh": "小磁怪"}
+{"offset": 16929563, "en": "GORGING", "zh": "大舌贝"}
+{"offset": 16929584, "en": "ICE", "zh": "鬼斯通"}
+{"offset": 16929622, "en": "HANGRY", "zh": "大岩蛇"}
+{"offset": 16929629, "en": "ZACIAN", "zh": "催眠貘"}
+{"offset": 16929642, "en": "CROWNED", "zh": "引梦貘人"}
+{"offset": 16929674, "en": "ZERO", "zh": "霹雳电球"}
+{"offset": 16929685, "en": "HERO", "zh": "顽皮雷弹"}
+{"offset": 16929717, "en": "UNMASKED", "zh": "卡拉卡拉"}
+{"offset": 16929742, "en": "TERASTAL", "zh": "飞腿郎"}
+{"offset": 16930146, "en": "DEFAULT", "zh": "卡比兽"}
+{"offset": 16930160, "en": "LAPRAS", "zh": "急冻鸟"}
+{"offset": 16930234, "en": "BASE", "zh": "梦幻"}
+{"offset": 16930840, "en": "EASY", "zh": "布鲁"}
+{"offset": 16931958, "en": "ASH", "zh": "菊草叶"}
+{"offset": 16932005, "en": "LEAF", "zh": "负电拍拍"}
+{"offset": 16932016, "en": "ROCKET", "zh": "跳跳猪"}
+{"offset": 16932029, "en": "BLUE", "zh": "甜甜萤"}
+{"offset": 16932040, "en": "JOY", "zh": "毒蔷薇"}
+{"offset": 16932050, "en": "BROCK", "zh": "溶食兽"}
+{"offset": 16932062, "en": "JANINE", "zh": "吞食兽"}
+{"offset": 16932075, "en": "KOGA", "zh": "利牙鱼"}
+{"offset": 16932086, "en": "SABRINA", "zh": "巨牙鲨"}
+{"offset": 16932137, "en": "JESSIE", "zh": "煤炭龟"}
+{"offset": 16932150, "en": "ROCKET", "zh": "跳跳猪"}
+{"offset": 16932163, "en": "GOLD", "zh": "噗噗猪"}
+{"offset": 16932174, "en": "KRIS", "zh": "晃晃斑"}
+{"offset": 16932185, "en": "LANCE", "zh": "大颚蚁"}
+{"offset": 16932197, "en": "LYRA", "zh": "超音波幼虫"}
+{"offset": 16932208, "en": "SILVER", "zh": "沙漠蜻蜓"}
+{"offset": 16932259, "en": "BRENDAN", "zh": "小阳"}
+{"offset": 16932273, "en": "MAY", "zh": "小遥"}
+{"offset": 16932283, "en": "STEVEN", "zh": "大吾"}
+{"offset": 16932296, "en": "MAGMA", "zh": "太阳岩"}
+{"offset": 16932308, "en": "BIRCH", "zh": "小田卷"}
+{"offset": 16932320, "en": "WALLY", "zh": "满充"}
+{"offset": 16932332, "en": "MAXIE", "zh": "赤焰松"}
+{"offset": 16932344, "en": "WALLACE", "zh": "米可利"}
+{"offset": 16932358, "en": "HELENA", "zh": "念力土偶"}
+{"offset": 16932371, "en": "ARCHIE", "zh": "水梧桐"}
+{"offset": 16932384, "en": "COURTNEY", "zh": "小南"}
+{"offset": 16932410, "en": "SHELLY", "zh": "泉"}
+{"offset": 16932423, "en": "ZINNIA", "zh": "美纳斯"}
+{"offset": 16932436, "en": "DAWN", "zh": "飘浮泡泡"}
+{"offset": 16932447, "en": "LUCAS", "zh": "变隐龙"}
+{"offset": 16932459, "en": "REI", "zh": "怨影娃娃"}
+{"offset": 16932469, "en": "CYNTHIA", "zh": "诅咒娃娃"}
+{"offset": 16932483, "en": "ADAMAN", "zh": "夜巡灵"}
+{"offset": 16932555, "en": "HILBERT", "zh": "冰鬼护"}
+{"offset": 16932577, "en": "ROSA", "zh": "海魔狮"}
+{"offset": 16932588, "en": "NATE", "zh": "帝牙海狮"}
+{"offset": 16932599, "en": "COLRESS", "zh": "珍珠贝"}
+{"offset": 16932613, "en": "ALDER", "zh": "猎斑鱼"}
+{"offset": 16932625, "en": "GHETSIS", "zh": "樱花鱼"}
+{"offset": 16932700, "en": "ELESA", "zh": "金属怪"}
+{"offset": 16932712, "en": "ROXIE", "zh": "巨金怪"}
+{"offset": 16932724, "en": "SHADOW", "zh": "雷吉洛克"}
+{"offset": 16932737, "en": "CALEM", "zh": "雷吉艾斯"}
+{"offset": 16932776, "en": "TIERNO", "zh": "盖欧卡"}
+{"offset": 16932789, "en": "LYSANDRE", "zh": "固拉多"}
+{"offset": 16932852, "en": "SELENE", "zh": "土台龟"}
+{"offset": 16932865, "en": "ELIO", "zh": "小火焰猴"}
+{"offset": 16932876, "en": "HAU", "zh": "猛火猴"}
+{"offset": 16932886, "en": "LILLIE", "zh": "烈焰猴"}
+{"offset": 16932899, "en": "GLADION", "zh": "波加曼"}
+{"offset": 16932940, "en": "ACEROLA", "zh": "姆克鸟"}
+{"offset": 16932954, "en": "GUZMA", "zh": "姆克鹰"}
+{"offset": 16932966, "en": "KIAWE", "zh": "大牙狸"}
+{"offset": 16932978, "en": "LANA", "zh": "大尾狸"}
+{"offset": 16933349, "en": "ASH", "zh": "菊草叶"}
+{"offset": 16933407, "en": "ROCKET", "zh": "跳跳猪"}
+{"offset": 16933431, "en": "JOY", "zh": "毒蔷薇"}
+{"offset": 16933441, "en": "BROCK", "zh": "溶食兽"}
+{"offset": 16933467, "en": "KOGA", "zh": "利牙鱼"}
+{"offset": 16933478, "en": "SABRINA", "zh": "巨牙鲨"}
+{"offset": 16933529, "en": "JESSIE", "zh": "煤炭龟"}
+{"offset": 16933542, "en": "ROCKET", "zh": "跳跳猪"}
+{"offset": 16933578, "en": "LANCE", "zh": "大颚蚁"}
+{"offset": 16933687, "en": "MAGMA", "zh": "太阳岩"}
+{"offset": 16934057, "en": "LIZA", "zh": "小南"}
+{"offset": 16934240, "en": "SELENE", "zh": "土台龟"}
+{"offset": 16934253, "en": "ELIO", "zh": "小火焰猴"}
+{"offset": 16934351, "en": "KIAWE", "zh": "大牙狸"}
