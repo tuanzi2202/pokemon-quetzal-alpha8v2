@@ -26,6 +26,12 @@ if ($LASTEXITCODE -ne 0) { throw "force_names failed" }
 Write-Host "[CN] force trainer class names (nameplate)"
 python tools\force_trainer_class_zh.py
 if ($LASTEXITCODE -ne 0) { throw "force_trainer_class failed" }
+Write-Host "[CN] patch species / move / ability names"
+python tools\patch_battle_names_zh.py
+if ($LASTEXITCODE -ne 0) { throw "patch_battle_names failed" }
+Write-Host "[CN] patch all item names and descriptions"
+python tools\patch_items_zh.py
+if ($LASTEXITCODE -ne 0) { throw "patch_items failed" }
 python tools\diff_guard.py
 if ($LASTEXITCODE -ne 0) { throw "diff_guard failed" }
 Copy-Item -Force work\cn_build.gba out\quetzal_084_cn.gba

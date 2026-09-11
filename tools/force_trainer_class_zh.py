@@ -11,7 +11,6 @@ from __future__ import annotations
 
 import json
 import sys
-import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -30,7 +29,7 @@ FP_OFF = 0x1DCB5E0
 # EN strip() key -> 简中（须 ≤12 字节 + FF）
 # {53}{54} = PKMN 缩写图块；用户要的「精灵训练家 + 中文名」
 CLASS_ZH: dict[str, str] = {
-    "{53}{54} TRAINER": "精灵训练家",
+    "{53}{54} TRAINER": "宝可梦训练家",
     "HIKER": "登山男",
     "TEAM AQUA": "海洋队",
     "{53}{54} BREEDER": "培育家",
@@ -62,7 +61,7 @@ CLASS_ZH: dict[str, str] = {
     "ELITE FOUR": "四天王",
     "LEADER": "馆主",
     "SCHOOL KID": "小学生",
-    "SR. AND JR.": "年上年下",
+    "SR. AND JR.": "前辈与后辈",
     "WINSTRATE": "连胜家族",
     "POKéFAN": "爱好者",
     "YOUNGSTER": "少年",
@@ -82,15 +81,15 @@ CLASS_ZH: dict[str, str] = {
     "MAGMA LEADER": "熔岩队老大",
     "LASS": "迷你裙",
     "YOUNG COUPLE": "年轻夫妇",
-    "OLD COUPLE": "黄金夫妇",
+    "OLD COUPLE": "老夫妇",
     "SIS AND BRO": "兄妹组合",
-    "SALON MAIDEN": "管道天后",
-    "DOME ACE": "巨蛋天王",
-    "PALACE MAVEN": "宫殿管家",
+    "SALON MAIDEN": "沙龙少女",
+    "DOME ACE": "巨蛋高手",
+    "PALACE MAVEN": "宫殿大师",
     "ARENA TYCOON": "竞技大亨",
-    "FACTORY HEAD": "工厂头目",
-    "PIKE QUEEN": "选择女王",
-    "PYRAMID KING": "金字塔王",
+    "FACTORY HEAD": "工厂首脑",
+    "PIKE QUEEN": "水管女王",
+    "PYRAMID KING": "金字塔之王",
 }
 
 
@@ -146,7 +145,7 @@ def main() -> int:
         stats["ok"] += 1
         print(f"OK {i:02d} {hex(off)} {en!r} -> {zh}")
 
-    stamp = f"QH{int(time.time()) & 0xFFFFFFFF:08X}".encode("ascii")[:16].ljust(16, b"\x00")
+    stamp = b"QH-TRAINER-ZH-V1"
     data[FP_OFF : FP_OFF + 16] = stamp
 
     ROM.write_bytes(data)

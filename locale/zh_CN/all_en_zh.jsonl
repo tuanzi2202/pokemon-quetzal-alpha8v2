@@ -5325,7 +5325,7 @@
 {"offset": 3235754, "en": "The smartness maestro--\nthe wise POKéMON {FD:02}", "zh": "聪明大师——\n聪明的宝可梦 {FD:02}"}
 {"offset": 3235791, "en": "MON {FD:02}", "zh": "宝可梦 {FD:02}"}
 {"offset": 3235798, "en": "{FD:02}--the one chosen\nabove all POKéMON", "zh": "{WAIT_CLEAR}——被选中的人\n首先是宝可梦"}
-{"offset": 3235831, "en": "MON", "zh": "伊布"}
+{"offset": 3235831, "en": "MON", "zh": "宝可梦"}
 {"offset": 3235835, "en": "The excellent {FD:02}'s\nmoment of elegance", "zh": "优秀的{WAIT_CLEAR}\n优雅时刻"}
 {"offset": 3235873, "en": "The powerfully muscular\nspeedster {FD:02}", "zh": "强健的肌肉\n高速汽车[()]"}
 {"offset": 3235910, "en": "The strong, stronger, and\nstrongest {FD:02}", "zh": "强者越强，强者越强\n最强的{FD:02}"}
@@ -5968,7 +5968,7 @@
 {"offset": 3302644, "en": "The POKéMON-Catching TRAINER", "zh": "宝可梦捕捉训练师"}
 {"offset": 3302652, "en": "MON-Catching TRAINER", "zh": "精灵宝可梦捕捉训练师"}
 {"offset": 3302673, "en": "Caught POKéMON", "zh": "抓住口袋妖怪"}
-{"offset": 3302684, "en": "MON", "zh": "伊布"}
+{"offset": 3302684, "en": "MON", "zh": "宝可梦"}
 {"offset": 3302688, "en": "This is a tale of a TRAINER\nnamed {FD:04}.{WAIT_CLEAR}This TRAINER caught\n{FD:02} POKéMON!{WAIT_CLEAR}{FD:04} is a legendary catcher of\nwild POKéMON!", "zh": "这是一个关于驯兽师的故事\n名为[()]。这个教练抓住了\n{FD:02}口袋妖怪!{WAIT_CLEAR}{FD:04}是一位传奇的捕手\n野生口袋妖怪!"}
 {"offset": 3302796, "en": "MON!", "zh": "我的!"}
 {"offset": 3302801, "en": "The Fishing TRAINER", "zh": "钓鱼教练"}
@@ -5982,7 +5982,7 @@
 {"offset": 3303068, "en": "MON\nfrom EGGS!{WAIT_CLEAR}{FD:04} is a legendary warmer\nof EGGS!", "zh": "星期一\n从鸡蛋!{WAIT_CLEAR}{FD:04} 是一个传说中的温暖\n鸡蛋!"}
 {"offset": 3303117, "en": "The Evolver TRAINER", "zh": "进化者训练器"}
 {"offset": 3303137, "en": "Evolved POKéMON", "zh": "进化的口袋妖怪"}
-{"offset": 3303149, "en": "MON", "zh": "伊布"}
+{"offset": 3303149, "en": "MON", "zh": "宝可梦"}
 {"offset": 3303153, "en": "This is a tale of a TRAINER\nnamed {FD:04}.{WAIT_CLEAR}This TRAINER made {FD:02} POKéMON\nevolve!{WAIT_CLEAR}{FD:04} is the ultimate evolver\nof POKéMON!", "zh": "这是一个关于驯兽师的故事\n名为[()]。{WAIT_CLEAR}这个训练师制作了{FD:02} pok录影带\n进化!{WAIT_CLEAR}{FD:04}是终极进化者\n口袋妖怪!"}
 {"offset": 3303262, "en": "MON!", "zh": "我的!"}
 {"offset": 3303267, "en": "The POKéMON CENTER-Loving TRAINER", "zh": "喜欢宝可梦中心的训练家"}
@@ -12126,7 +12126,7 @@
 {"offset": 16882989, "en": "Shellie Dow", "zh": "谢莉·道"}
 {"offset": 16883001, "en": "Erik Johnson", "zh": "埃里克·约翰逊"}
 {"offset": 16890215, "en": "SAPPHIRE", "zh": "蓝宝石"}
-{"offset": 16890224, "en": "RUBY", "zh": "蓝鳄"}
+{"offset": 16890224, "en": "RUBY", "zh": "红宝石"}
 {"offset": 16890229, "en": "EMERALD", "zh": "翡翠"}
 {"offset": 16890237, "en": "AQUA", "zh": "海洋队"}
 {"offset": 16890242, "en": "MAGMA", "zh": "熔岩队"}
@@ -12137,7 +12137,7 @@
 {"offset": 16890276, "en": "BRENDAN", "zh": "小悠"}
 {"offset": 16890284, "en": "MAY", "zh": "小遥"}
 {"offset": 16890288, "en": "EGG", "zh": "蛋"}
-{"offset": 16890296, "en": "MON", "zh": "伊布"}
+{"offset": 16890296, "en": "MON", "zh": "宝可梦"}
 {"offset": 16890300, "en": "PROF. BIRCH", "zh": "小田卷博士"}
 {"offset": 16890312, "en": "NEW GAME", "zh": "新游戏"}
 {"offset": 16890321, "en": "CONTINUE", "zh": "继续游戏"}
@@ -12213,9 +12213,9 @@
 {"offset": 16891341, "en": "TERRA", "zh": "特拉"}
 {"offset": 16891347, "en": "LUCY", "zh": "露西"}
 {"offset": 16891352, "en": "HALIE", "zh": "哈利"}
-{"offset": 16891406, "en": "MON", "zh": "伊布"}
+{"offset": 16891406, "en": "MON", "zh": "宝可梦"}
 {"offset": 16891420, "en": "????.? lbs.", "zh": "??.? 磅"}
-{"offset": 16891459, "en": "MON", "zh": "伊布"}
+{"offset": 16891459, "en": "MON", "zh": "宝可梦"}
 {"offset": 16891477, "en": "        .   lbs.", "zh": " . 磅"}
 {"offset": 16891495, "en": "Cry of", "zh": "的叫声"}
 {"offset": 16891503, "en": "Size compared to ", "zh": "与……相比的大小"}
@@ -12279,7 +12279,7 @@
 {"offset": 16892825, "en": "IDNo.", "zh": "身份证号"}
 {"offset": 16892872, "en": "MON and rescue him!", "zh": "精灵宝可梦和拯救他！"}
 {"offset": 16892915, "en": "MON?", "zh": "宝可梦？"}
-{"offset": 16892924, "en": "MON", "zh": "伊布"}
+{"offset": 16892924, "en": "MON", "zh": "宝可梦"}
 {"offset": 16892928, "en": "FLY to where?", "zh": "飞到哪里？"}
 {"offset": 16892942, "en": "TELEPORT to where?", "zh": "传送到哪里？"}
 {"offset": 16892961, "en": "USE", "zh": "使用"}
@@ -12537,7 +12537,7 @@
 {"offset": 16899595, "en": "SP. ATK", "zh": "特攻"}
 {"offset": 16899603, "en": "SP. DEF", "zh": "特防"}
 {"offset": 16899611, "en": "SPEED", "zh": "速度"}
-{"offset": 16899636, "en": "MON", "zh": "伊布"}
+{"offset": 16899636, "en": "MON", "zh": "宝可梦"}
 {"offset": 16899640, "en": "TYPE/", "zh": "类型/"}
 {"offset": 16899646, "en": "POWER", "zh": "权力"}
 {"offset": 16899652, "en": "ACCURACY", "zh": "精度"}
@@ -12584,7 +12584,7 @@
 {"offset": 16900951, "en": "PLANT", "zh": "植物"}
 {"offset": 16900957, "en": "ORNAMENT", "zh": "点缀"}
 {"offset": 16900966, "en": "MAT", "zh": "垫"}
-{"offset": 16900970, "en": "POSTER", "zh": "哥达鸭"}
+{"offset": 16900970, "en": "POSTER", "zh": "海报"}
 {"offset": 16900977, "en": "DOLL", "zh": "娃娃"}
 {"offset": 16900982, "en": "CUSHION", "zh": "缓冲"}
 {"offset": 16900990, "en": "GOLD", "zh": "阿响"}
@@ -12764,7 +12764,7 @@
 {"offset": 16903564, "en": "E-MODE", "zh": "E模式"}
 {"offset": 16903571, "en": "G-MODE", "zh": "G模式"}
 {"offset": 16903582, "en": "DEX", "zh": "去中心化交易所"}
-{"offset": 16903590, "en": "MON", "zh": "伊布"}
+{"offset": 16903590, "en": "MON", "zh": "宝可梦"}
 {"offset": 16903594, "en": "BAG", "zh": "背包"}
 {"offset": 16903602, "en": "NAV", "zh": "导航"}
 {"offset": 16903607, "en": "SAVE", "zh": "保存"}
@@ -12820,14 +12820,14 @@
 {"offset": 16904266, "en": "MON MOVES", "zh": "口袋妖怪移动"}
 {"offset": 16904276, "en": "UNDERPOWERED", "zh": "动力不足的"}
 {"offset": 16904289, "en": "WHEN IN DANGER", "zh": "当处于危险中时"}
-{"offset": 16904317, "en": "MON", "zh": "伊布"}
+{"offset": 16904317, "en": "MON", "zh": "宝可梦"}
 {"offset": 16904321, "en": "PYRAMID: TRAINERS", "zh": "金字塔：训练师"}
 {"offset": 16904339, "en": "PYRAMID: MAZE", "zh": "金字塔:迷宫"}
 {"offset": 16904353, "en": "BATTLE BAG", "zh": "战斗背包"}
 {"offset": 16904368, "en": "NAV AND BAG", "zh": "导航与背包"}
 {"offset": 16904380, "en": "HELD ITEMS", "zh": "举行项目"}
 {"offset": 16904395, "en": "MON ORDER", "zh": "我的订单"}
-{"offset": 16904416, "en": "MON", "zh": "伊布"}
+{"offset": 16904416, "en": "MON", "zh": "宝可梦"}
 {"offset": 16904420, "en": "BATTLE TRAINERS", "zh": "战斗训练师"}
 {"offset": 16904436, "en": "GO ON", "zh": "继续"}
 {"offset": 16904442, "en": "RECORD", "zh": "记录"}
@@ -12849,10 +12849,10 @@
 {"offset": 16904675, "en": "Now on:", "zh": "现在开始："}
 {"offset": 16904891, "en": "RANKING HALL", "zh": "排名大厅"}
 {"offset": 16904904, "en": "EXCHANGE SERVICE", "zh": "兑换服务"}
-{"offset": 16904921, "en": "LILYCOVE CITY", "zh": "琉璃市"}
+{"offset": 16904921, "en": "LILYCOVE CITY", "zh": "水静市"}
 {"offset": 16904935, "en": "SLATEPORT CITY", "zh": "凯那市"}
-{"offset": 16904950, "en": "CAVE OF ORIGIN", "zh": "觉醒之祠"}
-{"offset": 16904965, "en": "MT. PYRE", "zh": "送神之山"}
+{"offset": 16904950, "en": "CAVE OF ORIGIN", "zh": "觉醒祠堂"}
+{"offset": 16904965, "en": "MT. PYRE", "zh": "送神山"}
 {"offset": 16904974, "en": "SKY PILLAR", "zh": "天空之柱"}
 {"offset": 16904985, "en": "Don't remember", "zh": "不记得"}
 {"offset": 16905000, "en": "EXIT", "zh": "退出"}
@@ -12935,9 +12935,9 @@
 {"offset": 16906078, "en": "MACHINE", "zh": "机"}
 {"offset": 16906086, "en": "SIMPLE", "zh": "简单的"}
 {"offset": 16906093, "en": "What would you like to do?", "zh": "你想做什么？"}
-{"offset": 16906133, "en": "MON", "zh": "伊布"}
-{"offset": 16906149, "en": "MON", "zh": "伊布"}
-{"offset": 16906162, "en": "MON", "zh": "伊布"}
+{"offset": 16906133, "en": "MON", "zh": "宝可梦"}
+{"offset": 16906149, "en": "MON", "zh": "宝可梦"}
+{"offset": 16906162, "en": "MON", "zh": "宝可梦"}
 {"offset": 16906166, "en": "MOVE ITEMS", "zh": "移动物品"}
 {"offset": 16906177, "en": "SEE YA!", "zh": "再见！"}
 {"offset": 16906194, "en": "MON stored in BOXES to\nyour party.", "zh": "MON存储在中\n你的聚会。"}
@@ -12971,7 +12971,7 @@
 {"offset": 16906912, "en": "EXIT", "zh": "退出"}
 {"offset": 16906917, "en": "Can't call opponent here.", "zh": "这里不能叫对手。"}
 {"offset": 16906943, "en": "STRATEGY", "zh": "策略"}
-{"offset": 16906966, "en": "MON", "zh": "伊布"}
+{"offset": 16906966, "en": "MON", "zh": "宝可梦"}
 {"offset": 16906970, "en": "SELF-INTRODUCTION", "zh": "自我介绍"}
 {"offset": 16907001, "en": "CANCEL", "zh": "取消"}
 {"offset": 16907017, "en": "CANCEL", "zh": "取消"}
@@ -13195,7 +13195,7 @@
 {"offset": 16912718, "en": "  saved the game.", "zh": "保存了游戏。"}
 {"offset": 16912736, "en": "If the LEADER leaves, the chat\nwill end. Is that okay?", "zh": "如果馆主离开，聊天\n将结束。可以吗？"}
 {"offset": 16912791, "en": "HELLO", "zh": "你好"}
-{"offset": 16912801, "en": "MON", "zh": "伊布"}
+{"offset": 16912801, "en": "MON", "zh": "宝可梦"}
 {"offset": 16912805, "en": "TRADE", "zh": "贸易"}
 {"offset": 16912811, "en": "BATTLE", "zh": "战斗"}
 {"offset": 16912818, "en": "LET'S", "zh": "让我们"}
@@ -13211,7 +13211,7 @@
 {"offset": 16912982, "en": "energetic after all!", "zh": "毕竟充满活力！"}
 {"offset": 16913003, "en": "Battle with knowledge!", "zh": "与知识战斗!"}
 {"offset": 16913049, "en": "MON.", "zh": "我的。"}
-{"offset": 16913075, "en": "MON", "zh": "伊布"}
+{"offset": 16913075, "en": "MON", "zh": "宝可梦"}
 {"offset": 16913079, "en": "prof than my father is!", "zh": "比我父亲更有教授气质！"}
 {"offset": 16913103, "en": "I'm not so good at battles.", "zh": "我不太擅长战斗。"}
 {"offset": 16913148, "en": "MON!", "zh": "我的!"}
@@ -13381,7 +13381,7 @@
 {"offset": 16917529, "en": "RTC time", "zh": "RTC的时间"}
 {"offset": 16917538, "en": "Updated time", "zh": "更新的时间"}
 {"offset": 16917555, "en": "DEX", "zh": "去中心化交易所"}
-{"offset": 16917563, "en": "MON", "zh": "伊布"}
+{"offset": 16917563, "en": "MON", "zh": "宝可梦"}
 {"offset": 16917567, "en": "MISC", "zh": "杂项"}
 {"offset": 16917572, "en": "BAG", "zh": "背包"}
 {"offset": 16917580, "en": "NAV", "zh": "导航"}
@@ -13420,7 +13420,7 @@
 {"offset": 16918233, "en": "Bye-bye, {FD:03}!", "zh": "再见,{FD:03} !"}
 {"offset": 16918246, "en": "{FD:02} sent over {FD:04}.", "zh": "{FD:02} 发送了 {FD:04}。"}
 {"offset": 16918263, "en": "Take good care of {FD:04}!", "zh": "好好照顾{WAIT_CLEAR}！"}
-{"offset": 16918289, "en": "MON", "zh": "伊布"}
+{"offset": 16918289, "en": "MON", "zh": "宝可梦"}
 {"offset": 16918293, "en": "TRAINER", "zh": "教练"}
 {"offset": 16918301, "en": "STATUS", "zh": "状态"}
 {"offset": 16918308, "en": "BATTLE", "zh": "战斗"}
@@ -13474,7 +13474,7 @@
 {"offset": 16918814, "en": "shiny", "zh": "闪亮的"}
 {"offset": 16918820, "en": "sticky", "zh": "粘的"}
 {"offset": 16918827, "en": "pointy", "zh": "尖的"}
-{"offset": 16918845, "en": "MON", "zh": "伊布"}
+{"offset": 16918845, "en": "MON", "zh": "宝可梦"}
 {"offset": 16918870, "en": "MON.", "zh": "我的。"}
 {"offset": 16918897, "en": "MON.", "zh": "我的。"}
 {"offset": 16918923, "en": "MON.", "zh": "我的。"}
@@ -13762,7 +13762,7 @@
 {"offset": 16925097, "en": "EVOs", "zh": "EVOs"}
 {"offset": 16925104, "en": "Evos", "zh": "埃沃斯"}
 {"offset": 16925109, "en": "{FD:02} has no alternate forms.", "zh": "{FD:02} 没有替代形式。"}
-{"offset": 16925151, "en": "mon", "zh": "玛力露丽"}
+{"offset": 16925151, "en": "mon", "zh": "宝可梦"}
 {"offset": 16925155, "en": "Generic quest 1", "zh": "通用任务 1"}
 {"offset": 16925171, "en": "Generic quest 2", "zh": "通用任务2"}
 {"offset": 16925187, "en": "Generic quest 3", "zh": "通用任务 3"}
@@ -13879,7 +13879,7 @@
 {"offset": 16927014, "en": "SOUND", "zh": "声音"}
 {"offset": 16927035, "en": "BOY", "zh": "男孩"}
 {"offset": 16927045, "en": "GIRL", "zh": "女孩"}
-{"offset": 16927060, "en": "MON", "zh": "伊布"}
+{"offset": 16927060, "en": "MON", "zh": "宝可梦"}
 {"offset": 16927070, "en": "KANTO", "zh": "关都"}
 {"offset": 16927082, "en": "JOHTO", "zh": "城都"}
 {"offset": 16927094, "en": "HOENN", "zh": "丰缘"}
@@ -13903,7 +13903,7 @@
 {"offset": 16927252, "en": "MOVEMENT", "zh": "运动"}
 {"offset": 16927261, "en": "BEACH", "zh": "海滩"}
 {"offset": 16927267, "en": "EXP", "zh": "经验值"}
-{"offset": 16927271, "en": "HEAL", "zh": "小拉达"}
+{"offset": 16927271, "en": "HEAL", "zh": "回复"}
 {"offset": 16927276, "en": "TYPE", "zh": "属性"}
 {"offset": 16927281, "en": "ANIM", "zh": "动物"}
 {"offset": 16927286, "en": "BUTTONS", "zh": "按钮"}
@@ -13930,12 +13930,12 @@
 {"offset": 16927606, "en": "FAST", "zh": "快"}
 {"offset": 16927617, "en": "VERY FAST", "zh": "非常快"}
 {"offset": 16927633, "en": "SPECIAL", "zh": "特殊的"}
-{"offset": 16927683, "en": "DEFAULT", "zh": "卡比兽"}
+{"offset": 16927683, "en": "DEFAULT", "zh": "默认"}
 {"offset": 16927697, "en": "SINGLE", "zh": "单"}
 {"offset": 16927710, "en": "DOUBLE", "zh": "双"}
 {"offset": 16927717, "en": "DYNAMAX", "zh": "巨大化"}
 {"offset": 16927725, "en": "TERA", "zh": "太拉"}
-{"offset": 16927736, "en": "ALL", "zh": "幸福蛋"}
+{"offset": 16927736, "en": "ALL", "zh": "全部"}
 {"offset": 16927746, "en": "IMPORT.", "zh": "导入。"}
 {"offset": 16927769, "en": "OFF", "zh": "从"}
 {"offset": 16927773, "en": "TRANSITION", "zh": "过渡"}
@@ -13949,7 +13949,7 @@
 {"offset": 16927877, "en": "SHIFT", "zh": "替换"}
 {"offset": 16927889, "en": "SET", "zh": "固定"}
 {"offset": 16927893, "en": "PLAYERS", "zh": "球员"}
-{"offset": 16927905, "en": "MON", "zh": "伊布"}
+{"offset": 16927905, "en": "MON", "zh": "宝可梦"}
 {"offset": 16927909, "en": "MOVES", "zh": "招式"}
 {"offset": 16927915, "en": "ABILITIES", "zh": "能力"}
 {"offset": 16927925, "en": "NATURES", "zh": "性质"}
@@ -14035,13 +14035,13 @@
 {"offset": 16928780, "en": "SPHEAL", "zh": "海豹球"}
 {"offset": 16928787, "en": "TURTWIG", "zh": "草苗龟"}
 {"offset": 16928795, "en": "CHIMCHAR", "zh": "小火焰猴"}
-{"offset": 16928804, "en": "PIPLUP", "zh": "烈雀"}
+{"offset": 16928804, "en": "PIPLUP", "zh": "波加曼"}
 {"offset": 16928811, "en": "BUIZEL", "zh": "泡沫栗鼠"}
 {"offset": 16928818, "en": "HAPPINY", "zh": "哈比"}
-{"offset": 16928826, "en": "MUNCHLAX", "zh": "阿柏蛇"}
+{"offset": 16928826, "en": "MUNCHLAX", "zh": "小卡比兽"}
 {"offset": 16928835, "en": "RIOLU", "zh": "利欧路"}
 {"offset": 16928841, "en": "SNOVER", "zh": "斯诺弗"}
-{"offset": 16928848, "en": "ROTOM", "zh": "皮卡丘"}
+{"offset": 16928848, "en": "ROTOM", "zh": "洛托姆"}
 {"offset": 16928854, "en": "SNIVY", "zh": "藤蛇"}
 {"offset": 16928860, "en": "TEPIG", "zh": "萌芽猪"}
 {"offset": 16928866, "en": "OSHAWOTT", "zh": "水水獭"}
@@ -14050,10 +14050,10 @@
 {"offset": 16928890, "en": "TRUBBISH", "zh": "垃圾"}
 {"offset": 16928899, "en": "ZORUA", "zh": "索鲁亚"}
 {"offset": 16928905, "en": "PAWNIARD", "zh": "爪牙小兵"}
-{"offset": 16928914, "en": "CHESPIN", "zh": "尼多后"}
+{"offset": 16928914, "en": "CHESPIN", "zh": "哈力栗"}
 {"offset": 16928922, "en": "FENNEKIN", "zh": "火狐狸"}
 {"offset": 16928931, "en": "FROAKIE", "zh": "呱头蛙"}
-{"offset": 16928947, "en": "ESPURR", "zh": "尼多王"}
+{"offset": 16928947, "en": "ESPURR", "zh": "妙喵"}
 {"offset": 16928954, "en": "HONEDGE", "zh": "独剑鞘"}
 {"offset": 16928962, "en": "GOOMY", "zh": "黏黏宝"}
 {"offset": 16928968, "en": "ROWLET", "zh": "木木枭"}
@@ -14063,7 +14063,7 @@
 {"offset": 16928999, "en": "BOUNSWEET", "zh": "博恩斯威特"}
 {"offset": 16929009, "en": "WIMPOD", "zh": "小积豆"}
 {"offset": 16929016, "en": "MIMIKYU", "zh": "谜拟而"}
-{"offset": 16929024, "en": "GROOKEY", "zh": "超音蝠"}
+{"offset": 16929024, "en": "GROOKEY", "zh": "敲音猴"}
 {"offset": 16929032, "en": "SCORBUNNY", "zh": "烈焰兔"}
 {"offset": 16929042, "en": "SOBBLE", "zh": "泣啜"}
 {"offset": 16929049, "en": "TOXEL", "zh": "托克塞尔"}
@@ -14074,7 +14074,7 @@
 {"offset": 16929091, "en": "FUECOCO", "zh": "火焰鸡"}
 {"offset": 16929099, "en": "QUAXLY", "zh": "夸克斯利"}
 {"offset": 16929106, "en": "PAWMI", "zh": "爪印"}
-{"offset": 16929112, "en": "CHARCADET", "zh": "摩鲁蛾"}
+{"offset": 16929112, "en": "CHARCADET", "zh": "炭小侍"}
 {"offset": 16929122, "en": "TINKATINK", "zh": "丁卡丁克"}
 {"offset": 16929132, "en": "FINIZEN", "zh": "菲尼森"}
 {"offset": 16929140, "en": "CYCLIZAR", "zh": "循环化"}
@@ -14082,16 +14082,16 @@
 {"offset": 16929163, "en": "NORMAL", "zh": "普通"}
 {"offset": 16929176, "en": "IMPOSTER", "zh": "冒名顶替者"}
 {"offset": 16929185, "en": "CASTFORM", "zh": "飘浮泡泡"}
-{"offset": 16929200, "en": "WEATHER", "zh": "火暴猴"}
+{"offset": 16929200, "en": "WEATHER", "zh": "天气"}
 {"offset": 16929208, "en": "CHERRIM", "zh": "樱花儿"}
-{"offset": 16929222, "en": "OVERCAST", "zh": "风速狗"}
+{"offset": 16929222, "en": "OVERCAST", "zh": "阴天"}
 {"offset": 16929237, "en": "SUNSHINE", "zh": "阳光"}
 {"offset": 16929246, "en": "DARMANITAN", "zh": "达摩狒狒"}
 {"offset": 16929263, "en": "ZEN", "zh": "禅"}
 {"offset": 16929267, "en": "ZOROARK", "zh": "索罗亚克"}
 {"offset": 16929281, "en": "ILLUSION", "zh": "错觉"}
 {"offset": 16929290, "en": "MELOETTA", "zh": "美洛耶塔"}
-{"offset": 16929305, "en": "ARIA", "zh": "腕力"}
+{"offset": 16929305, "en": "ARIA", "zh": "歌声"}
 {"offset": 16929316, "en": "PIROUETTE", "zh": "脚尖旋转"}
 {"offset": 16929326, "en": "GRENINJA", "zh": "甲贺忍蛙"}
 {"offset": 16929341, "en": "ASH", "zh": "小智"}
@@ -14104,8 +14104,8 @@
 {"offset": 16929415, "en": "ZYGARDE", "zh": "基格尔德"}
 {"offset": 16929429, "en": "COMPLETE", "zh": "完成"}
 {"offset": 16929438, "en": "WISHIWASHI", "zh": "瓦伊瓦希"}
-{"offset": 16929455, "en": "SOLO", "zh": "呆壳兽"}
-{"offset": 16929466, "en": "SCHOOL", "zh": "小磁怪"}
+{"offset": 16929455, "en": "SOLO", "zh": "单独"}
+{"offset": 16929466, "en": "SCHOOL", "zh": "鱼群"}
 {"offset": 16929479, "en": "DISGUISED", "zh": "伪装"}
 {"offset": 16929495, "en": "BUSTED", "zh": "破产"}
 {"offset": 16929502, "en": "MINIOR", "zh": "迷你"}
@@ -14113,23 +14113,23 @@
 {"offset": 16929528, "en": "CORE", "zh": "核心"}
 {"offset": 16929533, "en": "CRAMORANT", "zh": "鹈鱼嘴嘴"}
 {"offset": 16929549, "en": "GULPING", "zh": "吞"}
-{"offset": 16929563, "en": "GORGING", "zh": "大舌贝"}
+{"offset": 16929563, "en": "GORGING", "zh": "大口吞"}
 {"offset": 16929571, "en": "EISCUE", "zh": "艾斯库"}
-{"offset": 16929584, "en": "ICE", "zh": "鬼斯通"}
+{"offset": 16929584, "en": "ICE", "zh": "冰"}
 {"offset": 16929594, "en": "NOICE", "zh": "很好"}
 {"offset": 16929606, "en": "FULLBELLY", "zh": "饱腹"}
-{"offset": 16929622, "en": "HANGRY", "zh": "大岩蛇"}
-{"offset": 16929629, "en": "ZACIAN", "zh": "催眠貘"}
-{"offset": 16929642, "en": "CROWNED", "zh": "引梦貘人"}
+{"offset": 16929622, "en": "HANGRY", "zh": "空腹"}
+{"offset": 16929629, "en": "ZACIAN", "zh": "苍响"}
+{"offset": 16929642, "en": "CROWNED", "zh": "剑之王"}
 {"offset": 16929650, "en": "ZAMAZENTA", "zh": "扎马赞塔"}
 {"offset": 16929660, "en": "PALAFIN", "zh": "帕拉芬"}
-{"offset": 16929674, "en": "ZERO", "zh": "霹雳电球"}
-{"offset": 16929685, "en": "HERO", "zh": "顽皮雷弹"}
+{"offset": 16929674, "en": "ZERO", "zh": "平凡"}
+{"offset": 16929685, "en": "HERO", "zh": "全能"}
 {"offset": 16929690, "en": "OGERPON", "zh": "瓯柑柚"}
 {"offset": 16929704, "en": "MASKED", "zh": "戴面具的"}
-{"offset": 16929717, "en": "UNMASKED", "zh": "卡拉卡拉"}
+{"offset": 16929717, "en": "UNMASKED", "zh": "素颜"}
 {"offset": 16929726, "en": "TERAPAGOS", "zh": "太乐巴戈斯"}
-{"offset": 16929742, "en": "TERASTAL", "zh": "飞腿郎"}
+{"offset": 16929742, "en": "TERASTAL", "zh": "太晶"}
 {"offset": 16929767, "en": "mon.", "zh": "我的。"}
 {"offset": 16929772, "en": "Do you want a {FD:02}?", "zh": "你想要一个 {FD:02} 吗？"}
 {"offset": 16929823, "en": "mon can't evolve!", "zh": "我不能进化！"}
@@ -14152,7 +14152,7 @@
 {"offset": 16930113, "en": "PUZZLE 6", "zh": "谜题6"}
 {"offset": 16930122, "en": "PUZZLE 7", "zh": "谜题7"}
 {"offset": 16930131, "en": "PUZZLE 8", "zh": "谜题8"}
-{"offset": 16930146, "en": "DEFAULT", "zh": "卡比兽"}
+{"offset": 16930146, "en": "DEFAULT", "zh": "默认"}
 {"offset": 16930160, "en": "LAPRAS", "zh": "拉普拉斯"}
 {"offset": 16930173, "en": "GYARADOS", "zh": "暴鲤龙"}
 {"offset": 16930188, "en": "VAPOREON", "zh": "水伊布"}
@@ -14161,7 +14161,7 @@
 {"offset": 16930213, "en": "ATTACK", "zh": "攻击"}
 {"offset": 16930220, "en": "DEFENSE", "zh": "防御"}
 {"offset": 16930228, "en": "SPEED", "zh": "速度"}
-{"offset": 16930234, "en": "BASE", "zh": "梦幻"}
+{"offset": 16930234, "en": "BASE", "zh": "基础"}
 {"offset": 16930239, "en": "HEAT", "zh": "热"}
 {"offset": 16930244, "en": "WASH", "zh": "洗"}
 {"offset": 16930249, "en": "FROST", "zh": "霜"}
@@ -14350,8 +14350,8 @@
 {"offset": 16932928, "en": "KUKUI", "zh": "库库伊"}
 {"offset": 16932940, "en": "ACEROLA", "zh": "阿塞萝拉"}
 {"offset": 16932954, "en": "GUZMA", "zh": "古兹马"}
-{"offset": 16932966, "en": "KIAWE", "zh": "大牙狸"}
-{"offset": 16932978, "en": "LANA", "zh": "大尾狸"}
+{"offset": 16932966, "en": "KIAWE", "zh": "卡奇"}
+{"offset": 16932978, "en": "LANA", "zh": "水莲"}
 {"offset": 16932989, "en": "MALLOW", "zh": "锦葵"}
 {"offset": 16933002, "en": "RAINBOW", "zh": "彩虹"}
 {"offset": 16933016, "en": "RAINBOW", "zh": "彩虹"}
@@ -14456,7 +14456,7 @@
 {"offset": 16934300, "en": "SAMINA", "zh": "萨米娜"}
 {"offset": 16934313, "en": "KUKUI", "zh": "库库伊"}
 {"offset": 16934325, "en": "ZARALA", "zh": "扎拉拉"}
-{"offset": 16934351, "en": "KIAWE", "zh": "大牙狸"}
+{"offset": 16934351, "en": "KIAWE", "zh": "卡奇"}
 {"offset": 16934363, "en": "NEREIDA", "zh": "涅瑞伊达"}
 {"offset": 16934388, "en": "RAINBOW", "zh": "彩虹"}
 {"offset": 16934402, "en": "RAINBOW", "zh": "彩虹"}

@@ -11,6 +11,8 @@ force_mode_zh.py
 force_randomizer_zh.py
 force_names_zh.py
 force_trainer_class_zh.py
+patch_battle_names_zh.py
+patch_items_zh.py
 diff_guard.py
 
 导出 / locale
@@ -22,12 +24,14 @@ translate_batch.py
 merge_locale_zh.py
 clean_locale_zh.py
 official_names_zh.py
+import_item_glossary.py
 
 库
 --
 chs_encode.py
 gen3_charmap.py
 fill_and_apply_remaining.py
+prepare_armips_source.py
 
 维护
 ----

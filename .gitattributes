@@ -1,0 +1,5 @@
+# Keep armips inputs in the upstream LF format on Windows.
+fontpatch/**/*.asm text eol=lf
+fontpatch/**/*.s text eol=lf
+fontpatch/**/*.h text eol=lf
+fontpatch/**/*.txt text eol=lf

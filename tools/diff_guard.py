@@ -30,6 +30,7 @@ def allowed_ranges() -> list[tuple[int, int]]:
         (0x612E, 0x6132),
         (0x270000, 0x360000),
         (0x3C4000, 0x3E0000),
+        (0x4065EC, 0x4065EC + 66 * 13),  # trainer class name slots
         (0x40E000, 0x42A000),  # Title-Case species/moves/abilities name pools
         (0x42C000, 0x430000),  # battle/status HP & related short UI
         (0x4C0000, 0x4E0000),

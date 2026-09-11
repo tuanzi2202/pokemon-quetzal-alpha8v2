@@ -18,6 +18,9 @@
 
 产出：`out/quetzal_084_cn.gba`（中间文件 `work/cn_build.gba`）。
 
+> 仓库不包含 ROM 文件。构建前请把自己合法持有、版本匹配的英文母盘放到
+> `golden/en_0.8.4.gba`；`golden/`、`work/` 和 `out/` 中的 ROM 均不会提交。
+
 文档从 [docs/00_INDEX.txt](docs/00_INDEX.txt) 进入：
 
 | 文档 | 内容 |

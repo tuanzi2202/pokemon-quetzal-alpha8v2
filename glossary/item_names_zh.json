@@ -1,0 +1,4978 @@
+{
+  "provenance": {
+    "rom": "Pokemon Quetzal 0.8.4 English",
+    "name_range": [
+      16364032,
+      16381696
+    ],
+    "description_range": [
+      16297984,
+      16364032
+    ],
+    "pokeapi": "https://github.com/PokeAPI/pokeapi/tree/master/data/v2/csv"
+  },
+  "items": [
+    {
+      "offset": 16364113,
+      "en": "Poké Ball",
+      "zh": "精灵球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364134,
+      "en": "Great Ball",
+      "zh": "超级球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364155,
+      "en": "Ultra Ball",
+      "zh": "高级球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364175,
+      "en": "Master Ball",
+      "zh": "大师球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364196,
+      "en": "Premier Ball",
+      "zh": "纪念球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364217,
+      "en": "Heal Ball",
+      "zh": "治愈球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364234,
+      "en": "Net Ball",
+      "zh": "捕网球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364253,
+      "en": "Nest Ball",
+      "zh": "巢穴球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364274,
+      "en": "Dive Ball",
+      "zh": "潜水球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364294,
+      "en": "Dusk Ball",
+      "zh": "黑暗球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364314,
+      "en": "Timer Ball",
+      "zh": "计时球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364335,
+      "en": "Quick Ball",
+      "zh": "先机球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364355,
+      "en": "Repeat Ball",
+      "zh": "重复球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364376,
+      "en": "Luxury Ball",
+      "zh": "豪华球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364396,
+      "en": "Level Ball",
+      "zh": "等级球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364415,
+      "en": "Lure Ball",
+      "zh": "诱饵球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364434,
+      "en": "Moon Ball",
+      "zh": "月亮球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364454,
+      "en": "Friend Ball",
+      "zh": "友友球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364476,
+      "en": "Love Ball",
+      "zh": "甜蜜球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364494,
+      "en": "Fast Ball",
+      "zh": "速度球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364514,
+      "en": "Heavy Ball",
+      "zh": "沉重球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364535,
+      "en": "Dream Ball",
+      "zh": "梦境球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364555,
+      "en": "Safari Ball",
+      "zh": "狩猎球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364576,
+      "en": "Sport Ball",
+      "zh": "竞赛球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364595,
+      "en": "Radiant Ball",
+      "zh": "闪耀球",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16364617,
+      "en": "Beast Ball",
+      "zh": "究极球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364635,
+      "en": "Cherish Ball",
+      "zh": "贵重球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364657,
+      "en": "Potion",
+      "zh": "伤药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364671,
+      "en": "Super Potion",
+      "zh": "好伤药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364697,
+      "en": "Hyper Potion",
+      "zh": "厉害伤药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364717,
+      "en": "Max Potion",
+      "zh": "全满药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364735,
+      "en": "Full Restore",
+      "zh": "全复药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364757,
+      "en": "Revive",
+      "zh": "活力碎片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364771,
+      "en": "Max Revive",
+      "zh": "活力块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364795,
+      "en": "Fresh Water",
+      "zh": "美味之水",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364816,
+      "en": "Soda Pop",
+      "zh": "劲爽汽水",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364833,
+      "en": "Lemonade",
+      "zh": "果汁牛奶",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364853,
+      "en": "Moomoo Milk",
+      "zh": "哞哞鲜奶",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364876,
+      "en": "Energy Powder",
+      "zh": "元气粉",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364898,
+      "en": "Energy Root",
+      "zh": "元气根",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364916,
+      "en": "Heal Powder",
+      "zh": "万能粉",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364936,
+      "en": "Revival Herb",
+      "zh": "复活草",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364957,
+      "en": "Antidote",
+      "zh": "解毒药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364973,
+      "en": "Paralyze Heal",
+      "zh": "解麻药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16364998,
+      "en": "Burn Heal",
+      "zh": "灼伤药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365014,
+      "en": "Ice Heal",
+      "zh": "解冻药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365033,
+      "en": "Awakening",
+      "zh": "解眠药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365054,
+      "en": "Full Heal",
+      "zh": "万灵药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365074,
+      "en": "Ether",
+      "zh": "PP单项小补剂",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365090,
+      "en": "Max Ether",
+      "zh": "PP单项全补剂",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365114,
+      "en": "Elixir",
+      "zh": "PP多项小补剂",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365131,
+      "en": "Max Elixir",
+      "zh": "PP多项全补剂",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365155,
+      "en": "Berry Juice",
+      "zh": "树果汁",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365176,
+      "en": "Sacred Ash",
+      "zh": "圣灰",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365195,
+      "en": "Sweet Heart",
+      "zh": "心形甜点",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365216,
+      "en": "Max Honey",
+      "zh": "极巨甜蜜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365234,
+      "en": "Pewter Crunchies",
+      "zh": "深灰米果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365261,
+      "en": "Rage Candy Bar",
+      "zh": "愤怒馒头",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365279,
+      "en": "Lava Cookie",
+      "zh": "釜炎仙贝",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365296,
+      "en": "Old Gateau",
+      "zh": "森之羊羹",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365315,
+      "en": "Casteliacone",
+      "zh": "飞云冰淇淋",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365337,
+      "en": "Lumiose Galette",
+      "zh": "密阿雷格雷派饼",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365360,
+      "en": "Shalour Sable",
+      "zh": "娑罗沙布蕾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365378,
+      "en": "Big Malasada",
+      "zh": "大马拉萨达",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365397,
+      "en": "HP Up",
+      "zh": "HP增强剂",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365410,
+      "en": "Protein",
+      "zh": "攻击增强剂",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365432,
+      "en": "Iron",
+      "zh": "防御增强剂",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365449,
+      "en": "Calcium",
+      "zh": "特攻增强剂",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365472,
+      "en": "Zinc",
+      "zh": "特防增强剂",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365489,
+      "en": "Carbos",
+      "zh": "速度增强剂",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365511,
+      "en": "IV Up",
+      "zh": "个体提升",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16365530,
+      "en": "IV Max",
+      "zh": "个体全满",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16365551,
+      "en": "Health Feather",
+      "zh": "体力之羽",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365579,
+      "en": "Muscle Feather",
+      "zh": "肌力之羽",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365599,
+      "en": "Resist Feather",
+      "zh": "抵抗之羽",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365619,
+      "en": "Genius Feather",
+      "zh": "智力之羽",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365639,
+      "en": "Clever Feather",
+      "zh": "精神之羽",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365659,
+      "en": "Swift Feather",
+      "zh": "瞬发之羽",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365678,
+      "en": "Ability Capsule",
+      "zh": "特性胶囊",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365700,
+      "en": "Ability Patch",
+      "zh": "特性膏药",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365718,
+      "en": "Lonely Mint",
+      "zh": "怕寂寞薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365736,
+      "en": "Adamant Mint",
+      "zh": "固执薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365757,
+      "en": "Naughty Mint",
+      "zh": "顽皮薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365777,
+      "en": "Brave Mint",
+      "zh": "勇敢薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365795,
+      "en": "Bold Mint",
+      "zh": "大胆薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365814,
+      "en": "Impish Mint",
+      "zh": "淘气薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365836,
+      "en": "Lax Mint",
+      "zh": "乐天薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365853,
+      "en": "Relaxed Mint",
+      "zh": "悠闲薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365877,
+      "en": "Modest Mint",
+      "zh": "内敛薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365896,
+      "en": "Mild Mint",
+      "zh": "慢吞吞薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365914,
+      "en": "Rash Mint",
+      "zh": "马虎薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365934,
+      "en": "Quiet Mint",
+      "zh": "冷静薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365955,
+      "en": "Calm Mint",
+      "zh": "温和薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365974,
+      "en": "Gentle Mint",
+      "zh": "温顺薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16365996,
+      "en": "Careful Mint",
+      "zh": "慎重薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366017,
+      "en": "Sassy Mint",
+      "zh": "自大薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366035,
+      "en": "Timid Mint",
+      "zh": "胆小薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366055,
+      "en": "Hasty Mint",
+      "zh": "急躁薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366075,
+      "en": "Jolly Mint",
+      "zh": "爽朗薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366095,
+      "en": "Naive Mint",
+      "zh": "天真薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366115,
+      "en": "Serious Mint",
+      "zh": "认真薄荷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366137,
+      "en": "Rare Candy",
+      "zh": "神奇糖果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366155,
+      "en": "Exp. Candy XS",
+      "zh": "经验糖果XS",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366178,
+      "en": "Exp. Candy S",
+      "zh": "经验糖果S",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366197,
+      "en": "Exp. Candy M",
+      "zh": "经验糖果M",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366217,
+      "en": "Exp. Candy L",
+      "zh": "经验糖果L",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366237,
+      "en": "Exp. Candy XL",
+      "zh": "经验糖果XL",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366258,
+      "en": "Giga Candy",
+      "zh": "超极巨糖果",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16366275,
+      "en": "Blue Flute",
+      "zh": "蓝色玻璃哨",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366295,
+      "en": "Yellow Flute",
+      "zh": "黄色玻璃哨",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366317,
+      "en": "Red Flute",
+      "zh": "红色玻璃哨",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366334,
+      "en": "Black Flute",
+      "zh": "黑色玻璃哨",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366356,
+      "en": "White Flute",
+      "zh": "白色玻璃哨",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366376,
+      "en": "Repel",
+      "zh": "除虫喷雾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366390,
+      "en": "Super Repel",
+      "zh": "白银喷雾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366416,
+      "en": "Max Repel",
+      "zh": "黄金喷雾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366434,
+      "en": "Lure",
+      "zh": "引虫香水",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366449,
+      "en": "Super Lure",
+      "zh": "白银香水",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366475,
+      "en": "Max Lure",
+      "zh": "黄金香水",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366493,
+      "en": "Escape Rope",
+      "zh": "离洞绳",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366516,
+      "en": "X Attack",
+      "zh": "力量强化",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366533,
+      "en": "X Defense",
+      "zh": "防御强化",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366554,
+      "en": "X Sp. Atk",
+      "zh": "特攻强化",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366574,
+      "en": "X Sp. Def",
+      "zh": "特防强化",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366594,
+      "en": "X Speed",
+      "zh": "速度强化",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366612,
+      "en": "X Accuracy",
+      "zh": "命中强化",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366635,
+      "en": "Dire Hit",
+      "zh": "要害攻击",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366653,
+      "en": "Guard Spec.",
+      "zh": "能力防守",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366676,
+      "en": "Poké Doll",
+      "zh": "皮皮玩偶",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366694,
+      "en": "Fluffy Tail",
+      "zh": "向尾喵的尾巴",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366716,
+      "en": "Poké Toy",
+      "zh": "宝可尾草",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366733,
+      "en": "Max Mushrooms",
+      "zh": "极巨菇菇",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366758,
+      "en": "Bottle Cap",
+      "zh": "银色王冠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366775,
+      "en": "Gold Bottle Cap",
+      "zh": "金色王冠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366800,
+      "en": "Nugget",
+      "zh": "金珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366811,
+      "en": "Big Nugget",
+      "zh": "巨大金珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366835,
+      "en": "Tiny Mushroom",
+      "zh": "小蘑菇",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366858,
+      "en": "Big Mushroom",
+      "zh": "大蘑菇",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366877,
+      "en": "Balm Mushroom",
+      "zh": "芳香蘑菇",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366898,
+      "en": "Pearl",
+      "zh": "珍珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366910,
+      "en": "Big Pearl",
+      "zh": "大珍珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366934,
+      "en": "Pearl String",
+      "zh": "丸子珍珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366957,
+      "en": "Stardust",
+      "zh": "星星沙子",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366973,
+      "en": "Star Piece",
+      "zh": "星星碎片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16366995,
+      "en": "Comet Shard",
+      "zh": "彗星碎片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367016,
+      "en": "Shoal Salt",
+      "zh": "浅滩海盐",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367035,
+      "en": "Shoal Shell",
+      "zh": "浅滩贝壳",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367056,
+      "en": "Red Shard",
+      "zh": "红色碎片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367074,
+      "en": "Blue Shard",
+      "zh": "蓝色碎片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367095,
+      "en": "Yellow Shard",
+      "zh": "黄色碎片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367117,
+      "en": "Green Shard",
+      "zh": "绿色碎片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367136,
+      "en": "Heart Scale",
+      "zh": "心之鳞片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367156,
+      "en": "Honey",
+      "zh": "甜甜蜜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367170,
+      "en": "Rare Bone",
+      "zh": "贵重骨头",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367194,
+      "en": "Odd Keystone",
+      "zh": "楔石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367217,
+      "en": "Pretty Feather",
+      "zh": "美丽之羽",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367239,
+      "en": "Relic Copper",
+      "zh": "古代铜币",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367257,
+      "en": "Relic Silver",
+      "zh": "古代银币",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367277,
+      "en": "Relic Gold",
+      "zh": "古代金币",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367295,
+      "en": "Relic Vase",
+      "zh": "古代之壶",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367315,
+      "en": "Relic Band",
+      "zh": "古代手镯",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367335,
+      "en": "Relic Statue",
+      "zh": "古代石像",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367357,
+      "en": "Relic Crown",
+      "zh": "古代王冠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367376,
+      "en": "Strange Souvenir",
+      "zh": "神秘摆设",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367401,
+      "en": "Helix Fossil",
+      "zh": "贝壳化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367417,
+      "en": "Dome Fossil",
+      "zh": "甲壳化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367436,
+      "en": "Old Amber",
+      "zh": "秘密琥珀",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367454,
+      "en": "Root Fossil",
+      "zh": "根状化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367476,
+      "en": "Claw Fossil",
+      "zh": "爪子化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367496,
+      "en": "Armor Fossil",
+      "zh": "盾甲化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367517,
+      "en": "Skull Fossil",
+      "zh": "头盖化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367537,
+      "en": "Cover Fossil",
+      "zh": "背盖化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367557,
+      "en": "Plume Fossil",
+      "zh": "羽毛化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367577,
+      "en": "Jaw Fossil",
+      "zh": "颚之化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367595,
+      "en": "Sail Fossil",
+      "zh": "鳍之化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367616,
+      "en": "Fossilized Bird",
+      "zh": "化石鸟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367640,
+      "en": "Fossilized Fish",
+      "zh": "化石鱼",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367660,
+      "en": "Fossilized Drake",
+      "zh": "化石龙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367681,
+      "en": "Fossilized Dino",
+      "zh": "化石海兽",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367700,
+      "en": "Growth Mulch",
+      "zh": "速速肥",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367717,
+      "en": "Damp Mulch",
+      "zh": "湿湿肥",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367735,
+      "en": "Stable Mulch",
+      "zh": "久久肥",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367757,
+      "en": "Gooey Mulch",
+      "zh": "粘粘肥",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367776,
+      "en": "Rich Mulch",
+      "zh": "硕果肥",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367795,
+      "en": "Surprise Mulch",
+      "zh": "吃惊肥",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367819,
+      "en": "Boost Mulch",
+      "zh": "劲劲肥",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367836,
+      "en": "Amaze Mulch",
+      "zh": "超效肥",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367856,
+      "en": "Red Apricorn",
+      "zh": "红球果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367877,
+      "en": "Blue Apricorn",
+      "zh": "蓝球果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367898,
+      "en": "Yellow Apricorn",
+      "zh": "黄球果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367920,
+      "en": "Green Apricorn",
+      "zh": "绿球果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367939,
+      "en": "Pink Apricorn",
+      "zh": "粉球果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367958,
+      "en": "White Apricorn",
+      "zh": "白球果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367979,
+      "en": "Black Apricorn",
+      "zh": "黑球果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16367999,
+      "en": "Wishing Piece",
+      "zh": "许愿星块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368018,
+      "en": "Galarica Twig",
+      "zh": "伽勒豆蔻枝",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368038,
+      "en": "Armorite Ore",
+      "zh": "铠甲矿石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368057,
+      "en": "Dynite Ore",
+      "zh": "极矿石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368075,
+      "en": "Orange Mail",
+      "zh": "橙色邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368096,
+      "en": "Harbor Mail",
+      "zh": "港口邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368116,
+      "en": "Glitter Mail",
+      "zh": "闪亮邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368137,
+      "en": "Mech Mail",
+      "zh": "机械邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368154,
+      "en": "Wood Mail",
+      "zh": "木纹邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368174,
+      "en": "Wave Mail",
+      "zh": "波浪邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368194,
+      "en": "Bead Mail",
+      "zh": "珠子邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368214,
+      "en": "Shadow Mail",
+      "zh": "暗影邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368236,
+      "en": "Tropic Mail",
+      "zh": "热带邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368256,
+      "en": "Dream Mail",
+      "zh": "梦幻邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368275,
+      "en": "Fab Mail",
+      "zh": "华丽邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368293,
+      "en": "Retro Mail",
+      "zh": "怀旧邮件",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16368315,
+      "en": "Fire Stone",
+      "zh": "火之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368335,
+      "en": "Water Stone",
+      "zh": "水之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368356,
+      "en": "Thunder Stone",
+      "zh": "雷之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368378,
+      "en": "Leaf Stone",
+      "zh": "叶之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368395,
+      "en": "Ice Stone",
+      "zh": "冰之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368414,
+      "en": "Sun Stone",
+      "zh": "日之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368434,
+      "en": "Moon Stone",
+      "zh": "月之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368455,
+      "en": "Shiny Stone",
+      "zh": "光之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368476,
+      "en": "Dusk Stone",
+      "zh": "暗之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368495,
+      "en": "Dawn Stone",
+      "zh": "觉醒之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368515,
+      "en": "Sweet Apple",
+      "zh": "甜甜苹果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368536,
+      "en": "Tart Apple",
+      "zh": "酸酸苹果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368555,
+      "en": "Cracked Pot",
+      "zh": "破裂的茶壶",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368576,
+      "en": "Chipped Pot",
+      "zh": "缺损的茶壶",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368596,
+      "en": "Galarica Cuff",
+      "zh": "伽勒豆蔻手环",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368618,
+      "en": "Galarica Wreath",
+      "zh": "伽勒豆蔻花圈",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368640,
+      "en": "Dragon Scale",
+      "zh": "龙之鳞片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368657,
+      "en": "Upgrade",
+      "zh": "升级数据",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368672,
+      "en": "Protector",
+      "zh": "护具",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368694,
+      "en": "Electirizer",
+      "zh": "电力增幅器",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368716,
+      "en": "Magmarizer",
+      "zh": "熔岩增幅器",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368735,
+      "en": "Dubious Disc",
+      "zh": "可疑补丁",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368757,
+      "en": "Reaper Cloth",
+      "zh": "灵界之布",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368777,
+      "en": "Prism Scale",
+      "zh": "美丽鳞片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368796,
+      "en": "Whipped Dream",
+      "zh": "泡沫奶油",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368818,
+      "en": "Sachet",
+      "zh": "香袋",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368831,
+      "en": "Oval Stone",
+      "zh": "浑圆之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368855,
+      "en": "Strawberry Sweet",
+      "zh": "草莓糖饰",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368881,
+      "en": "Love Sweet",
+      "zh": "爱心糖饰",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368895,
+      "en": "Berry Sweet",
+      "zh": "野莓糖饰",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368916,
+      "en": "Clover Sweet",
+      "zh": "幸运草糖饰",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368937,
+      "en": "Flower Sweet",
+      "zh": "花朵糖饰",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368957,
+      "en": "Star Sweet",
+      "zh": "星星糖饰",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368975,
+      "en": "Ribbon Sweet",
+      "zh": "蝴蝶结糖饰",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16368997,
+      "en": "Everstone",
+      "zh": "不变之石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369014,
+      "en": "Red Nectar",
+      "zh": "朱红色花蜜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369035,
+      "en": "Yellow Nectar",
+      "zh": "金黄色花蜜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369058,
+      "en": "Pink Nectar",
+      "zh": "桃粉色花蜜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369076,
+      "en": "Purple Nectar",
+      "zh": "兰紫色花蜜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369098,
+      "en": "Flame Plate",
+      "zh": "火球石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369116,
+      "en": "Splash Plate",
+      "zh": "水滴石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369137,
+      "en": "Zap Plate",
+      "zh": "雷电石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369154,
+      "en": "Meadow Plate",
+      "zh": "碧绿石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369177,
+      "en": "Icicle Plate",
+      "zh": "冰柱石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369197,
+      "en": "Fist Plate",
+      "zh": "拳头石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369215,
+      "en": "Toxic Plate",
+      "zh": "剧毒石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369236,
+      "en": "Earth Plate",
+      "zh": "大地石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369256,
+      "en": "Sky Plate",
+      "zh": "蓝天石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369274,
+      "en": "Mind Plate",
+      "zh": "神奇石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369295,
+      "en": "Insect Plate",
+      "zh": "玉虫石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369317,
+      "en": "Stone Plate",
+      "zh": "岩石石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369336,
+      "en": "Spooky Plate",
+      "zh": "妖怪石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369357,
+      "en": "Draco Plate",
+      "zh": "龙之石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369376,
+      "en": "Dread Plate",
+      "zh": "恶颜石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369396,
+      "en": "Iron Plate",
+      "zh": "钢铁石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369415,
+      "en": "Pixie Plate",
+      "zh": "妖精石板",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369436,
+      "en": "Douse Drive",
+      "zh": "水流卡带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369456,
+      "en": "Shock Drive",
+      "zh": "闪电卡带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369476,
+      "en": "Burn Drive",
+      "zh": "火焰卡带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369495,
+      "en": "Chill Drive",
+      "zh": "冰冻卡带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369516,
+      "en": "Fire Memory",
+      "zh": "火焰存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369536,
+      "en": "Water Memory",
+      "zh": "清水存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369557,
+      "en": "Electric Memory",
+      "zh": "电子存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369580,
+      "en": "Grass Memory",
+      "zh": "青草存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369597,
+      "en": "Ice Memory",
+      "zh": "冰雪存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369615,
+      "en": "Fighting Memory",
+      "zh": "战斗存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369640,
+      "en": "Poison Memory",
+      "zh": "毒存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369658,
+      "en": "Ground Memory",
+      "zh": "大地存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369678,
+      "en": "Flying Memory",
+      "zh": "飞翔存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369698,
+      "en": "Psychic Memory",
+      "zh": "精神存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369719,
+      "en": "Bug Memory",
+      "zh": "虫子存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369735,
+      "en": "Rock Memory",
+      "zh": "岩石存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369756,
+      "en": "Ghost Memory",
+      "zh": "幽灵存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369777,
+      "en": "Dragon Memory",
+      "zh": "龙存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369798,
+      "en": "Dark Memory",
+      "zh": "黑暗存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369816,
+      "en": "Steel Memory",
+      "zh": "钢铁存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369837,
+      "en": "Fairy Memory",
+      "zh": "妖精存储碟",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369857,
+      "en": "Rusted Sword",
+      "zh": "腐朽的剑",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369877,
+      "en": "Rusted Shield",
+      "zh": "腐朽的盾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369898,
+      "en": "Red Orb",
+      "zh": "朱红色宝珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369912,
+      "en": "Blue Orb",
+      "zh": "靛蓝色宝珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369933,
+      "en": "Venusaurite",
+      "zh": "妙蛙花进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369956,
+      "en": "Charizardite X",
+      "zh": "喷火龙进化石X",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369979,
+      "en": "Charizardite Y",
+      "zh": "喷火龙进化石Y",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16369999,
+      "en": "Blastoisinite",
+      "zh": "水箭龟进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370018,
+      "en": "Beedrillite",
+      "zh": "大针蜂进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370036,
+      "en": "Pidgeotite",
+      "zh": "大比鸟进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370055,
+      "en": "Alakazite",
+      "zh": "胡地进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370074,
+      "en": "Slowbronite",
+      "zh": "呆壳兽进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370096,
+      "en": "Gengarite",
+      "zh": "耿鬼进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370114,
+      "en": "Kangaskhanite",
+      "zh": "袋兽进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370138,
+      "en": "Pinsirite",
+      "zh": "凯罗斯进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370154,
+      "en": "Gyaradosite",
+      "zh": "暴鲤龙进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370176,
+      "en": "Aerodactylite",
+      "zh": "化石翼龙进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370198,
+      "en": "Mewtwonite X",
+      "zh": "超梦进化石X",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370217,
+      "en": "Mewtwonite Y",
+      "zh": "超梦进化石Y",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370237,
+      "en": "Ampharosite",
+      "zh": "电龙进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370256,
+      "en": "Steelixite",
+      "zh": "大钢蛇进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370275,
+      "en": "Scizorite",
+      "zh": "巨钳螳螂进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370294,
+      "en": "Heracronite",
+      "zh": "赫拉克罗斯进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370316,
+      "en": "Houndoominite",
+      "zh": "黑鲁加进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370338,
+      "en": "Tyranitarite",
+      "zh": "班基拉斯进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370357,
+      "en": "Sceptilite",
+      "zh": "蜥蜴王进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370375,
+      "en": "Blazikenite",
+      "zh": "火焰鸡进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370396,
+      "en": "Swampertite",
+      "zh": "巨沼怪进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370416,
+      "en": "Gardevoirite",
+      "zh": "沙奈朵进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370437,
+      "en": "Sablenite",
+      "zh": "勾魂眼进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370454,
+      "en": "Mawilite",
+      "zh": "大嘴娃进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370473,
+      "en": "Aggronite",
+      "zh": "波士可多拉进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370494,
+      "en": "Medichamite",
+      "zh": "恰雷姆进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370516,
+      "en": "Manectite",
+      "zh": "雷电兽进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370534,
+      "en": "Sharpedonite",
+      "zh": "巨牙鲨进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370557,
+      "en": "Cameruptite",
+      "zh": "喷火驼进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370576,
+      "en": "Altarianite",
+      "zh": "七夕青鸟进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370596,
+      "en": "Banettite",
+      "zh": "诅咒娃娃进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370614,
+      "en": "Absolite",
+      "zh": "阿勃梭鲁进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370633,
+      "en": "Glalitite",
+      "zh": "冰鬼护进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370654,
+      "en": "Salamencite",
+      "zh": "暴飞龙进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370676,
+      "en": "Metagrossite",
+      "zh": "巨金怪进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370697,
+      "en": "Latiasite",
+      "zh": "拉帝亚斯进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370714,
+      "en": "Latiosite",
+      "zh": "拉帝欧斯进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370734,
+      "en": "Lopunnite",
+      "zh": "长耳兔进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370754,
+      "en": "Garchompite",
+      "zh": "烈咬陆鲨进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370776,
+      "en": "Lucarionite",
+      "zh": "路卡利欧进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370796,
+      "en": "Abomasite",
+      "zh": "暴雪王进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370814,
+      "en": "Galladite",
+      "zh": "艾路雷朵进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370834,
+      "en": "Audinite",
+      "zh": "差不多娃娃进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370853,
+      "en": "Diancite",
+      "zh": "蒂安希进化石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370873,
+      "en": "Normal Gem",
+      "zh": "一般宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370895,
+      "en": "Fire Gem",
+      "zh": "火之宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370913,
+      "en": "Water Gem",
+      "zh": "水之宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370934,
+      "en": "Electric Gem",
+      "zh": "电之宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370957,
+      "en": "Grass Gem",
+      "zh": "草之宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370974,
+      "en": "Ice Gem",
+      "zh": "冰之宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16370992,
+      "en": "Fighting Gem",
+      "zh": "格斗宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371017,
+      "en": "Poison Gem",
+      "zh": "毒之宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371035,
+      "en": "Ground Gem",
+      "zh": "地面宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371055,
+      "en": "Flying Gem",
+      "zh": "飞行宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371075,
+      "en": "Psychic Gem",
+      "zh": "超能力宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371096,
+      "en": "Bug Gem",
+      "zh": "虫之宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371112,
+      "en": "Rock Gem",
+      "zh": "岩石宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371133,
+      "en": "Ghost Gem",
+      "zh": "幽灵宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371154,
+      "en": "Dragon Gem",
+      "zh": "龙之宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371175,
+      "en": "Dark Gem",
+      "zh": "恶之宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371193,
+      "en": "Steel Gem",
+      "zh": "钢之宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371214,
+      "en": "Fairy Gem",
+      "zh": "妖精宝石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371234,
+      "en": "Normalium Z",
+      "zh": "一般Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371256,
+      "en": "Firium Z",
+      "zh": "火Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371273,
+      "en": "Waterium Z",
+      "zh": "水Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371295,
+      "en": "Electrium Z",
+      "zh": "电Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371316,
+      "en": "Grassium Z",
+      "zh": "草Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371335,
+      "en": "Icium Z",
+      "zh": "冰Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371352,
+      "en": "Fightinium Z",
+      "zh": "格斗Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371377,
+      "en": "Poisonium Z",
+      "zh": "毒Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371396,
+      "en": "Groundium Z",
+      "zh": "地面Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371416,
+      "en": "Flyinium Z",
+      "zh": "飞行Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371435,
+      "en": "Psychium Z",
+      "zh": "超能力Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371455,
+      "en": "Buginium Z",
+      "zh": "虫Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371475,
+      "en": "Rockium Z",
+      "zh": "岩石Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371494,
+      "en": "Ghostium Z",
+      "zh": "幽灵Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371515,
+      "en": "Dragonium Z",
+      "zh": "龙Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371536,
+      "en": "Darkinium Z",
+      "zh": "恶Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371556,
+      "en": "Steelium Z",
+      "zh": "钢Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371575,
+      "en": "Fairium Z",
+      "zh": "妖精Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371594,
+      "en": "Pikanium Z",
+      "zh": "皮卡丘Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371615,
+      "en": "Eevium Z",
+      "zh": "伊布Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371633,
+      "en": "Snorlium Z",
+      "zh": "卡比兽Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371655,
+      "en": "Mewnium Z",
+      "zh": "梦幻Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371674,
+      "en": "Decidium Z",
+      "zh": "狙射树枭Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371695,
+      "en": "Incinium Z",
+      "zh": "炽焰咆哮虎Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371715,
+      "en": "Primarium Z",
+      "zh": "西狮海壬Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371736,
+      "en": "Lycanium Z",
+      "zh": "鬃岩狼人Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371755,
+      "en": "Mimikium Z",
+      "zh": "谜拟QZ",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371775,
+      "en": "Kommonium Z",
+      "zh": "杖尾鳞甲龙Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371796,
+      "en": "Tapunium Z",
+      "zh": "卡璞Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371815,
+      "en": "Solganium Z",
+      "zh": "索尔迦雷欧Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371836,
+      "en": "Lunalium Z",
+      "zh": "露奈雅拉Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371855,
+      "en": "Marshadium Z",
+      "zh": "玛夏多Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371877,
+      "en": "Aloraichium Z",
+      "zh": "阿罗雷Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371898,
+      "en": "Pikashunium Z",
+      "zh": "智皮卡Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371918,
+      "en": "Ultranecrozium Z",
+      "zh": "究极奈克洛Z",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371941,
+      "en": "Light Ball",
+      "zh": "电气球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371955,
+      "en": "Leek",
+      "zh": "大葱",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371969,
+      "en": "Thick Club",
+      "zh": "粗骨头",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16371995,
+      "en": "Lucky Punch",
+      "zh": "吉利拳",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372016,
+      "en": "Metal Powder",
+      "zh": "金属粉",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372037,
+      "en": "Quick Powder",
+      "zh": "速度粉",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372057,
+      "en": "Deep Sea Scale",
+      "zh": "深海鳞片",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372079,
+      "en": "Deep Sea Tooth",
+      "zh": "深海之牙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372099,
+      "en": "Soul Dew",
+      "zh": "心之水滴",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372113,
+      "en": "Adamant Orb",
+      "zh": "金刚宝珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372136,
+      "en": "Lustrous Orb",
+      "zh": "白玉宝珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372157,
+      "en": "Griseous Orb",
+      "zh": "白金宝珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372177,
+      "en": "Sea Incense",
+      "zh": "海潮薰香",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372196,
+      "en": "Lax Incense",
+      "zh": "悠闲薰香",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372216,
+      "en": "Odd Incense",
+      "zh": "奇异薰香",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372236,
+      "en": "Rock Incense",
+      "zh": "岩石薰香",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372257,
+      "en": "Full Incense",
+      "zh": "饱腹薰香",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372277,
+      "en": "Wave Incense",
+      "zh": "涟漪薰香",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372297,
+      "en": "Rose Incense",
+      "zh": "花朵薰香",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372317,
+      "en": "Luck Incense",
+      "zh": "幸运薰香",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372337,
+      "en": "Pure Incense",
+      "zh": "洁净薰香",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372357,
+      "en": "Red Scarf",
+      "zh": "红色头巾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372374,
+      "en": "Blue Scarf",
+      "zh": "蓝色头巾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372395,
+      "en": "Pink Scarf",
+      "zh": "粉红头巾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372415,
+      "en": "Green Scarf",
+      "zh": "绿色头巾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372436,
+      "en": "Yellow Scarf",
+      "zh": "黄色头巾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372457,
+      "en": "Macho Brace",
+      "zh": "强制锻炼器",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372476,
+      "en": "Power Weight",
+      "zh": "力量负重",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372497,
+      "en": "Power Bracer",
+      "zh": "力量护腕",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372517,
+      "en": "Power Belt",
+      "zh": "力量腰带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372535,
+      "en": "Power Lens",
+      "zh": "力量镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372555,
+      "en": "Power Band",
+      "zh": "力量束带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372575,
+      "en": "Power Anklet",
+      "zh": "力量护踝",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372597,
+      "en": "Silk Scarf",
+      "zh": "丝绸围巾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372615,
+      "en": "Charcoal",
+      "zh": "木炭",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372633,
+      "en": "Mystic Water",
+      "zh": "神秘水滴",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372657,
+      "en": "Magnet",
+      "zh": "磁铁",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372671,
+      "en": "Miracle Seed",
+      "zh": "奇迹种子",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372697,
+      "en": "Never-Melt Ice",
+      "zh": "不融冰",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372719,
+      "en": "Black Belt",
+      "zh": "黑带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372735,
+      "en": "Poison Barb",
+      "zh": "毒针",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372756,
+      "en": "Soft Sand",
+      "zh": "柔软沙子",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372774,
+      "en": "Sharp Beak",
+      "zh": "锐利鸟嘴",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372795,
+      "en": "Twisted Spoon",
+      "zh": "弯曲的汤匙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372818,
+      "en": "Silver Powder",
+      "zh": "银粉",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372838,
+      "en": "Hard Stone",
+      "zh": "硬石头",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372855,
+      "en": "Spell Tag",
+      "zh": "诅咒之符",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372874,
+      "en": "Dragon Fang",
+      "zh": "龙之牙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372896,
+      "en": "Black Glasses",
+      "zh": "黑色眼镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372918,
+      "en": "Metal Coat",
+      "zh": "金属膜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372935,
+      "en": "Choice Band",
+      "zh": "讲究头带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372956,
+      "en": "Choice Specs",
+      "zh": "讲究眼镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372977,
+      "en": "Choice Scarf",
+      "zh": "讲究围巾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16372997,
+      "en": "Flame Orb",
+      "zh": "火焰宝珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373014,
+      "en": "Toxic Orb",
+      "zh": "剧毒宝珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373034,
+      "en": "Damp Rock",
+      "zh": "潮湿岩石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373054,
+      "en": "Heat Rock",
+      "zh": "炽热岩石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373074,
+      "en": "Smooth Rock",
+      "zh": "沙沙岩石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373096,
+      "en": "Icy Rock",
+      "zh": "冰冷岩石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373113,
+      "en": "Electric Seed",
+      "zh": "电气种子",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373138,
+      "en": "Psychic Seed",
+      "zh": "精神种子",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373157,
+      "en": "Misty Seed",
+      "zh": "薄雾种子",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373175,
+      "en": "Grassy Seed",
+      "zh": "青草种子",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373196,
+      "en": "Absorb Bulb",
+      "zh": "球根",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373216,
+      "en": "Cell Battery",
+      "zh": "充电电池",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373237,
+      "en": "Luminous Moss",
+      "zh": "光苔",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373258,
+      "en": "Snowball",
+      "zh": "雪球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373273,
+      "en": "Bright Powder",
+      "zh": "光粉",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373298,
+      "en": "White Herb",
+      "zh": "白色香草",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373315,
+      "en": "Exp. Share",
+      "zh": "学习装置",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373335,
+      "en": "Quick Claw",
+      "zh": "先制之爪",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373355,
+      "en": "Soothe Bell",
+      "zh": "安抚之铃",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373376,
+      "en": "Mental Herb",
+      "zh": "心灵香草",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373396,
+      "en": "King's Rock",
+      "zh": "王者之证",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373416,
+      "en": "Amulet Coin",
+      "zh": "护符金币",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373436,
+      "en": "Cleanse Tag",
+      "zh": "洁净之符",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373456,
+      "en": "Smoke Ball",
+      "zh": "烟雾球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373475,
+      "en": "Focus Band",
+      "zh": "气势头带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373495,
+      "en": "Lucky Egg",
+      "zh": "幸运蛋",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373514,
+      "en": "Scope Lens",
+      "zh": "焦点镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373535,
+      "en": "Leftovers",
+      "zh": "吃剩的东西",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373554,
+      "en": "Shell Bell",
+      "zh": "贝壳之铃",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373575,
+      "en": "Wide Lens",
+      "zh": "广角镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373594,
+      "en": "Muscle Band",
+      "zh": "力量头带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373616,
+      "en": "Wise Glasses",
+      "zh": "博识眼镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373637,
+      "en": "Expert Belt",
+      "zh": "达人带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373656,
+      "en": "Light Clay",
+      "zh": "光之黏土",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373675,
+      "en": "Life Orb",
+      "zh": "生命宝珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373693,
+      "en": "Power Herb",
+      "zh": "强力香草",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373715,
+      "en": "Focus Sash",
+      "zh": "气势披带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373735,
+      "en": "Zoom Lens",
+      "zh": "对焦镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373754,
+      "en": "Metronome",
+      "zh": "节拍器",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373774,
+      "en": "Iron Ball",
+      "zh": "黑色铁球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373794,
+      "en": "Lagging Tail",
+      "zh": "后攻之尾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373817,
+      "en": "Destiny Knot",
+      "zh": "红线",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373837,
+      "en": "Black Sludge",
+      "zh": "黑色污泥",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373857,
+      "en": "Grip Claw",
+      "zh": "紧缠钩爪",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373874,
+      "en": "Sticky Barb",
+      "zh": "附着针",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373896,
+      "en": "Shed Shell",
+      "zh": "美丽空壳",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373915,
+      "en": "Big Root",
+      "zh": "大根茎",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373933,
+      "en": "Razor Claw",
+      "zh": "锐利之爪",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373955,
+      "en": "Razor Fang",
+      "zh": "锐利之牙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373975,
+      "en": "Eviolite",
+      "zh": "进化奇石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16373993,
+      "en": "Float Stone",
+      "zh": "轻石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374016,
+      "en": "Rocky Helmet",
+      "zh": "凸凸头盔",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374037,
+      "en": "Air Balloon",
+      "zh": "气球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374056,
+      "en": "Red Card",
+      "zh": "红牌",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374073,
+      "en": "Ring Target",
+      "zh": "标靶",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374096,
+      "en": "Binding Band",
+      "zh": "紧绑束带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374117,
+      "en": "Eject Button",
+      "zh": "逃脱按键",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374137,
+      "en": "Weakness Policy",
+      "zh": "弱点保险",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374160,
+      "en": "Assault Vest",
+      "zh": "突击背心",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374177,
+      "en": "Safety Goggles",
+      "zh": "防尘护目镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374199,
+      "en": "Adrenaline Orb",
+      "zh": "胆怯球",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374219,
+      "en": "Terrain Extender",
+      "zh": "大地膜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374241,
+      "en": "Protective Pads",
+      "zh": "部位护具",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374260,
+      "en": "Throat Spray",
+      "zh": "爽喉喷雾",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374277,
+      "en": "Eject Pack",
+      "zh": "避难背包",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374295,
+      "en": "Heavy-Duty Boots",
+      "zh": "厚底靴",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374321,
+      "en": "Blunder Policy",
+      "zh": "打空保险",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374339,
+      "en": "Room Service",
+      "zh": "客房服务",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374357,
+      "en": "Utility Umbrella",
+      "zh": "万能伞",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374381,
+      "en": "Cheri Berry",
+      "zh": "樱子果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374396,
+      "en": "Chesto Berry",
+      "zh": "零余果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374417,
+      "en": "Pecha Berry",
+      "zh": "桃桃果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374436,
+      "en": "Rawst Berry",
+      "zh": "莓莓果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374456,
+      "en": "Aspear Berry",
+      "zh": "利木果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374477,
+      "en": "Leppa Berry",
+      "zh": "苹野果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374496,
+      "en": "Oran Berry",
+      "zh": "橙橙果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374515,
+      "en": "Persim Berry",
+      "zh": "柿仔果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374537,
+      "en": "Lum Berry",
+      "zh": "木子果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374554,
+      "en": "Sitrus Berry",
+      "zh": "文柚果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374577,
+      "en": "Figy Berry",
+      "zh": "勿花果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374595,
+      "en": "Wiki Berry",
+      "zh": "异奇果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374615,
+      "en": "Mago Berry",
+      "zh": "芒芒果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374635,
+      "en": "Aguav Berry",
+      "zh": "乐芭果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374656,
+      "en": "Iapapa Berry",
+      "zh": "芭亚果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374677,
+      "en": "Razz Berry",
+      "zh": "蔓莓果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374695,
+      "en": "Bluk Berry",
+      "zh": "墨莓果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374715,
+      "en": "Nanab Berry",
+      "zh": "蕉香果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374736,
+      "en": "Wepear Berry",
+      "zh": "西梨果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374757,
+      "en": "Pinap Berry",
+      "zh": "凰梨果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374776,
+      "en": "Pomeg Berry",
+      "zh": "榴石果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374796,
+      "en": "Kelpsy Berry",
+      "zh": "藻根果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374817,
+      "en": "Qualot Berry",
+      "zh": "比巴果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374837,
+      "en": "Hondew Berry",
+      "zh": "哈密果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374857,
+      "en": "Grepa Berry",
+      "zh": "萄葡果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374876,
+      "en": "Tamato Berry",
+      "zh": "茄番果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374897,
+      "en": "Cornn Berry",
+      "zh": "玉黍果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374916,
+      "en": "Magost Berry",
+      "zh": "岳竹果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374937,
+      "en": "Rabuta Berry",
+      "zh": "茸丹果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374957,
+      "en": "Nomel Berry",
+      "zh": "檬柠果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374976,
+      "en": "Spelon Berry",
+      "zh": "刺角果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16374997,
+      "en": "Pamtre Berry",
+      "zh": "椰木果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375017,
+      "en": "Watmel Berry",
+      "zh": "瓜西果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375037,
+      "en": "Durin Berry",
+      "zh": "金枕果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375056,
+      "en": "Belue Berry",
+      "zh": "靛莓果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375076,
+      "en": "Chilan Berry",
+      "zh": "灯浆果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375097,
+      "en": "Occa Berry",
+      "zh": "巧可果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375115,
+      "en": "Passho Berry",
+      "zh": "千香果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375137,
+      "en": "Wacan Berry",
+      "zh": "烛木果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375156,
+      "en": "Rindo Berry",
+      "zh": "罗子果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375176,
+      "en": "Yache Berry",
+      "zh": "番荔果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375196,
+      "en": "Chople Berry",
+      "zh": "莲蒲果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375217,
+      "en": "Kebia Berry",
+      "zh": "通通果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375236,
+      "en": "Shuca Berry",
+      "zh": "腰木果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375256,
+      "en": "Coba Berry",
+      "zh": "棱瓜果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375275,
+      "en": "Payapa Berry",
+      "zh": "福禄果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375297,
+      "en": "Tanga Berry",
+      "zh": "扁樱果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375316,
+      "en": "Charti Berry",
+      "zh": "草蚕果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375337,
+      "en": "Kasib Berry",
+      "zh": "佛柑果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375356,
+      "en": "Haban Berry",
+      "zh": "莓榴果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375376,
+      "en": "Colbur Berry",
+      "zh": "刺耳果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375397,
+      "en": "Babiri Berry",
+      "zh": "霹霹果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375417,
+      "en": "Roseli Berry",
+      "zh": "洛玫果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375437,
+      "en": "Liechi Berry",
+      "zh": "枝荔果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375457,
+      "en": "Ganlon Berry",
+      "zh": "龙睛果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375477,
+      "en": "Salac Berry",
+      "zh": "沙鳞果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375496,
+      "en": "Petaya Berry",
+      "zh": "龙火果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375517,
+      "en": "Apicot Berry",
+      "zh": "杏仔果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375537,
+      "en": "Lansat Berry",
+      "zh": "兰萨果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375557,
+      "en": "Starf Berry",
+      "zh": "星桃果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375576,
+      "en": "Enigma Berry",
+      "zh": "谜芝果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375597,
+      "en": "Micle Berry",
+      "zh": "奇秘果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375616,
+      "en": "Custap Berry",
+      "zh": "释陀果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375637,
+      "en": "Jaboca Berry",
+      "zh": "嘉珍果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375657,
+      "en": "Rowap Berry",
+      "zh": "雾莲果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375676,
+      "en": "Kee Berry",
+      "zh": "亚开果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375694,
+      "en": "Maranga Berry",
+      "zh": "香罗果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375718,
+      "en": "Enigma Berry",
+      "zh": "谜芝果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16375737,
+      "en": "TM01",
+      "zh": "招式01",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375749,
+      "en": "TM02",
+      "zh": "招式02",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375769,
+      "en": "TM03",
+      "zh": "招式03",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375789,
+      "en": "TM04",
+      "zh": "招式04",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375809,
+      "en": "TM05",
+      "zh": "招式05",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375829,
+      "en": "TM06",
+      "zh": "招式06",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375849,
+      "en": "TM07",
+      "zh": "招式07",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375869,
+      "en": "TM08",
+      "zh": "招式08",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375889,
+      "en": "TM09",
+      "zh": "招式09",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375909,
+      "en": "TM10",
+      "zh": "招式10",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375929,
+      "en": "TM11",
+      "zh": "招式11",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375949,
+      "en": "TM12",
+      "zh": "招式12",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375969,
+      "en": "TM13",
+      "zh": "招式13",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16375989,
+      "en": "TM14",
+      "zh": "招式14",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376009,
+      "en": "TM15",
+      "zh": "招式15",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376029,
+      "en": "TM16",
+      "zh": "招式16",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376049,
+      "en": "TM17",
+      "zh": "招式17",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376069,
+      "en": "TM18",
+      "zh": "招式18",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376089,
+      "en": "TM19",
+      "zh": "招式19",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376109,
+      "en": "TM20",
+      "zh": "招式20",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376129,
+      "en": "TM21",
+      "zh": "招式21",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376149,
+      "en": "TM22",
+      "zh": "招式22",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376169,
+      "en": "TM23",
+      "zh": "招式23",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376189,
+      "en": "TM24",
+      "zh": "招式24",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376209,
+      "en": "TM25",
+      "zh": "招式25",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376229,
+      "en": "TM26",
+      "zh": "招式26",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376249,
+      "en": "TM27",
+      "zh": "招式27",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376269,
+      "en": "TM28",
+      "zh": "招式28",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376289,
+      "en": "TM29",
+      "zh": "招式29",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376309,
+      "en": "TM30",
+      "zh": "招式30",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376329,
+      "en": "TM31",
+      "zh": "招式31",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376349,
+      "en": "TM32",
+      "zh": "招式32",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376369,
+      "en": "TM33",
+      "zh": "招式33",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376389,
+      "en": "TM34",
+      "zh": "招式34",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376409,
+      "en": "TM35",
+      "zh": "招式35",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376429,
+      "en": "TM36",
+      "zh": "招式36",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376449,
+      "en": "TM37",
+      "zh": "招式37",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376469,
+      "en": "TM38",
+      "zh": "招式38",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376489,
+      "en": "TM39",
+      "zh": "招式39",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376509,
+      "en": "TM40",
+      "zh": "招式40",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376529,
+      "en": "TM41",
+      "zh": "招式41",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376549,
+      "en": "TM42",
+      "zh": "招式42",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376569,
+      "en": "TM43",
+      "zh": "招式43",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376589,
+      "en": "TM44",
+      "zh": "招式44",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376609,
+      "en": "TM45",
+      "zh": "招式45",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376629,
+      "en": "TM46",
+      "zh": "招式46",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376649,
+      "en": "TM47",
+      "zh": "招式47",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376669,
+      "en": "TM48",
+      "zh": "招式48",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376689,
+      "en": "TM49",
+      "zh": "招式49",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16376709,
+      "en": "TM50",
+      "zh": "招式50",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16377749,
+      "en": "HM02",
+      "zh": "秘传02",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16377769,
+      "en": "HM03",
+      "zh": "秘传03",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16377789,
+      "en": "HM04",
+      "zh": "秘传04",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16377809,
+      "en": "HM05",
+      "zh": "秘传05",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16377829,
+      "en": "HM06",
+      "zh": "秘传06",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16377849,
+      "en": "HM07",
+      "zh": "秘传07",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16377869,
+      "en": "HM08",
+      "zh": "秘传08",
+      "source": "rom-abbreviation"
+    },
+    {
+      "offset": 16377889,
+      "en": "Oval Charm",
+      "zh": "圆形护符",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16377915,
+      "en": "Shiny Charm",
+      "zh": "闪耀护符",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16377936,
+      "en": "Catching Charm",
+      "zh": "防晃护符",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16377959,
+      "en": "Exp. Charm",
+      "zh": "经验护符",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16377975,
+      "en": "Rotom Catalog",
+      "zh": "洛托姆型录",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16377998,
+      "en": "Gracidea",
+      "zh": "葛拉西蒂亚花",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378013,
+      "en": "Reveal Glass",
+      "zh": "现形镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378037,
+      "en": "DNA Splicers",
+      "zh": "基因之楔",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378057,
+      "en": "Zygarde Cube",
+      "zh": "基格尔德多面体",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378077,
+      "en": "Prison Bottle",
+      "zh": "惩戒之壶",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378098,
+      "en": "N-Solarizer",
+      "zh": "奈克洛索尔合体器",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378116,
+      "en": "N-Lunarizer",
+      "zh": "奈克洛露奈合体器",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378136,
+      "en": "Reins of Unity",
+      "zh": "牵绊缰绳",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378159,
+      "en": "Mega Ring",
+      "zh": "超级环",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378174,
+      "en": "Z-Power Ring",
+      "zh": "Z强力手环",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378197,
+      "en": "Dynamax Band",
+      "zh": "极巨腕带",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378217,
+      "en": "Bicycle",
+      "zh": "自行车",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378232,
+      "en": "Mach Bike",
+      "zh": "音速自行车",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378254,
+      "en": "Acro Bike",
+      "zh": "越野自行车",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378274,
+      "en": "Old Rod",
+      "zh": "破旧钓竿",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378292,
+      "en": "Good Rod",
+      "zh": "好钓竿",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378313,
+      "en": "Super Rod",
+      "zh": "厉害钓竿",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378334,
+      "en": "Dowsing Machine",
+      "zh": "探宝器",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378360,
+      "en": "Town Map",
+      "zh": "城镇地图",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378373,
+      "en": "Vs. Seeker",
+      "zh": "对战搜寻器",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378395,
+      "en": "TM Case",
+      "zh": "招式学习器盒",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378412,
+      "en": "Berry Pouch",
+      "zh": "树果袋",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378436,
+      "en": "{53}{54} Box Link",
+      "zh": "盒子连接",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378456,
+      "en": "Coin Case",
+      "zh": "代币盒",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378474,
+      "en": "Powder Jar",
+      "zh": "粉末罐",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378495,
+      "en": "Wailmer Pail",
+      "zh": "吼吼鲸喷壶",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378517,
+      "en": "Poké Radar",
+      "zh": "宝可追踪",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378535,
+      "en": "Pokéblock Case",
+      "zh": "宝可方块盒",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378559,
+      "en": "Soot Sack",
+      "zh": "集灰袋",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378574,
+      "en": "Poké Flute",
+      "zh": "宝可梦之笛",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378595,
+      "en": "Fame Checker",
+      "zh": "名人检查器",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378617,
+      "en": "Teachy TV",
+      "zh": "教学电视",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378634,
+      "en": "S.S. Ticket",
+      "zh": "船票",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378656,
+      "en": "Eon Ticket",
+      "zh": "无限船票",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378675,
+      "en": "Mystic Ticket",
+      "zh": "神秘船票",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378698,
+      "en": "Aurora Ticket",
+      "zh": "极光船票",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378718,
+      "en": "Old Sea Map",
+      "zh": "古航海图",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378736,
+      "en": "Letter",
+      "zh": "给大吾的信",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378751,
+      "en": "Devon Parts",
+      "zh": "得文的物品",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378776,
+      "en": "Go-Goggles",
+      "zh": "GOGO护目镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378795,
+      "en": "Devon Scope",
+      "zh": "得文侦测镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378816,
+      "en": "Basement Key",
+      "zh": "地下钥匙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378837,
+      "en": "Scanner",
+      "zh": "探测器",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378852,
+      "en": "Storage Key",
+      "zh": "仓库钥匙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378876,
+      "en": "Key to Room 1",
+      "zh": "1号客房的钥匙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378898,
+      "en": "Key to Room 2",
+      "zh": "2号客房的钥匙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378918,
+      "en": "Key to Room 4",
+      "zh": "4号客房的钥匙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378938,
+      "en": "Key to Room 6",
+      "zh": "6号客房的钥匙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378958,
+      "en": "Meteorite",
+      "zh": "陨石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16378974,
+      "en": "Magma Emblem",
+      "zh": "熔岩队之证",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16378997,
+      "en": "Contest Pass",
+      "zh": "华丽大赛参加证",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379017,
+      "en": "Parcel",
+      "zh": "包裹",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379031,
+      "en": "Secret Key",
+      "zh": "秘密钥匙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379055,
+      "en": "Bike Voucher",
+      "zh": "自行车兑换券",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16379077,
+      "en": "Gold Teeth",
+      "zh": "金假牙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379095,
+      "en": "Card Key",
+      "zh": "钥匙卡",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379113,
+      "en": "Lift Key",
+      "zh": "电梯钥匙",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379133,
+      "en": "Silph Scope",
+      "zh": "西尔佛检视镜",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379156,
+      "en": "Tri-Pass",
+      "zh": "三岛通证",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16379173,
+      "en": "Rainbow Pass",
+      "zh": "彩虹通行证",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16379197,
+      "en": "Tea",
+      "zh": "茶",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379208,
+      "en": "Ruby",
+      "zh": "红玉",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16379229,
+      "en": "Sapphire",
+      "zh": "蓝宝石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16379253,
+      "en": "Adamant Crystal",
+      "zh": "大金刚宝玉",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379280,
+      "en": "Lustrous Globe",
+      "zh": "大白宝玉",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379299,
+      "en": "Ability Shield",
+      "zh": "特性护具",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379319,
+      "en": "Clear Amulet",
+      "zh": "清净坠饰",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379337,
+      "en": "Punching Glove",
+      "zh": "拳击手套",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379359,
+      "en": "Covert Cloak",
+      "zh": "密探斗篷",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379377,
+      "en": "Loaded Dice",
+      "zh": "机变骰子",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379396,
+      "en": "Auspicious Armor",
+      "zh": "庆祝之铠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379421,
+      "en": "Booster Energy",
+      "zh": "驱劲能量",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379439,
+      "en": "Big Bamboo Shoot",
+      "zh": "大竹笋",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379461,
+      "en": "Gimmighoul Coin",
+      "zh": "索财灵的硬币",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379480,
+      "en": "Leader's Crest",
+      "zh": "头领凭证",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379499,
+      "en": "Malicious Armor",
+      "zh": "咒术之铠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379520,
+      "en": "Mirror Herb",
+      "zh": "模仿香草",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379536,
+      "en": "Scroll of Darkness",
+      "zh": "恶之挂轴",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379563,
+      "en": "Scroll of Waters",
+      "zh": "水之挂轴",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379581,
+      "en": "Tera Orb",
+      "zh": "太晶珠",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379593,
+      "en": "Tiny Bamboo Shoot",
+      "zh": "小竹笋",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379622,
+      "en": "Bug Tera Shard",
+      "zh": "虫太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379639,
+      "en": "Dark Tera Shard",
+      "zh": "恶太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379660,
+      "en": "Dragon Tera Shard",
+      "zh": "龙太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379682,
+      "en": "Electric Tera Shard",
+      "zh": "电太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379704,
+      "en": "Fairy Tera Shard",
+      "zh": "妖精太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379721,
+      "en": "Fighting Tera Shard",
+      "zh": "格斗太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379744,
+      "en": "Fire Tera Shard",
+      "zh": "火太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379760,
+      "en": "Flying Tera Shard",
+      "zh": "飞行太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379782,
+      "en": "Ghost Tera Shard",
+      "zh": "幽灵太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379801,
+      "en": "Grass Tera Shard",
+      "zh": "草太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379821,
+      "en": "Ground Tera Shard",
+      "zh": "地面太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379842,
+      "en": "Ice Tera Shard",
+      "zh": "冰太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379859,
+      "en": "Normal Tera Shard",
+      "zh": "一般太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379882,
+      "en": "Poison Tera Shard",
+      "zh": "毒太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379902,
+      "en": "Psychic Tera Shard",
+      "zh": "超能力太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379923,
+      "en": "Rock Tera Shard",
+      "zh": "岩石太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379940,
+      "en": "Steel Tera Shard",
+      "zh": "钢太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379961,
+      "en": "Water Tera Shard",
+      "zh": "水太晶碎块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379981,
+      "en": "Griseous Core",
+      "zh": "大白金宝玉",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16379998,
+      "en": "Black Augurite",
+      "zh": "黑奇石",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380019,
+      "en": "Linking Cord",
+      "zh": "联系绳",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380037,
+      "en": "Peat Block",
+      "zh": "泥炭块",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380055,
+      "en": "Berserk Gene",
+      "zh": "疯狂基因",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380077,
+      "en": "Syrupy Apple",
+      "zh": "蜜汁苹果",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380097,
+      "en": "Unremarkable Teacup",
+      "zh": "凡作茶碗",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380124,
+      "en": "Masterpiece Teacup",
+      "zh": "杰作茶碗",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380143,
+      "en": "Wellspring Mask",
+      "zh": "水井面具",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380160,
+      "en": "Hearthflame Mask",
+      "zh": "火灶面具",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380181,
+      "en": "Cornerstone Mask",
+      "zh": "础石面具",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380201,
+      "en": "Prop Case",
+      "zh": "物品箱",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380214,
+      "en": "Metal Alloy",
+      "zh": "复合金属",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380236,
+      "en": "Pastry Bag",
+      "zh": "糕点袋",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380255,
+      "en": "Stellar Tera Shard",
+      "zh": "星晶太晶碎块",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380283,
+      "en": "Reset Tera Shard",
+      "zh": "重置太晶碎块",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380301,
+      "en": "Fairy Feather",
+      "zh": "妖精之羽",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380318,
+      "en": "Health Mochi",
+      "zh": "体力粘糕",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380337,
+      "en": "Muscle Mochi",
+      "zh": "肌力粘糕",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380357,
+      "en": "Resist Mochi",
+      "zh": "抵抗粘糕",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380377,
+      "en": "Genius Mochi",
+      "zh": "智力粘糕",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380397,
+      "en": "Clever Mochi",
+      "zh": "精神粘糕",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380417,
+      "en": "Swift Mochi",
+      "zh": "瞬发粘糕",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380436,
+      "en": "Fresh Start Mochi",
+      "zh": "净空糍",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380462,
+      "en": "Glimmering Charm",
+      "zh": "晶耀护符",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16380481,
+      "en": "Jubilife Muffin",
+      "zh": "祝庆玛芬",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380500,
+      "en": "Remedy",
+      "zh": "好伤药",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380511,
+      "en": "Fine Remedy",
+      "zh": "厉害伤药",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380536,
+      "en": "Superb Remedy",
+      "zh": "超厉害伤药",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380558,
+      "en": "Aux Evasion",
+      "zh": "闪避强化",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380576,
+      "en": "Aux Guard",
+      "zh": "防守强化",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380594,
+      "en": "Aux Power",
+      "zh": "力量强化",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380614,
+      "en": "Aux Powerguard",
+      "zh": "全力强化",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380639,
+      "en": "Choice Dumpling",
+      "zh": "选择粽",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380660,
+      "en": "Swap Snack",
+      "zh": "换位零食",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380675,
+      "en": "Twice-Spiced Radish",
+      "zh": "双倍腌菜",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380704,
+      "en": "Pokéshi Doll",
+      "zh": "宝可梦木雕",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380717,
+      "en": "Gender Pill",
+      "zh": "性别药丸",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380736,
+      "en": "Max Candy",
+      "zh": "满级糖果",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380754,
+      "en": "Clefablite",
+      "zh": "皮可西石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380775,
+      "en": "Victreebelite",
+      "zh": "大食花石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380798,
+      "en": "Starminite",
+      "zh": "宝石海星石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380815,
+      "en": "Dragoninite",
+      "zh": "快龙石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380836,
+      "en": "Meganiumite",
+      "zh": "大竺葵石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380856,
+      "en": "Feraligite",
+      "zh": "大力鳄石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380875,
+      "en": "Skarmorite",
+      "zh": "盔甲鸟石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380895,
+      "en": "Froslassite",
+      "zh": "雪妖女石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380916,
+      "en": "Emboarite",
+      "zh": "炎武王石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380934,
+      "en": "Excadrite",
+      "zh": "龙头地鼠石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380954,
+      "en": "Scolipite",
+      "zh": "蜈蚣王石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380974,
+      "en": "Scraftinite",
+      "zh": "头巾混混石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16380996,
+      "en": "Eelektrossite",
+      "zh": "麻麻鳗鱼王石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381018,
+      "en": "Chandelurite",
+      "zh": "水晶灯火灵石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381037,
+      "en": "Chesnaughtite",
+      "zh": "布里卡隆石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381058,
+      "en": "Delphoxite",
+      "zh": "妖火红狐石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381075,
+      "en": "Greninjite",
+      "zh": "甲贺忍蛙石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381095,
+      "en": "Pyroarite",
+      "zh": "火炎狮石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381114,
+      "en": "Floettite",
+      "zh": "花叶蒂石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381134,
+      "en": "Malamarite",
+      "zh": "乌贼王石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381155,
+      "en": "Barbaracite",
+      "zh": "龟足巨铠石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381176,
+      "en": "Dragalgite",
+      "zh": "毒藻龙石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381195,
+      "en": "Hawluchanite",
+      "zh": "摔角鹰人石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381217,
+      "en": "Zygardite",
+      "zh": "基格尔德石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381234,
+      "en": "Drampanite",
+      "zh": "老翁龙石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381255,
+      "en": "Falinksite",
+      "zh": "列阵兵石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381275,
+      "en": "Raichunite X",
+      "zh": "雷丘石X",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381297,
+      "en": "Raichunite Y",
+      "zh": "雷丘石Y",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381317,
+      "en": "Chimechite",
+      "zh": "风铃铃石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381335,
+      "en": "Absolite Z",
+      "zh": "阿勃梭鲁石Z",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381355,
+      "en": "Staraptite",
+      "zh": "姆克鹰石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381375,
+      "en": "Garchompite Z",
+      "zh": "烈咬陆鲨石Z",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381398,
+      "en": "Lucarionite Z",
+      "zh": "路卡利欧石Z",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381418,
+      "en": "Heatranite",
+      "zh": "席多蓝恩石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381435,
+      "en": "Darkranite",
+      "zh": "达克莱伊石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381455,
+      "en": "Golurkite",
+      "zh": "泥偶巨人石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381474,
+      "en": "Meowsticite",
+      "zh": "超能妙喵石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381496,
+      "en": "Crabominite",
+      "zh": "好胜毛蟹石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381516,
+      "en": "Golisopite",
+      "zh": "具甲武者石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381535,
+      "en": "Magearnite",
+      "zh": "玛机雅娜石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381555,
+      "en": "Zeraorite",
+      "zh": "捷拉奥拉石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381574,
+      "en": "Scovillainite",
+      "zh": "狠辣椒石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381598,
+      "en": "Glimmoranite",
+      "zh": "晶光花石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381617,
+      "en": "Tatsugirinite",
+      "zh": "米立龙石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381638,
+      "en": "Baxcalibrite",
+      "zh": "戟脊龙石",
+      "source": "quetzal"
+    },
+    {
+      "offset": 16381657,
+      "en": "Bond Scroll",
+      "zh": "羁绊卷轴",
+      "source": "quetzal"
+    }
+  ]
+}

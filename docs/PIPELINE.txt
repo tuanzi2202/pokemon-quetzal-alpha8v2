@@ -34,8 +34,11 @@ archive/                历史一次性补丁与调查（不进日常构建）
 7. python tools/force_mode_zh.py     （新游戏难度/模式向导）
 8. python tools/force_randomizer_zh.py
 9. python tools/force_names_zh.py    （官方人名地名）
-10. python tools/diff_guard.py       （须 OK；PokemonSioInfo 区不变）
-11. copy work\cn_build.gba out\quetzal_084_cn.gba
+10. python tools/force_trainer_class_zh.py
+11. python tools/patch_battle_names_zh.py（宝可梦/招式/特性固定表）
+12. python tools/patch_items_zh.py    （827 个道具名 + 800 条说明）
+13. python tools/diff_guard.py       （须 OK；PokemonSioInfo 区不变）
+14. copy work\cn_build.gba out\quetzal_084_cn.gba
 
 维护（按需，非 build_all）
 --------------------------
@@ -65,7 +68,8 @@ mGBA 双开（同一 quetzal_084_cn.gba）：
 
 字库说明
 --------
-vendor/Pokemon_GBA_Font_Patch-main + vendor/armips.exe
+vendor/Pokemon_GBA_Font_Patch-main 内的 armips 2023 版
+Windows 构建会先由 tools/prepare_armips_source.py 展平 include，生成文件不入库。
 Quetzal 适配地址见 fontpatch/include/text.h
   CharRead hook  0x0800596C（真 RenderText@588C；勿用死副本 21CC68）
   AfterRead join 0x08005978

@@ -1,0 +1,4816 @@
+{
+  "provenance": {
+    "rom": "Pokemon Quetzal 0.8.4 English",
+    "name_range": [
+      16364032,
+      16381696
+    ],
+    "description_range": [
+      16297984,
+      16364032
+    ],
+    "pokeapi": "https://github.com/PokeAPI/pokeapi/tree/master/data/v2/csv"
+  },
+  "items": [
+    {
+      "offset": 16298450,
+      "en": "A tool used for\ncatching wild\nPokémon.",
+      "zh": "用于捕捉野生\n宝可梦的道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298489,
+      "en": "A good Ball with a\nhigher catch rate\nthan a Poké Ball.",
+      "zh": "性能不错的球,\n比精灵球更容易\n捉到宝可梦。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298544,
+      "en": "A better Ball with\na higher catch rate\nthan a Great Ball.",
+      "zh": "性能很好的球,\n比超级球更容易\n捉到宝可梦。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298602,
+      "en": "The best Ball that\ncatches a Pokémon\nwithout fail.",
+      "zh": "性能最好的球,\n能必定捉到\n宝可梦。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298653,
+      "en": "A rare Ball made\nin commemoration\nof some event.",
+      "zh": "为纪念某事件\n而特制的稀有球。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298702,
+      "en": "A remedial Ball\nthat restores\ncaught Pokémon.",
+      "zh": "捉到宝可梦后\n还能回复体力的球。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298748,
+      "en": "A Ball that works\nwell on Water- and\nBug-type Pokémon.",
+      "zh": "对水和虫属性\n宝可梦特别有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298803,
+      "en": "A Ball that works\nbetter on weaker\nPokémon.",
+      "zh": "对弱小的宝可梦\n特别有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298847,
+      "en": "A Ball that works\nbetter on Pokémon\non the ocean floor.",
+      "zh": "对海底的宝可梦\n特别有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298903,
+      "en": "Works well if\nused in a\ndark place.",
+      "zh": "在黑暗的地方\n使用效果很好。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298939,
+      "en": "A Ball that gains\npower in battles\ntaking many turns.",
+      "zh": "战斗回合越多,\n捕捉率越高。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16298993,
+      "en": "Works well if\nused on the\nfirst turn.",
+      "zh": "在第一回合使用\n效果很好。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299031,
+      "en": "A Ball that works\nbetter on Pokémon\ncaught before.",
+      "zh": "对曾经捉到过的\n宝可梦更有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299082,
+      "en": "A cozy Ball that\nmakes Pokémon\nmore friendly.",
+      "zh": "捉到后会让宝可梦\n变得更亲密。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299128,
+      "en": "A Ball that works\nwell on lower\nlevel Pokémon.",
+      "zh": "对等级低的\n宝可梦更有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299175,
+      "en": "A Ball that works\nwell on fished\nup Pokémon.",
+      "zh": "对钓上来的\n宝可梦更有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299220,
+      "en": "A Ball that works\nwell on Moon\nStone users.",
+      "zh": "对使用月之石\n进化的宝可梦有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299264,
+      "en": "A Ball that makes\na Pokémon friendly\nwhen caught.",
+      "zh": "捉到后会让宝可梦\n变得友好。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299314,
+      "en": "Works well on\nPokémon of the\nopposite gender.",
+      "zh": "对异性宝可梦\n特别有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299360,
+      "en": "Works well on\nvery fast\nPokémon.",
+      "zh": "对速度很快的\n宝可梦有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299393,
+      "en": "Works well on\nvery heavy\nPokémon.",
+      "zh": "对很重的\n宝可梦有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299427,
+      "en": "A Ball that works\nwell on sleeping\nPokémon.",
+      "zh": "对睡着的\n宝可梦有效。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299471,
+      "en": "A special Ball that\nis used only in the\nSafari Zone.",
+      "zh": "仅在狩猎地带\n使用的特殊球。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299524,
+      "en": "A special Ball used\nin the Bug-Catching\nContest.",
+      "zh": "捕虫大赛中\n使用的特殊球。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299573,
+      "en": "A Ball designed to\ncatch radiants.",
+      "zh": "专门用来捕捉\n光耀宝可梦的球。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299608,
+      "en": "A Ball designed to\ncatch Ultra Beasts.",
+      "zh": "专门用来捕捉\n究极异兽的球。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299647,
+      "en": "A rare Ball made\nin commemoration\nof some event.",
+      "zh": "为纪念某事件\n而特制的稀有球。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299696,
+      "en": "Restores the HP of\na Pokémon by\n20 points.",
+      "zh": "回复宝可梦\n20点HP。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299739,
+      "en": "Restores the HP of\na Pokémon by\n60 points.",
+      "zh": "回复宝可梦\n60点HP。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299782,
+      "en": "Restores the HP of\na Pokémon by\n120 points.",
+      "zh": "回复宝可梦\n120点HP。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299826,
+      "en": "Fully restores the\nHP of a Pokémon.",
+      "zh": "完全回复\n宝可梦的HP。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299862,
+      "en": "Fully restores the\nHP and status of a\nPokémon.",
+      "zh": "完全回复宝可梦的\nHP和异常状态。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299909,
+      "en": "Revives a fainted\nPokémon with half\nits HP.",
+      "zh": "让倒下的宝可梦\n以一半HP复活。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299953,
+      "en": "Revives a fainted\nPokémon with all\nits HP.",
+      "zh": "让倒下的宝可梦\n以全部HP复活。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16299996,
+      "en": "A mineral water\nthat restores HP\nby 30 points.",
+      "zh": "能回复30点HP的\n矿泉水。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300043,
+      "en": "A fizzy soda drink\nthat restores HP\nby 50 points.",
+      "zh": "能回复50点HP的\n汽水。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300093,
+      "en": "A very sweet drink\nthat restores HP\nby 70 points.",
+      "zh": "能回复70点HP的\n非常甜的饮料。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300143,
+      "en": "A nutritious milk\nthat restores HP\nby 100 points.",
+      "zh": "能回复100点HP的\n营养牛奶。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300193,
+      "en": "A bitter powder\nthat restores HP\nby 60 points.",
+      "zh": "能回复60点HP的\n苦味粉末。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300240,
+      "en": "A bitter root\nthat restores HP\nby 120 points.",
+      "zh": "能回复120点HP的\n苦根。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300286,
+      "en": "A bitter powder\nthat heals all\nstatus problems.",
+      "zh": "能治愈所有异常\n状态的苦粉末。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300334,
+      "en": "A very bitter herb\nthat revives a\nfainted Pokémon.",
+      "zh": "非常苦的药草。能让1只濒死的宝可梦回复所有HP。",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16300385,
+      "en": "Heals a poisoned\nPokémon.",
+      "zh": "治愈宝可梦的中毒。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16300411,
+      "en": "Heals a paralyzed\nPokémon.",
+      "zh": "治愈宝可梦的麻痹。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16300438,
+      "en": "Heals Pokémon\nof a burn.",
+      "zh": "治愈宝可梦的灼伤。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16300463,
+      "en": "Defrosts a frozen\nPokémon.",
+      "zh": "解除宝可梦的冰冻。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16300490,
+      "en": "Awakens a sleeping\nPokémon.",
+      "zh": "唤醒睡眠中的宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16300518,
+      "en": "Heals all the\nstatus problems of\none Pokémon.",
+      "zh": "治愈宝可梦的所有\n异常状态。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16300564,
+      "en": "Restores the PP\nof a selected move\nby 10.",
+      "zh": "将所选招式的PP恢复10点。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300606,
+      "en": "Fully restores the\nPP of a selected\nmove.",
+      "zh": "让所选招式的PP\n完全回复。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300648,
+      "en": "Restores the PP\nof all moves by 10.",
+      "zh": "让所有招式的PP\n各回复10。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300684,
+      "en": "Fully restores the\nPP of a Pokémon's\nmoves.",
+      "zh": "让宝可梦所有招式的\nPP完全回复。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16300728,
+      "en": "A 100{5B} pure juice\nthat restores HP\nby 20 points.",
+      "zh": "能回复20点HP的\n100%果汁。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300777,
+      "en": "Fully revives and\nrestores all\nfainted Pokémon.",
+      "zh": "让所有濒死宝可梦\n复活并完全回复。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16300825,
+      "en": "A sweet chocolate\nthat restores HP\nby 20 points.",
+      "zh": "能回复20点HP的\n甜巧克力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16300874,
+      "en": "Revives a fainted\nPokémon with all\nits HP.",
+      "zh": "让濒死宝可梦复活并\n回复全部HP。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16300917,
+      "en": "Heals all the\nstatus problems of\none Pokémon.",
+      "zh": "治愈宝可梦的所有\n异常状态。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16300963,
+      "en": "Heals all the\nstatus problems of\none Pokémon.",
+      "zh": "治愈宝可梦的所有\n异常状态。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301009,
+      "en": "A local specialty\nthat heals all\nstatus problems.",
+      "zh": "一种地方特产,能治愈所有状态问题。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16301059,
+      "en": "Heals all the\nstatus problems of\none Pokémon.",
+      "zh": "治愈宝可梦的所有\n异常状态。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301105,
+      "en": "Heals all the\nstatus problems of\none Pokémon.",
+      "zh": "治愈宝可梦的所有\n异常状态。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301151,
+      "en": "Heals all the\nstatus problems of\none Pokémon.",
+      "zh": "治愈宝可梦的所有\n异常状态。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301197,
+      "en": "Heals all the\nstatus problems of\none Pokémon.",
+      "zh": "治愈宝可梦的所有\n异常状态。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301243,
+      "en": "Heals all the\nstatus problems of\none Pokémon.",
+      "zh": "治愈宝可梦的所有\n异常状态。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301289,
+      "en": "Raises the base HP\nof one Pokémon.",
+      "zh": "提高宝可梦的HP\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301324,
+      "en": "Raises the base\nAttack stat of one\nPokémon.",
+      "zh": "提高宝可梦的攻击\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301368,
+      "en": "Raises the base\nDefense stat of\none Pokémon.",
+      "zh": "提高宝可梦的防御\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301413,
+      "en": "Raises the base\nSp. Atk stat of one\nPokémon.",
+      "zh": "提高宝可梦的特攻\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301458,
+      "en": "Raises the base\nSp. Def stat of one\nPokémon.",
+      "zh": "提高宝可梦的特防\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301503,
+      "en": "Raises the base\nSpeed stat of one\nPokémon.",
+      "zh": "提高宝可梦的速度\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301546,
+      "en": "Maximizes the IVs\nof one random stat.",
+      "zh": "将一项随机能力的\n个体值提到最高。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16301584,
+      "en": "Maximizes the IVs\nof all stats.",
+      "zh": "将所有能力的\n个体值提到最高。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16301616,
+      "en": "An item that raises\nthe base HP of\na Pokémon.",
+      "zh": "提高宝可梦的HP\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301662,
+      "en": "An item that raises\nthe base Attack of\na Pokémon.",
+      "zh": "提高宝可梦的攻击\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301712,
+      "en": "An item that raises\nthe base Defense\nof a Pokémon.",
+      "zh": "提高宝可梦的防御\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301763,
+      "en": "An item that raises\nthe base Sp. Atk.\nof a Pokémon.",
+      "zh": "提高宝可梦的特攻\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301815,
+      "en": "An item that raises\nthe base Sp. Def.\nof a Pokémon.",
+      "zh": "提高宝可梦的特防\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301867,
+      "en": "An item that raises\nthe base Speed of\na Pokémon.",
+      "zh": "提高宝可梦的速度\n基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16301916,
+      "en": "Switches a Poké-\nmon's ability.",
+      "zh": "改变宝可梦的特性。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16301948,
+      "en": "Turns the ability\nof a Pokémon into\na rare ability.",
+      "zh": "将宝可梦特性变为\n隐藏特性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16302000,
+      "en": "Can be smelled. It\nups Attack, but\nreduces Defense.",
+      "zh": "有气味。提高攻击,\n但会降低防御。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302052,
+      "en": "Can be smelled. It\nups Attack, but\nreduces Sp. Atk.",
+      "zh": "可以闻到。它提高攻击,但降低特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302104,
+      "en": "Can be smelled. It\nups Attack, but\nreduces Sp. Def.",
+      "zh": "可以闻到。它提升攻击,但降低特防。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302156,
+      "en": "Can be smelled. It\nups Attack, but\nreduces Speed.",
+      "zh": "有气味。提高攻击,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302206,
+      "en": "Can be smelled. It\nups Defense, but\nreduces Attack.",
+      "zh": "有气味。提高防御,\n但会降低攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302258,
+      "en": "Can be smelled. It\nups Defense, but\nreduces Sp. Atk.",
+      "zh": "可以闻到。它提高防御,但降低特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302311,
+      "en": "Can be smelled. It\nups Defense, but\nreduces Sp. Def.",
+      "zh": "可以闻到。它提升防御,但降低特防。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302364,
+      "en": "Can be smelled. It\nups Defense, but\nreduces Speed.",
+      "zh": "有气味。提高防御,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302415,
+      "en": "Can be smelled. It\nups Sp. Atk, but\nreduces Attack.",
+      "zh": "有气味。提高特攻,\n但会降低攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302467,
+      "en": "Can be smelled. It\nups Sp. Atk, but\nreduces Defense.",
+      "zh": "有气味。提高特攻,\n但会降低防御。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302520,
+      "en": "Can be smelled. It\nups Sp. Atk, but\nreduces Sp. Def.",
+      "zh": "可以闻到。它提升特攻,但降低特防。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302573,
+      "en": "Can be smelled. It\nups Sp. Atk, but\nreduces Speed.",
+      "zh": "有气味。提高特攻,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302624,
+      "en": "Can be smelled. It\nups Sp. Def, but\nreduces Attack.",
+      "zh": "有气味。提高特防,\n但会降低攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302676,
+      "en": "Can be smelled. It\nups Sp. Def, but\nreduces Defense.",
+      "zh": "有气味。提高特防,\n但会降低防御。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302729,
+      "en": "Can be smelled. It\nups Sp. Def, but\nreduces Sp. Atk.",
+      "zh": "可以闻到。它提升特防,但降低特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302782,
+      "en": "Can be smelled. It\nups Sp. Def, but\nreduces Speed.",
+      "zh": "有气味。提高特防,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302833,
+      "en": "Can be smelled. It\nups Speed, but\nreduces Attack.",
+      "zh": "有气味。提高速度,\n但会降低攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302883,
+      "en": "Can be smelled. It\nups Speed, but\nreduces Defense.",
+      "zh": "有气味。提高速度,\n但会降低防御。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302934,
+      "en": "Can be smelled. It\nups Speed, but\nreduces Sp. Atk.",
+      "zh": "可以闻到。它提高速度,但降低特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16302985,
+      "en": "Can be smelled. It\nups Speed, but\nreduces Sp. Def.",
+      "zh": "可以闻到。它提升速度,但降低特防。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16303036,
+      "en": "Can be smelled. All\nstats grow at an\nequal rate.",
+      "zh": "有气味。各项能力\n均衡成长。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16303085,
+      "en": "Raises the level\nof a Pokémon by\none.",
+      "zh": "让宝可梦提升1级。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303123,
+      "en": "Gives a very small\namount of Exp. to\na single Pokémon.",
+      "zh": "给予宝可梦极少量\n经验值。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303178,
+      "en": "Gives a small\namount of Exp. to\na single Pokémon.",
+      "zh": "给予宝可梦少量\n经验值。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303228,
+      "en": "Gives a moderate\namount of Exp. to\na single Pokémon.",
+      "zh": "给予宝可梦中量\n经验值。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303281,
+      "en": "Gives a large\namount of Exp. to\na single Pokémon.",
+      "zh": "给予宝可梦大量\n经验值。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303331,
+      "en": "Gives a very large\namount of Exp. to\na single Pokémon.",
+      "zh": "给予宝可梦巨量\n经验值。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303386,
+      "en": "Special candy that\nchanges a Pokémon's\nGigantamax power.",
+      "zh": "改变宝可梦的\n超极巨化能力。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303444,
+      "en": "A glass flute that\nawakens sleeping\nPokémon.",
+      "zh": "唤醒睡眠宝可梦的\n玻璃笛。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303489,
+      "en": "A glass flute that\nsnaps Pokémon\nout of confusion.",
+      "zh": "解除宝可梦混乱的\n玻璃笛。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303540,
+      "en": "A glass flute that\nsnaps Pokémon\nout of attraction.",
+      "zh": "解除宝可梦着迷的\n玻璃笛。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303592,
+      "en": "A glass flute that\nkeeps away wild\nPokémon.",
+      "zh": "减少野生宝可梦\n出现的玻璃笛。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303636,
+      "en": "A glass flute that\nlures wild Pokémon.",
+      "zh": "增加野生宝可梦\n出现的玻璃笛。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303675,
+      "en": "Repels weak wild\nPokémon for 100\nsteps.",
+      "zh": "在100步内驱除\n较弱的野生宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303715,
+      "en": "Repels weak wild\nPokémon for 200\nsteps.",
+      "zh": "在200步内驱除\n较弱的野生宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303755,
+      "en": "Repels weak wild\nPokémon for 250\nsteps.",
+      "zh": "在250步内驱除\n较弱的野生宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303795,
+      "en": "Makes Pokémon more\nlikely to appear\nfor 100 steps.",
+      "zh": "在100步内更容易\n遇到野生宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303846,
+      "en": "Makes Pokémon more\nlikely to appear\nfor 200 steps.",
+      "zh": "在200步内更容易\n遇到野生宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303897,
+      "en": "Makes Pokémon more\nlikely to appear\nfor 250 steps.",
+      "zh": "在250步内更容易\n遇到野生宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16303948,
+      "en": "Use to escape\ninstantly from a\ncave or a dungeon.",
+      "zh": "用来瞬间逃离洞穴或地牢。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16303998,
+      "en": "Sharply raises stat\nAttack during\none battle.",
+      "zh": "在一场战斗中,攻击力大幅提升。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304044,
+      "en": "Sharply raises stat\nDefense during\none battle.",
+      "zh": "在一场战斗中,攻击力和防御力大幅提升。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304091,
+      "en": "Sharply raises stat\nSp. Atk during\none battle.",
+      "zh": "在一场战斗中大幅提升特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304138,
+      "en": "Sharply raises stat\nSp. Def during\none battle.",
+      "zh": "在一场战斗中,特防大幅提升。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304185,
+      "en": "Sharply raises stat\nSpeed during\none battle.",
+      "zh": "在一场战斗中,速度属性大幅提升。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304230,
+      "en": "Sharply raises move\naccuracy during\none battle.",
+      "zh": "在一场战斗中,显著提高招式的命中率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304278,
+      "en": "Raises the\ncritical-hit ratio\nduring one battle.",
+      "zh": "在一场战斗中提高暴击率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304327,
+      "en": "Prevents stat\nreduction when\nused in battle.",
+      "zh": "在战斗中使用时可防止能力下降。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304372,
+      "en": "Use to flee from\nany battle with\na wild Pokémon.",
+      "zh": "必定能从野生宝可梦\n对战中逃走。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16304421,
+      "en": "Use to flee from\nany battle with\na wild Pokémon.",
+      "zh": "必定能从野生宝可梦\n对战中逃走。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16304470,
+      "en": "Use to flee from\nany battle with\na wild Pokémon.",
+      "zh": "必定能从野生宝可梦\n对战中逃走。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16304519,
+      "en": "Raises every stat\nduring one battle\nby one stage.",
+      "zh": "在一次战斗中将每项能力提升一级。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304569,
+      "en": "A beautiful bottle\ncap that gives off\na silver gleam.",
+      "zh": "一个美丽的瓶盖,散发出银色的光泽。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304623,
+      "en": "A beautiful bottle\ncap that gives off\na golden gleam.",
+      "zh": "一个美丽的瓶盖,散发出金色的光芒。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304677,
+      "en": "A nugget of pure\ngold. Can be sold at\na high price.",
+      "zh": "一块纯金块。可以以高价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304729,
+      "en": "A big nugget made\nof gold, sellable\nat a high price.",
+      "zh": "一块大型金块,可以高价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304782,
+      "en": "A plain mushroom\nthat would sell\nat a cheap price.",
+      "zh": "一种普通的蘑菇,可以以便宜的价格出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304833,
+      "en": "A rare mushroom\nthat would sell at a\nhigh price.",
+      "zh": "一种罕见的蘑菇,可以卖出高价。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304882,
+      "en": "A rare mushroom\nthat would sell at a\nhigh price.",
+      "zh": "一种罕见的蘑菇,可以卖出高价。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304931,
+      "en": "A pretty pearl\nthat would sell at a\ncheap price.",
+      "zh": "一颗漂亮的珍珠,可以以便宜的价格出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16304980,
+      "en": "A lovely large pearl\nthat would sell at a\nhigh price.",
+      "zh": "一颗可爱的大香珠,可卖出高价。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305034,
+      "en": "Very large pearls\nthat would sell at a\nhigh price.",
+      "zh": "非常大的珍珠,能够以高价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305085,
+      "en": "Beautiful red sand.\nCan be sold at a\nhigh price.",
+      "zh": "美丽的红沙。\n可以以高价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305134,
+      "en": "A red gem shard.\nIt would sell for a\nvery high price.",
+      "zh": "一块红色宝石碎片。\n它可以卖出很高的价格。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305188,
+      "en": "A comet's shard.\nIt would sell for a\nhigh price.",
+      "zh": "彗星的碎片。\n它会卖出高价。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305237,
+      "en": "Salt obtained from\ndeep inside the\nShoal Cave.",
+      "zh": "从浅滩洞深处获取的盐。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305284,
+      "en": "A seashell found\ndeep inside the\nShoal Cave.",
+      "zh": "在浅滩洞深处发现的海螺。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305329,
+      "en": "A shard from an\nancient item. Can\nbe sold cheaply.",
+      "zh": "一件古代物品的碎片。可以低价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305380,
+      "en": "A shard from an\nancient item. Can\nbe sold cheaply.",
+      "zh": "一件古代物品的碎片。可以低价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305431,
+      "en": "A shard from an\nancient item. Can\nbe sold cheaply.",
+      "zh": "一件古代物品的碎片。可以低价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305482,
+      "en": "A shard from an\nancient item. Can\nbe sold cheaply.",
+      "zh": "一件古代物品的碎片。可以低价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305533,
+      "en": "A lovely scale.\nIt is coveted by\ncollectors.",
+      "zh": "一个可爱的天平。它受到收藏家的追捧。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305578,
+      "en": "Sweet honey that\nattracts wild\nPokémon when used.",
+      "zh": "使用后会吸引\n野生宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16305628,
+      "en": "A very rare bone.\nIt can be sold at\na high price.",
+      "zh": "一块非常罕见的骨头。\n它可以以高价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305678,
+      "en": "Voices can be heard\nfrom this odd stone\noccasionally.",
+      "zh": "偶尔可以从这块奇怪的石头中听到声音。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305732,
+      "en": "A beautiful yet\nplain feather that\ndoes nothing.",
+      "zh": "一根美丽却普通的羽毛,毫无用处。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305781,
+      "en": "A copper coin used\nlong ago. It sells\nat a high price.",
+      "zh": "很久以前使用的铜币。它以高价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305836,
+      "en": "A silver coin used\nlong ago. It sells\nat a high price.",
+      "zh": "很久以前使用的一枚银币。它以高价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305891,
+      "en": "A gold coin used\nlong ago. It sells\nat a high price.",
+      "zh": "很久以前使用的金币。它能以高价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305944,
+      "en": "A vase made long\nago. It sells at\na high price.",
+      "zh": "一个很久以前做的花瓶。它以高价出售。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16305992,
+      "en": "An old bracelet.\nIt sells at a\nhigh price.",
+      "zh": "一只旧手镯。\n它卖得很贵。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16306035,
+      "en": "An old statue.\nIt sells at a\nhigh price.",
+      "zh": "一座古老的雕像。\n它卖得很贵。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16306076,
+      "en": "An old crown.\nIt sells at a\nhigh price.",
+      "zh": "一顶旧王冠。\n它售价很高。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16306116,
+      "en": "An ornament that\ndepicts a Pokémon\nfrom Alola.",
+      "zh": "描绘阿罗拉宝可梦的\n装饰品。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306163,
+      "en": "A piece of an\nancient marine\nPokémon's seashell.",
+      "zh": "古代海洋宝可梦的\n贝壳化石碎片。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306212,
+      "en": "A piece of an\nancient marine\nPokémon's shell.",
+      "zh": "古代海洋宝可梦的\n甲壳化石碎片。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306258,
+      "en": "A stone containing\nthe genes of an\nancient Pokémon.",
+      "zh": "含有古代宝可梦\n基因的化石。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306310,
+      "en": "A fossil of an\nancient, seafloor-\ndwelling Pokémon.",
+      "zh": "古代海底宝可梦的\n化石。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306362,
+      "en": "A fossil of an\nancient, seafloor-\ndwelling Pokémon.",
+      "zh": "古代海底宝可梦的\n化石。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306414,
+      "en": "A piece of a\nprehistoric Poké-\nmon's head.",
+      "zh": "一块史前宝可梦的头部碎片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16306457,
+      "en": "A piece of a\nprehistoric Poké-\nmon's head.",
+      "zh": "一块史前宝可梦的头部碎片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16306500,
+      "en": "A piece of a\nprehistoric Poké-\nmon's back.",
+      "zh": "一块史前宝可梦的背部部分。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16306543,
+      "en": "A piece of a\nprehistoric Poké-\nmon's wing.",
+      "zh": "一块史前宝可梦的翅膀。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16306586,
+      "en": "A piece of a prehis-\ntoric Pokémon's\nlarge jaw.",
+      "zh": "史前宝可梦的\n颚部化石碎片。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306634,
+      "en": "A piece of a prehis-\ntoric Pokémon's\nskin sail.",
+      "zh": "史前宝可梦的\n背鳍化石碎片。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306682,
+      "en": "A fossil of an\nancient, sky-\nsoaring Pokémon.",
+      "zh": "古代飞行宝可梦的\n化石。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306728,
+      "en": "A fossil of an\nancient, sea-\ndwelling Pokémon.",
+      "zh": "古代海洋宝可梦的\n化石。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306775,
+      "en": "A fossil of an\nancient, land-\nroaming Pokémon.",
+      "zh": "古代陆地宝可梦的\n化石。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306822,
+      "en": "A fossil of an\nancient, sea-\ndwelling Pokémon.",
+      "zh": "古代海洋宝可梦的\n化石。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16306869,
+      "en": "A fertilizer that\naccelerates the\ngrowth of Berries.",
+      "zh": "一种加速浆果生长的肥料。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16306922,
+      "en": "A fertilizer that\ndecelerates the\ngrowth of Berries.",
+      "zh": "一种减缓浆果生长的肥料。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16306975,
+      "en": "A fertilizer that\nups the life time\nof Berry trees.",
+      "zh": "延长树果树寿命的肥料。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307027,
+      "en": "A fertilizer that\nmakes more Berries\nregrow after fall.",
+      "zh": "一种能让更多浆果在秋季后重新生长的肥料。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307083,
+      "en": "A fertilizer that\nups the number of\nBerries harvested.",
+      "zh": "一种能增加收获的浆果数量的肥料。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307138,
+      "en": "A fertilizer that\nups the chance of\nBerry mutations.",
+      "zh": "提高树果突变几率的肥料。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307191,
+      "en": "A fertilizer that\nups the dry speed\nof soft soil.",
+      "zh": "一种能加快软土干燥速度的肥料。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307241,
+      "en": "A fertilizer Rich\nSurprising and\nBoosting as well.",
+      "zh": "一种富含肥料的\n令人惊讶且\n也能促进生长。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307292,
+      "en": "A red apricorn.\nIt assails your\nnostrils.",
+      "zh": "一个红色的果实。\n它刺鼻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307334,
+      "en": "A blue apricorn.\nIt smells a bit\nlike grass.",
+      "zh": "一个蓝色的圆果。 它闻起来有点像草。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307379,
+      "en": "A yellow apricorn.\nIt has an invigor-\nating scent.",
+      "zh": "一个黄色的杏果。\n它有一种提神的香味。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307430,
+      "en": "A green apricorn.\nIt has a strange,\naromatic scent.",
+      "zh": "一个绿色的圆果。 它有一种奇怪的香味。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307482,
+      "en": "A pink apricorn.\nIt has a nice,\nsweet scent.",
+      "zh": "一颗粉色的果实。\n它有一种宜人、甜美的香味。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307527,
+      "en": "A white apricorn.\nIt doesn't smell\nlike anything.",
+      "zh": "一个白色的果实帽子。\n它没有任何气味。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307577,
+      "en": "A black apricorn.\nIt has an inde-\nscribable scent.",
+      "zh": "一个黑色的坚果。\n它有一种无法形容的气味。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307628,
+      "en": "Throw into a\n{53}{54} Den to attract\nDynamax Pokémon.",
+      "zh": "投入宝可梦巢穴会\n吸引极巨化宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16307676,
+      "en": "A twig from a tree\nin Galar called\nGalarica.",
+      "zh": "来自伽勒尔一棵叫伽勒利卡的树的树枝。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307721,
+      "en": "A rare ore. Can be\nfound in the Isle\nof Armor at Galar.",
+      "zh": "一种稀有矿石。可以在伽勒尔的铠之岛找到。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307777,
+      "en": "A mysterious ore.\nIt can be found in\nGalar's Max Lair.",
+      "zh": "一种神秘的矿石。\n它可以在\n伽勒尔的最高巢穴中找到。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16307832,
+      "en": "A Zigzagoon-print\nMail to be held by\na Pokémon.",
+      "zh": "印有蛇纹熊图案,供\n宝可梦携带的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16307880,
+      "en": "A Wingull-print\nMail to be held by\na Pokémon.",
+      "zh": "印有长翅鸥图案,供\n宝可梦携带的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16307926,
+      "en": "A Pikachu-print\nMail to be held by\na Pokémon.",
+      "zh": "印有皮卡丘图案,供\n宝可梦携带的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16307972,
+      "en": "A Magnemite-print\nMail to be held by\na Pokémon.",
+      "zh": "印有小磁怪图案,供\n宝可梦携带的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308020,
+      "en": "A Slakoth-print\nMail to be held by\na Pokémon.",
+      "zh": "印有懒人獭图案,供\n宝可梦携带的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308066,
+      "en": "A Wailmer-print\nMail to be held by\na Pokémon.",
+      "zh": "印有吼吼鲸图案,供\n宝可梦携带的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308112,
+      "en": "Mail featuring a\nsketch of the\nholding Pokémon.",
+      "zh": "绘有携带者宝可梦\n图案的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308160,
+      "en": "A Duskull-print\nMail to be held by\na Pokémon.",
+      "zh": "印有夜巡灵图案,供\n宝可梦携带的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308206,
+      "en": "A Bellossom-print\nMail to be held by\na Pokémon.",
+      "zh": "印有美丽花图案,供\n宝可梦携带的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308254,
+      "en": "Mail featuring a\nsketch of the\nholding Pokémon.",
+      "zh": "绘有携带者宝可梦\n图案的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308302,
+      "en": "A gorgeous-print\nMail to be held\nby a Pokémon.",
+      "zh": "印有华丽图案,供\n宝可梦携带的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308349,
+      "en": "Mail featuring the\ndrawings of three\nPokémon.",
+      "zh": "绘有三只宝可梦\n图案的邮件。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308395,
+      "en": "Makes certain\nspecies of Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308436,
+      "en": "Makes certain\nspecies of Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308477,
+      "en": "Makes certain\nspecies of Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308518,
+      "en": "Makes certain\nspecies of Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308559,
+      "en": "Makes certain\nspecies of Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308600,
+      "en": "Makes certain\nspecies of Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308641,
+      "en": "Makes certain\nspecies of Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308682,
+      "en": "Makes certain\nspecies of Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308723,
+      "en": "Makes certain\nspecies of Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308764,
+      "en": "Makes certain\nspecies of Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308805,
+      "en": "A very sweet apple\nthat makes certain\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308859,
+      "en": "A very tart apple\nthat makes certain\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308912,
+      "en": "A cracked teapot\nthat makes certain\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16308964,
+      "en": "A chipped teapot\nthat makes certain\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309016,
+      "en": "A cuff from Galar\nthat makes certain\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309069,
+      "en": "A wreath made in\nGalar. Makes some\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309120,
+      "en": "A strange scale\nheld by Dragon-\ntype Pokémon.",
+      "zh": "又硬又坚固的鳞片。龙属性宝可梦有时会携带它。",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16309166,
+      "en": "A peculiar box made\nby Silph Co.",
+      "zh": "由西尔夫公司制造的奇特盒子",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16309199,
+      "en": "Loved by a certain\nPokémon. It's stiff\nand heavy.",
+      "zh": "特定宝可梦喜爱的\n进化道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309249,
+      "en": "Loved by a certain\nPokémon. It's full\nof electric energy.",
+      "zh": "特定宝可梦喜爱的\n进化道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309307,
+      "en": "Loved by a certain\nPokémon. It's full\nof magma energy.",
+      "zh": "特定宝可梦喜爱的\n进化道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309362,
+      "en": "A transparent device\noverflowing with\ndubious data.",
+      "zh": "一个透明的设备,充斥着可疑的数据。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16309414,
+      "en": "Loved by a certain\nPokémon. Imbued with\nspiritual energy.",
+      "zh": "特定宝可梦喜爱的\n进化道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309472,
+      "en": "A mysterious scale\nthat evolves certain\nPokémon. It shines.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309532,
+      "en": "A soft and sweet\ntreat loved by\na certain Pokémon.",
+      "zh": "特定宝可梦喜爱的\n进化道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309583,
+      "en": "A sachet filled with\nperfumes loved by\na certain Pokémon.",
+      "zh": "特定宝可梦喜爱的\n进化道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309641,
+      "en": "Makes a certain\nPokémon evolve. It's\nshaped like an egg.",
+      "zh": "蛋形的宝可梦\n进化道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309698,
+      "en": "Strawberry-shaped\nsweet loved by\nMilcery.",
+      "zh": "小仙奶喜欢的\n草莓形状甜甜。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16309740,
+      "en": "A heart-shaped\nsweet loved by\nMilcery.",
+      "zh": "爱心形糖饰,\n小仙奶很喜欢。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309779,
+      "en": "A berry-shaped\nsweet loved by\nMilcery.",
+      "zh": "小仙奶喜欢的\n树果形状甜甜。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16309818,
+      "en": "A clover-shaped\nsweet loved by\nMilcery.",
+      "zh": "幸运草形糖饰,\n小仙奶很喜欢。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309858,
+      "en": "A flower-shaped\nsweet loved by\nMilcery.",
+      "zh": "花朵形糖饰,\n小仙奶很喜欢。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309898,
+      "en": "A star-shaped\nsweet loved by\nMilcery.",
+      "zh": "星星形糖饰,\n小仙奶很喜欢。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16309936,
+      "en": "A ribbon-shaped\nsweet loved by\nMilcery.",
+      "zh": "一条缎带形的甜点,米尔西非常喜爱。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16309976,
+      "en": "A wondrous hold\nitem that prevents\nevolution.",
+      "zh": "一种神奇的携带道具,可防止宝可梦进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310022,
+      "en": "A black stone that\nmakes some Pokémon\nevolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16310068,
+      "en": "A mysterious string\nthat makes some\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16310120,
+      "en": "A block of material\nthat makes some\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16310172,
+      "en": "Flower nectar that\nchanges the form\nof certain Pokémon.",
+      "zh": "能改变特定宝可梦\n形态的花蜜。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16310228,
+      "en": "Flower nectar that\nchanges the form\nof certain Pokémon.",
+      "zh": "能改变特定宝可梦\n形态的花蜜。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16310284,
+      "en": "Flower nectar that\nchanges the form\nof certain Pokémon.",
+      "zh": "能改变特定宝可梦\n形态的花蜜。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16310340,
+      "en": "Flower nectar that\nchanges the form\nof certain Pokémon.",
+      "zh": "能改变特定宝可梦\n形态的花蜜。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16310396,
+      "en": "A tablet that ups\nthe power of\nFire-type moves.",
+      "zh": "一种提升火属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310444,
+      "en": "A tablet that ups\nthe power of\nWater-type moves.",
+      "zh": "一种提升水属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310493,
+      "en": "A tablet that ups\nthe power of Elec-\ntric-type moves.",
+      "zh": "一种能增强电属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310547,
+      "en": "A tablet that ups\nthe power of\nGrass-type moves.",
+      "zh": "一种提升草属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310596,
+      "en": "A tablet that ups\nthe power of\nIce-type moves.",
+      "zh": "一种提升冰属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310643,
+      "en": "A tablet that ups\nthe power of Fight-\ning-type moves.",
+      "zh": "一种能增强格斗属性招式威力的道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310697,
+      "en": "A tablet that ups\nthe power of\nPoison-type moves.",
+      "zh": "一种能增强毒属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310747,
+      "en": "A tablet that ups\nthe power of\nGround-type moves.",
+      "zh": "一种提升地面属性招式威力的宝可梦道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310797,
+      "en": "A tablet that ups\nthe power of\nFlying-type moves.",
+      "zh": "一种提升飞行类型招式威力的宝可梦道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310847,
+      "en": "A tablet that ups\nthe power of Psy\nchic-type moves.",
+      "zh": "一种能增强超能力招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310899,
+      "en": "A tablet that ups\nthe power of\nBug-type moves.",
+      "zh": "一种提升虫属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310946,
+      "en": "A tablet that ups\nthe power of\nRock-type moves.",
+      "zh": "一种提升岩属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16310994,
+      "en": "A tablet that ups\nthe power of\nGhost-type moves.",
+      "zh": "一种提升鬼属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16311043,
+      "en": "A tablet that ups\nthe power of\nDragon-type moves.",
+      "zh": "一种提升龙属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16311093,
+      "en": "A tablet that ups\nthe power of\nDark-type moves.",
+      "zh": "一种提升恶属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16311141,
+      "en": "A tablet that ups\nthe power of\nSteel-type moves.",
+      "zh": "一种提升钢属性招式威力的药片。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16311190,
+      "en": "A stone tablet that\nboosts the power of\nFairy-type moves.",
+      "zh": "一种能够增强妖精属性招式威力的石板。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16311248,
+      "en": "Changes Genesect's\nTechno Blast to\nWater-type.",
+      "zh": "让盖诺赛克特的高科技光炮\n变为水属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311295,
+      "en": "Changes Genesect's\nTechno Blast to\nElectric-type.",
+      "zh": "让盖诺赛克特的高科技光炮\n变为电属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311345,
+      "en": "Changes Genesect's\nTechno Blast to\nFire-type.",
+      "zh": "让盖诺赛克特的高科技光炮\n变为火属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311391,
+      "en": "Changes Genesect's\nTechno Blast to\nIce-type.",
+      "zh": "让盖诺赛克特的高科技光炮\n变为冰属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311436,
+      "en": "A disc with Fire\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有火属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311490,
+      "en": "A disc with Water\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有水属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311545,
+      "en": "A disc with Electric\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有电属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311603,
+      "en": "A disc with Grass\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有草属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311658,
+      "en": "A disc with Ice\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有冰属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311711,
+      "en": "A disc with Fighting\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有格斗属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311769,
+      "en": "A disc with Poison\ntype data. It swaps\nSilvally's type.",
+      "zh": "带有毒类型数据的光盘。它可以交换无极汰那的类型。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16311825,
+      "en": "A disc with Ground\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有地面属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311881,
+      "en": "A disc with Flying\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有飞行属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311937,
+      "en": "A disc with Psychic\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有超能力属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16311994,
+      "en": "A disc with Bug\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有虫属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16312047,
+      "en": "A disc with Rock\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有岩石属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16312101,
+      "en": "A disc with Ghost\ntype data. It swaps\nSilvally's type.",
+      "zh": "带有幽灵属性数据的光盘。它可以更换席多蓝恩的属性。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312156,
+      "en": "A disc with Dragon\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有龙属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16312212,
+      "en": "A disc with Dark\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有恶属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16312266,
+      "en": "A disc with Steel\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有钢属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16312321,
+      "en": "A disc with Fairy\ntype data. It swaps\nSilvally's type.",
+      "zh": "装有妖精属性数据,\n能改变银伴战兽的属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16312376,
+      "en": "A rusty sword. A\nhero used it to\nhalt a disaster.",
+      "zh": "一把生锈的剑。一个英雄用它阻止了一场灾难。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312426,
+      "en": "A rusty shield. A\nhero used it to\nhalt a disaster.",
+      "zh": "一面生锈的盾牌。一个英雄用它阻止了一场灾难。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312477,
+      "en": "A red, glowing orb\nsaid to contain an\nancient power.",
+      "zh": "一个红色的、发光的球体,据说包含着一种古老的力量。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312530,
+      "en": "A blue, glowing orb\nsaid to contain an\nancient power.",
+      "zh": "一个蓝色的、发光的球体,据说包含一种古老的力量。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312584,
+      "en": "This stone enables\nVenusaur to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让妙蛙花在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312638,
+      "en": "This stone enables\nCharizard to Mega\nEvolve in battle.",
+      "zh": "这种石头可以让喷火龙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312693,
+      "en": "This stone enables\nBlastoise to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让水箭龟在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312748,
+      "en": "This stone enables\nBeedrill to Mega\nEvolve in battle.",
+      "zh": "这种石头可以让大针蜂在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312802,
+      "en": "This stone enables\nPidgeot to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让大比鸟在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312855,
+      "en": "This stone enables\nAlakazam to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让胡地在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312909,
+      "en": "This stone enables\nSlowbro to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让呆呆王在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16312962,
+      "en": "This stone enables\nGengar to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让耿鬼在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313014,
+      "en": "This stone enables\nKangaskhan to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让袋兽在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313070,
+      "en": "This stone enables\nPinsir to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让铁甲蛹在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313122,
+      "en": "This stone enables\nGyarados to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让暴鲤龙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313176,
+      "en": "This stone enables\nAerodactyl to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让化石翼龙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313232,
+      "en": "This stone enables\nMewtwo to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让超梦在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313284,
+      "en": "This stone enables\nAmpharos to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让长尾电龙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313338,
+      "en": "This stone enables\nSteelix to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让大钢蛇在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313391,
+      "en": "This stone enables\nScizor to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让巨钳螳螂在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313443,
+      "en": "This stone enables\nHeracross to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让赫拉克罗斯在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313498,
+      "en": "This stone enables\nHoundoom to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让黑鲁加在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313552,
+      "en": "This stone enables\nTyranitar to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让班基拉斯在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313607,
+      "en": "This stone enables\nSceptile to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让蜥蜴王在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313661,
+      "en": "This stone enables\nBlaziken to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让火焰鸡在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313715,
+      "en": "This stone enables\nSwampert to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让巨沼怪在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313769,
+      "en": "This stone enables\nGardevoir to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让沙奈朵在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313824,
+      "en": "This stone enables\nSableye to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让黑暗鸦在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313877,
+      "en": "This stone enables\nMawile to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让大嘴娃在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313929,
+      "en": "This stone enables\nAggron to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让大钢蛇在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16313981,
+      "en": "This stone enables\nMedicham to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让胡地在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314035,
+      "en": "This stone enables\nManectric to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让长毛电犬在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314090,
+      "en": "This stone enables\nSharpedo to Mega\nEvolve in battle.",
+      "zh": "这种石头可以让尖牙笛鲨在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314144,
+      "en": "This stone enables\nCamerupt to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让喷火驼在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314198,
+      "en": "This stone enables\nAltaria to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让七夕青鸟在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314251,
+      "en": "This stone enables\nBanette to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让班基拉在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314304,
+      "en": "This stone enables\nAbsol to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让阿勃梭鲁在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314355,
+      "en": "This stone enables\nGlalie to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让冰鬼护在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314407,
+      "en": "This stone enables\nSalamence to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让暴鲤龙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314462,
+      "en": "This stone enables\nMetagross to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让巨金怪在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314517,
+      "en": "This stone enables\nLatias to Mega\nEvolve in battle.",
+      "zh": "这块石头使拉提亚斯能够在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314569,
+      "en": "This stone enables\nLatios to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让拉提奥斯在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314621,
+      "en": "This stone enables\nLopunny to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让长耳兔在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314674,
+      "en": "This stone enables\nGarchomp to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让烈咬陆鲨在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314728,
+      "en": "This stone enables\nLucario to Mega\nEvolve in battle.",
+      "zh": "这种石头可以让路卡利欧在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314781,
+      "en": "This stone enables\nAbomasnow to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让暴雪王在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314836,
+      "en": "This stone enables\nGallade to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让艾路雷朵在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314889,
+      "en": "This stone enables\nAudino to Mega\nEvolve in battle.",
+      "zh": "让差不多娃娃在对战中\n进行超级进化。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16314941,
+      "en": "This stone enables\nDiancie to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让蒂安希在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16314994,
+      "en": "Increases the\npower of Normal\nType moves.",
+      "zh": "提高一般属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315036,
+      "en": "Increases the\npower of Fire\nType moves.",
+      "zh": "提高火属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315076,
+      "en": "Increases the\npower of Water\nType moves.",
+      "zh": "提高水属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315117,
+      "en": "Increases the\npower of Electric\nType moves.",
+      "zh": "提高电属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315161,
+      "en": "Increases the\npower of Grass\nType moves.",
+      "zh": "提高草属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315202,
+      "en": "Increases the\npower of Ice\nType moves.",
+      "zh": "提高冰属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315241,
+      "en": "Increases the\npower of Fighting\nType moves.",
+      "zh": "提高格斗属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315285,
+      "en": "Increases the\npower of Poison\nType moves.",
+      "zh": "提高毒属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315327,
+      "en": "Increases the\npower of Ground\nType moves.",
+      "zh": "提高地面属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315369,
+      "en": "Increases the\npower of Flying\nType moves.",
+      "zh": "提高飞行属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315411,
+      "en": "Increases the\npower of Psychic\nType moves.",
+      "zh": "提高超能力类型招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315454,
+      "en": "Increases the\npower of Bug\nType moves.",
+      "zh": "提高虫类型招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315493,
+      "en": "Increases the\npower of Rock\nType moves.",
+      "zh": "提高岩石属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315533,
+      "en": "Increases the\npower of Ghost\nType moves.",
+      "zh": "提高幽灵属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315574,
+      "en": "Increases the\npower of Dragon\nType moves.",
+      "zh": "提高龙属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315616,
+      "en": "Increases the\npower of Dark\nType moves.",
+      "zh": "提高恶属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315656,
+      "en": "Increases the\npower of Steel\nType moves.",
+      "zh": "提高钢属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315697,
+      "en": "Increases the\npower of Fairy\nType moves.",
+      "zh": "提高妖精属性招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315738,
+      "en": "Upgrade Normal-\ntype moves into\nZ-Moves.",
+      "zh": "将普通类型的招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315779,
+      "en": "Upgrade Fire-\ntype moves into\nZ-Moves.",
+      "zh": "将火属性招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315818,
+      "en": "Upgrade Water-\ntype moves into\nZ-Moves.",
+      "zh": "将水属性招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315858,
+      "en": "Upgrade Electric-\ntype moves into\nZ-Moves.",
+      "zh": "将电类型招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315901,
+      "en": "Upgrade Grass-\ntype moves into\nZ-Moves.",
+      "zh": "将草属性招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315941,
+      "en": "Upgrade Ice-\ntype moves into\nZ-Moves.",
+      "zh": "将冰属性招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16315979,
+      "en": "Upgrade Fighting-\ntype moves into\nZ-Moves.",
+      "zh": "将格斗类型招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316022,
+      "en": "Upgrade Poison-\ntype moves into\nZ-Moves.",
+      "zh": "将毒属性招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316063,
+      "en": "Upgrade Ground-\ntype moves into\nZ-Moves.",
+      "zh": "将地面属性招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316104,
+      "en": "Upgrade Flying-\ntype moves into\nZ-Moves.",
+      "zh": "将飞行类型招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316145,
+      "en": "Upgrade Psychic-\ntype moves into\nZ-Moves.",
+      "zh": "将超能力类型招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316187,
+      "en": "Upgrade Bug-\ntype moves into\nZ-Moves.",
+      "zh": "将升级类的招式转变为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316225,
+      "en": "Upgrade Rock-\ntype moves into\nZ-Moves.",
+      "zh": "将岩石属性招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316264,
+      "en": "Upgrade Ghost-\ntype moves into\nZ-Moves.",
+      "zh": "将幽灵属性招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316304,
+      "en": "Upgrade Dragon-\ntype moves into\nZ-Moves.",
+      "zh": "将龙属性招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316345,
+      "en": "Upgrade Dark-\ntype moves into\nZ-Moves.",
+      "zh": "将恶属性招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316384,
+      "en": "Upgrade Steel-\ntype moves into\nZ-Moves.",
+      "zh": "将钢类型的招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316424,
+      "en": "Upgrade Fairy-\ntype moves into\nZ-Moves.",
+      "zh": "将妖精系招式升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316464,
+      "en": "Upgrade Pikachu's\nVolt Tackle\ninto a Z-Move.",
+      "zh": "将皮卡丘的伏特攻击升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316509,
+      "en": "Upgrade Eevee's\nLast Resort\ninto a Z-Move.",
+      "zh": "将伊布的专属招式\n变成Z招式。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16316552,
+      "en": "Upgrade Snorlax's\nGiga Impact\ninto a Z-Move.",
+      "zh": "将卡比兽的终极冲击升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316597,
+      "en": "Upgrade Mew's\nPsychic into\na Z-Move.",
+      "zh": "将超梦的超能力升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316634,
+      "en": "Upgrade Decidu-\neye's Spirit Sha-\nckle into a Z-Move.",
+      "zh": "将落叶眼灵的灵魂枷锁升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316688,
+      "en": "Upgrade Incine-\nroar's Darkest La-\nriat into a Z-Move.",
+      "zh": "将炎爆猫的最黑烈爪升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316743,
+      "en": "Upgrade Primarina's\nSparkling Aria\ninto a Z-Move.",
+      "zh": "将西狮海壬的专属招式\n变成Z招式。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16316793,
+      "en": "Upgrade Lycanroc's\nStone Edge\ninto a Z-Move.",
+      "zh": "将黄昏狼的岩崩升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316838,
+      "en": "Upgrade Mimikyu's\nPlay Rough\ninto a Z-Move.",
+      "zh": "将姆克儿的\n嬉闹升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316882,
+      "en": "Upgrade Kommo-o's\nClanging Scales\ninto a Z-Move.",
+      "zh": "将快拳蛙的轰鸣鳞片升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316931,
+      "en": "Upgrade the tapu's\nNature's Madness\ninto a Z-Move.",
+      "zh": "将塔普的自然疯狂升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16316982,
+      "en": "Upgrade Solgaleo's\nSunsteel Strike\ninto a Z-Move.",
+      "zh": "将索尔迦雷欧的太阳钢烈击升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317032,
+      "en": "Upgrade Lunala's\nMoongeist Beam\ninto a Z-Move.",
+      "zh": "将露奈雅拉的月灵光束升级为终极Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317079,
+      "en": "Upgrade Marsha-\ndow's Spectral Thi-\nef into a Z-Move.",
+      "zh": "将马尔沙多的幽灵盗贼升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317133,
+      "en": "Upgrade Alolan\nRaichu's Thunder-\nbolt into a Z-Move.",
+      "zh": "将阿罗拉雷丘的十万伏特升级为Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317186,
+      "en": "Upgrade Pikachu w/\na cap's Thunderbolt\ninto a Z-Move.",
+      "zh": "用帽子版的皮卡丘的十万伏特升级成Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317240,
+      "en": "A crystal to turn\nfused Necrozma\ninto a new form.",
+      "zh": "一种可以将融合的奈克洛兹玛变成新形态的水晶。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317290,
+      "en": "A hold item that\nraises the Atk and\nSp. Atk of Pikachu.",
+      "zh": "携带后提高皮卡丘的\n攻击和特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317346,
+      "en": "A hold item that\nraises Farfetch'd's\ncritical-hit ratio.",
+      "zh": "携带后提高大葱鸭的\n击中要害率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317403,
+      "en": "A hold item that \nraises Cubone or\nMarowak's Attack.",
+      "zh": "携带后提高可拉可拉或\n嘎啦嘎啦的攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317456,
+      "en": "A hold item that\nraises Chansey's\ncritical-hit rate.",
+      "zh": "携带后提高吉利蛋的\n击中要害率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317509,
+      "en": "A hold item that\nraises Ditto's\nDefense.",
+      "zh": "携带后提高百变怪的防御。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317550,
+      "en": "An item to be held\nby Ditto. This odd\npowder boosts Speed.",
+      "zh": "一个由百变怪持有的道具。这种奇怪的粉末可以提高速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317609,
+      "en": "A hold item that\nraises the Sp. Def\nof Clamperl.",
+      "zh": "携带后提高珍珠贝的特防。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317658,
+      "en": "A hold item that\nraises the Sp. Atk\nof Clamperl.",
+      "zh": "携带后提高珍珠贝的特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317707,
+      "en": "Powers up Latios' {2D}\nLatias' Psychic and\nDragon-type moves.",
+      "zh": "增强拉帝欧斯的&拉帝亚斯的超能力和龙系招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317766,
+      "en": "Boosts the power of\nDialga's Dragon and\nSteel-type moves.",
+      "zh": "增强帝牙卢卡的龙系和钢系招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317824,
+      "en": "Boosts the power of\nPalkia's Dragon and\nWater-type moves.",
+      "zh": "提高帕路奇亚的龙系和水系招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317882,
+      "en": "Powers up Giratina's\nDragon and Ghost-\ntype moves.",
+      "zh": "提升骑拉帝纳的龙系和幽灵系招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317933,
+      "en": "A hold item that\nslightly boosts\nWater-type moves.",
+      "zh": "携带后略微提高\n水属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16317984,
+      "en": "A hold item that\nslightly lowers the\nfoe's accuracy.",
+      "zh": "携带后略微降低\n对手的命中率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318037,
+      "en": "A hold item that\nboosts Psychic-\ntype moves.",
+      "zh": "携带后提高\n超能力属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318082,
+      "en": "A hold item that\nraises the power of\nRock-type moves.",
+      "zh": "携带后提高\n岩石属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318136,
+      "en": "A held item that\nmakes the holder\nmove slower.",
+      "zh": "携带后会让自己\n行动变慢。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318183,
+      "en": "A hold item that\nslightly boosts\nWater-type moves.",
+      "zh": "携带后略微提高\n水属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318234,
+      "en": "A hold item that\nraises the power of\nGrass-type moves.",
+      "zh": "携带后提高\n草属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318289,
+      "en": "Doubles money in\nbattle if the\nholder takes part.",
+      "zh": "如果持有者参与战斗,战斗中的金钱翻倍。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318339,
+      "en": "A hold item that\nhelps repel wild\nPokémon.",
+      "zh": "携带后可减少\n野生宝可梦出现。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16318382,
+      "en": "A hold item that\nraises Cool in\nContests.",
+      "zh": "携带后在华丽大赛中\n提高帅气。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318424,
+      "en": "A hold item that\nraises Beauty in\nContests.",
+      "zh": "携带后在华丽大赛中\n提高美丽。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318468,
+      "en": "A hold item that\nraises Cute in\nContests.",
+      "zh": "携带后在华丽大赛中\n提高可爱。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318510,
+      "en": "A hold item that\nraises Smart in\nContests.",
+      "zh": "携带后在华丽大赛中\n提高聪明。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318553,
+      "en": "A hold item that\nraises Tough in\nContests.",
+      "zh": "携带后在华丽大赛中\n提高强壮。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318596,
+      "en": "A hold item that\npromotes growth,\nbut reduces Speed.",
+      "zh": "携带后促进成长,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318649,
+      "en": "A hold item that\npromotes HP gain,\nbut reduces Speed.",
+      "zh": "携带后促进HP努力值,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318703,
+      "en": "A hold item that\npromotes Atk gain,\nbut reduces Speed.",
+      "zh": "携带后促进攻击努力值,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318758,
+      "en": "A hold item that\npromotes Def gain,\nbut reduces Speed.",
+      "zh": "携带后促进防御努力值,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318813,
+      "en": "Hold item that pro-\nmotes Sp. Atk gain,\nbut reduces Speed.",
+      "zh": "携带后促进特攻努力值,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318872,
+      "en": "Hold item that pro-\nmotes Sp. Def gain,\nbut reduces Speed.",
+      "zh": "携带后促进特防努力值,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318931,
+      "en": "A hold item that\npromotes Spd gain,\nbut reduces Speed.",
+      "zh": "携带后促进速度努力值,\n但会降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16318986,
+      "en": "A hold item that\nraises the power of\nNormal-type moves.",
+      "zh": "携带后提高\n一般属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319042,
+      "en": "A hold item that\nraises the power of\nFire-type moves.",
+      "zh": "携带后提高\n火属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319096,
+      "en": "A hold item that\nraises the power of\nWater-type moves.",
+      "zh": "携带后提高\n水属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319151,
+      "en": "A hold item that\nboosts Electric-\ntype moves.",
+      "zh": "携带后提高\n电属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319197,
+      "en": "A hold item that\nraises the power of\nGrass-type moves.",
+      "zh": "携带后提高\n草属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319252,
+      "en": "A hold item that\nraises the power of\nIce-type moves.",
+      "zh": "携带后提高\n冰属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319305,
+      "en": "A hold item that\nboosts Fighting-\ntype moves.",
+      "zh": "携带后提高\n格斗属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319351,
+      "en": "A hold item that\nraises the power of\nPoison-type moves.",
+      "zh": "携带后提高\n毒属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319407,
+      "en": "A hold item that\nraises the power of\nGround-type moves.",
+      "zh": "携带后提高\n地面属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319463,
+      "en": "A hold item that\nraises the power of\nFlying-type moves.",
+      "zh": "携带后提高\n飞行属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319519,
+      "en": "A hold item that\nboosts Psychic-\ntype moves.",
+      "zh": "携带后提高\n超能力属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319564,
+      "en": "A hold item that\nraises the power of\nBug-type moves.",
+      "zh": "携带后提高\n虫属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319617,
+      "en": "A hold item that\nraises the power of\nRock-type moves.",
+      "zh": "携带后提高\n岩石属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319671,
+      "en": "A hold item that\nraises the power of\nGhost-type moves.",
+      "zh": "携带后提高\n幽灵属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319726,
+      "en": "A hold item that\nraises the power of\nDragon-type moves.",
+      "zh": "携带后提高\n龙属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319782,
+      "en": "A hold item that\nraises the power of\nDark-type moves.",
+      "zh": "携带后提高\n恶属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319836,
+      "en": "A hold item that\nraises the power of\nSteel-type moves.",
+      "zh": "携带后提高\n钢属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319891,
+      "en": "A hold item that\nraises the power of\nFairy-type moves.",
+      "zh": "携带后提高\n妖精属性招式威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319946,
+      "en": "Raises a move's\npower, but permits\nonly that move.",
+      "zh": "提升招式的威力,但只能使用该招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16319997,
+      "en": "Boosts Sp. Atk, but\nallows the use of\nonly one move.",
+      "zh": "提高特攻,但只能使用一种招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320050,
+      "en": "Boosts Speed, but\nallows the use of\nonly one move.",
+      "zh": "提升速度,但只能使用一个招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320101,
+      "en": "A bizarre orb that\ninflicts a burn on\nholder in battle.",
+      "zh": "一个奇异的球体,会在战斗中对持有者造成灼伤。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320157,
+      "en": "A bizarre orb that\nbadly poisons the\nholder in battle.",
+      "zh": "一个奇异的球体,会在战斗中严重毒害持有者。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320212,
+      "en": "Extends the length\nof Rain Dance if\nused by the holder.",
+      "zh": "如果持有者使用,可延长雨舞的持续时间。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320268,
+      "en": "Extends the length\nof Sunny Day if\nused by the holder.",
+      "zh": "如果持有者使用,可延长晴天的持续时间。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320323,
+      "en": "Extends the length\nof Sandstorm if\nused by the holder.",
+      "zh": "如果持有者使用,可延长沙暴的持续时间。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320378,
+      "en": "Extends the length\nof the move Hail\nused by the holder.",
+      "zh": "延长持有者使用的招式冰雹的持续时间。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320434,
+      "en": "Boosts Defense on\nElectric Terrain,\nbut only one time.",
+      "zh": "在电气场地上提升防御,但只能使用一次。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320489,
+      "en": "Boosts Sp. Def. on\nPsychic Terrain,\nbut only one time.",
+      "zh": "在心灵领域提升特殊防御,但仅限一次。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320544,
+      "en": "Boosts Sp. Def. on\nMisty Terrain,\nbut only one time.",
+      "zh": "在薄雾地形上提升特防,但仅限一次。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320597,
+      "en": "Boosts Defense on\nGrassy Terrain,\nbut only one time.",
+      "zh": "在草地地形上提升防御,但仅限一次。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320650,
+      "en": "Raises Sp. Atk if\nthe holder is hit by\na Water-type move.",
+      "zh": "如果持有者被水系招式击中,则提升特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320708,
+      "en": "Raises Atk if the\nholder is hit by an\nElectric-type move.",
+      "zh": "如果持有者受到电属性招式攻击,提升攻击力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320766,
+      "en": "Raises Sp. Def if\nthe holder is hit by\na Water-type move.",
+      "zh": "如果持有者被水属性招式击中,则提升特防。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320824,
+      "en": "Raises Atk if its\nholder is hit by an\nIce-type move.",
+      "zh": "如果持有者被冰属性招式击中,提升攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320877,
+      "en": "A hold item that\ncasts a glare to\nreduce accuracy.",
+      "zh": "携带后能用强光\n降低对手命中。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320928,
+      "en": "A hold item that\nrestores any\nlowered stat.",
+      "zh": "携带后能回复\n被降低的能力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16320972,
+      "en": "A hold item that\ngets Exp. points\nfrom battles.",
+      "zh": "携带后即使未出战\n也能获得经验。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321020,
+      "en": "A hold item that\noccasionally allows\nthe first strike.",
+      "zh": "携带后偶尔能\n先制攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321075,
+      "en": "A hold item that\ncalms spirits and\nfosters friendship.",
+      "zh": "携带后能安抚心情\n并增进亲密。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321130,
+      "en": "Snaps Pokémon out\nof move-binding\neffects.",
+      "zh": "解除宝可梦受到的\n绑紧类招式效果。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16321173,
+      "en": "A hold item that\nmay cause flinching\nwhen the foe is hit.",
+      "zh": "携带后击中对手时\n可能使其畏缩。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321231,
+      "en": "Doubles money in\nbattle if the\nholder takes part.",
+      "zh": "如果持有者参与战斗,战斗中的金钱翻倍。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321281,
+      "en": "A hold item that\nhelps repel wild\nPokémon.",
+      "zh": "携带后可减少\n野生宝可梦出现。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16321324,
+      "en": "A hold item that\nassures fleeing\nfrom wild Pokémon.",
+      "zh": "携带它的宝可梦在和野生宝可梦的战斗中绝对可以逃走。",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16321376,
+      "en": "A hold item that\noccasionally\nprevents fainting.",
+      "zh": "携带后偶尔能\n防止濒死。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321425,
+      "en": "A hold item that\nboosts Exp. points\nearned in battle.",
+      "zh": "携带后提高对战\n获得的经验值。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321479,
+      "en": "A hold item that\nimproves the\ncritical-hit rate.",
+      "zh": "携带后提高\n击中要害率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321528,
+      "en": "A hold item that\ngradually restores\nHP in battle.",
+      "zh": "携带后能在对战中\n逐渐回复HP。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321578,
+      "en": "A hold item that\nrestores HP upon\nstriking the foe.",
+      "zh": "携带后攻击对手时\n可回复HP。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321630,
+      "en": "A magnifying lens\nthat boosts the\naccuracy of moves.",
+      "zh": "一个放大镜,能够提高动作的准确性。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321683,
+      "en": "A headband that\nboosts the power of\nphysical moves.",
+      "zh": "一条能增强体术威力的头带。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321735,
+      "en": "A pair of glasses\nthat ups the power\nof special moves.",
+      "zh": "一副眼镜,可以增强必杀技的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321790,
+      "en": "A belt that boosts\nthe power of super\neffective moves.",
+      "zh": "一种能增强超级有效招式威力的腰带。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321845,
+      "en": "Extends the length\nof barrier moves\nused by the holder.",
+      "zh": "延长持有者使用障碍动作的长度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321901,
+      "en": "Boosts the power of\nmoves at the cost\nof some HP per turn.",
+      "zh": "以每回合消耗一定HP为代价,提高招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16321960,
+      "en": "Allows immediate\nuse of a move that\ncharges first.",
+      "zh": "允许立即使用先充能的招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322011,
+      "en": "If the holder has\nfull HP, it endures\nKO hits with 1 HP.",
+      "zh": "如果持有者拥有满 HP,它可以以 1 HP 承受击倒攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322068,
+      "en": "If the holder moves\nafter the foe, it'll\nboost accuracy.",
+      "zh": "如果持有者在敌人之后移动,它会提升命中率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322125,
+      "en": "A held item that\nboosts a move used\nconsecutively.",
+      "zh": "一个可以提升连续使用招式威力的持有道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322176,
+      "en": "Cuts Speed and lets\nFlying-types be hit\nby Ground moves.",
+      "zh": "降低速度,并让飞行类型可以被地面招式命中。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322233,
+      "en": "A held item that\nmakes the holder\nmove slower.",
+      "zh": "携带后会让自己\n行动变慢。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322280,
+      "en": "If the holder falls\nin love, the foe\ndoes too.",
+      "zh": "如果持有者坠入爱河,敌人也会坠入爱河。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322327,
+      "en": "Gradually restores\nHP of Poison-types.\nDamages others.",
+      "zh": "逐渐恢复毒类型的HP。\n对其他类型造成伤害。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322382,
+      "en": "Makes binding moves\nused by the holder\ngo on for 7 turns.",
+      "zh": "使用者的招式使目标无法行动,持续7回合。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322440,
+      "en": "Damages the holder\neach turn. May latch\non to foes.",
+      "zh": "每回合对持有者造成伤害。可能附着在敌人身上。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322492,
+      "en": "Enables the holder\nto switch out of\nbattle without fail.",
+      "zh": "使持有者能够无障碍地脱离战斗。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322549,
+      "en": "A held item that\nboosts the power of\nHP-stealing moves.",
+      "zh": "一种携带道具,可以增强吸取HP招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322605,
+      "en": "A hooked claw that\nups the holder's\ncritical-hit ratio.",
+      "zh": "一个钩状的爪子,可以提高持有者的暴击率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322661,
+      "en": "A hold item that\nmay cause flinching\nwhen the foe is hit.",
+      "zh": "携带后击中对手时\n可能使其畏缩。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322719,
+      "en": "Raises the Def and\nSp. Def of Pokémon\nthat can evolve.",
+      "zh": "提高可进化宝可梦的\n防御和特防。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16322774,
+      "en": "It's so light that\nwhen held, it halves\na Pokémon's weight.",
+      "zh": "携带后宝可梦的\n体重减半。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16322834,
+      "en": "Hurts the foe if\nthey touch its\nholder.",
+      "zh": "如果敌人触碰到持有者就会受到伤害。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322874,
+      "en": "Elevates the holder\nin the air. If hit,\nthis item will burst.",
+      "zh": "将持有者提升到空中。如果被击中,这个物品会爆炸。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322936,
+      "en": "Switches out the\nfoe if they hit the\nholder.",
+      "zh": "如果对手击中持有者,则交换对手。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16322981,
+      "en": "Moves that wouldn't\nhave effect will\nland on its holder.",
+      "zh": "不会产生效果的招式会命中其持有者。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323038,
+      "en": "Increases the\npower of binding\nmoves when held.",
+      "zh": "持有时会增强束缚招式的威力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323086,
+      "en": "Switches out the\nuser if they're hit\nby the foe.",
+      "zh": "如果用户被敌人击中,则交换用户。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323135,
+      "en": "If hit by a Super\nEffective move, ups\nAtk and Sp. Atk.",
+      "zh": "如果被超级有效的招式击中,提升攻击和特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323190,
+      "en": "Raises Sp. Def but\nprevents the use\nof status moves.",
+      "zh": "提升特防,但无法使用异常状态招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323243,
+      "en": "Protect from\nweather damage and\npowder moves.",
+      "zh": "防止天气损害和粉末移动。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323289,
+      "en": "Boosts Speed if the\nuser is intimidated,\nbut only one time.",
+      "zh": "如果使用者受到威胁,则提升速度,但仅限一次。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323349,
+      "en": "Extends the length\nof the active\nbattle terrain.",
+      "zh": "延长当前战斗地形的长度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323398,
+      "en": "Guard the holder\nfrom contact move\neffects.",
+      "zh": "保护持有者免受接触招式效果的影响。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323442,
+      "en": "Raises Sp. Atk. if\nthe holder uses a\nsound-based move.",
+      "zh": "如果持有者使用基于声音的招式,则提升特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323497,
+      "en": "Forces the user to\nswitch if its stats\nare lowered.",
+      "zh": "如果它的能力下降,强制使用者交换。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323549,
+      "en": "Boots that prevent\neffects of traps\nset in the field.",
+      "zh": "可以防止田地中陷阱效果的靴子。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323603,
+      "en": "Raises Speed if\nthe user misses\ndue to Accuracy.",
+      "zh": "如果使用者因命中率而未击中,则提高速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323652,
+      "en": "Lowers Speed if\nTrick Room is\nactive.",
+      "zh": "如果诡计空间处于激活状态,则降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323690,
+      "en": "An umbrella that\nprotects from\nweather effects.",
+      "zh": "一把防风雨的雨伞。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323738,
+      "en": "A hold item that\nheals paralysis\nin battle.",
+      "zh": "携带后能在对战中\n治愈麻痹。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323782,
+      "en": "A hold item that\nawakens Pokémon\nin battle.",
+      "zh": "让宝可梦携带后,可以治愈睡眠。",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16323826,
+      "en": "A hold item that\nheals poisoning\nin battle.",
+      "zh": "携带后能在对战中\n治愈中毒。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323870,
+      "en": "A hold item that\nheals a burn in\nbattle.",
+      "zh": "携带后能在对战中\n治愈灼伤。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323911,
+      "en": "A hold item that\ndefrosts Pokémon\nin battle.",
+      "zh": "让宝可梦携带后,可以治愈冰冻。",
+      "source": "pokeapi"
+    },
+    {
+      "offset": 16323956,
+      "en": "A hold item that\nrestores 10 PP in\nbattle.",
+      "zh": "携带后能在对战中\n回复10点PP。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16323999,
+      "en": "A hold item that\nrestores 10 HP in\nbattle.",
+      "zh": "携带后能在对战中\n回复10点HP。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16324042,
+      "en": "A hold item that\nheals confusion\nin battle.",
+      "zh": "携带后能在对战中\n治愈混乱。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16324086,
+      "en": "A hold item that\nheals any status\nproblem in battle.",
+      "zh": "携带后能在对战中\n治愈所有异常状态。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16324139,
+      "en": "A hold item that\nrestores the user's\nHP a little.",
+      "zh": "携带后能稍微\n回复自身HP。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16324189,
+      "en": "A hold item that\nrestores HP but\nmay confuse.",
+      "zh": "携带后可回复HP,\n但有时会混乱。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16324235,
+      "en": "A hold item that\nrestores HP but\nmay confuse.",
+      "zh": "携带后可回复HP,\n但有时会混乱。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16324281,
+      "en": "A hold item that\nrestores HP but\nmay confuse.",
+      "zh": "携带后可回复HP,\n但有时会混乱。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16324327,
+      "en": "A hold item that\nrestores HP but\nmay confuse.",
+      "zh": "携带后可回复HP,\n但有时会混乱。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16324373,
+      "en": "A hold item that\nrestores HP but\nmay confuse.",
+      "zh": "携带后可回复HP,\n但有时会混乱。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16324683,
+      "en": "Makes a Pokémon\nfriendly but lowers\nbase HP.",
+      "zh": "提高亲密度,但会降低\nHP基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16324728,
+      "en": "Makes a Pokémon\nfriendly but lowers\nbase Attack.",
+      "zh": "提高亲密度,但会降低\n攻击基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16324777,
+      "en": "Makes a Pokémon\nfriendly but lowers\nbase Defense.",
+      "zh": "提高亲密度,但会降低\n防御基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16324827,
+      "en": "Makes a Pokémon\nfriendly but lowers\nbase Sp. Atk.",
+      "zh": "提高亲密度,但会降低\n特攻基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16324877,
+      "en": "Makes a Pokémon\nfriendly but lowers\nbase Sp. Def.",
+      "zh": "提高亲密度,但会降低\n特防基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16324927,
+      "en": "Makes a Pokémon\nfriendly but lowers\nbase Speed.",
+      "zh": "提高亲密度,但会降低\n速度基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16325457,
+      "en": "A hold item that\nweakens a Normal\nmove.",
+      "zh": "一种能够削弱一般招式的持有道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16325497,
+      "en": "A hold item that\nweakens a Fire\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对火属性技能弱,会削弱该",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16325549,
+      "en": "A hold item that\nweakens a Water\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对水属性招式弱,则会削弱该",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16325602,
+      "en": "A hold item that\nweakens a Electric\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对电属性技能弱,则会削弱该技",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16325658,
+      "en": "A hold item that\nweakens a Grass\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对格斗招式弱,它会削弱该草",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16325711,
+      "en": "A hold item that\nweakens a Ice\nmove if weak to it.",
+      "zh": "一种能够削弱冰属性招式的持有道具,如果该招式对持有",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16325762,
+      "en": "A hold item that\nweakens a Fighting\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应招式对其克制,则会削弱格斗招式的威",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16325818,
+      "en": "A hold item that\nweakens a Poison\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对毒属性招式弱,则会削弱该",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16325872,
+      "en": "A hold item that\nweakens a Ground\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应地面技能效果不佳,则会削弱该技能。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16325926,
+      "en": "A hold item that\nweakens a Flying\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应技能对飞行系有效,则削弱该技能的",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16325980,
+      "en": "A hold item that\nweakens a Psychic\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对超能技能弱,则会削弱该技能",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326035,
+      "en": "A hold item that\nweakens a Bug\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对虫系招式弱,它会削弱该",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326086,
+      "en": "A hold item that\nweakens a Rock\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对岩石招式弱,则会削弱该",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326138,
+      "en": "A hold item that\nweakens a Ghost\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应技能对它效果不佳,则会削弱幽灵系",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326191,
+      "en": "A hold item that\nweakens a Dragon\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对龙系招式弱,则会削弱该招",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326245,
+      "en": "A hold item that\nweakens a Dark\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应属性对恶系招式克制,会削弱该招",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326297,
+      "en": "A hold item that\nweakens a Steel\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对钢属性招式弱,则会削弱该",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326350,
+      "en": "A hold item that\nweakens a Fairy\nmove if weak to it.",
+      "zh": "一种携带道具,如果对应宝可梦对妖精招式弱,则会削弱该招",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326403,
+      "en": "A hold item that\nraises Attack in\na pinch.",
+      "zh": "一种在紧要关头提高攻击力的持有道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326446,
+      "en": "A hold item that\nraises Defense in\na pinch.",
+      "zh": "一种在紧要关头提高防御的持有道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326490,
+      "en": "A hold item that\nraises Speed in\na pinch.",
+      "zh": "一种在紧要关头提高速度的持有道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326532,
+      "en": "A hold item that\nraises Sp. Atk in\na pinch.",
+      "zh": "一种能在关键时刻提升特殊攻击的携带道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326576,
+      "en": "A hold item that\nraises Sp. Def in\na pinch.",
+      "zh": "一种能在紧要关头提升特防的携带道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326620,
+      "en": "A hold item that\nups the critical-\nhit rate in a pinch.",
+      "zh": "一种携带道具,可在关键时刻提高暴击率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326676,
+      "en": "A hold item that\nsharply boosts a\nstat in a pinch.",
+      "zh": "一种能够在关键时刻大幅提升某项能力的持有道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326727,
+      "en": "A hold item that\nheals from super\neffective moves.",
+      "zh": "一种能够从超级有效的招式中恢复的持有道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326778,
+      "en": "When held, it ups\nthe Accuracy of a\nmove in a pinch.",
+      "zh": "携带后,危急时\n招式命中率会提高。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326831,
+      "en": "It allows a Pokémon\nin a pinch to move\nfirst just once.",
+      "zh": "危急时可优先\n行动一次。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16326887,
+      "en": "If hit by a physical\nmove, it will hurt\nthe attacker a bit.",
+      "zh": "如果被物理招式击中,会对攻击者造成一点伤害。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16326947,
+      "en": "If hit by a special\nmove, it will hurt\nthe attacker a bit.",
+      "zh": "如果被特殊招式击中,攻击者会受到一点伤害。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327006,
+      "en": "If hit by a physical\nmove, it raises the\nDefense a bit.",
+      "zh": "如果受到物理招式的攻击,防御会略微提高。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327062,
+      "en": "If hit by a special\nmove, it raises the\nSp. Def. a bit.",
+      "zh": "如果被特殊招式击中,它的特防会略微提高。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327175,
+      "en": "Powerful, but makes\nthe user flinch if\nhit by the foe.",
+      "zh": "强力,但如果被敌人击中,使用者会退缩。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327230,
+      "en": "Hooks and slashes\nthe foe with long,\nsharp claws.",
+      "zh": "用长而锋利的爪子钩击并劈砍敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327280,
+      "en": "Generates an\nultrasonic wave\nthat may confuse.",
+      "zh": "产生可能会造成混乱的超声波。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327327,
+      "en": "Raises Sp. Atk and\nSp. Def by focusing\nthe mind.",
+      "zh": "通过专注精神,提高特攻和特防。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327376,
+      "en": "A savage roar that\nmakes the foe flee \nto end the battle.",
+      "zh": "一声野性的咆哮,让敌人逃跑,从而结束战斗。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327434,
+      "en": "Poisons the foe\nwith a toxin that\ngradually worsens.",
+      "zh": "用一种逐渐恶化的毒素毒害敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327487,
+      "en": "Creates a hailstorm\nthat damages all\ntypes except Ice.",
+      "zh": "创造一场冰雹风暴,伤害除冰以外的所有类型。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327542,
+      "en": "Bulks up the body\nto boost both\nAttack {2D} Defense.",
+      "zh": "增强身体以提升攻击力和防御力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327592,
+      "en": "Shoots 2 to 5 seeds\nin a row to strike\nthe foe.",
+      "zh": "连续发射2到5颗种子攻击敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327640,
+      "en": "The attack power\nvaries among\ndifferent Pokémon.",
+      "zh": "威力会因宝可梦\n不同而变化。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16327689,
+      "en": "Raises the power of\nFire-type moves\nfor 5 turns.",
+      "zh": "提升火属性招式的威力,持续5回合。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327738,
+      "en": "Enrages the foe so\nit can only use\nattack moves.",
+      "zh": "激怒敌人,使其只能使用攻击招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327787,
+      "en": "Fires an icy cold\nbeam that may\nfreeze the foe.",
+      "zh": "发射一束冰冷的光束,可能冻结敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327835,
+      "en": "A brutal snow-and-\nwind attack that\nmay freeze the foe.",
+      "zh": "一次残酷的雪与风攻击,可能会冻伤敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327891,
+      "en": "Powerful, but needs\nrecharging the\nnext turn.",
+      "zh": "强力,但需要在下一回合充能。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327937,
+      "en": "Creates a wall of\nlight that lowers\nSp. Atk damage.",
+      "zh": "创造一道光之墙,降低特殊攻击伤害。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16327989,
+      "en": "Negates all damage,\nbut may fail if used\nin succession.",
+      "zh": "抵消所有伤害,但连续使用时可能失败。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328045,
+      "en": "Raises the power of\nWater-type moves\nfor 5 turns.",
+      "zh": "提升水属性招式的威力,持续5回合。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328095,
+      "en": "Recovers half the\nHP of the damage \nthis move inflicts.",
+      "zh": "恢复该招式造成伤害的一半HP。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328151,
+      "en": "Prevents status\nabnormality with a\nmystical power.",
+      "zh": "用神秘的力量预防异常状态。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328202,
+      "en": "The less the user\nlikes you, the more\npowerful this move.",
+      "zh": "用户越不喜欢你,这个动作就越有力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328260,
+      "en": "Absorbs sunlight in\nthe 1st turn, then\nattacks next turn.",
+      "zh": "在第一回合吸收阳光,然后在下一回合攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328318,
+      "en": "Slams the foe with\na hard tail. It may\nlower Defense.",
+      "zh": "用坚硬的尾巴猛击对手。可能会降低防御。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328372,
+      "en": "A powerful electric\nattack that may\ncause paralysis.",
+      "zh": "一种强力的电击攻击,可能导致瘫痪。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328425,
+      "en": "Strikes the foe\nwith a thunderbolt.\nIt may paralyze.",
+      "zh": "用雷电攻击敌人。它可能会使对方麻痹。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328478,
+      "en": "Causes a quake\nthat has no effect\non flying foes.",
+      "zh": "造成地震  \n对飞行敌人没有效果。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328528,
+      "en": "The more the user\nlikes you, the more\npowerful this move.",
+      "zh": "用户越喜欢你,这一招就越强大。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328586,
+      "en": "Digs underground\nthe 1st turn, then\nstrikes next turn.",
+      "zh": "地下挖掘,第1回合,然后下一回合攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328641,
+      "en": "A powerful psychic\nattack that may\nlower Sp. Def.",
+      "zh": "一种强力的超能力攻击,可能降低特防。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328691,
+      "en": "Hurls a dark lump\nat the foe. It may\nlower Sp. Def.",
+      "zh": "向敌人投掷一个黑色块状物。它可能会降低特防。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328743,
+      "en": "Destroys barriers\nlike Light Screen\nand causes damage.",
+      "zh": "破坏像光墙一样的屏障并造成伤害。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328798,
+      "en": "Creates illusory\ncopies to enhance\nelusiveness.",
+      "zh": "创造幻象复制品以增强难以捉摸性。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328846,
+      "en": "Creates a wall of\nlight that weakens\nphysical attacks.",
+      "zh": "创造一堵光之墙,削弱物理攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328901,
+      "en": "Zaps the foe with a\njolt of electricity\nthat never misses.",
+      "zh": "用一次绝不会失手的电击击中敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16328960,
+      "en": "Looses a stream of\nfire that may burn\nthe foe.",
+      "zh": "释放一股火焰,可能烧伤敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329007,
+      "en": "Hurls sludge at the\nfoe. It may poison\nthe foe.",
+      "zh": "向敌人投掷污泥。可能会让敌人中毒。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329055,
+      "en": "Causes a sandstorm\nthat hits the foe\nover several turns.",
+      "zh": "造成沙暴攻击敌人,持续数回合。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329112,
+      "en": "A powerful fire\nattack that may\nburn the foe.",
+      "zh": "一种强力的火焰攻击,可能烧伤对手。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329158,
+      "en": "Stops the foe from\nmoving with rocks.\nMay lower Speed.",
+      "zh": "用岩石阻止敌人移动。\n可能降低速度。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329213,
+      "en": "An extremely fast\nattack that can't\nbe avoided.",
+      "zh": "一种极快的攻击,无法被躲避。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329261,
+      "en": "Prevents the foe\nfrom using the same\nmove in a row.",
+      "zh": "防止对手连续使用同一个招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329313,
+      "en": "Raises Attack when\npoisoned, burned,\nor paralyzed.",
+      "zh": "在中毒、烧伤或麻痹时提升攻击力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329364,
+      "en": "Adds an effect to\nattack depending\non the location.",
+      "zh": "根据位置为攻击添加效果。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329416,
+      "en": "The user sleeps for\n2 turns to restore\nhealth and status.",
+      "zh": "用户睡眠 2 回合以恢复健康和状态。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329474,
+      "en": "Makes it tough to\nattack a foe of the\nopposite gender.",
+      "zh": "使攻击异性敌人变得困难。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329529,
+      "en": "While attacking,\nit may steal the\nfoe's held item.",
+      "zh": "在攻击时,可能会偷走敌人持有的道具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329580,
+      "en": "Spreads hard-\nedged wings and\nslams into the foe.",
+      "zh": "展开坚硬的翅膀,猛击敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329630,
+      "en": "Switches abilities\nwith the foe on the\nturn this is used.",
+      "zh": "在使用此技能的回合内,与对手互换特性。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329688,
+      "en": "Steals the effects\nof the move the foe\nis trying to use.",
+      "zh": "偷取对手试图使用的招式效果。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16329745,
+      "en": "Enables full-power\nattack, but sharply\nlowers Sp. Atk.",
+      "zh": "能够进行全力攻击,但会大幅降低特攻。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330100,
+      "en": "Attacks the foe\nwith sharp blades\nor claws.",
+      "zh": "用锋利的刀刃或爪子攻击敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330144,
+      "en": "Flies up on the\nfirst turn, then\nattacks next turn.",
+      "zh": "在第一个回合飞起,然后在下一个回合攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330196,
+      "en": "Creates a huge\nwave, then crashes\nit down on the foe.",
+      "zh": "制造一个巨大的浪,然后将其砸向敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330250,
+      "en": "Builds enormous\npower, then slams\nthe foe.",
+      "zh": "积蓄巨大的力量,然后猛击敌人。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330293,
+      "en": "Looses a powerful\nblast of light that\nreduces accuracy.",
+      "zh": "释放一股强大的光束,降低命中率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330349,
+      "en": "A rock-crushingly\ntough attack that\nmay lower Defense.",
+      "zh": "一次能粉碎岩石般的强力攻击,可能降低防御。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330404,
+      "en": "Attacks the foe\nwith enough power\nto climb waterfalls.",
+      "zh": "用足够的力量攻击敌人,能够攀登瀑布。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330459,
+      "en": "Dives underwater\nthe 1st turn, then\nattacks next turn.",
+      "zh": "第一回合潜入水中,接着下一回合攻击。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330514,
+      "en": "Raises the chance\nof finding eggs\nat the daycare.",
+      "zh": "提高在托儿所找到彩蛋的机会。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330564,
+      "en": "A charm that will\nraise the chance\nof Shiny Pokémon.",
+      "zh": "提高遇到异色\n宝可梦的概率。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16330617,
+      "en": "A charm that raises\nthe chance of\nCritical Captures.",
+      "zh": "一种能提高暴击捕获几率的护符。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330670,
+      "en": "A charm that raises\nthe amount of Exp.\nearned in battle.",
+      "zh": "一种能增加战斗中获得经验值的护符。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330727,
+      "en": "A charm that will\nraise the shards\nfrom Tera Raids.",
+      "zh": "一个能从泰拉突袭中召回碎片的护符。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330779,
+      "en": "A catalog full of\ndeviced liked by\nRotom.",
+      "zh": "一本充满了罗托姆喜欢的装置的目录。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330821,
+      "en": "Bouquets made with\nit are offered as a\ntoken of gratitude.",
+      "zh": "用它制作的花束被作为感激的象征赠送。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16330880,
+      "en": "This glass returns\na Pokémon back to\nits original form.",
+      "zh": "让宝可梦恢复\n原本的形态。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16330936,
+      "en": "Splicer that fuses\nKyurem and a\ncertain Pokémon.",
+      "zh": "用来合体或分离酋雷姆\n与特定宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16330985,
+      "en": "An item to store\nZygarde Cores and\nCells.",
+      "zh": "一种用于存放扎古尔核心和细胞的物品。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331027,
+      "en": "A bottle used to\nseal a certain\nPokémon long ago.",
+      "zh": "很久以前用于封印\n某只宝可梦的瓶子。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16331077,
+      "en": "A device to fuse\nand split Necrozma\nusing a Solgaleo.",
+      "zh": "用于合体或分离奈克洛兹玛\n与索尔迦雷欧。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16331131,
+      "en": "A device to fuse\nand split Necrozma\nusing a Lunala.",
+      "zh": "用于合体或分离奈克洛兹玛\n与露奈雅拉。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16331183,
+      "en": "Reins that unite\nCalyrex with its\nbeloved steed.",
+      "zh": "将凯雷克斯与它心爱的坐骑连接在一起的缰绳。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331232,
+      "en": "Enables {53}{54} holding\ntheir Mega Stone to\nMega Evolve.",
+      "zh": "让携带进化石的宝可梦\n进行超级进化。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16331284,
+      "en": "A strange ring\nthat enables\nZ-Move usage.",
+      "zh": "一种奇怪的戒指,可以使用Z招式。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331326,
+      "en": "A band carrying a\nWishing Star that\nallows Dynamaxing.",
+      "zh": "一条携带着能够进行极巨化的许愿星的手环。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331381,
+      "en": "A folding bicycle\nthat is faster than\nthe Running Shoes.",
+      "zh": "一辆比跑鞋更快的折叠自行车。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331438,
+      "en": "A folding bicycle\nthat doubles your\nspeed or better.",
+      "zh": "一辆折叠自行车\n可以使你的速度翻倍或更快。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331491,
+      "en": "A folding bicycle\ncapable of jumps\nand wheelies.",
+      "zh": "一辆可折叠自行车,能够跳跃和做后轮动作。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331540,
+      "en": "Use by any body of\nwater to fish for\nwild Pokémon.",
+      "zh": "在水边钓野生\n宝可梦的钓竿。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16331591,
+      "en": "A decent fishing\nrod for catching\nwild Pokémon.",
+      "zh": "能钓到野生宝可梦的\n不错钓竿。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16331639,
+      "en": "The best fishing\nrod for catching\nwild Pokémon.",
+      "zh": "能钓到野生宝可梦的\n顶级钓竿。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16331687,
+      "en": "A device that\nsignals an invisible\nitem by sound.",
+      "zh": "一种通过声音发出信号以指示不可见物品的装置。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331737,
+      "en": "Can be viewed\nanytime. Shows your\npresent location.",
+      "zh": "随时可查看。显示您当前的位置。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331789,
+      "en": "A rechargeable unit\nthat flags battle-\nready Trainers.",
+      "zh": "一个可充电装置,标记出战斗就绪的训练师。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331844,
+      "en": "A convenient case \nthat holds TMs and\nHMs.",
+      "zh": "一个方便的盒子,可以放置TMs和HMs。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331887,
+      "en": "A convenient\ncontainer that\nholds Berries.",
+      "zh": "一个方便的容器,用来装浆果。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16331930,
+      "en": "This device grants\naccess to the {53}{54}\nStorage System.",
+      "zh": "用于连接宝可梦\n寄放系统的装置。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16331982,
+      "en": "A case that holds\nup to 9,999 Coins.",
+      "zh": "最多可装9999枚\n游戏硬币的盒子。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332019,
+      "en": "Stores Berry\nPowder made using\na Berry Crusher.",
+      "zh": "收纳树果粉碎机\n做出的树果粉末。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332067,
+      "en": "A tool used for\nwatering Berries\nand plants.",
+      "zh": "一种用于给浆果和植物浇水的工具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332112,
+      "en": "A tool used to\nsearch out Pokémon\nhiding in grass.",
+      "zh": "搜索藏在草丛中的\n宝可梦。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16332163,
+      "en": "A case for holding\nPokéblocks made with\na Berry Blender.",
+      "zh": "用来收纳树果混合器\n做出的宝可方块。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332220,
+      "en": "A sack used to\ngather and hold\nvolcanic ash.",
+      "zh": "一个用来收集和装载火山灰的麻袋。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332265,
+      "en": "A sweet-sounding\nflute that awakens\nPokémon.",
+      "zh": "能唤醒宝可梦的\n悦耳笛子。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16332310,
+      "en": "Stores information\non famous people\nfor instant recall.",
+      "zh": "存储名人信息以便即时回忆。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332366,
+      "en": "A TV set tuned to\nan advice program\nfor Trainers.",
+      "zh": "一台调到教练建议节目频道的电视机。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332416,
+      "en": "The ticket required\nfor sailing on a\nferry.",
+      "zh": "乘渡轮所需的票。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332460,
+      "en": "The ticket for a\nferry to a distant\nsouthern island.",
+      "zh": "去遥远南方岛屿的渡轮票。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332513,
+      "en": "A ticket required\nto board the ship\nto Navel Rock.",
+      "zh": "登船前往肚脐岩需要票。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332564,
+      "en": "A ticket required\nto board the ship\nto Birth Island.",
+      "zh": "乘船前往诞生岛需要票。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332617,
+      "en": "A faded sea chart\nthat shows the way\nto a certain island.",
+      "zh": "一张褪色的海图,显示通往某个岛屿的路线。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332675,
+      "en": "A letter to Steven\nfrom the President\nof the Devon Corp.",
+      "zh": "致斯蒂文的信\n来自德文公司总裁",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332732,
+      "en": "A package that\ncontains Devon's\nmachine parts.",
+      "zh": "一个包含德文的机器零件的包裹。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332779,
+      "en": "Nifty goggles that\nprotect eyes from\ndesert sandstorms.",
+      "zh": "时髦的护目镜,能保护眼睛免受沙漠沙尘暴的侵袭。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332835,
+      "en": "A device by Devon\nthat signals any\nunseeable Pokémon.",
+      "zh": "能探测隐形宝可梦的\n得文装置。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16332889,
+      "en": "The key for New\nMauville beneath\nMauville City.",
+      "zh": "新马维尔的钥匙在马维尔城地下。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332937,
+      "en": "A device found\ninside the\nAbandoned Ship.",
+      "zh": "在废弃的船内发现的一个装置。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16332979,
+      "en": "The key to the\nstorage inside the\nAbandoned Ship.",
+      "zh": "废弃船内部储物柜的钥匙。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333029,
+      "en": "A key that opens a\ndoor inside the\nAbandoned Ship.",
+      "zh": "一把可以打开废弃船内部某个门的钥匙。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333080,
+      "en": "A key that opens a\ndoor inside the\nAbandoned Ship.",
+      "zh": "一把可以打开废弃船内部某个门的钥匙。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333131,
+      "en": "A key that opens a\ndoor inside the\nAbandoned Ship.",
+      "zh": "一把可以打开废弃船内部某个门的钥匙。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333182,
+      "en": "A key that opens a\ndoor inside the\nAbandoned Ship.",
+      "zh": "一把可以打开废弃船内部某个门的钥匙。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333233,
+      "en": "A meteorite found\nat Meteor Falls.",
+      "zh": "在陨石瀑布发现的一块陨石。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333268,
+      "en": "A medal-like item in\nthe same shape as\nTeam Magma's mark.",
+      "zh": "一个类似奖牌的物品,形状与熔岩队的标志相同。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333326,
+      "en": "The pass required\nfor entering\nPokémon Contests.",
+      "zh": "参加宝可梦华丽大赛\n所需的通行证。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16333375,
+      "en": "A parcel for Prof.\nOak from a Pokémon\nMart's clerk.",
+      "zh": "商店店员托付给\n大木博士的包裹。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16333427,
+      "en": "The key to the\nCinnabar Island\nGym's entrance.",
+      "zh": "红莲岛道馆入口的\n钥匙。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16333474,
+      "en": "A voucher for\nobtaining a bicycle\nfrom the Bike Shop.",
+      "zh": "在自行车店兑换自行车的凭证。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333528,
+      "en": "Gold dentures lost\nby the Safari\nZone's Warden.",
+      "zh": "金牙由野生动物园管理员丢失。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333576,
+      "en": "A card-type door\nkey used in Silph\nCo's office.",
+      "zh": "一种用于丝尔夫公司办公室的卡片式门钥匙。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333624,
+      "en": "An elevator key\nused in Team\nRocket's Hideout.",
+      "zh": "一把电梯钥匙,用于火箭队的藏身处。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333671,
+      "en": "Silph Co's scope\nmakes unseeable\nPOKéMON visible.",
+      "zh": "让看不见的宝可梦\n显形的西尔佛装置。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16333721,
+      "en": "A pass for ferries\nbetween One, Two,\nand Three Island.",
+      "zh": "一张用于一岛、二岛和三岛之间渡轮的通行证。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333776,
+      "en": "For ferries serving\nVermilion and the\nSevii Islands.",
+      "zh": "供前往红褐色和塞维岛的渡轮使用。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333829,
+      "en": "A thirst-quenching\ntea prepared by an\nold lady.",
+      "zh": "由一位老奶奶准备的解渴茶。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333877,
+      "en": "An exquisite, red-\nglowing gem that\nsymbolizes passion.",
+      "zh": "一颗精美的、红色闪耀的宝石,象征着激情。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333933,
+      "en": "A brilliant blue gem\nthat symbolizes\nhonesty.",
+      "zh": "一颗璀璨的蓝色宝石象征着诚实。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16333979,
+      "en": "Ability changes are\nprevented for this\nitems's holder.",
+      "zh": "该道具的持有者无法改变能力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334034,
+      "en": "Stat lowering is\nprevented for this\nitems's holder.",
+      "zh": "该物品持有者无法降低属性。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334086,
+      "en": "Powers up punching\nmoves and removes\ntheir contact.",
+      "zh": "增强拳击招式的威力并移除其接触效果。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334138,
+      "en": "Protects the holder\nfrom secondary\nmove effects.",
+      "zh": "保护持有者免受二次招式效果的影响。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334187,
+      "en": "Rolls high numbers.\nMultihit strikes\nhit more times.",
+      "zh": "掷出高点数。\n多次击打\n命中更多次。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334240,
+      "en": "Armor inhabited by\nauspicious wishes.\nCauses evolution.",
+      "zh": "由吉祥愿望所居住的盔甲。\n引发进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334296,
+      "en": "Encapsuled energy\nups Pokémon with\ncertain Abilities.",
+      "zh": "提高拥有特定特性的\n宝可梦能力。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16334350,
+      "en": "A large and rare\nbamboo shoot. Best\nsold to gourmands.",
+      "zh": "一个又大又稀有的竹笋。最好卖给美食家。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334405,
+      "en": "Gimmighoul hoard\nand treasure these\ncurious coins.",
+      "zh": "吉米高尔收藏并珍藏这些有趣的硬币。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334456,
+      "en": "A shard of an old\nblade of some sort.\nHeld by Bisharp.",
+      "zh": "某种旧刀片的一块碎片。\n被巨剑持有。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334511,
+      "en": "Armor inhabited by\nmalicious will.\nCauses evolution.",
+      "zh": "被恶意意志附身的盔甲。\n导致进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334564,
+      "en": "Mirrors an enemy's\nstat increases\nbut only once.",
+      "zh": "镜像敌人的属性增强,但只生效一次。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334613,
+      "en": "A peculiar scroll\nwith secrets of\nthe dark path.",
+      "zh": "一卷奇特的卷轴,记载着黑暗之道的秘密。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334662,
+      "en": "A peculiar scroll\nwith secrets of\nthe water path.",
+      "zh": "一卷奇特的卷轴,记载着水之道的秘密。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334712,
+      "en": "Energy charges can\nbe used to cause\nTerastallization.",
+      "zh": "能量费用可以用来引发特拉斯特化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334766,
+      "en": "A small and rare\nbamboo shoot. Best\nsold to gourmands.",
+      "zh": "一个小而罕见的竹笋。最适合出售给美食家。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334821,
+      "en": "A large, glowing gem\nthat lets Dialga\nchange form.",
+      "zh": "一颗巨大、发光的宝石,可以让帝牙卢卡变形。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334872,
+      "en": "A large, glowing gem\nthat lets Giratina\nchange form.",
+      "zh": "一颗巨大、发光的宝石,可以让骑拉帝纳变形。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334925,
+      "en": "A large, glowing gem\nthat lets Palkia\nchange form.",
+      "zh": "一颗大型的发光宝石,可以让帕路奇亚变形。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16334976,
+      "en": "Sharply boosts\nAttack, but causes\nlasting confusion.",
+      "zh": "大幅提升攻击,但会导致持续混乱。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16335029,
+      "en": "A very syrupy apple\nthat makes certain\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335084,
+      "en": "A cracked teacup\nthat makes certain\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335136,
+      "en": "A chipped teacup\nthat makes certain\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335188,
+      "en": "A mask that allows\nOgerpon to wield\nthe Water type.",
+      "zh": "一个允许奥格庞使用水属性的面具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16335240,
+      "en": "A mask that allows\nOgerpon to wield\nthe Fire type.",
+      "zh": "一个允许奥格庞使用火属性的面具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16335291,
+      "en": "A mask that allows\nOgerpon to wield\nthe Rock type.",
+      "zh": "一个允许奥格庞使用岩石属性的面具。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16335342,
+      "en": "A prop case full of\ncustomes liked by\nPikachu.",
+      "zh": "一个道具箱,里面装满了皮卡丘喜欢的服装。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16335389,
+      "en": "A peculiar metal\nthat makes certain\nPokémon evolve.",
+      "zh": "能让特定宝可梦\n进化的道具。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335441,
+      "en": "A pastry bag with a\nvariety of creams\nliked by Alcremie.",
+      "zh": "一个装有各种奶油的裱花袋,是阿尔克雷米喜欢的。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16335498,
+      "en": "These shards make\na Pokémon acquire\nBug Tera Type.",
+      "zh": "使宝可梦获得\n虫太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335549,
+      "en": "These shards make\na Pokémon acquire\nDark Tera Type.",
+      "zh": "使宝可梦获得\n恶太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335601,
+      "en": "These shards make\na Pokémon acquire\nDragon Tera Type.",
+      "zh": "使宝可梦获得\n龙太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335655,
+      "en": "These shards make\na Pokémon acquire\nElectric Tera Type.",
+      "zh": "使宝可梦获得\n电太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335711,
+      "en": "These shards make\na Pokémon acquire\nFairy Tera Type.",
+      "zh": "使宝可梦获得\n妖精太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335764,
+      "en": "These shards make\na Pokémon acquire\nFighting Tera Type.",
+      "zh": "使宝可梦获得\n格斗太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335820,
+      "en": "These shards make\na Pokémon acquire\nFire Tera Type.",
+      "zh": "使宝可梦获得\n火太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335872,
+      "en": "These shards make\na Pokémon acquire\nFlying Tera Type.",
+      "zh": "使宝可梦获得\n飞行太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335926,
+      "en": "These shards make\na Pokémon acquire\nGhost Tera Type.",
+      "zh": "使宝可梦获得\n幽灵太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16335979,
+      "en": "These shards make\na Pokémon acquire\nGrass Tera Type.",
+      "zh": "使宝可梦获得\n草太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336032,
+      "en": "These shards make\na Pokémon acquire\nGround Tera Type.",
+      "zh": "使宝可梦获得\n地面太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336086,
+      "en": "These shards make\na Pokémon acquire\nIce Tera Type.",
+      "zh": "使宝可梦获得\n冰太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336137,
+      "en": "These shards make\na Pokémon acquire\nNormal Tera Type.",
+      "zh": "使宝可梦获得\n一般太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336191,
+      "en": "These shards make\na Pokémon acquire\nPoison Tera Type.",
+      "zh": "使宝可梦获得\n毒太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336245,
+      "en": "These shards make\na Pokémon acquire\nPsychic Tera Type.",
+      "zh": "使宝可梦获得\n超能力太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336300,
+      "en": "These shards make\na Pokémon acquire\nRock Tera Type.",
+      "zh": "使宝可梦获得\n岩石太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336352,
+      "en": "These shards make\na Pokémon acquire\nSteel Tera Type.",
+      "zh": "使宝可梦获得\n钢太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336405,
+      "en": "These shards make\na Pokémon acquire\nWater Tera Type.",
+      "zh": "使宝可梦获得\n水太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336458,
+      "en": "These shards make\na Pokémon acquire\nStellar Tera Type.",
+      "zh": "使宝可梦获得\n星晶太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336513,
+      "en": "These shards\nremove a Pokémon's\nTera Type.",
+      "zh": "移除宝可梦的\n太晶属性。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336556,
+      "en": "An item that resets\nall base points of\na Pokémon.",
+      "zh": "清空宝可梦的\n所有基础点数。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16336606,
+      "en": "A bitter powder\nthat restores HP\nby 20 points.",
+      "zh": "能回复20点HP的\n苦味粉末。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16336653,
+      "en": "A bitter powder\nthat restores HP\nby 60 points.",
+      "zh": "能回复60点HP的\n苦味粉末。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16336700,
+      "en": "A bitter powder\nthat restores HP\nby 120 points.",
+      "zh": "能回复120点HP的\n苦味粉末。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16336748,
+      "en": "Sharply raises\nevasiveness during\none battle.",
+      "zh": "在一场战斗中大幅提高回避率。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16336794,
+      "en": "Sharply raises\ndefenses during\none battle.",
+      "zh": "在一场战斗中急剧提高防御。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16336837,
+      "en": "Sharply raises\noffenses during\none battle.",
+      "zh": "在一场战斗中大幅提高攻击力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16336880,
+      "en": "Sharply raises\noffenses {2D} defenses\nduring one battle.",
+      "zh": "在一次战斗中,显著提高攻击力&防御力。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16336934,
+      "en": "Boosts power, but\nallows the use of\nonly one move.",
+      "zh": "提升威力,但只能使用一招。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16336985,
+      "en": "Temporarily swaps\noffensive with\ndefensive stats.",
+      "zh": "暂时交换攻击与防御属性。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337035,
+      "en": "Boosts the damage\ndealt by 50\npercent.",
+      "zh": "将造成的伤害提高50%。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337074,
+      "en": "A wooden toy carved\nin the image of a\nPokémon. Can be sold.",
+      "zh": "宝可梦造型的木雕。\n可以出售。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16337134,
+      "en": "Strange pill.\nChanges the\ngender of a PKM.",
+      "zh": "改变宝可梦性别的\n奇怪药丸。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16337177,
+      "en": "Raises the level\nof a Pokémon to\nthe max allowed.",
+      "zh": "把宝可梦等级提升到\n当前允许的上限。",
+      "source": "compact-manual"
+    },
+    {
+      "offset": 16337227,
+      "en": "This stone enables\nBarbaracle to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让巴巴托斯在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337283,
+      "en": "This stone enables\nChandelure to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让长明灯在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337339,
+      "en": "This stone enables\nChesnaught to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让大甲在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337395,
+      "en": "This stone enables\nClefable to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让胖可丁在战斗中进化成超级进化形态。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337449,
+      "en": "This stone enables\nDelphox to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让多布狐在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337502,
+      "en": "This stone enables\nDragalge to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让多刺龙在战斗中进化为超级进化形态。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337556,
+      "en": "This stone enables\nDragonite to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让快龙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337611,
+      "en": "This stone enables\nDrampa to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让达摩狒在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337663,
+      "en": "This stone enables\nEelektross to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让电龙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337719,
+      "en": "This stone enables\nEmboar to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让猛火猪在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337771,
+      "en": "This stone enables\nExcadrill to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让大地穴龙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337826,
+      "en": "This stone enables\nFalinks to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让法林克斯在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337879,
+      "en": "This stone enables\nFeraligatr to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让暴鳄龙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337935,
+      "en": "This stone enables\nFloette to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让小仙花在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16337988,
+      "en": "This stone enables\nFroslass to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让雪妖女在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338042,
+      "en": "This stone enables\nGreninja to Mega\nEvolve in battle.",
+      "zh": "这种石头可以让甲贺忍蛙在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338096,
+      "en": "This stone enables\nHawlucha to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让葱游兵在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338150,
+      "en": "This stone enables\nMalamar to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让玛拉马能够在战斗中进化为超级进化形态。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338203,
+      "en": "This stone enables\nMeganium to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让 巨金怪 在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338257,
+      "en": "This stone enables\nPyroar to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让狮吼狮在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338309,
+      "en": "This stone enables\nRaichu to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让雷丘在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338361,
+      "en": "This stone enables\nScolipede to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让蜈蚣王在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338416,
+      "en": "This stone enables\nScrafty to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让暴鲤龙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338469,
+      "en": "This stone enables\nSkarmory to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让盔甲鸟在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338523,
+      "en": "This stone enables\nStarmie to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让宝石海星在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338576,
+      "en": "This stone enables\nVictreebel to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让霸王花在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338632,
+      "en": "This stone enables\nZygarde to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让基格尔德在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338685,
+      "en": "This stone enables\nChimecho to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让长翅歌仙在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338739,
+      "en": "This stone enables\nStaraptor to Mega\nEvolve in battle.",
+      "zh": "这种石头可以让烈空坐在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338794,
+      "en": "This stone enables\nHeatran to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让烈焰猴在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338847,
+      "en": "This stone enables\nDarkrai to Mega\nEvolve in battle.",
+      "zh": "这块石头使黑夜魔灵能够在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338900,
+      "en": "This stone enables\nGolurk to Mega\nEvolve in battle.",
+      "zh": "这块石头使古拉顿在战斗中能够超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16338952,
+      "en": "This stone enables\nMeowstic to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让猫老大在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16339006,
+      "en": "This stone enables\nCrabominable to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让大钳蟹在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16339064,
+      "en": "This stone enables\nGolisopod to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让哥利鲨在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16339119,
+      "en": "This stone enables\nMagearna to Mega\nEvolve in battle.",
+      "zh": "这块石头使玛机雅娜能够在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16339173,
+      "en": "This stone enables\nZeraora to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让泽拉奥拉在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16339226,
+      "en": "This stone enables\nScovillain to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让斯考维莱恩在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16339282,
+      "en": "This stone enables\nGlimmora to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让格林多拉在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16339336,
+      "en": "This stone enables\nTatsugiri to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让龙卷鲛在战斗中进行超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16339391,
+      "en": "This stone enables\nBaxcalibur to Mega\nEvolve in battle.",
+      "zh": "这块石头可以让巴克萨利伯在战斗中超级进化。",
+      "source": "existing-reviewed"
+    },
+    {
+      "offset": 16339447,
+      "en": "A water scroll.\nUnleashes\nGreninja's bond.",
+      "zh": "一卷水之卷轴。\n释放\n甲贺忍蛙的羁绊。",
+      "source": "existing-reviewed"
+    }
+  ]
+}

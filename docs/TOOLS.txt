@@ -31,8 +31,14 @@ force_names_zh.py
   按 official_names_zh 官译强制人名/地名等。
 
 force_trainer_class_zh.py
-  对话框/对战名牌上的训练家头衔（YOUNGSTER→少年、PKMN TRAINER→精灵训练家 等）。
+  对话框/对战名牌上的训练家头衔（YOUNGSTER→少年、PKMN TRAINER→宝可梦训练家 等）。
   表址 0x4065EC，66×13 字节定长，只能 inplace。
+
+patch_battle_names_zh.py
+  确定性写入 2 组宝可梦名、3 组招式名与特性名固定表；严格检查缺字和槽位长度。
+
+patch_items_zh.py
+  从已提交词表确定性写入 827 个道具名与 800 条道具说明，并做写后残留校验。
 
 diff_guard.py
   校验改动是否落在允许区；联机敏感区必须不变。失败则勿发布。
@@ -61,6 +67,9 @@ clean_locale_zh.py
 official_names_zh.py
   官译 EN→简中词表（库，被 force_names / merge / fill 引用）。
 
+import_item_glossary.py
+  维护道具词表。读取 PokeAPI CSV 与已提交说明基线；不属于日常联网构建步骤。
+
 
 三、编码库（被其它脚本 import，勿删）
 ------------------------------------
@@ -74,6 +83,9 @@ gen3_charmap.py
 fill_and_apply_remaining.py
   路径常量、机翻缓存、质量检查等共享枢纽（clean_locale / restore_clock 依赖）。
   也可用于按 locale 再刷一轮 inplace（慎用）。
+
+prepare_armips_source.py
+  在 Windows 上确定性展平字体补丁 include，规避 armips 被包含文件解码异常。
 
 
 四、维护 / 补漏（按需）
