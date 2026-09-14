@@ -15,6 +15,7 @@
   DISCOVER.txt           discover 运行快照（只读参考）
   A8V2_VS_084_FONT.txt   字库钩子移植笔记
   DEBUG_PROBES.txt       死副本钩子 / 时钟等调试笔记
+  FINAL_ACCEPTANCE_ZH.md 最终低频功能与完整跑图验收
 
 相关工程（仓库根目录旁）— 详见 PROJECTS.txt
 
@@ -32,3 +33,4 @@
 5. FIX_REMAINING_EN.txt 补漏网英文
 6. PACKAGING.txt        出 ROM / 装到平板
 7. DUALSCREEN.txt       主副屏不一致或卡住时
+8. FINAL_ACCEPTANCE_ZH.md 查看最终验收范围、结果与已知图形例外

@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chs_encode import encode_text_safe  # noqa: E402
+from chs_encode import encode_text, encode_text_safe  # noqa: E402
 
 ROM = ROOT / "work" / "cn_build.gba"
 FREE_START = 0x01D9B5A8 + 0x30000
@@ -72,6 +72,16 @@ MODE_WIZARD: list[tuple[int, str]] = [
     (0x1025B5A, "光耀概率："),
 ]
 
+# This description is embedded without an aligned ROM pointer, so it is absent
+# from the generic dump. The reviewed Chinese text fits the verified source slot.
+INPLACE_MODE_WIZARD: list[tuple[int, str, str]] = [
+    (
+        0x1703C54,
+        "Only usable with random starter,\nTrainer, wild or static POKéMON.",
+        "仅在御三家、训练家、野生或\n定点宝可梦随机时可用。",
+    ),
+]
+
 
 def find_ptrs(rom: bytes, offset: int) -> list[int]:
     out: list[int] = []
@@ -96,10 +106,22 @@ def find_ptrs(rom: bytes, offset: int) -> list[int]:
 
 
 def main() -> int:
+    golden = (ROOT / "golden" / "en_0.8.4.gba").read_bytes()
     data = bytearray(ROM.read_bytes())
     cursor_path = ROOT / "work" / "free_cursor.txt"
     free_at = int(cursor_path.read_text().strip(), 0) if cursor_path.exists() else FREE_START
     stats = {"patched": 0, "fail": 0, "no_ptr": 0}
+
+    for off, en, zh in INPLACE_MODE_WIZARD:
+        source = encode_text(en)
+        encoded, missing = encode_text_safe(zh)
+        if missing or golden[off:off + len(source)] != source or len(encoded) > len(source):
+            print("in-place validation failed", hex(off), missing, len(encoded), len(source))
+            stats["fail"] += 1
+            continue
+        data[off:off + len(source)] = encoded + bytes(len(source) - len(encoded))
+        stats["patched"] += 1
+        print(f"INPLACE {hex(off)} {zh}")
 
     for off, zh in MODE_WIZARD:
         enc, missing = encode_text_safe(zh)

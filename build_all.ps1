@@ -7,6 +7,9 @@ Write-Host "[CN] dump (optional if already done)"
 Write-Host "[CN] audit dialogue controls / English / official terms"
 python tools\audit_dialogue_zh.py --fail-on-issues
 if ($LASTEXITCODE -ne 0) { throw "dialogue audit failed" }
+Write-Host "[CN] audit Easy Chat / low-frequency UI"
+python tools\audit_low_frequency_zh.py --fail-on-issues
+if ($LASTEXITCODE -ne 0) { throw "low-frequency audit failed" }
 Write-Host "[CN] font patch"
 & cmd /c "fontpatch\build.bat"
 if ($LASTEXITCODE -ne 0) { throw "font patch failed" }
@@ -23,18 +26,28 @@ if ($LASTEXITCODE -ne 0) { throw "force_mode failed" }
 Write-Host "[CN] force randomizer UI"
 python tools\force_randomizer_zh.py
 if ($LASTEXITCODE -ne 0) { throw "force_randomizer failed" }
+Write-Host "[CN] patch verified unaligned low-frequency scripts"
+python tools\patch_low_frequency_zh.py
+if ($LASTEXITCODE -ne 0) { throw "patch_low_frequency failed" }
 Write-Host "[CN] force official names"
 python tools\force_names_zh.py
 if ($LASTEXITCODE -ne 0) { throw "force_names failed" }
 Write-Host "[CN] force trainer class names (nameplate)"
 python tools\force_trainer_class_zh.py
 if ($LASTEXITCODE -ne 0) { throw "force_trainer_class failed" }
+Write-Host "[CN] patch complete Easy Chat vocabulary"
+python tools\patch_easy_chat_zh.py
+if ($LASTEXITCODE -ne 0) { throw "patch_easy_chat failed" }
 Write-Host "[CN] patch species / move / ability names"
 python tools\patch_battle_names_zh.py
 if ($LASTEXITCODE -ne 0) { throw "patch_battle_names failed" }
 Write-Host "[CN] patch all item names and descriptions"
 python tools\patch_items_zh.py
 if ($LASTEXITCODE -ne 0) { throw "patch_items failed" }
+python tools\patch_easy_chat_zh.py --check
+if ($LASTEXITCODE -ne 0) { throw "patch_easy_chat check failed" }
+python tools\patch_low_frequency_zh.py --check
+if ($LASTEXITCODE -ne 0) { throw "patch_low_frequency check failed" }
 python tools\diff_guard.py
 if ($LASTEXITCODE -ne 0) { throw "diff_guard failed" }
 Copy-Item -Force work\cn_build.gba out\quetzal_084_cn.gba

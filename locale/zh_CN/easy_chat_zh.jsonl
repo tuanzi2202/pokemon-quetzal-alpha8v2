@@ -1,0 +1,1008 @@
+{"group": "trainer", "index": 0, "offset": 16527304, "slot": 13, "en": "I CHOOSE YOU", "zh": "就决定是你了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 1, "offset": 16527317, "slot": 7, "en": "GOTCHA", "zh": "捕获", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 2, "offset": 16527324, "slot": 6, "en": "TRADE", "zh": "交换", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 3, "offset": 16527330, "slot": 9, "en": "SAPPHIRE", "zh": "蓝宝石", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 4, "offset": 16527339, "slot": 7, "en": "EVOLVE", "zh": "进化", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 5, "offset": 16527346, "slot": 13, "en": "ENCYCLOPEDIA", "zh": "百科", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 6, "offset": 16527359, "slot": 7, "en": "NATURE", "zh": "性格", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 7, "offset": 16527366, "slot": 7, "en": "CENTER", "zh": "中心", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 8, "offset": 16527373, "slot": 4, "en": "EGG", "zh": "蛋", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 9, "offset": 16527377, "slot": 5, "en": "LINK", "zh": "连接", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 10, "offset": 16527382, "slot": 12, "en": "SP. ABILITY", "zh": "特性", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 11, "offset": 16527394, "slot": 8, "en": "TRAINER", "zh": "训练家", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 12, "offset": 16527402, "slot": 8, "en": "VERSION", "zh": "版本", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 13, "offset": 16527410, "slot": 8, "en": "POKéNAV", "zh": "宝可导航", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 14, "offset": 16527418, "slot": 8, "en": "POKéMON", "zh": "宝可梦", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 15, "offset": 16527426, "slot": 4, "en": "GET", "zh": "得到", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 16, "offset": 16527430, "slot": 8, "en": "POKéDEX", "zh": "图鉴", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 17, "offset": 16527438, "slot": 5, "en": "RUBY", "zh": "红宝石", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 18, "offset": 16527443, "slot": 6, "en": "LEVEL", "zh": "等级", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 19, "offset": 16527449, "slot": 4, "en": "RED", "zh": "红", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 20, "offset": 16527453, "slot": 6, "en": "GREEN", "zh": "绿", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 21, "offset": 16527459, "slot": 4, "en": "BAG", "zh": "包包", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 22, "offset": 16527463, "slot": 6, "en": "FLAME", "zh": "火", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 23, "offset": 16527469, "slot": 5, "en": "GOLD", "zh": "金", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 24, "offset": 16527474, "slot": 5, "en": "LEAF", "zh": "叶", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 25, "offset": 16527479, "slot": 7, "en": "SILVER", "zh": "银", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trainer", "index": 26, "offset": 16527486, "slot": 8, "en": "EMERALD", "zh": "绿宝石", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 0, "offset": 16527820, "slot": 5, "en": "DARK", "zh": "恶", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 1, "offset": 16527825, "slot": 7, "en": "STENCH", "zh": "臭味", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 2, "offset": 16527832, "slot": 10, "en": "THICK FAT", "zh": "厚脂肪", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 3, "offset": 16527842, "slot": 10, "en": "RAIN DISH", "zh": "雨盘", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 4, "offset": 16527852, "slot": 8, "en": "DRIZZLE", "zh": "降雨", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 5, "offset": 16527860, "slot": 11, "en": "ARENA TRAP", "zh": "沙穴", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 6, "offset": 16527871, "slot": 11, "en": "INTIMIDATE", "zh": "威吓", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 7, "offset": 16527882, "slot": 10, "en": "ROCK HEAD", "zh": "坚持", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 8, "offset": 16527892, "slot": 6, "en": "COLOR", "zh": "颜色", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 9, "offset": 16527898, "slot": 11, "en": "ALT. COLOR", "zh": "异色", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 10, "offset": 16527909, "slot": 5, "en": "ROCK", "zh": "岩石", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 11, "offset": 16527914, "slot": 10, "en": "BEAUTIFUL", "zh": "魅力", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 12, "offset": 16527924, "slot": 7, "en": "BEAUTY", "zh": "美丽", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 13, "offset": 16527931, "slot": 9, "en": "AIR LOCK", "zh": "气闸", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 14, "offset": 16527940, "slot": 8, "en": "PSYCHIC", "zh": "优雅", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 15, "offset": 16527948, "slot": 13, "en": "HYPER CUTTER", "zh": "怪力钳", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 16, "offset": 16527961, "slot": 9, "en": "FIGHTING", "zh": "格斗", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 17, "offset": 16527970, "slot": 11, "en": "SHADOW TAG", "zh": "踩影", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 18, "offset": 16527981, "slot": 6, "en": "SMART", "zh": "聪明", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 19, "offset": 16527987, "slot": 10, "en": "SMARTNESS", "zh": "冷静", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 20, "offset": 16527997, "slot": 12, "en": "SPEED BOOST", "zh": "加速", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 21, "offset": 16528009, "slot": 5, "en": "COOL", "zh": "帅气", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 22, "offset": 16528014, "slot": 9, "en": "COOLNESS", "zh": "保持", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 23, "offset": 16528023, "slot": 13, "en": "BATTLE ARMOR", "zh": "装甲", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 24, "offset": 16528036, "slot": 5, "en": "CUTE", "zh": "可爱", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 25, "offset": 16528041, "slot": 9, "en": "CUTENESS", "zh": "队伍", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 26, "offset": 16528050, "slot": 7, "en": "STURDY", "zh": "结实", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 27, "offset": 16528057, "slot": 13, "en": "SUCTION CUPS", "zh": "吸盘", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 28, "offset": 16528070, "slot": 6, "en": "GRASS", "zh": "草", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 29, "offset": 16528076, "slot": 11, "en": "CLEAR BODY", "zh": "身体", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 30, "offset": 16528087, "slot": 8, "en": "TORRENT", "zh": "激流", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 31, "offset": 16528095, "slot": 6, "en": "GHOST", "zh": "幽灵", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 32, "offset": 16528101, "slot": 4, "en": "ICE", "zh": "冰", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 33, "offset": 16528105, "slot": 5, "en": "GUTS", "zh": "毅力", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 34, "offset": 16528110, "slot": 11, "en": "ROUGH SKIN", "zh": "变强", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 35, "offset": 16528121, "slot": 12, "en": "SHELL ARMOR", "zh": "坚硬", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 36, "offset": 16528133, "slot": 13, "en": "NATURAL CURE", "zh": "自然回复", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 37, "offset": 16528146, "slot": 5, "en": "DAMP", "zh": "潮湿", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 38, "offset": 16528151, "slot": 7, "en": "GROUND", "zh": "地面", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 39, "offset": 16528158, "slot": 7, "en": "LIMBER", "zh": "黑暗", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 40, "offset": 16528165, "slot": 12, "en": "MAGNET PULL", "zh": "磁力", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 41, "offset": 16528177, "slot": 12, "en": "WHITE SMOKE", "zh": "迷路", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 42, "offset": 16528189, "slot": 12, "en": "SYNCHRONIZE", "zh": "同步", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 43, "offset": 16528201, "slot": 9, "en": "OVERGROW", "zh": "茂盛", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 44, "offset": 16528210, "slot": 11, "en": "SWIFT SWIM", "zh": "快速游泳", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 45, "offset": 16528221, "slot": 12, "en": "SAND STREAM", "zh": "扬沙", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 46, "offset": 16528233, "slot": 10, "en": "SAND VEIL", "zh": "沙隐", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 47, "offset": 16528243, "slot": 9, "en": "KEEN EYE", "zh": "锐利目光", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 48, "offset": 16528252, "slot": 12, "en": "INNER FOCUS", "zh": "精神力", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 49, "offset": 16528264, "slot": 7, "en": "STATIC", "zh": "刺激", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 50, "offset": 16528271, "slot": 5, "en": "TYPE", "zh": "属性", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 51, "offset": 16528276, "slot": 6, "en": "TOUGH", "zh": "强壮", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 52, "offset": 16528282, "slot": 10, "en": "TOUGHNESS", "zh": "厉害", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 53, "offset": 16528292, "slot": 10, "en": "SHED SKIN", "zh": "蜕皮", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 54, "offset": 16528302, "slot": 11, "en": "HUGE POWER", "zh": "炫耀", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 55, "offset": 16528313, "slot": 12, "en": "VOLT ABSORB", "zh": "蓄电", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 56, "offset": 16528325, "slot": 13, "en": "WATER ABSORB", "zh": "储水", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 57, "offset": 16528338, "slot": 9, "en": "ELECTRIC", "zh": "电", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 58, "offset": 16528347, "slot": 9, "en": "FORECAST", "zh": "天气预报", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 59, "offset": 16528356, "slot": 13, "en": "SERENE GRACE", "zh": "天恩", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 60, "offset": 16528369, "slot": 7, "en": "POISON", "zh": "毒", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 61, "offset": 16528376, "slot": 13, "en": "POISON POINT", "zh": "毒刺", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 62, "offset": 16528389, "slot": 7, "en": "DRAGON", "zh": "龙", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 63, "offset": 16528396, "slot": 6, "en": "TRACE", "zh": "复制", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 64, "offset": 16528402, "slot": 10, "en": "OBLIVIOUS", "zh": "迟钝", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 65, "offset": 16528412, "slot": 7, "en": "TRUANT", "zh": "懒惰", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 66, "offset": 16528419, "slot": 9, "en": "RUN AWAY", "zh": "逃跑", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 67, "offset": 16528428, "slot": 12, "en": "STICKY HOLD", "zh": "黏着", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 68, "offset": 16528440, "slot": 11, "en": "CLOUD NINE", "zh": "无关天气", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 69, "offset": 16528451, "slot": 7, "en": "NORMAL", "zh": "一般", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 70, "offset": 16528458, "slot": 6, "en": "STEEL", "zh": "钢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 71, "offset": 16528464, "slot": 11, "en": "ILLUMINATE", "zh": "发光", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 72, "offset": 16528475, "slot": 11, "en": "EARLY BIRD", "zh": "早起", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 73, "offset": 16528486, "slot": 7, "en": "HUSTLE", "zh": "活力", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 74, "offset": 16528493, "slot": 6, "en": "SHINE", "zh": "超能", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 75, "offset": 16528499, "slot": 7, "en": "FLYING", "zh": "飞行", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 76, "offset": 16528506, "slot": 8, "en": "DROUGHT", "zh": "下落", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 77, "offset": 16528514, "slot": 13, "en": "LIGHTNINGROD", "zh": "避雷针", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 78, "offset": 16528527, "slot": 13, "en": "COMPOUNDEYES", "zh": "复眼", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 79, "offset": 16528540, "slot": 13, "en": "MARVEL SCALE", "zh": "神奇鳞片", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 80, "offset": 16528553, "slot": 13, "en": "WONDER GUARD", "zh": "神奇守护", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 81, "offset": 16528566, "slot": 9, "en": "INSOMNIA", "zh": "不眠", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 82, "offset": 16528575, "slot": 9, "en": "LEVITATE", "zh": "飘浮", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 83, "offset": 16528584, "slot": 5, "en": "PLUS", "zh": "水平", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 84, "offset": 16528589, "slot": 9, "en": "PRESSURE", "zh": "压迫感", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 85, "offset": 16528598, "slot": 12, "en": "LIQUID OOZE", "zh": "污泥浆", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 86, "offset": 16528610, "slot": 13, "en": "COLOR CHANGE", "zh": "变色", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 87, "offset": 16528623, "slot": 11, "en": "SOUNDPROOF", "zh": "隔音", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 88, "offset": 16528634, "slot": 13, "en": "EFFECT SPORE", "zh": "孢子", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 89, "offset": 16528647, "slot": 4, "en": "{53}RS", "zh": "宝可病毒", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 90, "offset": 16528651, "slot": 5, "en": "FIRE", "zh": "状态", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 91, "offset": 16528656, "slot": 11, "en": "FLAME BODY", "zh": "火车", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 92, "offset": 16528667, "slot": 6, "en": "MINUS", "zh": "正常", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 93, "offset": 16528673, "slot": 10, "en": "OWN TEMPO", "zh": "我行我素", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 94, "offset": 16528683, "slot": 12, "en": "MAGMA ARMOR", "zh": "发挥", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 95, "offset": 16528695, "slot": 6, "en": "WATER", "zh": "水", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 96, "offset": 16528701, "slot": 11, "en": "WATER VEIL", "zh": "水幕", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 97, "offset": 16528712, "slot": 4, "en": "BUG", "zh": "虫", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 98, "offset": 16528716, "slot": 6, "en": "SWARM", "zh": "虫之预感", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 99, "offset": 16528722, "slot": 11, "en": "CUTE CHARM", "zh": "迷人之躯", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 100, "offset": 16528733, "slot": 9, "en": "IMMUNITY", "zh": "免疫", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 101, "offset": 16528742, "slot": 6, "en": "BLAZE", "zh": "猛火", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 102, "offset": 16528748, "slot": 7, "en": "PICKUP", "zh": "捡拾", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 103, "offset": 16528755, "slot": 8, "en": "PATTERN", "zh": "图案", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 104, "offset": 16528763, "slot": 11, "en": "FLASH FIRE", "zh": "火焰", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 105, "offset": 16528774, "slot": 13, "en": "VITAL SPIRIT", "zh": "干劲", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 106, "offset": 16528787, "slot": 12, "en": "CHLOROPHYLL", "zh": "叶绿素", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 107, "offset": 16528799, "slot": 11, "en": "PURE POWER", "zh": "机器", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "status", "index": 108, "offset": 16528810, "slot": 12, "en": "SHIELD DUST", "zh": "鳞粉", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 0, "offset": 16530132, "slot": 9, "en": "MATCH UP", "zh": "匹配", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 1, "offset": 16530141, "slot": 3, "en": "GO", "zh": "一场", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 2, "offset": 16530144, "slot": 6, "en": "NO. 1", "zh": "第一", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 3, "offset": 16530150, "slot": 7, "en": "DECIDE", "zh": "决定", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 4, "offset": 16530157, "slot": 11, "en": "LET ME WIN", "zh": "让我赢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 5, "offset": 16530168, "slot": 5, "en": "WINS", "zh": "赢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 6, "offset": 16530173, "slot": 4, "en": "WIN", "zh": "获胜", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 7, "offset": 16530177, "slot": 4, "en": "WON", "zh": "赢了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 8, "offset": 16530181, "slot": 9, "en": "IF I WIN", "zh": "如果我赢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 9, "offset": 16530190, "slot": 11, "en": "WHEN I WIN", "zh": "当我赢了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 10, "offset": 16530201, "slot": 10, "en": "CAN'T WIN", "zh": "赢不了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 11, "offset": 16530211, "slot": 8, "en": "CAN WIN", "zh": "能赢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 12, "offset": 16530219, "slot": 9, "en": "NO MATCH", "zh": "不配", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 13, "offset": 16530228, "slot": 7, "en": "SPIRIT", "zh": "精神", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 14, "offset": 16530235, "slot": 8, "en": "DECIDED", "zh": "打败", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 15, "offset": 16530243, "slot": 11, "en": "TRUMP CARD", "zh": "王牌", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 16, "offset": 16530254, "slot": 10, "en": "TAKE THAT", "zh": "接招", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 17, "offset": 16530264, "slot": 8, "en": "COME ON", "zh": "来吧", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 18, "offset": 16530272, "slot": 7, "en": "ATTACK", "zh": "攻击", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 19, "offset": 16530279, "slot": 10, "en": "SURRENDER", "zh": "投降", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 20, "offset": 16530289, "slot": 6, "en": "GUTSY", "zh": "勇敢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 21, "offset": 16530295, "slot": 7, "en": "TALENT", "zh": "才能", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 22, "offset": 16530302, "slot": 9, "en": "STRATEGY", "zh": "战略", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 23, "offset": 16530311, "slot": 6, "en": "SMITE", "zh": "比赛", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 24, "offset": 16530317, "slot": 6, "en": "MATCH", "zh": "比试", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 25, "offset": 16530323, "slot": 8, "en": "VICTORY", "zh": "胜利", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 26, "offset": 16530331, "slot": 10, "en": "OFFENSIVE", "zh": "克制", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 27, "offset": 16530341, "slot": 6, "en": "SENSE", "zh": "感觉", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 28, "offset": 16530347, "slot": 7, "en": "VERSUS", "zh": "应对", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 29, "offset": 16530354, "slot": 7, "en": "FIGHTS", "zh": "感到", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 30, "offset": 16530361, "slot": 6, "en": "POWER", "zh": "力量", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 31, "offset": 16530367, "slot": 10, "en": "CHALLENGE", "zh": "挑战", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 32, "offset": 16530377, "slot": 7, "en": "STRONG", "zh": "强大", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 33, "offset": 16530384, "slot": 11, "en": "TOO STRONG", "zh": "太强了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 34, "offset": 16530395, "slot": 8, "en": "GO EASY", "zh": "错", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 35, "offset": 16530403, "slot": 4, "en": "FOE", "zh": "对", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 36, "offset": 16530407, "slot": 7, "en": "GENIUS", "zh": "天才", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 37, "offset": 16530414, "slot": 7, "en": "LEGEND", "zh": "传奇", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 38, "offset": 16530421, "slot": 7, "en": "ESCAPE", "zh": "逃走", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 39, "offset": 16530428, "slot": 4, "en": "AIM", "zh": "瞄准", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 40, "offset": 16530432, "slot": 7, "en": "BATTLE", "zh": "战斗", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 41, "offset": 16530439, "slot": 6, "en": "FIGHT", "zh": "对战", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 42, "offset": 16530445, "slot": 12, "en": "RESUSCITATE", "zh": "复活", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 43, "offset": 16530457, "slot": 7, "en": "POINTS", "zh": "点数", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 44, "offset": 16530464, "slot": 8, "en": "SERIOUS", "zh": "认真", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 45, "offset": 16530472, "slot": 8, "en": "GIVE UP", "zh": "放弃", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 46, "offset": 16530480, "slot": 5, "en": "LOSS", "zh": "输", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 47, "offset": 16530485, "slot": 10, "en": "IF I LOSE", "zh": "如果我输了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 48, "offset": 16530495, "slot": 5, "en": "LOST", "zh": "输了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 49, "offset": 16530500, "slot": 5, "en": "LOSE", "zh": "输过", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 50, "offset": 16530505, "slot": 6, "en": "GUARD", "zh": "防御", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 51, "offset": 16530511, "slot": 8, "en": "PARTNER", "zh": "伙伴", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 52, "offset": 16530519, "slot": 7, "en": "REJECT", "zh": "行动", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 53, "offset": 16530526, "slot": 7, "en": "ACCEPT", "zh": "接受", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 54, "offset": 16530533, "slot": 11, "en": "INVINCIBLE", "zh": "无敌", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 55, "offset": 16530544, "slot": 9, "en": "RECEIVED", "zh": "接收", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 56, "offset": 16530553, "slot": 5, "en": "EASY", "zh": "过", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 57, "offset": 16530558, "slot": 5, "en": "WEAK", "zh": "弱", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 58, "offset": 16530563, "slot": 9, "en": "TOO WEAK", "zh": "太弱了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 59, "offset": 16530572, "slot": 9, "en": "PUSHOVER", "zh": "轻而易举", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 60, "offset": 16530581, "slot": 7, "en": "LEADER", "zh": "队长", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 61, "offset": 16530588, "slot": 5, "en": "RULE", "zh": "规则", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "battle", "index": 62, "offset": 16530593, "slot": 5, "en": "MOVE", "zh": "招式", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 0, "offset": 16531356, "slot": 7, "en": "THANKS", "zh": "谢谢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 1, "offset": 16531363, "slot": 4, "en": "YES", "zh": "是的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 2, "offset": 16531367, "slot": 10, "en": "HERE GOES", "zh": "来了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 3, "offset": 16531377, "slot": 12, "en": "HERE I COME", "zh": "我来了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 4, "offset": 16531389, "slot": 11, "en": "HERE IT IS", "zh": "在这", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 5, "offset": 16531400, "slot": 5, "en": "YEAH", "zh": "真是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 6, "offset": 16531405, "slot": 8, "en": "WELCOME", "zh": "欢迎", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 7, "offset": 16531413, "slot": 3, "en": "OI", "zh": "喂", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 8, "offset": 16531416, "slot": 7, "en": "HOW DO", "zh": "怎么", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 9, "offset": 16531423, "slot": 9, "en": "CONGRATS", "zh": "恭喜", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 10, "offset": 16531432, "slot": 8, "en": "GIVE ME", "zh": "给我", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 11, "offset": 16531440, "slot": 6, "en": "SORRY", "zh": "实在", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 12, "offset": 16531446, "slot": 10, "en": "APOLOGIZE", "zh": "道歉", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 13, "offset": 16531456, "slot": 8, "en": "FORGIVE", "zh": "怎样", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 14, "offset": 16531464, "slot": 11, "en": "HEY, THERE", "zh": "感谢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 15, "offset": 16531475, "slot": 6, "en": "HELLO", "zh": "你好", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 16, "offset": 16531481, "slot": 9, "en": "GOOD-BYE", "zh": "方式", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 17, "offset": 16531490, "slot": 10, "en": "THANK YOU", "zh": "谢谢你", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 18, "offset": 16531500, "slot": 13, "en": "I'VE ARRIVED", "zh": "如何", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 19, "offset": 16531513, "slot": 7, "en": "PARDON", "zh": "抱歉", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 20, "offset": 16531520, "slot": 7, "en": "EXCUSE", "zh": "原谅", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 21, "offset": 16531527, "slot": 7, "en": "SEE YA", "zh": "不如", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 22, "offset": 16531534, "slot": 10, "en": "EXCUSE ME", "zh": "打扰了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 23, "offset": 16531544, "slot": 11, "en": "WELL, THEN", "zh": "那么", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 24, "offset": 16531555, "slot": 9, "en": "GO AHEAD", "zh": "继续", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 25, "offset": 16531564, "slot": 11, "en": "APPRECIATE", "zh": "欣赏", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 26, "offset": 16531575, "slot": 5, "en": "HEY?", "zh": "喂？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 27, "offset": 16531580, "slot": 11, "en": "WHAT'S UP?", "zh": "怎么了？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 28, "offset": 16531591, "slot": 5, "en": "HUH?", "zh": "嗯？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 29, "offset": 16531596, "slot": 3, "en": "NO", "zh": "不", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 30, "offset": 16531599, "slot": 3, "en": "HI", "zh": "嗨", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 31, "offset": 16531602, "slot": 11, "en": "YEAH, YEAH", "zh": "是啊是啊", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 32, "offset": 16531613, "slot": 8, "en": "BYE-BYE", "zh": "拜拜", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 33, "offset": 16531621, "slot": 9, "en": "MEET YOU", "zh": "见到你", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 34, "offset": 16531630, "slot": 4, "en": "HEY", "zh": "嘿", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 35, "offset": 16531634, "slot": 6, "en": "SMELL", "zh": "闻", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 36, "offset": 16531640, "slot": 10, "en": "LISTENING", "zh": "听", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 37, "offset": 16531650, "slot": 8, "en": "HOO-HAH", "zh": "呼哈", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 38, "offset": 16531658, "slot": 6, "en": "YAHOO", "zh": "呀吼", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 39, "offset": 16531664, "slot": 3, "en": "YO", "zh": "哟", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 40, "offset": 16531667, "slot": 10, "en": "COME OVER", "zh": "过来", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "greetings", "index": 41, "offset": 16531677, "slot": 9, "en": "COUNT ON", "zh": "指望", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 0, "offset": 16532192, "slot": 9, "en": "OPPONENT", "zh": "对手", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 1, "offset": 16532201, "slot": 2, "en": "I", "zh": "是个", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 2, "offset": 16532203, "slot": 4, "en": "YOU", "zh": "你", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 3, "offset": 16532207, "slot": 6, "en": "YOURS", "zh": "你们", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 4, "offset": 16532213, "slot": 4, "en": "SON", "zh": "大家", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 5, "offset": 16532217, "slot": 5, "en": "YOUR", "zh": "你的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 6, "offset": 16532222, "slot": 7, "en": "YOU'RE", "zh": "你是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 7, "offset": 16532229, "slot": 7, "en": "YOU'VE", "zh": "你已经", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 8, "offset": 16532236, "slot": 7, "en": "MOTHER", "zh": "妈妈", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 9, "offset": 16532243, "slot": 12, "en": "GRANDFATHER", "zh": "爷爷", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 10, "offset": 16532255, "slot": 6, "en": "UNCLE", "zh": "叔叔", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 11, "offset": 16532261, "slot": 7, "en": "FATHER", "zh": "爸爸", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 12, "offset": 16532268, "slot": 4, "en": "BOY", "zh": "男孩", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 13, "offset": 16532272, "slot": 6, "en": "ADULT", "zh": "大人", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 14, "offset": 16532278, "slot": 8, "en": "BROTHER", "zh": "兄弟", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 15, "offset": 16532286, "slot": 7, "en": "SISTER", "zh": "姐妹", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 16, "offset": 16532293, "slot": 12, "en": "GRANDMOTHER", "zh": "奶奶", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 17, "offset": 16532305, "slot": 5, "en": "AUNT", "zh": "阿姨", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 18, "offset": 16532310, "slot": 7, "en": "PARENT", "zh": "家长", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 19, "offset": 16532317, "slot": 4, "en": "MAN", "zh": "男人", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 20, "offset": 16532321, "slot": 3, "en": "ME", "zh": "我", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 21, "offset": 16532324, "slot": 5, "en": "GIRL", "zh": "女孩", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 22, "offset": 16532329, "slot": 5, "en": "BABE", "zh": "宝宝", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 23, "offset": 16532334, "slot": 7, "en": "FAMILY", "zh": "家庭", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 24, "offset": 16532341, "slot": 4, "en": "HER", "zh": "女的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 25, "offset": 16532345, "slot": 4, "en": "HIM", "zh": "男的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 26, "offset": 16532349, "slot": 3, "en": "HE", "zh": "他", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 27, "offset": 16532352, "slot": 6, "en": "PLACE", "zh": "位置", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 28, "offset": 16532358, "slot": 9, "en": "DAUGHTER", "zh": "女儿", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 29, "offset": 16532367, "slot": 4, "en": "HIS", "zh": "他的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 30, "offset": 16532371, "slot": 5, "en": "HE'S", "zh": "他是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 31, "offset": 16532376, "slot": 7, "en": "AREN'T", "zh": "不是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 32, "offset": 16532383, "slot": 9, "en": "SIBLINGS", "zh": "兄弟姐妹", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 33, "offset": 16532392, "slot": 4, "en": "KID", "zh": "家", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 34, "offset": 16532396, "slot": 9, "en": "CHILDREN", "zh": "孩子", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 35, "offset": 16532405, "slot": 4, "en": "MR.", "zh": "先生", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 36, "offset": 16532409, "slot": 5, "en": "MRS.", "zh": "太太", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 37, "offset": 16532414, "slot": 7, "en": "MYSELF", "zh": "我自己", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 38, "offset": 16532421, "slot": 6, "en": "I WAS", "zh": "我之前", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 39, "offset": 16532427, "slot": 6, "en": "TO ME", "zh": "对我", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 40, "offset": 16532433, "slot": 3, "en": "MY", "zh": "我的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 41, "offset": 16532436, "slot": 5, "en": "I AM", "zh": "我是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 42, "offset": 16532441, "slot": 5, "en": "I'VE", "zh": "我已经", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 43, "offset": 16532446, "slot": 4, "en": "WHO", "zh": "自己的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 44, "offset": 16532450, "slot": 8, "en": "SOMEONE", "zh": "某人", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 45, "offset": 16532458, "slot": 8, "en": "WHO WAS", "zh": "的人", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 46, "offset": 16532466, "slot": 8, "en": "TO WHOM", "zh": "对谁", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 47, "offset": 16532474, "slot": 6, "en": "WHOSE", "zh": "谁的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 48, "offset": 16532480, "slot": 7, "en": "WHO IS", "zh": "谁是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 49, "offset": 16532487, "slot": 5, "en": "IT'S", "zh": "它是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 50, "offset": 16532492, "slot": 5, "en": "LADY", "zh": "女士", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 51, "offset": 16532497, "slot": 7, "en": "FRIEND", "zh": "朋友", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 52, "offset": 16532504, "slot": 5, "en": "ALLY", "zh": "同伴", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 53, "offset": 16532509, "slot": 7, "en": "PERSON", "zh": "人", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 54, "offset": 16532516, "slot": 5, "en": "DUDE", "zh": "男", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 55, "offset": 16532521, "slot": 5, "en": "THEY", "zh": "女", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 56, "offset": 16532526, "slot": 10, "en": "THEY WERE", "zh": "他们", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 57, "offset": 16532536, "slot": 8, "en": "TO THEM", "zh": "对他们", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 58, "offset": 16532544, "slot": 6, "en": "THEIR", "zh": "他们的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 59, "offset": 16532550, "slot": 8, "en": "THEY'RE", "zh": "他们是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 60, "offset": 16532558, "slot": 8, "en": "THEY'VE", "zh": "他们已经", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 61, "offset": 16532566, "slot": 3, "en": "WE", "zh": "我们", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 62, "offset": 16532569, "slot": 5, "en": "BEEN", "zh": "已经", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 63, "offset": 16532574, "slot": 6, "en": "TO US", "zh": "对我们", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 64, "offset": 16532580, "slot": 4, "en": "OUR", "zh": "我们的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 65, "offset": 16532584, "slot": 6, "en": "WE'RE", "zh": "我们是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 66, "offset": 16532590, "slot": 6, "en": "RIVAL", "zh": "劲敌", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 67, "offset": 16532596, "slot": 6, "en": "WE'VE", "zh": "我们已经", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 68, "offset": 16532602, "slot": 6, "en": "WOMAN", "zh": "女人", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 69, "offset": 16532608, "slot": 4, "en": "SHE", "zh": "她", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 70, "offset": 16532612, "slot": 8, "en": "SHE WAS", "zh": "她是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 71, "offset": 16532620, "slot": 7, "en": "TO HER", "zh": "对她", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 72, "offset": 16532627, "slot": 5, "en": "HERS", "zh": "她的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 73, "offset": 16532632, "slot": 7, "en": "SHE IS", "zh": "者", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "people", "index": 74, "offset": 16532639, "slot": 5, "en": "SOME", "zh": "一些", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 0, "offset": 16533544, "slot": 2, "en": "!", "zh": "！", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 1, "offset": 16533546, "slot": 3, "en": "!!", "zh": "！！", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 2, "offset": 16533549, "slot": 3, "en": "?!", "zh": "？！", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 3, "offset": 16533552, "slot": 2, "en": "?", "zh": "？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 4, "offset": 16533554, "slot": 2, "en": "…", "zh": "……", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 5, "offset": 16533556, "slot": 3, "en": "…!", "zh": "……！", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 6, "offset": 16533559, "slot": 4, "en": "………", "zh": "………", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 7, "offset": 16533563, "slot": 2, "en": "-", "zh": "-", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 8, "offset": 16533565, "slot": 6, "en": "- - -", "zh": "---", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 9, "offset": 16533571, "slot": 6, "en": "UH-OH", "zh": "啊哦", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 10, "offset": 16533577, "slot": 6, "en": "WAAAH", "zh": "哇", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 11, "offset": 16533583, "slot": 6, "en": "AHAHA", "zh": "啊哈哈", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 12, "offset": 16533589, "slot": 4, "en": "OH?", "zh": "哦？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 13, "offset": 16533593, "slot": 5, "en": "NOPE", "zh": "啦", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 14, "offset": 16533598, "slot": 5, "en": "URGH", "zh": "呃", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 15, "offset": 16533603, "slot": 4, "en": "HMM", "zh": "嗯", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 16, "offset": 16533607, "slot": 6, "en": "WHOAH", "zh": "哇哦", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 17, "offset": 16533613, "slot": 10, "en": "WROOOAAR!", "zh": "吼嗷嗷", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 18, "offset": 16533623, "slot": 4, "en": "WOW", "zh": "可惜", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 19, "offset": 16533627, "slot": 7, "en": "GIGGLE", "zh": "咯咯", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 20, "offset": 16533634, "slot": 5, "en": "SIGH", "zh": "唉", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 21, "offset": 16533639, "slot": 13, "en": "UNBELIEVABLE", "zh": "难以置信", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 22, "offset": 16533652, "slot": 6, "en": "CRIES", "zh": "哭", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 23, "offset": 16533658, "slot": 6, "en": "AGREE", "zh": "拜托", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 24, "offset": 16533664, "slot": 4, "en": "EH?", "zh": "才是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 25, "offset": 16533668, "slot": 4, "en": "CRY", "zh": "好了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 26, "offset": 16533672, "slot": 6, "en": "EHEHE", "zh": "哎嘿嘿", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 27, "offset": 16533678, "slot": 11, "en": "OI, OI, OI", "zh": "喂喂喂", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 28, "offset": 16533689, "slot": 9, "en": "OH, YEAH", "zh": "噢耶", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 29, "offset": 16533698, "slot": 3, "en": "OH", "zh": "哦", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 30, "offset": 16533701, "slot": 5, "en": "OOPS", "zh": "哎呀", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 31, "offset": 16533706, "slot": 8, "en": "SHOCKED", "zh": "震惊", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 32, "offset": 16533714, "slot": 4, "en": "EEK", "zh": "罢了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 33, "offset": 16533718, "slot": 7, "en": "GRAAAH", "zh": "样子", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 34, "offset": 16533725, "slot": 10, "en": "GWAHAHAHA", "zh": "难怪", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 35, "offset": 16533735, "slot": 4, "en": "WAY", "zh": "太", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 36, "offset": 16533739, "slot": 4, "en": "TCH", "zh": "啧", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 37, "offset": 16533743, "slot": 5, "en": "HEHE", "zh": "嘿嘿", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 38, "offset": 16533748, "slot": 4, "en": "HAH", "zh": "哈", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 39, "offset": 16533752, "slot": 4, "en": "YUP", "zh": "吧", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 40, "offset": 16533756, "slot": 7, "en": "HAHAHA", "zh": "哈哈哈", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 41, "offset": 16533763, "slot": 7, "en": "AIYEEH", "zh": "哎耶", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 42, "offset": 16533770, "slot": 6, "en": "HIYAH", "zh": "嘿呀", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 43, "offset": 16533776, "slot": 7, "en": "FUFUFU", "zh": "呼呼呼", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 44, "offset": 16533783, "slot": 4, "en": "LOL", "zh": "笑死", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 45, "offset": 16533787, "slot": 6, "en": "SNORT", "zh": "了吗？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 46, "offset": 16533793, "slot": 6, "en": "HUMPH", "zh": "哼", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 47, "offset": 16533799, "slot": 7, "en": "HEHEHE", "zh": "呵呵呵", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 48, "offset": 16533806, "slot": 4, "en": "HEH", "zh": "呵", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 49, "offset": 16533810, "slot": 7, "en": "HOHOHO", "zh": "嚯嚯嚯", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 50, "offset": 16533817, "slot": 7, "en": "UH-HUH", "zh": "嗯嗯", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 51, "offset": 16533824, "slot": 9, "en": "OH, DEAR", "zh": "哦天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 52, "offset": 16533833, "slot": 6, "en": "ARRGH", "zh": "啊啊", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 53, "offset": 16533839, "slot": 7, "en": "MUFUFU", "zh": "没错", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 54, "offset": 16533846, "slot": 4, "en": "MMM", "zh": "嗯……", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 55, "offset": 16533850, "slot": 7, "en": "OH-KAY", "zh": "好好", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 56, "offset": 16533857, "slot": 5, "en": "OKAY", "zh": "好吧", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 57, "offset": 16533862, "slot": 7, "en": "LALALA", "zh": "啦啦啦", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 58, "offset": 16533869, "slot": 4, "en": "YAY", "zh": "耶", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 59, "offset": 16533873, "slot": 4, "en": "AWW", "zh": "啊", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 60, "offset": 16533877, "slot": 6, "en": "WOWEE", "zh": "哇耶", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 61, "offset": 16533883, "slot": 5, "en": "GWAH", "zh": "嘎啊", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "voices", "index": 62, "offset": 16533888, "slot": 9, "en": "WAHAHAHA", "zh": "哇哈哈哈", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 0, "offset": 16534656, "slot": 7, "en": "LISTEN", "zh": "点", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 1, "offset": 16534663, "slot": 9, "en": "NOT VERY", "zh": "不太", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 2, "offset": 16534672, "slot": 5, "en": "MEAN", "zh": "意思", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 3, "offset": 16534677, "slot": 4, "en": "LIE", "zh": "谎言", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 4, "offset": 16534681, "slot": 4, "en": "LAY", "zh": "怀疑", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 5, "offset": 16534685, "slot": 10, "en": "RECOMMEND", "zh": "推荐", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 6, "offset": 16534695, "slot": 7, "en": "NITWIT", "zh": "笨蛋", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 7, "offset": 16534702, "slot": 6, "en": "QUITE", "zh": "相当", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 8, "offset": 16534708, "slot": 5, "en": "FROM", "zh": "从", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 9, "offset": 16534713, "slot": 8, "en": "FEELING", "zh": "来自", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 10, "offset": 16534721, "slot": 4, "en": "BUT", "zh": "但是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 11, "offset": 16534725, "slot": 8, "en": "HOWEVER", "zh": "而且", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 12, "offset": 16534733, "slot": 5, "en": "CASE", "zh": "因为", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 13, "offset": 16534738, "slot": 4, "en": "THE", "zh": "所以", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 14, "offset": 16534742, "slot": 5, "en": "MISS", "zh": "想", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 15, "offset": 16534747, "slot": 4, "en": "HOW", "zh": "虽然", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 16, "offset": 16534751, "slot": 4, "en": "HIT", "zh": "打", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 17, "offset": 16534755, "slot": 7, "en": "ENOUGH", "zh": "足够", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 18, "offset": 16534762, "slot": 6, "en": "A LOT", "zh": "很多", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 19, "offset": 16534768, "slot": 9, "en": "A LITTLE", "zh": "一点", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 20, "offset": 16534777, "slot": 11, "en": "ABSOLUTELY", "zh": "绝对", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 21, "offset": 16534788, "slot": 4, "en": "AND", "zh": "和", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 22, "offset": 16534792, "slot": 5, "en": "ONLY", "zh": "只", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 23, "offset": 16534797, "slot": 7, "en": "AROUND", "zh": "周围", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 24, "offset": 16534804, "slot": 9, "en": "PROBABLY", "zh": "终究", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 25, "offset": 16534813, "slot": 3, "en": "IF", "zh": "如果", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 26, "offset": 16534816, "slot": 5, "en": "VERY", "zh": "很", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 27, "offset": 16534821, "slot": 11, "en": "A TINY BIT", "zh": "一种", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 28, "offset": 16534832, "slot": 5, "en": "WILD", "zh": "野生", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 29, "offset": 16534837, "slot": 7, "en": "THAT'S", "zh": "毕竟", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 30, "offset": 16534844, "slot": 5, "en": "JUST", "zh": "只是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 31, "offset": 16534849, "slot": 9, "en": "EVEN SO,", "zh": "每", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 32, "offset": 16534858, "slot": 8, "en": "MUST BE", "zh": "一定是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 33, "offset": 16534866, "slot": 10, "en": "NATURALLY", "zh": "都是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 34, "offset": 16534876, "slot": 9, "en": "FOR NOW,", "zh": "目前，", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 35, "offset": 16534885, "slot": 11, "en": "UNDERSTOOD", "zh": "都", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 36, "offset": 16534896, "slot": 7, "en": "JOKING", "zh": "像", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 37, "offset": 16534903, "slot": 6, "en": "READY", "zh": "准备好", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 38, "offset": 16534909, "slot": 10, "en": "SOMETHING", "zh": "某物", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 39, "offset": 16534919, "slot": 8, "en": "SOMEHOW", "zh": "不知为何", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 40, "offset": 16534927, "slot": 9, "en": "ALTHOUGH", "zh": "尽管", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 41, "offset": 16534936, "slot": 5, "en": "ALSO", "zh": "也", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 42, "offset": 16534941, "slot": 8, "en": "PERFECT", "zh": "全都", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 43, "offset": 16534949, "slot": 11, "en": "AS MUCH AS", "zh": "尽可能", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 44, "offset": 16534960, "slot": 7, "en": "REALLY", "zh": "真的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 45, "offset": 16534967, "slot": 6, "en": "TRULY", "zh": "真正", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 46, "offset": 16534973, "slot": 10, "en": "SERIOUSLY", "zh": "只有", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 47, "offset": 16534983, "slot": 8, "en": "TOTALLY", "zh": "完全", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 48, "offset": 16534991, "slot": 6, "en": "UNTIL", "zh": "直到", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 49, "offset": 16534997, "slot": 6, "en": "AS IF", "zh": "好像", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 50, "offset": 16535003, "slot": 5, "en": "MOOD", "zh": "心情", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 51, "offset": 16535008, "slot": 7, "en": "RATHER", "zh": "全力", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 52, "offset": 16535015, "slot": 8, "en": "AWFULLY", "zh": "非常", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 53, "offset": 16535023, "slot": 5, "en": "MODE", "zh": "模式", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 54, "offset": 16535028, "slot": 5, "en": "MORE", "zh": "更多", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 55, "offset": 16535033, "slot": 9, "en": "TOO LATE", "zh": "机会", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 56, "offset": 16535042, "slot": 8, "en": "FINALLY", "zh": "终于", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 57, "offset": 16535050, "slot": 4, "en": "ANY", "zh": "任何", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 58, "offset": 16535054, "slot": 8, "en": "INSTEAD", "zh": "反而", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "speech", "index": 59, "offset": 16535062, "slot": 10, "en": "FANTASTIC", "zh": "太棒了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 0, "offset": 16535792, "slot": 5, "en": "WILL", "zh": "将", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 1, "offset": 16535797, "slot": 13, "en": "WILL BE HERE", "zh": "感", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 2, "offset": 16535810, "slot": 3, "en": "OR", "zh": "或", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 3, "offset": 16535813, "slot": 6, "en": "TIMES", "zh": "对吗？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 4, "offset": 16535819, "slot": 7, "en": "WONDER", "zh": "好奇", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 5, "offset": 16535826, "slot": 7, "en": "IS IT?", "zh": "是吗？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 6, "offset": 16535833, "slot": 3, "en": "BE", "zh": "是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 7, "offset": 16535836, "slot": 6, "en": "GIMME", "zh": "给", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 8, "offset": 16535842, "slot": 6, "en": "COULD", "zh": "可能", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 9, "offset": 16535848, "slot": 10, "en": "LIKELY TO", "zh": "还", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 10, "offset": 16535858, "slot": 6, "en": "WOULD", "zh": "会", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 11, "offset": 16535864, "slot": 3, "en": "IS", "zh": "了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 12, "offset": 16535867, "slot": 10, "en": "ISN'T IT?", "zh": "不是吗？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 13, "offset": 16535877, "slot": 6, "en": "LET'S", "zh": "让我们", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 14, "offset": 16535883, "slot": 6, "en": "OTHER", "zh": "别的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 15, "offset": 16535889, "slot": 4, "en": "ARE", "zh": "可是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 16, "offset": 16535893, "slot": 4, "en": "WAS", "zh": "吗？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 17, "offset": 16535897, "slot": 5, "en": "WERE", "zh": "就是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 18, "offset": 16535902, "slot": 6, "en": "THOSE", "zh": "那些", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 19, "offset": 16535908, "slot": 6, "en": "ISN'T", "zh": "不想", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 20, "offset": 16535914, "slot": 6, "en": "WON'T", "zh": "不会", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 21, "offset": 16535920, "slot": 6, "en": "CAN'T", "zh": "不可以", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 22, "offset": 16535926, "slot": 4, "en": "CAN", "zh": "可以", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 23, "offset": 16535930, "slot": 6, "en": "DON'T", "zh": "不要", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 24, "offset": 16535936, "slot": 3, "en": "DO", "zh": "把", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 25, "offset": 16535939, "slot": 5, "en": "DOES", "zh": "做", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 26, "offset": 16535944, "slot": 5, "en": "WHOM", "zh": "谁", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 27, "offset": 16535949, "slot": 6, "en": "WHICH", "zh": "哪个", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 28, "offset": 16535955, "slot": 7, "en": "WASN'T", "zh": "不只", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 29, "offset": 16535962, "slot": 8, "en": "WEREN'T", "zh": "要", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 30, "offset": 16535970, "slot": 5, "en": "HAVE", "zh": "有", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 31, "offset": 16535975, "slot": 8, "en": "HAVEN'T", "zh": "没有", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 32, "offset": 16535983, "slot": 2, "en": "A", "zh": "一个", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 33, "offset": 16535985, "slot": 3, "en": "AN", "zh": "一样", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 34, "offset": 16535988, "slot": 4, "en": "NOT", "zh": "一下", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 35, "offset": 16535992, "slot": 6, "en": "THERE", "zh": "那里", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 36, "offset": 16535998, "slot": 4, "en": "OK?", "zh": "好吗？", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 37, "offset": 16536002, "slot": 3, "en": "SO", "zh": "又", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 38, "offset": 16536005, "slot": 6, "en": "MAYBE", "zh": "也许", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 39, "offset": 16536011, "slot": 6, "en": "ABOUT", "zh": "关于", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 40, "offset": 16536017, "slot": 5, "en": "OVER", "zh": "结果", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 41, "offset": 16536022, "slot": 3, "en": "IT", "zh": "它", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 42, "offset": 16536025, "slot": 4, "en": "ALL", "zh": "为", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 43, "offset": 16536029, "slot": 4, "en": "FOR", "zh": "为了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 44, "offset": 16536033, "slot": 3, "en": "ON", "zh": "在", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 45, "offset": 16536036, "slot": 4, "en": "OFF", "zh": "一只", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 46, "offset": 16536040, "slot": 3, "en": "AS", "zh": "作为", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 47, "offset": 16536043, "slot": 3, "en": "TO", "zh": "到", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 48, "offset": 16536046, "slot": 5, "en": "WITH", "zh": "与", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 49, "offset": 16536051, "slot": 7, "en": "BETTER", "zh": "更好", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 50, "offset": 16536058, "slot": 5, "en": "EVER", "zh": "曾经", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 51, "offset": 16536063, "slot": 6, "en": "SINCE", "zh": "史上", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 52, "offset": 16536069, "slot": 3, "en": "OF", "zh": "的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 53, "offset": 16536072, "slot": 11, "en": "BELONGS TO", "zh": "属于", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 54, "offset": 16536083, "slot": 3, "en": "AT", "zh": "着", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 55, "offset": 16536086, "slot": 3, "en": "IN", "zh": "开", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 56, "offset": 16536089, "slot": 4, "en": "OUT", "zh": "哪", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 57, "offset": 16536093, "slot": 4, "en": "TOO", "zh": "地", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 58, "offset": 16536097, "slot": 5, "en": "LIKE", "zh": "得", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 59, "offset": 16536102, "slot": 4, "en": "DID", "zh": "吗", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 60, "offset": 16536106, "slot": 7, "en": "DIDN'T", "zh": "多", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 61, "offset": 16536113, "slot": 8, "en": "DOESN'T", "zh": "少", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 62, "offset": 16536121, "slot": 8, "en": "WITHOUT", "zh": "地方", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 63, "offset": 16536129, "slot": 6, "en": "AFTER", "zh": "之后", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 64, "offset": 16536135, "slot": 7, "en": "BEFORE", "zh": "之前", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 65, "offset": 16536142, "slot": 6, "en": "WHILE", "zh": "当", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 66, "offset": 16536148, "slot": 5, "en": "THAN", "zh": "比", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 67, "offset": 16536153, "slot": 5, "en": "ONCE", "zh": "一次", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "endings", "index": 68, "offset": 16536158, "slot": 9, "en": "ANYWHERE", "zh": "没", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 0, "offset": 16536996, "slot": 5, "en": "MEET", "zh": "吸引", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 1, "offset": 16537001, "slot": 5, "en": "PLAY", "zh": "玩", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 2, "offset": 16537006, "slot": 8, "en": "HURRIED", "zh": "过头", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 3, "offset": 16537014, "slot": 5, "en": "GOES", "zh": "一生", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 4, "offset": 16537019, "slot": 6, "en": "GIDDY", "zh": "头晕", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 5, "offset": 16537025, "slot": 6, "en": "HAPPY", "zh": "开心", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 6, "offset": 16537031, "slot": 10, "en": "HAPPINESS", "zh": "高兴", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 7, "offset": 16537041, "slot": 7, "en": "EXCITE", "zh": "兴奋", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 8, "offset": 16537048, "slot": 10, "en": "IMPORTANT", "zh": "重要", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 9, "offset": 16537058, "slot": 6, "en": "FUNNY", "zh": "有趣", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 10, "offset": 16537064, "slot": 4, "en": "GOT", "zh": "轻松", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 11, "offset": 16537068, "slot": 8, "en": "GO HOME", "zh": "回家", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 12, "offset": 16537076, "slot": 13, "en": "DISAPPOINTED", "zh": "失望", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 13, "offset": 16537089, "slot": 12, "en": "DISAPPOINTS", "zh": "意识", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 14, "offset": 16537101, "slot": 4, "en": "SAD", "zh": "难过", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 15, "offset": 16537105, "slot": 4, "en": "TRY", "zh": "尝试", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 16, "offset": 16537109, "slot": 6, "en": "TRIES", "zh": "消息", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 17, "offset": 16537115, "slot": 6, "en": "HEARS", "zh": "听到", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 18, "offset": 16537121, "slot": 6, "en": "THINK", "zh": "试试", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 19, "offset": 16537127, "slot": 5, "en": "HEAR", "zh": "听见", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 20, "offset": 16537132, "slot": 6, "en": "WANTS", "zh": "想要", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 21, "offset": 16537138, "slot": 9, "en": "MISHEARD", "zh": "听错了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 22, "offset": 16537147, "slot": 8, "en": "DISLIKE", "zh": "讨厌", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 23, "offset": 16537155, "slot": 6, "en": "ANGRY", "zh": "生气", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 24, "offset": 16537161, "slot": 6, "en": "ANGER", "zh": "欺骗", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 25, "offset": 16537167, "slot": 6, "en": "SCARY", "zh": "可怕", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 26, "offset": 16537173, "slot": 9, "en": "LONESOME", "zh": "孤单", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 27, "offset": 16537182, "slot": 11, "en": "DISAPPOINT", "zh": "希望", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 28, "offset": 16537193, "slot": 4, "en": "JOY", "zh": "喜悦", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 29, "offset": 16537197, "slot": 5, "en": "GETS", "zh": "获得", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 30, "offset": 16537202, "slot": 6, "en": "NEVER", "zh": "从不", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 31, "offset": 16537208, "slot": 5, "en": "DARN", "zh": "可恶", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 32, "offset": 16537213, "slot": 9, "en": "DOWNCAST", "zh": "沮丧", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 33, "offset": 16537222, "slot": 11, "en": "INCREDIBLE", "zh": "不可思议", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 34, "offset": 16537233, "slot": 6, "en": "LIKES", "zh": "喜欢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 35, "offset": 16537239, "slot": 9, "en": "DISLIKES", "zh": "不喜欢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 36, "offset": 16537248, "slot": 7, "en": "BORING", "zh": "无聊", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 37, "offset": 16537255, "slot": 5, "en": "CARE", "zh": "关心", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 38, "offset": 16537260, "slot": 6, "en": "CARES", "zh": "一切", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 39, "offset": 16537266, "slot": 10, "en": "ALL RIGHT", "zh": "所有", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 40, "offset": 16537276, "slot": 6, "en": "ADORE", "zh": "崇拜", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 41, "offset": 16537282, "slot": 9, "en": "DISASTER", "zh": "灾难", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 42, "offset": 16537291, "slot": 6, "en": "ENJOY", "zh": "享受", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 43, "offset": 16537297, "slot": 7, "en": "ENJOYS", "zh": "成为", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 44, "offset": 16537304, "slot": 4, "en": "EAT", "zh": "吃", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 45, "offset": 16537308, "slot": 8, "en": "LACKING", "zh": "缺乏", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 46, "offset": 16537316, "slot": 4, "en": "BAD", "zh": "坏", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 47, "offset": 16537320, "slot": 5, "en": "HARD", "zh": "困难", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 48, "offset": 16537325, "slot": 9, "en": "TERRIBLE", "zh": "该", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 49, "offset": 16537334, "slot": 7, "en": "SHOULD", "zh": "应该", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 50, "offset": 16537341, "slot": 5, "en": "NICE", "zh": "不错", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 51, "offset": 16537346, "slot": 6, "en": "DRINK", "zh": "不够", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 52, "offset": 16537352, "slot": 9, "en": "SURPRISE", "zh": "惊喜", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 53, "offset": 16537361, "slot": 5, "en": "FEAR", "zh": "后悔", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 54, "offset": 16537366, "slot": 5, "en": "WANT", "zh": "等不及", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 55, "offset": 16537371, "slot": 5, "en": "WAIT", "zh": "等待", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 56, "offset": 16537376, "slot": 10, "en": "SATISFIED", "zh": "满意", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 57, "offset": 16537386, "slot": 4, "en": "SEE", "zh": "看看", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 58, "offset": 16537390, "slot": 5, "en": "RARE", "zh": "稀有", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 59, "offset": 16537395, "slot": 9, "en": "NEGATIVE", "zh": "不利", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 60, "offset": 16537404, "slot": 5, "en": "DONE", "zh": "完成", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 61, "offset": 16537409, "slot": 7, "en": "DANGER", "zh": "危险", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 62, "offset": 16537416, "slot": 9, "en": "DEFEATED", "zh": "被打败", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 63, "offset": 16537425, "slot": 5, "en": "BEAT", "zh": "击败", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 64, "offset": 16537430, "slot": 6, "en": "GREAT", "zh": "很棒", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 65, "offset": 16537436, "slot": 9, "en": "ROMANTIC", "zh": "浪漫", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 66, "offset": 16537445, "slot": 9, "en": "QUESTION", "zh": "问题", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 67, "offset": 16537454, "slot": 11, "en": "UNDERSTAND", "zh": "不幸", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "feelings", "index": 68, "offset": 16537465, "slot": 12, "en": "UNDERSTANDS", "zh": "离开", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 0, "offset": 16538308, "slot": 4, "en": "HOT", "zh": "热", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 1, "offset": 16538312, "slot": 7, "en": "EXISTS", "zh": "必须", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 2, "offset": 16538319, "slot": 7, "en": "EXCESS", "zh": "过于", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 3, "offset": 16538326, "slot": 9, "en": "APPROVED", "zh": "批准", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 4, "offset": 16538335, "slot": 4, "en": "HAS", "zh": "好", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 5, "offset": 16538339, "slot": 5, "en": "GOOD", "zh": "好的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 6, "offset": 16538344, "slot": 5, "en": "LESS", "zh": "更少", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 7, "offset": 16538349, "slot": 9, "en": "MOMENTUM", "zh": "思考", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 8, "offset": 16538358, "slot": 6, "en": "GOING", "zh": "更", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 9, "offset": 16538364, "slot": 6, "en": "WEIRD", "zh": "奇怪", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 10, "offset": 16538370, "slot": 5, "en": "BUSY", "zh": "忙碌", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 11, "offset": 16538375, "slot": 9, "en": "TOGETHER", "zh": "一起", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 12, "offset": 16538384, "slot": 5, "en": "FULL", "zh": "充满", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 13, "offset": 16538389, "slot": 7, "en": "ABSENT", "zh": "一边", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 14, "offset": 16538396, "slot": 6, "en": "BEING", "zh": "存在", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 15, "offset": 16538402, "slot": 5, "en": "NEED", "zh": "需要", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 16, "offset": 16538407, "slot": 6, "en": "TASTY", "zh": "美味", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 17, "offset": 16538413, "slot": 8, "en": "SKILLED", "zh": "熟练", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 18, "offset": 16538421, "slot": 6, "en": "NOISY", "zh": "顺利", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 19, "offset": 16538427, "slot": 4, "en": "BIG", "zh": "大", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 20, "offset": 16538431, "slot": 5, "en": "LATE", "zh": "迟到", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 21, "offset": 16538436, "slot": 6, "en": "CLOSE", "zh": "关闭", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 22, "offset": 16538442, "slot": 7, "en": "DOCILE", "zh": "温顺", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 23, "offset": 16538449, "slot": 8, "en": "AMUSING", "zh": "夸张", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 24, "offset": 16538457, "slot": 13, "en": "ENTERTAINING", "zh": "娱乐", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 25, "offset": 16538470, "slot": 11, "en": "PERFECTION", "zh": "完美", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 26, "offset": 16538481, "slot": 7, "en": "PRETTY", "zh": "漂亮", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 27, "offset": 16538488, "slot": 8, "en": "HEALTHY", "zh": "健康", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 28, "offset": 16538496, "slot": 10, "en": "EXCELLENT", "zh": "优秀", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 29, "offset": 16538506, "slot": 12, "en": "UPSIDE DOWN", "zh": "颠倒", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 30, "offset": 16538518, "slot": 5, "en": "COLD", "zh": "冷", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 31, "offset": 16538523, "slot": 11, "en": "REFRESHING", "zh": "清爽", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 32, "offset": 16538534, "slot": 12, "en": "UNAVOIDABLE", "zh": "不可避免", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 33, "offset": 16538546, "slot": 5, "en": "MUCH", "zh": "许多", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 34, "offset": 16538551, "slot": 13, "en": "OVERWHELMING", "zh": "压倒性", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 35, "offset": 16538564, "slot": 9, "en": "FABULOUS", "zh": "绝妙", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 36, "offset": 16538573, "slot": 5, "en": "ELSE", "zh": "其他", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 37, "offset": 16538578, "slot": 10, "en": "EXPENSIVE", "zh": "昂贵", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 38, "offset": 16538588, "slot": 8, "en": "CORRECT", "zh": "正确", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 39, "offset": 16538596, "slot": 11, "en": "IMPOSSIBLE", "zh": "不可能", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 40, "offset": 16538607, "slot": 6, "en": "SMALL", "zh": "小", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 41, "offset": 16538613, "slot": 10, "en": "DIFFERENT", "zh": "不同", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 42, "offset": 16538623, "slot": 6, "en": "TIRED", "zh": "疲倦", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 43, "offset": 16538629, "slot": 6, "en": "SKILL", "zh": "技能", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 44, "offset": 16538635, "slot": 4, "en": "TOP", "zh": "顶级", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 45, "offset": 16538639, "slot": 9, "en": "NON-STOP", "zh": "不停", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 46, "offset": 16538648, "slot": 13, "en": "PREPOSTEROUS", "zh": "荒谬", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 47, "offset": 16538661, "slot": 5, "en": "NONE", "zh": "无", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 48, "offset": 16538666, "slot": 8, "en": "NOTHING", "zh": "实现", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 49, "offset": 16538674, "slot": 8, "en": "NATURAL", "zh": "自然", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 50, "offset": 16538682, "slot": 8, "en": "BECOMES", "zh": "变得", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 51, "offset": 16538690, "slot": 9, "en": "LUKEWARM", "zh": "快", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 52, "offset": 16538699, "slot": 5, "en": "FAST", "zh": "快速", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 53, "offset": 16538704, "slot": 4, "en": "LOW", "zh": "低", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 54, "offset": 16538708, "slot": 6, "en": "AWFUL", "zh": "糟糕", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 55, "offset": 16538714, "slot": 6, "en": "ALONE", "zh": "独自", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 56, "offset": 16538720, "slot": 6, "en": "BORED", "zh": "持续", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 57, "offset": 16538726, "slot": 7, "en": "SECRET", "zh": "秘密", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 58, "offset": 16538733, "slot": 8, "en": "MYSTERY", "zh": "谜团", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 59, "offset": 16538741, "slot": 6, "en": "LACKS", "zh": "一直", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 60, "offset": 16538747, "slot": 5, "en": "BEST", "zh": "最好", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 61, "offset": 16538752, "slot": 6, "en": "LOUSY", "zh": "精彩", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 62, "offset": 16538758, "slot": 8, "en": "MISTAKE", "zh": "错误", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 63, "offset": 16538766, "slot": 5, "en": "KIND", "zh": "友善", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 64, "offset": 16538771, "slot": 5, "en": "WELL", "zh": "很好", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 65, "offset": 16538776, "slot": 9, "en": "WEAKENED", "zh": "削弱", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 66, "offset": 16538785, "slot": 7, "en": "SIMPLE", "zh": "简单", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 67, "offset": 16538792, "slot": 6, "en": "SEEMS", "zh": "看起来", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "conditions", "index": 68, "offset": 16538798, "slot": 6, "en": "BADLY", "zh": "严重", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 0, "offset": 16539632, "slot": 6, "en": "MEETS", "zh": "遇见", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 1, "offset": 16539638, "slot": 8, "en": "CONCEDE", "zh": "答应", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 2, "offset": 16539646, "slot": 5, "en": "GIVE", "zh": "给予", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 3, "offset": 16539651, "slot": 6, "en": "GIVES", "zh": "影响", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 4, "offset": 16539657, "slot": 7, "en": "PLAYED", "zh": "给了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 5, "offset": 16539664, "slot": 6, "en": "PLAYS", "zh": "玩耍", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 6, "offset": 16539670, "slot": 8, "en": "COLLECT", "zh": "收集", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 7, "offset": 16539678, "slot": 8, "en": "WALKING", "zh": "走", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 8, "offset": 16539686, "slot": 6, "en": "WALKS", "zh": "弄", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 9, "offset": 16539692, "slot": 5, "en": "SAYS", "zh": "行", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 10, "offset": 16539697, "slot": 5, "en": "WENT", "zh": "去", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 11, "offset": 16539702, "slot": 5, "en": "SAID", "zh": "说", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 12, "offset": 16539707, "slot": 8, "en": "WAKE UP", "zh": "最", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 13, "offset": 16539715, "slot": 9, "en": "WAKES UP", "zh": "醒来", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 14, "offset": 16539724, "slot": 7, "en": "ANGERS", "zh": "激怒", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 15, "offset": 16539731, "slot": 6, "en": "TEACH", "zh": "教", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 16, "offset": 16539737, "slot": 8, "en": "TEACHES", "zh": "教授", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 17, "offset": 16539745, "slot": 7, "en": "PLEASE", "zh": "请", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 18, "offset": 16539752, "slot": 6, "en": "LEARN", "zh": "让", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 19, "offset": 16539758, "slot": 7, "en": "CHANGE", "zh": "改变", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 20, "offset": 16539765, "slot": 6, "en": "STORY", "zh": "故事", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 21, "offset": 16539771, "slot": 6, "en": "TRUST", "zh": "信任", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 22, "offset": 16539777, "slot": 7, "en": "LAVISH", "zh": "挥霍", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 23, "offset": 16539784, "slot": 8, "en": "LISTENS", "zh": "坐", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 24, "offset": 16539792, "slot": 8, "en": "HEARING", "zh": "听说", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 25, "offset": 16539800, "slot": 7, "en": "TRAINS", "zh": "训练", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 26, "offset": 16539807, "slot": 7, "en": "CHOOSE", "zh": "选择", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 27, "offset": 16539814, "slot": 5, "en": "COME", "zh": "来", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 28, "offset": 16539819, "slot": 5, "en": "CAME", "zh": "被", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 29, "offset": 16539824, "slot": 7, "en": "SEARCH", "zh": "搜寻", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 30, "offset": 16539831, "slot": 5, "en": "MAKE", "zh": "制作", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 31, "offset": 16539836, "slot": 6, "en": "CAUSE", "zh": "引起", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 32, "offset": 16539842, "slot": 5, "en": "KNOW", "zh": "前进", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 33, "offset": 16539847, "slot": 6, "en": "KNOWS", "zh": "知道", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 34, "offset": 16539853, "slot": 7, "en": "REFUSE", "zh": "拒绝", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 35, "offset": 16539860, "slot": 7, "en": "STORES", "zh": "储存", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 36, "offset": 16539867, "slot": 5, "en": "BRAG", "zh": "吹嘘", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 37, "offset": 16539872, "slot": 9, "en": "IGNORANT", "zh": "无知", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 38, "offset": 16539881, "slot": 7, "en": "THINKS", "zh": "认为", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 39, "offset": 16539888, "slot": 8, "en": "BELIEVE", "zh": "相信", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 40, "offset": 16539896, "slot": 6, "en": "SLIDE", "zh": "滑行", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 41, "offset": 16539902, "slot": 5, "en": "EATS", "zh": "用", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 42, "offset": 16539907, "slot": 4, "en": "USE", "zh": "觉得", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 43, "offset": 16539911, "slot": 5, "en": "USES", "zh": "使用", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 44, "offset": 16539916, "slot": 6, "en": "USING", "zh": "能", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 45, "offset": 16539922, "slot": 9, "en": "COULDN'T", "zh": "不能", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 46, "offset": 16539931, "slot": 8, "en": "CAPABLE", "zh": "阻止", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 47, "offset": 16539939, "slot": 10, "en": "DISAPPEAR", "zh": "消失", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 48, "offset": 16539949, "slot": 7, "en": "APPEAR", "zh": "无法", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 49, "offset": 16539956, "slot": 6, "en": "THROW", "zh": "扔", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 50, "offset": 16539962, "slot": 6, "en": "WORRY", "zh": "担心", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 51, "offset": 16539968, "slot": 6, "en": "SLEPT", "zh": "明白", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 52, "offset": 16539974, "slot": 6, "en": "SLEEP", "zh": "理解", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 53, "offset": 16539980, "slot": 8, "en": "RELEASE", "zh": "用力", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 54, "offset": 16539988, "slot": 7, "en": "DRINKS", "zh": "喝", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 55, "offset": 16539995, "slot": 5, "en": "RUNS", "zh": "跑", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 56, "offset": 16540000, "slot": 4, "en": "RUN", "zh": "冲刺", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 57, "offset": 16540004, "slot": 6, "en": "WORKS", "zh": "留下", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 58, "offset": 16540010, "slot": 8, "en": "WORKING", "zh": "工作", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 59, "offset": 16540018, "slot": 8, "en": "TALKING", "zh": "交谈", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 60, "offset": 16540026, "slot": 5, "en": "TALK", "zh": "珍惜", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 61, "offset": 16540031, "slot": 5, "en": "SINK", "zh": "沉没", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 62, "offset": 16540036, "slot": 6, "en": "SMACK", "zh": "拍打", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 63, "offset": 16540042, "slot": 8, "en": "PRETEND", "zh": "假装", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 64, "offset": 16540050, "slot": 7, "en": "PRAISE", "zh": "赞扬", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 65, "offset": 16540057, "slot": 7, "en": "OVERDO", "zh": "展", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 66, "offset": 16540064, "slot": 5, "en": "SHOW", "zh": "展示", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 67, "offset": 16540069, "slot": 6, "en": "LOOKS", "zh": "看", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 68, "offset": 16540075, "slot": 5, "en": "SEES", "zh": "看见", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 69, "offset": 16540080, "slot": 5, "en": "SEEK", "zh": "寻求", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 70, "offset": 16540085, "slot": 4, "en": "OWN", "zh": "拥有", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 71, "offset": 16540089, "slot": 5, "en": "TAKE", "zh": "拿", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 72, "offset": 16540094, "slot": 6, "en": "ALLOW", "zh": "允许", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 73, "offset": 16540100, "slot": 7, "en": "FORGET", "zh": "拿出", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 74, "offset": 16540107, "slot": 8, "en": "FORGETS", "zh": "忘记", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 75, "offset": 16540115, "slot": 8, "en": "APPEARS", "zh": "出现", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 76, "offset": 16540123, "slot": 6, "en": "FAINT", "zh": "起来", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "actions", "index": 77, "offset": 16540129, "slot": 8, "en": "FAINTED", "zh": "晕倒", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 0, "offset": 16541076, "slot": 7, "en": "CHORES", "zh": "家务", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 1, "offset": 16541083, "slot": 5, "en": "HOME", "zh": "开学", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 2, "offset": 16541088, "slot": 6, "en": "MONEY", "zh": "金钱", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 3, "offset": 16541094, "slot": 10, "en": "ALLOWANCE", "zh": "零用钱", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 4, "offset": 16541104, "slot": 5, "en": "BATH", "zh": "洗澡", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 5, "offset": 16541109, "slot": 13, "en": "CONVERSATION", "zh": "对话", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 6, "offset": 16541122, "slot": 7, "en": "SCHOOL", "zh": "学校", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 7, "offset": 16541129, "slot": 12, "en": "COMMEMORATE", "zh": "纪念", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 8, "offset": 16541141, "slot": 6, "en": "HABIT", "zh": "习惯", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 9, "offset": 16541147, "slot": 6, "en": "GROUP", "zh": "团体", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 10, "offset": 16541153, "slot": 5, "en": "WORD", "zh": "组词", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 11, "offset": 16541158, "slot": 6, "en": "STORE", "zh": "商店", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 12, "offset": 16541164, "slot": 8, "en": "SERVICE", "zh": "服务", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 13, "offset": 16541172, "slot": 5, "en": "WORK", "zh": "造型", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 14, "offset": 16541177, "slot": 7, "en": "SYSTEM", "zh": "系统", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 15, "offset": 16541184, "slot": 6, "en": "TRAIN", "zh": "起床", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 16, "offset": 16541190, "slot": 6, "en": "CLASS", "zh": "班级", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 17, "offset": 16541196, "slot": 8, "en": "LESSONS", "zh": "课程", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 18, "offset": 16541204, "slot": 12, "en": "INFORMATION", "zh": "信息", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 19, "offset": 16541216, "slot": 7, "en": "LIVING", "zh": "生活", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 20, "offset": 16541223, "slot": 8, "en": "TEACHER", "zh": "老师", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 21, "offset": 16541231, "slot": 11, "en": "TOURNAMENT", "zh": "锦标赛", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 22, "offset": 16541242, "slot": 7, "en": "LETTER", "zh": "信件", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 23, "offset": 16541249, "slot": 6, "en": "EVENT", "zh": "事件", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 24, "offset": 16541255, "slot": 8, "en": "DIGITAL", "zh": "数字", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 25, "offset": 16541263, "slot": 5, "en": "TEST", "zh": "测试", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 26, "offset": 16541268, "slot": 12, "en": "DEPT. STORE", "zh": "百货商店", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 27, "offset": 16541280, "slot": 11, "en": "TELEVISION", "zh": "电视", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 28, "offset": 16541291, "slot": 6, "en": "PHONE", "zh": "电话", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 29, "offset": 16541297, "slot": 5, "en": "ITEM", "zh": "物品", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 30, "offset": 16541302, "slot": 5, "en": "NAME", "zh": "名字", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 31, "offset": 16541307, "slot": 5, "en": "NEWS", "zh": "新闻", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 32, "offset": 16541312, "slot": 8, "en": "POPULAR", "zh": "流行", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 33, "offset": 16541320, "slot": 6, "en": "PARTY", "zh": "派对", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 34, "offset": 16541326, "slot": 6, "en": "STUDY", "zh": "学习", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 35, "offset": 16541332, "slot": 8, "en": "MACHINE", "zh": "作业", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 36, "offset": 16541340, "slot": 5, "en": "MAIL", "zh": "邮件", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 37, "offset": 16541345, "slot": 8, "en": "MESSAGE", "zh": "保证", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 38, "offset": 16541353, "slot": 8, "en": "PROMISE", "zh": "约定", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 39, "offset": 16541361, "slot": 6, "en": "DREAM", "zh": "梦想", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 40, "offset": 16541367, "slot": 13, "en": "KINDERGARTEN", "zh": "幼儿园", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 41, "offset": 16541380, "slot": 5, "en": "LIFE", "zh": "梦", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 42, "offset": 16541385, "slot": 6, "en": "RADIO", "zh": "电台", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 43, "offset": 16541391, "slot": 7, "en": "RENTAL", "zh": "租借", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "lifestyle", "index": 44, "offset": 16541398, "slot": 6, "en": "WORLD", "zh": "世界", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 0, "offset": 16541944, "slot": 5, "en": "IDOL", "zh": "偶像", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 1, "offset": 16541949, "slot": 6, "en": "ANIME", "zh": "动漫", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 2, "offset": 16541955, "slot": 5, "en": "SONG", "zh": "歌曲", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 3, "offset": 16541960, "slot": 6, "en": "MOVIE", "zh": "电影", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 4, "offset": 16541966, "slot": 7, "en": "SWEETS", "zh": "糖果", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 5, "offset": 16541973, "slot": 5, "en": "CHAT", "zh": "聊天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 6, "offset": 16541978, "slot": 13, "en": "CHILD'S PLAY", "zh": "儿童游戏", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 7, "offset": 16541991, "slot": 5, "en": "TOYS", "zh": "玩具", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 8, "offset": 16541996, "slot": 6, "en": "MUSIC", "zh": "音乐", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 9, "offset": 16542002, "slot": 6, "en": "CARDS", "zh": "卡片", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 10, "offset": 16542008, "slot": 9, "en": "SHOPPING", "zh": "购物", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 11, "offset": 16542017, "slot": 7, "en": "CAMERA", "zh": "相机", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 12, "offset": 16542024, "slot": 8, "en": "VIEWING", "zh": "专注", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 13, "offset": 16542032, "slot": 10, "en": "SPECTATOR", "zh": "观众", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 14, "offset": 16542042, "slot": 8, "en": "GOURMET", "zh": "美食", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 15, "offset": 16542050, "slot": 5, "en": "GAME", "zh": "游戏", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 16, "offset": 16542055, "slot": 4, "en": "RPG", "zh": "角色扮演", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 17, "offset": 16542059, "slot": 11, "en": "COLLECTION", "zh": "收藏", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 18, "offset": 16542070, "slot": 9, "en": "COMPLETE", "zh": "完整", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 19, "offset": 16542079, "slot": 9, "en": "MAGAZINE", "zh": "杂志", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 20, "offset": 16542088, "slot": 5, "en": "WALK", "zh": "散步", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 21, "offset": 16542093, "slot": 5, "en": "BIKE", "zh": "自行车", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 22, "offset": 16542098, "slot": 6, "en": "HOBBY", "zh": "爱好", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 23, "offset": 16542104, "slot": 7, "en": "SPORTS", "zh": "运动", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 24, "offset": 16542111, "slot": 9, "en": "SOFTWARE", "zh": "软件", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 25, "offset": 16542120, "slot": 6, "en": "SONGS", "zh": "摇滚", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 26, "offset": 16542126, "slot": 5, "en": "DIET", "zh": "饮食", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 27, "offset": 16542131, "slot": 9, "en": "TREASURE", "zh": "宝藏", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 28, "offset": 16542140, "slot": 7, "en": "TRAVEL", "zh": "旅行", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 29, "offset": 16542147, "slot": 6, "en": "DANCE", "zh": "舞蹈", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 30, "offset": 16542153, "slot": 8, "en": "CHANNEL", "zh": "频道", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 31, "offset": 16542161, "slot": 7, "en": "MAKING", "zh": "味道", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 32, "offset": 16542168, "slot": 8, "en": "FISHING", "zh": "钓鱼", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 33, "offset": 16542176, "slot": 5, "en": "DATE", "zh": "约会", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 34, "offset": 16542181, "slot": 7, "en": "DESIGN", "zh": "设计", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 35, "offset": 16542188, "slot": 11, "en": "LOCOMOTIVE", "zh": "机车", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 36, "offset": 16542199, "slot": 11, "en": "PLUSH DOLL", "zh": "毛绒娃娃", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 37, "offset": 16542210, "slot": 3, "en": "PC", "zh": "电脑", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 38, "offset": 16542213, "slot": 8, "en": "FLOWERS", "zh": "鲜花", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 39, "offset": 16542221, "slot": 5, "en": "HERO", "zh": "英雄", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 40, "offset": 16542226, "slot": 4, "en": "NAP", "zh": "小睡", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 41, "offset": 16542230, "slot": 8, "en": "HEROINE", "zh": "女主角", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 42, "offset": 16542238, "slot": 8, "en": "FASHION", "zh": "时尚", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 43, "offset": 16542246, "slot": 10, "en": "ADVENTURE", "zh": "冒险", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 44, "offset": 16542256, "slot": 6, "en": "BOARD", "zh": "板", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 45, "offset": 16542262, "slot": 5, "en": "BALL", "zh": "球", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 46, "offset": 16542267, "slot": 5, "en": "BOOK", "zh": "书", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 47, "offset": 16542272, "slot": 9, "en": "FESTIVAL", "zh": "节日", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 48, "offset": 16542281, "slot": 7, "en": "COMICS", "zh": "漫画", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 49, "offset": 16542288, "slot": 8, "en": "HOLIDAY", "zh": "假期", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 50, "offset": 16542296, "slot": 6, "en": "PLANS", "zh": "度假", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 51, "offset": 16542302, "slot": 7, "en": "TRENDY", "zh": "潮流", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 52, "offset": 16542309, "slot": 9, "en": "VACATION", "zh": "昆虫", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "hobbies", "index": 53, "offset": 16542318, "slot": 5, "en": "LOOK", "zh": "适合", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 0, "offset": 16542972, "slot": 5, "en": "FALL", "zh": "秋天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 1, "offset": 16542977, "slot": 8, "en": "MORNING", "zh": "早晨", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 2, "offset": 16542985, "slot": 9, "en": "TOMORROW", "zh": "明天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 3, "offset": 16542994, "slot": 5, "en": "LAST", "zh": "最后", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 4, "offset": 16542999, "slot": 4, "en": "DAY", "zh": "马上", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 5, "offset": 16543003, "slot": 9, "en": "SOMETIME", "zh": "有时", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 6, "offset": 16543012, "slot": 7, "en": "ALWAYS", "zh": "总是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 7, "offset": 16543019, "slot": 8, "en": "CURRENT", "zh": "时", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 8, "offset": 16543027, "slot": 8, "en": "FOREVER", "zh": "永远", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 9, "offset": 16543035, "slot": 5, "en": "DAYS", "zh": "天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 10, "offset": 16543040, "slot": 4, "en": "END", "zh": "一天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 11, "offset": 16543044, "slot": 8, "en": "TUESDAY", "zh": "星期二", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 12, "offset": 16543052, "slot": 10, "en": "YESTERDAY", "zh": "昨天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 13, "offset": 16543062, "slot": 6, "en": "TODAY", "zh": "今天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 14, "offset": 16543068, "slot": 7, "en": "FRIDAY", "zh": "星期五", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 15, "offset": 16543075, "slot": 7, "en": "MONDAY", "zh": "星期一", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 16, "offset": 16543082, "slot": 6, "en": "LATER", "zh": "稍后", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 17, "offset": 16543088, "slot": 8, "en": "EARLIER", "zh": "早点", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 18, "offset": 16543096, "slot": 8, "en": "ANOTHER", "zh": "每天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 19, "offset": 16543104, "slot": 5, "en": "TIME", "zh": "时间", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 20, "offset": 16543109, "slot": 7, "en": "FINISH", "zh": "结束", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 21, "offset": 16543116, "slot": 10, "en": "WEDNESDAY", "zh": "星期三", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 22, "offset": 16543126, "slot": 5, "en": "SOON", "zh": "很快", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 23, "offset": 16543131, "slot": 6, "en": "START", "zh": "比起", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 24, "offset": 16543137, "slot": 6, "en": "MONTH", "zh": "月", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 25, "offset": 16543143, "slot": 5, "en": "STOP", "zh": "停止", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 26, "offset": 16543148, "slot": 4, "en": "NOW", "zh": "现在", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 27, "offset": 16543152, "slot": 6, "en": "FINAL", "zh": "最初", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 28, "offset": 16543158, "slot": 5, "en": "NEXT", "zh": "下一个", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 29, "offset": 16543163, "slot": 4, "en": "AGE", "zh": "年龄", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 30, "offset": 16543167, "slot": 9, "en": "SATURDAY", "zh": "星期六", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 31, "offset": 16543176, "slot": 7, "en": "SUMMER", "zh": "夏天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 32, "offset": 16543183, "slot": 7, "en": "SUNDAY", "zh": "星期日", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 33, "offset": 16543190, "slot": 10, "en": "BEGINNING", "zh": "开始", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 34, "offset": 16543200, "slot": 7, "en": "SPRING", "zh": "春天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 35, "offset": 16543207, "slot": 8, "en": "DAYTIME", "zh": "白天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 36, "offset": 16543215, "slot": 7, "en": "WINTER", "zh": "冬天", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 37, "offset": 16543222, "slot": 6, "en": "DAILY", "zh": "再", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 38, "offset": 16543228, "slot": 6, "en": "OLDEN", "zh": "回", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 39, "offset": 16543234, "slot": 7, "en": "ALMOST", "zh": "几乎", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 40, "offset": 16543241, "slot": 7, "en": "NEARLY", "zh": "很久", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 41, "offset": 16543248, "slot": 9, "en": "THURSDAY", "zh": "星期四", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 42, "offset": 16543257, "slot": 10, "en": "NIGHTTIME", "zh": "夜间", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 43, "offset": 16543267, "slot": 6, "en": "NIGHT", "zh": "夜晚", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "time", "index": 44, "offset": 16543273, "slot": 5, "en": "WEEK", "zh": "周", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 0, "offset": 16543820, "slot": 6, "en": "HIGHS", "zh": "最高", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 1, "offset": 16543826, "slot": 5, "en": "LOWS", "zh": "最低", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 2, "offset": 16543831, "slot": 3, "en": "UM", "zh": "中", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 3, "offset": 16543834, "slot": 5, "en": "REAR", "zh": "后方", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 4, "offset": 16543839, "slot": 7, "en": "THINGS", "zh": "整个", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 5, "offset": 16543846, "slot": 6, "en": "THING", "zh": "东西", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 6, "offset": 16543852, "slot": 6, "en": "BELOW", "zh": "下面", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 7, "offset": 16543858, "slot": 6, "en": "ABOVE", "zh": "上面", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 8, "offset": 16543864, "slot": 5, "en": "BACK", "zh": "出", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 9, "offset": 16543869, "slot": 5, "en": "HIGH", "zh": "高", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 10, "offset": 16543874, "slot": 5, "en": "HERE", "zh": "这里", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 11, "offset": 16543879, "slot": 7, "en": "INSIDE", "zh": "里面", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 12, "offset": 16543886, "slot": 8, "en": "OUTSIDE", "zh": "外面", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 13, "offset": 16543894, "slot": 7, "en": "BESIDE", "zh": "休息", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 14, "offset": 16543901, "slot": 12, "en": "THIS IS IT!", "zh": "就", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 15, "offset": 16543913, "slot": 5, "en": "THIS", "zh": "这", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 16, "offset": 16543918, "slot": 6, "en": "EVERY", "zh": "这样", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 17, "offset": 16543924, "slot": 6, "en": "THESE", "zh": "这些", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 18, "offset": 16543930, "slot": 11, "en": "THESE WERE", "zh": "这个", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 19, "offset": 16543941, "slot": 5, "en": "DOWN", "zh": "这是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 20, "offset": 16543946, "slot": 5, "en": "THAT", "zh": "那", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 21, "offset": 16543951, "slot": 10, "en": "THOSE ARE", "zh": "方面", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 22, "offset": 16543961, "slot": 11, "en": "THOSE WERE", "zh": "事情", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 23, "offset": 16543972, "slot": 11, "en": "THAT'S IT!", "zh": "就是这样！", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 24, "offset": 16543983, "slot": 3, "en": "AM", "zh": "相关", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 25, "offset": 16543986, "slot": 9, "en": "THAT WAS", "zh": "那是", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 26, "offset": 16543995, "slot": 6, "en": "FRONT", "zh": "前面", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 27, "offset": 16544001, "slot": 3, "en": "UP", "zh": "上", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 28, "offset": 16544004, "slot": 7, "en": "CHOICE", "zh": "下", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 29, "offset": 16544011, "slot": 4, "en": "FAR", "zh": "远", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 30, "offset": 16544015, "slot": 5, "en": "AWAY", "zh": "防止", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 31, "offset": 16544020, "slot": 5, "en": "NEAR", "zh": "近", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 32, "offset": 16544025, "slot": 6, "en": "WHERE", "zh": "哪里", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 33, "offset": 16544031, "slot": 5, "en": "WHEN", "zh": "这么", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 34, "offset": 16544036, "slot": 5, "en": "WHAT", "zh": "什么", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 35, "offset": 16544041, "slot": 5, "en": "DEEP", "zh": "深", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 36, "offset": 16544046, "slot": 8, "en": "SHALLOW", "zh": "浅", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 37, "offset": 16544054, "slot": 4, "en": "WHY", "zh": "为什么", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 38, "offset": 16544058, "slot": 9, "en": "CONFUSED", "zh": "困惑", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 39, "offset": 16544067, "slot": 9, "en": "OPPOSITE", "zh": "混乱", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 40, "offset": 16544076, "slot": 5, "en": "LEFT", "zh": "容易", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "misc", "index": 41, "offset": 16544081, "slot": 6, "en": "RIGHT", "zh": "错过", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 0, "offset": 16544592, "slot": 10, "en": "WANDERING", "zh": "徘徊", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 1, "offset": 16544602, "slot": 8, "en": "RICKETY", "zh": "过时", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 2, "offset": 16544610, "slot": 11, "en": "ROCK-SOLID", "zh": "坚如磐石", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 3, "offset": 16544621, "slot": 7, "en": "HUNGRY", "zh": "饥饿", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 4, "offset": 16544628, "slot": 6, "en": "TIGHT", "zh": "紧张", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 5, "offset": 16544634, "slot": 9, "en": "TICKLISH", "zh": "狂野", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 6, "offset": 16544643, "slot": 9, "en": "TWIRLING", "zh": "旋转", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 7, "offset": 16544652, "slot": 10, "en": "SPIRALING", "zh": "刻薄", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 8, "offset": 16544662, "slot": 8, "en": "THIRSTY", "zh": "口渴", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 9, "offset": 16544670, "slot": 8, "en": "LOLLING", "zh": "懒洋洋", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 10, "offset": 16544678, "slot": 6, "en": "SILKY", "zh": "柔滑", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 11, "offset": 16544684, "slot": 6, "en": "SADLY", "zh": "悲伤", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 12, "offset": 16544690, "slot": 9, "en": "HOPELESS", "zh": "绝望", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 13, "offset": 16544699, "slot": 8, "en": "USELESS", "zh": "没用的", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 14, "offset": 16544707, "slot": 9, "en": "DROOLING", "zh": "普通", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 15, "offset": 16544716, "slot": 9, "en": "EXCITING", "zh": "令人兴奋", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 16, "offset": 16544725, "slot": 6, "en": "THICK", "zh": "厚", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 17, "offset": 16544731, "slot": 7, "en": "SMOOTH", "zh": "光滑", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 18, "offset": 16544738, "slot": 6, "en": "SLIMY", "zh": "黏糊糊", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 19, "offset": 16544744, "slot": 5, "en": "THIN", "zh": "薄", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 20, "offset": 16544749, "slot": 6, "en": "BREAK", "zh": "打破", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 21, "offset": 16544755, "slot": 10, "en": "VORACIOUS", "zh": "贪婪", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 22, "offset": 16544765, "slot": 8, "en": "SCATTER", "zh": "散落", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 23, "offset": 16544773, "slot": 8, "en": "AWESOME", "zh": "棒极了", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 24, "offset": 16544781, "slot": 6, "en": "WIMPY", "zh": "软弱", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 25, "offset": 16544787, "slot": 7, "en": "WOBBLY", "zh": "摇摇晃晃", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 26, "offset": 16544794, "slot": 6, "en": "SHAKY", "zh": "摇晃", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 27, "offset": 16544800, "slot": 7, "en": "RIPPED", "zh": "撕裂", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 28, "offset": 16544807, "slot": 9, "en": "SHREDDED", "zh": "碎裂", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 29, "offset": 16544816, "slot": 11, "en": "INCREASING", "zh": "增加", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 30, "offset": 16544827, "slot": 4, "en": "YET", "zh": "然而", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 31, "offset": 16544831, "slot": 10, "en": "DESTROYED", "zh": "被摧毁", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 32, "offset": 16544841, "slot": 6, "en": "FIERY", "zh": "火热", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 33, "offset": 16544847, "slot": 12, "en": "LOVEY-DOVEY", "zh": "甜蜜", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 34, "offset": 16544859, "slot": 8, "en": "HAPPILY", "zh": "幸福", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "adjectives", "index": 35, "offset": 16544867, "slot": 13, "en": "ANTICIPATION", "zh": "期待", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 0, "offset": 16545312, "slot": 7, "en": "APPEAL", "zh": "吸引力", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 1, "offset": 16545319, "slot": 7, "en": "EVENTS", "zh": "活动", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 2, "offset": 16545326, "slot": 13, "en": "STAY-AT-HOME", "zh": "家里蹲", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 3, "offset": 16545339, "slot": 6, "en": "BERRY", "zh": "树果", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 4, "offset": 16545345, "slot": 8, "en": "CONTEST", "zh": "华丽大赛", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 5, "offset": 16545353, "slot": 3, "en": "MC", "zh": "主持人", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 6, "offset": 16545356, "slot": 6, "en": "JUDGE", "zh": "评委", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 7, "offset": 16545362, "slot": 6, "en": "SUPER", "zh": "外表", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 8, "offset": 16545368, "slot": 6, "en": "STAGE", "zh": "舞台", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 9, "offset": 16545374, "slot": 13, "en": "HALL OF FAME", "zh": "名人堂", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 10, "offset": 16545387, "slot": 10, "en": "EVOLUTION", "zh": "大会", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 11, "offset": 16545397, "slot": 6, "en": "HYPER", "zh": "超级", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 12, "offset": 16545403, "slot": 13, "en": "BATTLE TOWER", "zh": "对战塔", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 13, "offset": 16545416, "slot": 8, "en": "LEADERS", "zh": "首领", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 14, "offset": 16545424, "slot": 12, "en": "BATTLE ROOM", "zh": "对战室", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 15, "offset": 16545436, "slot": 7, "en": "HIDDEN", "zh": "隐藏", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 16, "offset": 16545443, "slot": 12, "en": "SECRET BASE", "zh": "秘密基地", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 17, "offset": 16545455, "slot": 6, "en": "BLEND", "zh": "混合", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 18, "offset": 16545461, "slot": 6, "en": "{55}{56}{57}{58}{59}", "zh": "宝可方块", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 19, "offset": 16545467, "slot": 7, "en": "MASTER", "zh": "大师", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 20, "offset": 16545474, "slot": 5, "en": "RANK", "zh": "场", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 21, "offset": 16545479, "slot": 7, "en": "RIBBON", "zh": "奖牌", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 22, "offset": 16545486, "slot": 6, "en": "CRUSH", "zh": "粉碎", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 23, "offset": 16545492, "slot": 7, "en": "DIRECT", "zh": "直接", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 24, "offset": 16545499, "slot": 6, "en": "TOWER", "zh": "塔", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 25, "offset": 16545505, "slot": 6, "en": "UNION", "zh": "联合", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 26, "offset": 16545511, "slot": 5, "en": "ROOM", "zh": "房间", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 27, "offset": 16545516, "slot": 9, "en": "WIRELESS", "zh": "无线", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "events", "index": 28, "offset": 16545525, "slot": 9, "en": "FRONTIER", "zh": "开拓区", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 0, "offset": 16546592, "slot": 11, "en": "KTHX, BYE.", "zh": "谢谢，再见。", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 1, "offset": 16546603, "slot": 10, "en": "YES, SIR!", "zh": "是，先生！", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 2, "offset": 16546613, "slot": 12, "en": "AVANT GARDE", "zh": "前卫", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 3, "offset": 16546625, "slot": 7, "en": "COUPLE", "zh": "情侣", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 4, "offset": 16546632, "slot": 13, "en": "MUCH OBLIGED", "zh": "非常感谢", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 5, "offset": 16546645, "slot": 8, "en": "YEEHAW!", "zh": "耶！", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 6, "offset": 16546653, "slot": 5, "en": "MEGA", "zh": "超", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 7, "offset": 16546658, "slot": 10, "en": "1-HIT KO!", "zh": "一击KO！", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 8, "offset": 16546668, "slot": 8, "en": "DESTINY", "zh": "命运", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 9, "offset": 16546676, "slot": 7, "en": "CANCEL", "zh": "取消", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 10, "offset": 16546683, "slot": 4, "en": "NEW", "zh": "新", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 11, "offset": 16546687, "slot": 8, "en": "FLATTEN", "zh": "扁平化", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 12, "offset": 16546695, "slot": 8, "en": "KIDDING", "zh": "开玩笑", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 13, "offset": 16546703, "slot": 6, "en": "LOSER", "zh": "失败者", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 14, "offset": 16546709, "slot": 7, "en": "LOSING", "zh": "失败", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 15, "offset": 16546716, "slot": 10, "en": "HAPPENING", "zh": "发生", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 16, "offset": 16546726, "slot": 8, "en": "HIP AND", "zh": "嘻哈和", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 17, "offset": 16546734, "slot": 6, "en": "SHAKE", "zh": "摇摆", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 18, "offset": 16546740, "slot": 6, "en": "SHADY", "zh": "阴暗", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 19, "offset": 16546746, "slot": 7, "en": "UPBEAT", "zh": "乐观", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 20, "offset": 16546753, "slot": 7, "en": "MODERN", "zh": "现代", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 21, "offset": 16546760, "slot": 9, "en": "SMELL YA", "zh": "再见", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 22, "offset": 16546769, "slot": 5, "en": "BANG", "zh": "砰", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 23, "offset": 16546774, "slot": 9, "en": "KNOCKOUT", "zh": "击倒", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 24, "offset": 16546783, "slot": 7, "en": "HASSLE", "zh": "麻烦", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 25, "offset": 16546790, "slot": 7, "en": "WINNER", "zh": "赢家", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 26, "offset": 16546797, "slot": 6, "en": "FEVER", "zh": "狂热", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 27, "offset": 16546803, "slot": 8, "en": "WANNABE", "zh": "想要成为", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 28, "offset": 16546811, "slot": 5, "en": "BABY", "zh": "宝贝", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 29, "offset": 16546816, "slot": 6, "en": "HEART", "zh": "心", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 30, "offset": 16546822, "slot": 4, "en": "OLD", "zh": "老", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 31, "offset": 16546826, "slot": 6, "en": "YOUNG", "zh": "年轻", "source": "rh-hideout-chinese/pokeemerald-expansion"}
+{"group": "trendy_saying", "index": 32, "offset": 16546832, "slot": 5, "en": "UGLY", "zh": "丑陋", "source": "rh-hideout-chinese/pokeemerald-expansion"}

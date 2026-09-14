@@ -163,9 +163,10 @@
 {"offset": 2578141, "en": "rned that HM move can{WAIT_SCROLL}force its way up waterfalls.{WAIT_CLEAR}And where does one get the RAIN BADGE?\nYou know, don't you?{WAIT_CLEAR}That's right! You have to beat\nthe SOOTOPOLIS GYM LEADER.{WAIT_CLEAR}When you're all set to go, step through\nthat door.", "zh": "我发现移动可以{WAIT_CLEAR}强行爬上瀑布。{WAIT_CLEAR}哪里可以得到下雨徽章呢？\n你知道的，不是吗？{WAIT_CLEAR}没错!你必须打败琉棋市道馆的领导。{WAIT_CLEAR}当你准备好要开始的时候，一步一步走过去那扇门。"}
 {"offset": 2578361, "en": "WALLACE: I'm sure that you will be\ndazzled by my mentor's breathtakingly{WAIT_SCROLL}elegant battle style.", "zh": "沃莱斯：我相信你会被我导师令人叹为观止的优雅战斗风格所震撼。"}
 {"offset": 2578529, "en": "ENTERING VICTORY ROAD", "zh": "进入胜利之路"}
-{"offset": 2578564, "en": "MON LEAGUE\nCENTER GATE", "zh": "我的联盟中心门"}
+{"offset": 2578564, "en": "MON LEAGUE\nCENTER GATE", "zh": "宝可梦联盟\n中央大门"}
 {"offset": 2578587, "en": "EVER GRANDE CITY{WAIT_CLEAR}“The paradise of flowers, the sea,\nand POKéMON.”", "zh": "彩悠市{WAIT_CLEAR}“有花有海的天堂，\n和宝可梦。”"}
 {"offset": 2578647, "en": "MON.”", "zh": "我的。”"}
+{"offset": 2580963, "en": "MOM: {FD:01}, we're here, honey!{WAIT_CLEAR}It must be tiring riding with our things\nin the moving truck.{WAIT_CLEAR}Well, this is LITTLEROOT TOWN.{WAIT_CLEAR}How do you like it?\nThis is our new home!{WAIT_CLEAR}It has a quaint feel, but it seems to be\nan easy place to live, don't you think?{WAIT_CLEAR}And, you get your own room, {FD:01}!\nLet's go inside.", "zh": "妈妈：{FD:01}，我们到了，宝贝！{WAIT_CLEAR}和行李一起坐搬家卡车，\n一定很累吧。{WAIT_CLEAR}这里就是未白镇。{WAIT_CLEAR}感觉怎么样？\n这就是我们的新家！{WAIT_CLEAR}虽然有些朴素，住起来\n应该很舒服，对吧？{WAIT_CLEAR}而且你也有自己的房间了，{FD:01}！\n我们进去吧。"}
 {"offset": 2581036, "en": "he moving truck.{WAIT_CLEAR}Well, this is LITTLEROOT TOWN.{WAIT_CLEAR}How do you like it?\nThis is our new home!{WAIT_CLEAR}It has a quaint feel, but it seems to be\nan easy place to live, don't you think?{WAIT_CLEAR}And, you get your own room, {FD:01}!\nLet's go inside.", "zh": "他在搬卡车。{WAIT_CLEAR}嗯，这是未白镇。你觉得怎么样？\n这是我们的新家！{WAIT_CLEAR}它有一种古雅的感觉，但它似乎是一个适合居住的地方，你不觉得吗？你有自己的房间，{FD:01}！\n我们进去吧。"}
 {"offset": 2581256, "en": "MOM: Wait, {FD:01}!", "zh": "妈妈：等等，{FD:01}！"}
 {"offset": 2581271, "en": "MOM: {FD:01}! {FD:01}! Did you\nintroduce yourself to PROF. BIRCH?{WAIT_CLEAR}Oh! What an adorable POKéMON!\nYou got it from PROF. BIRCH. How nice!{WAIT_CLEAR}You're your father's child, all right.\nYou look good together with POKéMON!{WAIT_CLEAR}Here, honey! If you're going out on an\nadventure, wear ", "zh": "妈妈：{FD:01}！{FD:01}！你有没有去向小田卷博士打过招呼？{WAIT_CLEAR}哇！好可爱的宝可梦！\n是小田卷博士给你的吧，真棒！{WAIT_CLEAR}真不愧是你爸爸的孩子。\n你和宝可梦很配呢！{WAIT_CLEAR}来，宝贝！要是出去冒险的话，\n就把这双"}
@@ -345,7 +346,7 @@
 {"offset": 2605481, "en": "NAVS so we can keep in touch.", "zh": "有，有，有，有。"}
 {"offset": 2605544, "en": "NAV.", "zh": "导航。"}
 {"offset": 2605549, "en": "BRENDAN: {FD:01}, how's your POKéDEX?\nHave you filled in any pages yet?", "zh": "小悠：{FD:01}你的宝可梦图鉴怎么样了？\n你填了几页了吗？"}
-{"offset": 2605577, "en": "DEX?\nHave you filled in any pages yet?", "zh": "去中心化交易所？\n你填了几页了吗？"}
+{"offset": 2605577, "en": "DEX?\nHave you filled in any pages yet?", "zh": "图鉴？\n已经登记多少页了？"}
 {"offset": 2605616, "en": "Me, I'm doing great!{WAIT_CLEAR}Want to check out how good I am with\na battle?", "zh": "我，我做得很好!{WAIT_CLEAR}想看看我有多好一场战斗？"}
 {"offset": 2605684, "en": "BRENDAN: What's the matter? Don't have\nany confidence in your POKéMON?", "zh": "小悠：怎么了？没有对你的宝可梦有信心吗？"}
 {"offset": 2605750, "en": "MON?", "zh": "宝可梦？"}
@@ -577,6 +578,8 @@
 {"offset": 2646859, "en": "sn't stop, all of HOENN…\nNo, the whole world will drown.{WAIT_CLEAR}This huge rain cloud is spreading\nfrom above SOOTOPOLIS…{WAIT_CLEAR}What in the world is taking place there?{WAIT_CLEAR}There's no point arguing here…\nSOOTOPOLIS might provide answers…", "zh": "不要停下来，所有的丰缘…\n不，整个世界将被淹没。{WAIT_CLEAR}这个巨大的雨云正在蔓延从琉棋市之上……{WAIT_CLEAR}那里发生了什么？{WAIT_CLEAR}在这里争论没有意义……琉棋市可能会提供答案…"}
 {"offset": 2647079, "en": "{FD:01}{FD:05}…\nI don't know what you intend to do,{WAIT_SCROLL}but don't do anything reckless.{WAIT_CLEAR}Okay.\nI'm going to SOOTOPOLIS.", "zh": "{FD:01}{FD:05}…\n我不知道你打算做什么，{WAIT_SCROLL}但是不要做任何鲁莽的事情。{WAIT_CLEAR}好的。\n我要去苏托波利斯。"}
 {"offset": 2649618, "en": "\nMOM: See, {FD:01}?\nIsn't it nice in here, too?", "zh": "妈妈: 看到了，{FD:01}？\n这里也不错吧？"}
+{"offset": 2649619, "en": "MOM: See, {FD:01}?\nIsn't it nice in here, too?", "zh": "妈妈：看，{FD:01}？\n这里也很不错吧？"}
+{"offset": 2649661, "en": "The mover's POKéMON do all the work\nof moving us in and cleaning up after.{WAIT_SCROLL}This is so convenient!{WAIT_CLEAR}{FD:01}, your room is upstairs.\nGo check it out, dear!{WAIT_CLEAR}DAD bought you a new clock to mark\nour move here.{WAIT_SCROLL}Don't forget to set it!", "zh": "搬家工的宝可梦把搬家和\n打扫工作全包了。{WAIT_SCROLL}真方便啊！{WAIT_CLEAR}{FD:01}，你的房间在楼上。\n去看看吧！{WAIT_CLEAR}爸爸买了个新时钟，\n纪念我们搬到这里。{WAIT_SCROLL}别忘了调好时间！"}
 {"offset": 2649677, "en": "MON do all the work\nof moving us in and cleaning up after.{WAIT_SCROLL}This is so convenient!{WAIT_CLEAR}{FD:01}, your room is upstairs.\nGo check it out, dear!{WAIT_CLEAR}DAD bought you a new clock to mark\nour move here.{WAIT_SCROLL}Don't forget to set it!", "zh": "MON做所有的工作把我们搬进来打扫卫生。{WAIT_SCROLL}这太方便了!{WAIT_CLEAR}{FD:01}，你的房间在楼上。\n去看看，亲爱的!{WAIT_CLEAR}爸爸给你买了一个新的时钟来标记我们搬到这里。{WAIT_SCROLL}别忘了设置它!"}
 {"offset": 2649883, "en": "MOM: Well, {FD:01}?{WAIT_CLEAR}Aren't you interested in seeing your\nvery own room?", "zh": "妈妈：怎么了，{FD:01}？{WAIT_CLEAR}不去看看自己的房间吗？"}
 {"offset": 2649950, "en": "MOM: {FD:01}.{WAIT_CLEAR}Go set the clock in your room, honey.", "zh": "妈妈：{FD:01}。{WAIT_CLEAR}去把自己房间的钟调好吧，宝贝。"}
@@ -608,11 +611,12 @@
 {"offset": 2652056, "en": "MOM: Well, isn't that something!\nThere are still unknown POKéMON.", "zh": "妈妈：嗯，那不是很了不起吗？\n目前仍有未知的宝可梦。"}
 {"offset": 2652074, "en": "hat something!\nThere are still unknown POKéMON.", "zh": "帽子的东西!\n目前仍有未知的宝可梦。"}
 {"offset": 2652117, "en": "MON.", "zh": "我的。"}
-{"offset": 2652752, "en": "The clock is stopped…{WAIT_CLEAR}Better set it and start it!", "zh": "{WAIT_CLEAR}"}
+{"offset": 2652752, "en": "The clock is stopped…{WAIT_CLEAR}Better set it and start it!", "zh": "时钟停了……{WAIT_CLEAR}把时间调好，让它走起来吧！"}
+{"offset": 2652842, "length": 189, "en": "Good! Everything's put away neatly!{WAIT_CLEAR}They finished moving everything in\ndownstairs, too.{WAIT_CLEAR}POKéMON movers are so convenient!{WAIT_CLEAR}Oh, you should make sure that\neverything's all there on your desk.", "zh": "好！所有东西都收拾整齐了！{WAIT_CLEAR}楼下的搬家工作\n也全部完成了。{WAIT_CLEAR}搬家工宝可梦真方便！{WAIT_CLEAR}对了，你最好检查一下\n桌上的东西是否齐全。"}
 {"offset": 2652934, "en": "MON movers are so convenient!{WAIT_CLEAR}Oh, you should make sure that\neverything's all there on your desk.", "zh": "精灵宝可梦移动器太方便了！{WAIT_CLEAR}哦，你应该确定一下所有东西都在你的桌子上。"}
 {"offset": 2653031, "en": "{FD:01} flipped open the notebook.{WAIT_CLEAR}ADVENTURE RULE NO. 1\nOpen the MENU with START.{WAIT_CLEAR}ADVENTURE RULE NO. 2\nRecord your progress with SAVE.{WAIT_CLEAR}The remaining pages are blank…", "zh": "{FD:01}翻开了笔记本。{WAIT_CLEAR}冒险守则第一条：按开始键打开菜单。{WAIT_CLEAR}冒险守则第二条：用保存记录冒险进度。{WAIT_CLEAR}后面的页面都是空白……"}
 {"offset": 2653192, "en": "{FD:01} took a closer look at the\nHOENN region map.", "zh": "{FD:01}我仔细地看了看丰缘地区地图。"}
-{"offset": 2653239, "en": "It's a Nintendo GameCube.{WAIT_CLEAR}A Game Boy Advance is connected to\nserve as the Controller.", "zh": "这是任天堂任天堂任天堂任天堂主机。一台游戏男孩已连接，用作控制器。"}
+{"offset": 2653239, "en": "It's a Nintendo GameCube.{WAIT_CLEAR}A Game Boy Advance is connected to\nserve as the Controller.", "zh": "这是一台任天堂GameCube。{WAIT_CLEAR}连接着一台Game Boy Advance，\n可作为控制器使用。"}
 {"offset": 2654125, "en": "Oh, hello. And you are?{WAIT_CLEAR}… … … … … … … … …\n… … … … … … … … …{WAIT_CLEAR}Oh, you're {FD:01}{FD:05}, our new next-door\nneighbor! Hi!{WAIT_CLEAR}We have a {FD:02} about the same\nage as you.{WAIT_CLEAR}Our {FD:02} was excited about making\na new friend.{WAIT_CLEAR}Our {FD:02} is upstairs, I think.", "zh": "哦,你好。{WAIT_CLEAR}你是谁？{WAIT_CLEAR}……哦,你{FD:01}{FD:05},我们新搬来的隔壁邻居!嗨！{WAIT_CLEAR}我们的{FD:02}差不多一样和你一样老。{WAIT_CLEAR}我们的{FD:02}对制作感到兴奋一个新朋友。{WAIT_CLEAR}我想我们的{FD:02}在楼上。"}
 {"offset": 2654406, "en": "MON\nas our child.{WAIT_CLEAR}If he's not at his LAB, he's likely\nscrabbling about in grassy places.", "zh": "宝可梦作为我们的孩子。{WAIT_CLEAR}如果他不在实验室，他很可能在长满草的地方爬来爬去。"}
 {"offset": 2654543, "en": "MON to notice that you came{WAIT_SCROLL}to visit, {FD:01}{FD:05}.", "zh": "MON注意到你来{WAIT_SCROLL}拜访，{FD:01}{FD:05}。"}
@@ -913,7 +917,7 @@
 {"offset": 2697060, "en": "It's very wary.\nIt has scary viciousness in its eyes.{WAIT_SCROLL}It doesn't like you much at all.", "zh": "它非常警惕。它眼中带有可怕的凶狠。{WAIT_SCROLL}它一点也不太喜欢你。"}
 {"offset": 2697193, "en": "MON simply detests you.\nDoesn't that make you uncomfortable?", "zh": "宝可梦简直讨厌你。这难道不会让你不舒服吗？"}
 {"offset": 2697254, "en": "PIKACHU: Pika pika!", "zh": "皮卡丘：皮卡，皮卡！"}
-{"offset": 2697340, "en": "MON LEAGUE.{WAIT_CLEAR}The TRAINERS who gather there are\nall frighteningly well skilled.", "zh": "我的联盟。{WAIT_CLEAR}聚集在那里的训练家是他们都非常熟练。"}
+{"offset": 2697340, "en": "MON LEAGUE.{WAIT_CLEAR}The TRAINERS who gather there are\nall frighteningly well skilled.", "zh": "宝可梦联盟。{WAIT_CLEAR}聚集在那里的训练家\n个个都强得吓人。"}
 {"offset": 2697429, "en": "MON LEAGUE, I think the\nrules say that you have to battle the{WAIT_SCROLL}ELITE FOUR all in a row.{WAIT_CLEAR}If you lose to any of them, you have\nto begin your challenge again from the{WAIT_SCROLL}first one.", "zh": "宝可梦联盟，我想是规则说你必须与{WAIT_SCROLL}四天王连续战斗。{WAIT_CLEAR}如果你输给了他们中的任何一个，你就得从第一个{WAIT_SCROLL}重新开始挑战。"}
 {"offset": 2697558, "en": "gin your challenge again from the{WAIT_SCROLL}first one.", "zh": "从第一个重新开始挑战。{WAIT_SCROLL}"}
 {"offset": 2697659, "en": "What color is your TRAINER CARD?\nMine's copper!", "zh": "您的训练家卡是什么颜色的？ \n我的是铜的！"}
@@ -2105,7 +2109,7 @@
 {"offset": 2849204, "en": "So, it became a standoff.{WAIT_CLEAR}It was a brilliant match in which\nneither side conceded a step!", "zh": "所以，它变成了一场对峙。{WAIT_CLEAR}这是一场精彩的比赛双方都没有让步!"}
 {"offset": 2849297, "en": "That was superlative!{WAIT_CLEAR}Why, it was like seeing myself in\nmy youth again!", "zh": "那真是太棒了！为什么，这就像再次看到年轻时的自己！"}
 {"offset": 2849372, "en": "Ah, too bad for you!{WAIT_CLEAR}But it was a good match.\nI hope you can win next time.", "zh": "啊，你太不幸了！{WAIT_CLEAR}但这是一场精彩的比赛。\n我希望你下次能赢。"}
-{"offset": 2850087, "en": "MON LEAGUE!", "zh": "我的联盟!"}
+{"offset": 2850087, "en": "MON LEAGUE!", "zh": "宝可梦联盟！"}
 {"offset": 2850099, "en": "Well, how do you like that? I lost!\nEh, it was fun, so it doesn't matter.", "zh": "嗯，你觉得怎么样？我输了！唉，很有趣，所以没关系。"}
 {"offset": 2850173, "en": "Well, listen to what this loser has\nto say.{WAIT_CLEAR}You've got what it takes to go far.\nNow, go on to the next room and enjoy{WAIT_SCROLL}your next battle!", "zh": "好吧，听听这个失败者要说什么。{WAIT_CLEAR}你有能力走得更远。现在，去下一个房间，享受你的下一场战斗吧！{WAIT_SCROLL}"}
 {"offset": 2850793, "en": "MON!", "zh": "我的!"}
@@ -2113,7 +2117,7 @@
 {"offset": 2850877, "en": "MON, too.{WAIT_CLEAR}I didn't recognize it, so it's only\nnatural that I lost.{WAIT_CLEAR}Yup, I'd like to see how far your bond\nwill carry you.{WAIT_CLEAR}Go ahead, move on to the next room.", "zh": "妈妈也是。{WAIT_CLEAR}我没认出它，所以它只是我输得很自然。{WAIT_CLEAR}是的，我想看看你的联系有多远会带你走的。{WAIT_CLEAR}去吧，去下一个房间。"}
 {"offset": 2851424, "en": "MON.{WAIT_CLEAR}What about you?{WAIT_CLEAR}It would please me to no end if I could\ngo all out against you!", "zh": "{WAIT_CLEAR}你呢？{WAIT_SCROLL}如果我能的话，我会非常高兴的全力以赴对付你！"}
 {"offset": 2851526, "en": "MON…\nHow hot your spirits burn!{WAIT_CLEAR}The all-consuming heat overwhelms.{WAIT_CLEAR}It's no surprise that my icy skills\nfailed to harm you.", "zh": "MON…\n你的灵魂燃烧得多热!{WAIT_CLEAR}所有消耗的热量压倒了。{WAIT_CLEAR}我的冰冷技能不足为奇没有伤害你。"}
-{"offset": 2851729, "en": "MON LEAGUE.", "zh": "我的联盟。"}
+{"offset": 2851729, "en": "MON LEAGUE.", "zh": "宝可梦联盟。"}
 {"offset": 2852179, "en": "MON as\npartners, do you know what it takes?{WAIT_CLEAR}Do you know what is needed?{WAIT_CLEAR}If you don't, then you will never\nprevail over me!", "zh": "宝可梦,\n搭档们，你们知道要付出什么代价吗？{WAIT_CLEAR}你知道需要什么吗？{WAIT_SCROLL}如果你不这样做，那么你永远不会战胜我！"}
 {"offset": 2852302, "en": "Superb, it should be said.", "zh": "很棒，应该说。"}
 {"offset": 2852486, "en": "MON touch the good hearts of\nTRAINERS and learn good from wrong.{WAIT_CLEAR}They touch the good hearts of\nTRAINERS and grow strong.{WAIT_CLEAR}Go! Go onwards!\nThe CHAMPION is waiting!", "zh": "MON触摸善良的心训练家并从错误中学习。{WAIT_CLEAR}他们触动了善良的心训练家和成长壮大。{WAIT_CLEAR}开始!继续前进!\n冠军在等待!"}
@@ -2121,14 +2125,14 @@
 {"offset": 2853917, "en": "I, the CHAMPION, fall in defeat…{WAIT_CLEAR}That was wonderful work.\nYou were elegant, infuriatingly so.{WAIT_SCROLL}And yet it was utterly glorious!{WAIT_CLEAR}Kudos to you, {FD:01}{FD:05}!{WAIT_CLEAR}You are a truly noble POKéMON\nTRAINER!", "zh": "我，冠军，败下阵来{WAIT_CLEAR}那真是精彩的表演。\n你很优雅，优雅得令人恼火。{WAIT_SCROLL}然而，这绝对是光荣的！{WAIT_CLEAR}向你致敬{FD:01}{FD:05}！{WAIT_CLEAR}你是一个真正高尚的宝可梦训练家!"}
 {"offset": 2854090, "en": "MON\nTRAINER!", "zh": "宝可梦训练家!"}
 {"offset": 2854103, "en": "WALLACE: The POKéMON you sent into\nbattle…{WAIT_CLEAR}At times they danced like a spring\nbreeze, and at times they struck{WAIT_SCROLL}like lightning.{WAIT_CLEAR}It was with light, yet surefooted,\nelegance that you led your POKéMON.{WAIT_CLEAR}Even I felt bedazzled by your\nmasterful performance!{WAIT_CLEAR}You n", "zh": "米可利：你送进去的那个宝可{WAIT_CLEAR}梦战斗有时他们跳得像春天一样欢快微风，有时{WAIT_SCROLL}它们像闪电一样袭来。{WAIT_CLEAR}它步履轻盈，\n优雅，你带领你的宝可梦。甚至我也被你的出色的表现!你{WAIT_CLEAR}{WAIT_CLEAR}n"}
-{"offset": 2854400, "en": "MON LEAGUE.{WAIT_CLEAR}I now proclaim you to be the new\nHOENN region…", "zh": "我的联盟。{WAIT_CLEAR}我现在宣布你是新人丰缘地区…"}
+{"offset": 2854400, "en": "MON LEAGUE.{WAIT_CLEAR}I now proclaim you to be the new\nHOENN region…", "zh": "宝可梦联盟。{WAIT_CLEAR}现在，我宣布你成为\n丰缘地区新的……"}
 {"offset": 2854459, "en": "MAY: {FD:01}{FD:05}!{WAIT_CLEAR}Here's some advice before you challenge\nthe CHAMPION…", "zh": "小遥:{FD:01}{FD:05}!{WAIT_CLEAR}在你挑战之前，这里有一些建议冠军……"}
 {"offset": 2854524, "en": "MAY: Huh?\nWhat, what, what?{WAIT_CLEAR}{FD:01}{FD:05}…\nCould it be that…{WAIT_SCROLL}It's already over?", "zh": "小遥:嗯?\n什么，什么，什么？{WAIT_CLEAR}{FD:01}{FD:05}…\n会不会是…{WAIT_SCROLL}…已经结束了？"}
 {"offset": 2854595, "en": "BRENDAN: {FD:01}!{WAIT_CLEAR}How would you like some advice before\nyou challenge the CHAMPION?…", "zh": "丹:{FD:01}!你想要一些事先的建议吗你要挑战冠军吗？…"}
 {"offset": 2854675, "en": "BRENDAN: {FD:01}…{WAIT_CLEAR}Are you trying to tell me…\nYou've beaten the CHAMPION?", "zh": "小悠:{FD:01}…{WAIT_CLEAR}你是想告诉我…\n你打败了冠军？"}
 {"offset": 2854679, "en": "DAN: {FD:01}…{WAIT_CLEAR}Are you trying to tell me…\nYou've beaten the CHAMPION?", "zh": "丹{FD:01}：你是想告诉我…{WAIT_CLEAR}…你打败了冠军？"}
 {"offset": 2855008, "en": " you've actually become\nthe CHAMPION!{WAIT_CLEAR}Ah, yes!{WAIT_CLEAR}What became of your POKéDEX?\nHere, let me see.", "zh": "你实际上已经成为的冠军!{WAIT_CLEAR}啊,是的!{WAIT_CLEAR}你的宝可梦图鉴怎么样了？\n来，让我看看。"}
-{"offset": 2855079, "en": "DEX?\nHere, let me see.", "zh": "去中心化交易所？\n这里，让我看看。"}
+{"offset": 2855079, "en": "DEX?\nHere, let me see.", "zh": "图鉴？\n来，让我看看。"}
 {"offset": 2855102, "en": "PROF. BIRCH: Anyways,\ncongratulations!{WAIT_CLEAR}Now, go proudly into the final room!", "zh": "小田卷博士：不管怎样，\n恭喜你!{WAIT_CLEAR}现在，骄傲地走进最后一个房间吧！"}
 {"offset": 2855178, "en": "WALLACE: {FD:01}{FD:05}…{WAIT_CLEAR}No, let me rephrase that properly.{WAIT_CLEAR}The new CHAMPION!{WAIT_CLEAR}Come with me.", "zh": "米可利:{FD:01}{FD:05}…{WAIT_CLEAR}不，让我把话重新说清楚。{WAIT_CLEAR}新的冠军！{WAIT_CLEAR}跟我来。"}
 {"offset": 2855260, "en": "WALLACE: I'm sorry, but…{WAIT_CLEAR}From here on, only those TRAINERS who\nhave become CHAMPIONS may enter.{WAIT_CLEAR}You'll have to wait outside with\nPROF. BIRCH.", "zh": "米可利: 对不起，但是……{WAIT_CLEAR}从现在开始，只有那些训练家已经成为冠军的人可以参加。{WAIT_CLEAR}你必须在外面等小田卷博士。"}
@@ -2155,7 +2159,7 @@
 {"offset": 2859217, "en": "MR. BRINEY: Ahoy!\nFor you, I'll go out to sea anytime!{WAIT_CLEAR}Now, my friend, where are we bound?", "zh": "布莱尼先生：啊哈！为了你，我随时都愿意出海！{WAIT_CLEAR}现在，我的朋友，我们要去哪里？"}
 {"offset": 2859308, "en": "MR. BRINEY: Is that so?\nWell, PEEKO owes her life to you.{WAIT_CLEAR}You just go on and tell me whenever\nyou want to set sail!", "zh": "哈奇老人：是吗？\n小皮的命是你救的。{WAIT_CLEAR}你什么时候告诉我就行了你要起航了！"}
 {"offset": 2859424, "en": "PEEKO: Pii piihyoro!", "zh": "小皮: 嘿嘿皮霍罗！"}
-{"offset": 2860130, "en": "MON LEAGUE\nchallenge, I'll have you know.", "zh": "我的联盟挑战，我会让你知道的。"}
+{"offset": 2860130, "en": "MON LEAGUE\nchallenge, I'll have you know.", "zh": "宝可梦联盟挑战，\n这点我可清楚得很。"}
 {"offset": 2860172, "en": "We use this MACHO BRACE to more\neffectively strengthen our POKéMON{WAIT_SCROLL}in training.{WAIT_CLEAR}Since you've beaten all of us here,\nI don't know if you need it, but we{WAIT_SCROLL}would like you to have our MACHO BRACE.", "zh": "我的意思是，我的意思是，我的意思是既然你在{WAIT_SCROLL}{WAIT_CLEAR}这里打败了我们所有人，\n我的意思是，我的意思是，我的意{WAIT_SCROLL}思是，我的意思是我的意思。"}
 {"offset": 2860235, "en": "MON{WAIT_SCROLL}in training.{WAIT_CLEAR}Since you've beaten all of us here,\nI don't know if you need it, but we{WAIT_SCROLL}would like you to have our MACHO BRACE.", "zh": "星期一()在训练。既然你在这里打败了我们所有人，我不知道你是否需要它，但我们希望你有我们的怪力支架。"}
 {"offset": 2860364, "en": "When it comes to POKéMON battles,\nwe tend to be pretty passionate.", "zh": "当涉及到宝可梦战斗时，\n我们往往很有激情。"}
@@ -2564,7 +2568,7 @@
 {"offset": 2913581, "en": "WALLY: I couldn't beat you today,\n{FD:01}, but one of these days, I'll{WAIT_SCROLL}catch up to you!", "zh": "我今天赢不了你，{FD:01}，但是有一天，我会{WAIT_SCROLL}赶上你!"}
 {"offset": 2913664, "en": "WALLY: Hi! {FD:01}!{WAIT_CLEAR}I've gotten stronger since that last\ntime! I wanted to show you, {FD:01}!{WAIT_CLEAR}Okay… Here I come!", "zh": "满充：嗨！{FD:01}！{WAIT_CLEAR}自从上次以来我变强了！我想给你看看，{FD:01}！{WAIT_CLEAR}好吧……我来了！"}
 {"offset": 2913767, "en": "Wow!\n{FD:01}, you are strong, after all!", "zh": "哇！{FD:01}，你果然很强啊！"}
-{"offset": 2913925, "en": "MON LEAGUE!", "zh": "我的联盟!"}
+{"offset": 2913925, "en": "MON LEAGUE!", "zh": "宝可梦联盟！"}
 {"offset": 2913937, "en": "I've made it this far a couple times,\nbut the last stretch is so long…", "zh": "我已经走到这一步好几次了，\n但是最后一段太长了……"}
 {"offset": 2914008, "en": "My dream ends here again…", "zh": "我的梦想又在这里结束了……"}
 {"offset": 2914034, "en": "You've made it this far. Keep the\nmomentum going and become the{WAIT_SCROLL}CHAMPION! If anyone can, it's you!", "zh": "你已经走到这一步了。保持成为{WAIT_SCROLL}冠军！如果有人能做到，那就是你！"}
@@ -2588,7 +2592,7 @@
 {"offset": 2915396, "en": "Your relationship is based on\nsolid trust.", "zh": "你们的关系是基于牢固的信任。"}
 {"offset": 2915495, "en": "MON and TRAINERS.", "zh": "MON和训练家."}
 {"offset": 2915513, "en": "This isn't the goal. It's only a place\non the way to the POKéMON LEAGUE.", "zh": "这不是我们的目标。它只是一个地方在去宝可梦联盟的路上。"}
-{"offset": 2915574, "en": "MON LEAGUE.", "zh": "我的联盟。"}
+{"offset": 2915574, "en": "MON LEAGUE.", "zh": "宝可梦联盟。"}
 {"offset": 2915586, "en": "That's the way!", "zh": "就是这样!"}
 {"offset": 2915637, "en": "MON are all eager to go!", "zh": "宝可梦们都迫不及待地想去！"}
 {"offset": 2915669, "en": "MON are cosmically\nawe inspiring!", "zh": "MON从宇宙上令人敬畏！"}
@@ -4665,7 +4669,7 @@
 {"offset": 3168028, "en": "Not many TRAINERS have made it\nthis far.", "zh": "没有多少训练家做到了到此为止."}
 {"offset": 3168034, "en": "ny TRAINERS have made it\nthis far.", "zh": "我的训练家已经成功了这么远。"}
 {"offset": 3168069, "en": "That must mean you're tough, too…", "zh": "那说明你也很坚强……"}
-{"offset": 3168125, "en": "MON LEAGUE\nCHAMPION? That's too much!", "zh": "我的联盟冠军？那也太夸张了！"}
+{"offset": 3168125, "en": "MON LEAGUE\nCHAMPION? That's too much!", "zh": "宝可梦联盟冠军？\n那也太夸张了！"}
 {"offset": 3168163, "en": "Consider yourself lucky to be\nbattling me!", "zh": "认为自己是幸运的打击我!"}
 {"offset": 3168206, "en": "This isn't right!\nI can't lose!", "zh": "这不对！我不能输！"}
 {"offset": 3168238, "en": "It's a miracle that you beat me.\nYou can brag about it.", "zh": "你能打败我真是一个奇迹。你可以为此自夸。"}
@@ -4782,7 +4786,7 @@
 {"offset": 3186009, "en": "Too bad! There's no room left for\nanother {FD:03}…", "zh": "太糟了！已经没有地方再放另一个{FD:03}了…"}
 {"offset": 3186055, "en": "The {FD:03} was transferred\nto the PC.", "zh": "{FD:03}被转移了到PC。"}
 {"offset": 3186132, "en": "MON MART", "zh": "宝可梦商店"}
-{"offset": 3186179, "en": "MON CENTER", "zh": "我的中心"}
+{"offset": 3186179, "en": "MON CENTER", "zh": "宝可梦中心"}
 {"offset": 3186190, "en": "{FD:02} might like this program.\n… … … … … … … … … … … … … … … …{WAIT_CLEAR}Better get going!", "zh": "{FD:02}可能会喜欢这个节目。\n……{WAIT_CLEAR}最好赶快出发！"}
 {"offset": 3186268, "en": "Welcome to LILYCOVE DEPARTMENT STORE.{WAIT_CLEAR}Which floor would you like?", "zh": "欢迎光临丽丽蔻百货公司。{WAIT_CLEAR}你想要几楼？"}
 {"offset": 3186334, "en": "The sandstorm is vicious.\nIt's impossible to keep going.", "zh": "沙尘暴很凶猛。\n要继续下去是不可能的。"}
@@ -5041,7 +5045,7 @@
 {"offset": 3213468, "en": "Hello!\nMy name is TEALA.{WAIT_CLEAR}This must be your first time\nup here.{WAIT_CLEAR}I'll show you how the Wireless\nCommunication System works.{WAIT_CLEAR}First, I need to show you this\nfloor of our POKéMON CENTER.{WAIT_CLEAR}Right this way, please.", "zh": "你好！{WAIT_CLEAR}我的名字是席拉。这一定是你第一次来这里。{WAIT_CLEAR}我来告诉你无线通信系统是如何工作的。{WAIT_CLEAR}首先，我要给你看我们宝可梦中心的楼层。{WAIT_CLEAR}请这边走。"}
 {"offset": 3213638, "en": "MON CENTER.{WAIT_CLEAR}Right this way, please.", "zh": "宝可梦中心。{WAIT_CLEAR}请这边走。"}
 {"offset": 3213997, "en": "iends in this room.{WAIT_CLEAR}If the Wireless Adapter isn't\nconnected, you may still link up{WAIT_SCROLL}using a GBA Game Link cable.{WAIT_CLEAR}If that is the case, you must go\nto the DIRECT CORNER.{WAIT_CLEAR}I hope you enjoy the Wireless \nCommunication System.", "zh": "这个房间里的朋友。{WAIT_CLEAR}如果无线适配器未连接，您仍然可以使用游戏连接线{WAIT_SCROLL}进行连接。{WAIT_CLEAR}如果是这种情况，您必须前往直接对战区。{WAIT_CLEAR}希望您喜欢无线通信系统。"}
-{"offset": 3214252, "en": "MON\nCENTER 2F attendant.{WAIT_CLEAR}Is there something you needed to\nask me about linking?", "zh": "我的中心2F服务员。{WAIT_CLEAR}你有什么需要问我关于链接的问题？"}
+{"offset": 3214252, "en": "MON\nCENTER 2F attendant.{WAIT_CLEAR}Is there something you needed to\nask me about linking?", "zh": "我是宝可梦中心2楼的服务员。{WAIT_CLEAR}你想了解有关联机的事情吗？"}
 {"offset": 3214855, "en": "er\nto your friends.{WAIT_CLEAR}If the Wireless Adapter isn't\nconnected, you may still link up{WAIT_SCROLL}using a GBA Game Link cable.{WAIT_CLEAR}If that is the case, you must go\nto the DIRECT CORNER.{WAIT_CLEAR}I hope you enjoy the Wireless \nCommunication System.", "zh": "把它给你的朋友。如果无线适配器未连接，你仍然可以使用游戏连接线进行连接。如果是这种情况，你必须去直连角落。希望你喜欢无线通信系统。"}
 {"offset": 3215075, "en": "I hope you enjoy the Wireless\nCommunication System.", "zh": "我希望你喜欢无线通讯系统。"}
 {"offset": 3215141, "en": "mon has just landed\nsomewhere in Hoenn!", "zh": "孟刚到。\n在丰缘的某个地方！"}
@@ -5988,7 +5992,7 @@
 {"offset": 3303267, "en": "The POKéMON CENTER-Loving TRAINER", "zh": "喜欢宝可梦中心的训练家"}
 {"offset": 3303275, "en": "MON CENTER-Loving TRAINER", "zh": "精灵宝可梦中心的训练家"}
 {"offset": 3303301, "en": "Used POKéMON CENTERS", "zh": "使用过的宝可梦中心"}
-{"offset": 3303310, "en": "MON CENTERS", "zh": "我的中心"}
+{"offset": 3303310, "en": "MON CENTERS", "zh": "宝可梦中心"}
 {"offset": 3303322, "en": "This is a tale of a TRAINER\nnamed {FD:04}.{WAIT_CLEAR}This TRAINER healed POKéMON\n{FD:02} times at POKéMON CENTERS!{WAIT_CLEAR}There could be no greater lover of\nPOKéMON CENTERS than {FD:04}!", "zh": "这是一个关于驯兽师的故{FD:04}事名为。{WAIT_CLEAR}这个训练家治{FD:02}好了宝可梦次在宝可梦中心！{WAIT_CLEAR}没有比他更热爱……的人了{FD:04}！"}
 {"offset": 3303456, "en": "MON CENTERS than {FD:04}!", "zh": "宝可梦中心比{FD:04}！"}
 {"offset": 3303477, "en": "The Homebody TRAINER", "zh": "宅家训练家"}
@@ -6044,7 +6048,7 @@
 {"offset": 3306253, "en": "The Avid POKéDEX Reader", "zh": "狂热的宝可梦图鉴阅读者"}
 {"offset": 3306266, "en": "DEX Reader", "zh": "图鉴阅读器"}
 {"offset": 3306277, "en": "Checked a POKéDEX", "zh": "检查宝可梦图鉴"}
-{"offset": 3306291, "en": "DEX", "zh": "去中心化交易所"}
+{"offset": 3306291, "en": "DEX", "zh": "图鉴"}
 {"offset": 3306295, "en": "This is a tale of a TRAINER\nnamed {FD:04}.{WAIT_CLEAR}This TRAINER checked a POKéDEX\n{FD:02} times!{WAIT_CLEAR}{FD:04} must love inspecting\nPOKéMON in a POKéDEX!", "zh": "这是一个关于驯兽师的故事，名为。这个训练家检查了一个宝可梦图鉴次！{FD:04}{WAIT_CLEAR}{FD:02}{WAIT_CLEAR}{FD:04}一定很喜欢检查 a 宝可梦图鉴！"}
 {"offset": 3306415, "en": "DEX!", "zh": "敏捷!"}
 {"offset": 3306420, "en": "The RIBBON Collector", "zh": "丝带收藏者"}
@@ -6569,7 +6573,7 @@
 {"offset": 3343104, "en": " here to elevate our\ngame to the next level.{WAIT_SCROLL}Stay and train with us!", "zh": "来提升我们的游戏更上一层楼。{WAIT_SCROLL}留下来和我们一起训练吧！"}
 {"offset": 3343173, "en": "Ooh, you're decent!", "zh": "哦，你还不错！"}
 {"offset": 3343239, "en": "he POKéMON LEAGUE.", "zh": "宝可梦联盟"}
-{"offset": 3343246, "en": "MON LEAGUE.", "zh": "我的联盟。"}
+{"offset": 3343246, "en": "MON LEAGUE.", "zh": "宝可梦联盟。"}
 {"offset": 3343258, "en": "Oh, your POKéMON look like serious\nactors.{WAIT_SCROLL}I have to ask you for an engagement.", "zh": "哦，你的宝可梦看起来很严肃演员。{WAIT_SCROLL}我得请你约个会。"}
 {"offset": 3343271, "en": "MON look like serious\nactors.{WAIT_SCROLL}I have to ask you for an engagement.", "zh": "我看起来很严肃演员。{WAIT_CLEAR}我得请你约个会。"}
 {"offset": 3343338, "en": "They didn't just look strong,\nthey are strong!", "zh": "他们不仅看起来强壮，\n他们很强壮！"}
@@ -8977,15 +8981,16 @@
 {"offset": 3537986, "en": "{FD:01} saved the game.", "zh": "{FD:01}挽救了比赛。"}
 {"offset": 3538005, "en": "WARNING!{WAIT_CLEAR}There is a different game file that\nis already saved.{WAIT_CLEAR}If you save now, the other file's\nadventure, including items and{WAIT_SCROLL}POKéMON, will be entirely lost.{WAIT_CLEAR}Are you sure you want to save now\nand overwrite the other save file?", "zh": "警告!{WAIT_CLEAR}{WAIT_CLEAR}有一个不同的游戏文件已经保存。如果你现在保存，另一个文件冒险，包括物品和{WAIT_SCROLL}宝可梦，将完全丢失。{WAIT_CLEAR}你确定现在要存钱吗并覆盖其他保存文件？"}
 {"offset": 3538137, "en": "MON, will be entirely lost.{WAIT_CLEAR}Are you sure you want to save now\nand overwrite the other save file?", "zh": "宝可梦，将完全丢失。{WAIT_CLEAR}您确定要立即保存并覆盖其他保存文件？"}
-{"offset": 3538234, "en": "Save error.{WAIT_CLEAR}Please exchange the\nbackup memory.", "zh": "保存错误。{WAIT_CLEAR}请换一下备份内存。"}
+{"offset": 3538234, "en": "Save error.{WAIT_CLEAR}Please exchange the\nbackup memory.", "zh": "保存错误。{WAIT_CLEAR}请更换备份存储器。"}
 {"offset": 3538281, "en": "SAVING…\nDON'T TURN OFF THE POWER.", "zh": "拯救……不要关掉电源。"}
 {"offset": 3538315, "en": "Hi! Sorry to keep you waiting!{WAIT_CLEAR}Welcome to the world of POKéMON!{WAIT_CLEAR}My name is BIRCH.{WAIT_CLEAR}But everyone calls me the POKéMON\nPROFESSOR.{WAIT_CLEAR}", "zh": "嗨！抱歉让你久等了！{WAIT_CLEAR}欢迎来到宝可梦的世界！我的名字是小田卷。{WAIT_CLEAR}{WAIT_CLEAR}但是每个人都叫我宝可梦教授()。{WAIT_CLEAR}"}
 {"offset": 3538427, "en": "MON\nPROFESSOR.{WAIT_CLEAR}", "zh": "我的教授。"}
 {"offset": 3538471, "en": "MON.”{WAIT_CLEAR}\n", "zh": "宝可梦。”"}
 {"offset": 3538479, "en": "This world is widely inhabited by\ncreatures known as POKéMON.{WAIT_CLEAR}We humans live alongside POKéMON,\nat times as friendly playmates, and{WAIT_SCROLL}at times as cooperative workmates.{WAIT_CLEAR}And sometimes, we band together\nand battle others like us.{WAIT_CLEAR}But despite our closeness, we ", "zh": "这个世界上广泛地居住着一种被称为的生物。{WAIT_CLEAR}我们人类和宝可梦生活在一起，有时是友好的玩伴，有时{WAIT_SCROLL}是合作的工作伙伴。{WAIT_CLEAR}有时，我们团结在一起和像我们一样的人战斗。{WAIT_CLEAR}但是，尽管我们很亲密，我们"}
 {"offset": 3538846, "en": "MON mysteries,\nI've been undertaking research.{WAIT_SCROLL}That's what I do.{WAIT_CLEAR}", "zh": "我的秘密,\n我一直在做研究。{WAIT_CLEAR}我就是这么做的。{WAIT_CLEAR}"}
-{"offset": 3538912, "en": "And you are?", "zh": "和你是?"}
-{"offset": 3538925, "en": "Are you...", "zh": "是你..."}
+{"offset": 3538912, "en": "And you are?", "zh": "那么，你是？"}
+{"offset": 3538925, "en": "Are you...", "zh": "你是……"}
+{"offset": 3538965, "en": "So it's {FD:01}{FD:05}?", "zh": "名字是{FD:01}{FD:05}，对吗？"}
 {"offset": 3949635, "en": " Please start over from the beginning.", "zh": "请从头再来。"}
 {"offset": 3949674, "en": "  The WIRELESS COMMUNICATION\nSYSTEM search has been canceled.", "zh": "无线通讯系统搜索已取消。"}
 {"offset": 3949736, "en": "Awaiting communication\nfrom another player.", "zh": "等待另一位玩家的通信。"}
@@ -10354,7 +10359,7 @@
 {"offset": 16582478, "en": "SILPH CO.", "zh": "西尔夫公司"}
 {"offset": 16582492, "en": "MON MANSION", "zh": "我的大厦"}
 {"offset": 16582504, "en": "SAFARI ZONE", "zh": "狩猎地带"}
-{"offset": 16582520, "en": "MON LEAGUE", "zh": "我的联盟"}
+{"offset": 16582520, "en": "MON LEAGUE", "zh": "宝可梦联盟"}
 {"offset": 16582531, "en": "ROCK TUNNEL", "zh": "岩石隧道"}
 {"offset": 16582543, "en": "SEAFOAM ISLANDS", "zh": "海沫岛"}
 {"offset": 16582563, "en": "MON TOWER", "zh": "宝可梦塔"}
@@ -12152,18 +12157,18 @@
 {"offset": 16890606, "en": "The save file has been updated.", "zh": "存档已更新。"}
 {"offset": 16890638, "en": "The save file is corrupted. The\nprevious save file will be loaded.", "zh": "存档已损坏。\n将读取上一次的存档。"}
 {"offset": 16890705, "en": "The save file has been erased\ndue to corruption or damage.", "zh": "存档因损坏已被清除。"}
-{"offset": 16890783, "en": "The internal battery has run dry.\nThe game can be played.{WAIT_CLEAR}However, clock-based events will\nno longer occur.", "zh": ""}
+{"offset": 16890783, "en": "The internal battery has run dry.\nThe game can be played.{WAIT_CLEAR}However, clock-based events will\nno longer occur.", "zh": "内置电池电量已耗尽。\n游戏仍可继续。{WAIT_CLEAR}但与时钟相关的事件\n将不再发生。"}
 {"offset": 16890891, "en": "PLAYER", "zh": "玩家"}
-{"offset": 16890902, "en": "DEX", "zh": "去中心化交易所"}
+{"offset": 16890902, "en": "DEX", "zh": "图鉴"}
 {"offset": 16890906, "en": "TIME", "zh": "时间"}
 {"offset": 16890911, "en": "BADGES", "zh": "徽章"}
-{"offset": 16890918, "en": "A Button", "zh": "一个按钮"}
-{"offset": 16890927, "en": "B Button", "zh": "B按钮"}
-{"offset": 16890936, "en": "R Button", "zh": "R按钮"}
-{"offset": 16890945, "en": "L Button", "zh": "L按钮"}
+{"offset": 16890918, "en": "A Button", "zh": "A键"}
+{"offset": 16890927, "en": "B Button", "zh": "B键"}
+{"offset": 16890936, "en": "R Button", "zh": "R键"}
+{"offset": 16890945, "en": "L Button", "zh": "L键"}
 {"offset": 16890954, "en": "START", "zh": "开始"}
 {"offset": 16890960, "en": "SELECT", "zh": "选择"}
-{"offset": 16890968, "en": " Control Pad", "zh": "控制板"}
+{"offset": 16890968, "en": " Control Pad", "zh": "十字键"}
 {"offset": 16890981, "en": "L Button  R Button", "zh": "L键键"}
 {"offset": 16891000, "en": "CONTROLS", "zh": "操作说明"}
 {"offset": 16891025, "en": " NEXT", "zh": "下一个"}
@@ -12258,8 +12263,8 @@
 {"offset": 16892128, "en": "GRAY", "zh": "灰色"}
 {"offset": 16892133, "en": "WHITE", "zh": "白色"}
 {"offset": 16892139, "en": "PINK", "zh": "粉红色的"}
-{"offset": 16892163, "en": "DEX", "zh": "去中心化交易所"}
-{"offset": 16892188, "en": "DEX", "zh": "去中心化交易所"}
+{"offset": 16892163, "en": "DEX", "zh": "图鉴"}
+{"offset": 16892188, "en": "DEX", "zh": "图鉴"}
 {"offset": 16892196, "en": "MON are listed according to their\nnumber.", "zh": "宝可梦根据其列出数量。"}
 {"offset": 16892260, "en": "MON are listed\nalphabetically.", "zh": "精灵宝可梦按字母顺序。"}
 {"offset": 16892301, "en": "MON are listed from the\nheaviest to the lightest.", "zh": "列表中列出了最重到最轻。"}
@@ -12763,7 +12768,7 @@
 {"offset": 16903551, "en": "ABOUT G-MODE", "zh": "关于G-模式"}
 {"offset": 16903564, "en": "E-MODE", "zh": "E模式"}
 {"offset": 16903571, "en": "G-MODE", "zh": "G模式"}
-{"offset": 16903582, "en": "DEX", "zh": "去中心化交易所"}
+{"offset": 16903582, "en": "DEX", "zh": "图鉴"}
 {"offset": 16903590, "en": "MON", "zh": "宝可梦"}
 {"offset": 16903594, "en": "BAG", "zh": "背包"}
 {"offset": 16903602, "en": "NAV", "zh": "导航"}
@@ -12986,121 +12991,121 @@
 {"offset": 16907165, "en": "CANCEL", "zh": "取消"}
 {"offset": 16907172, "en": "NATURE/", "zh": "自然/"}
 {"offset": 16907180, "en": "That TRAINER is close by.\nTalk to the TRAINER in person!", "zh": "训练家就在附近。\n亲自与训练家交谈！"}
-{"offset": 16907237, "en": "IN PARTY", "zh": "在党"}
-{"offset": 16907251, "en": "RIBBONS", "zh": "丝带"}
+{"offset": 16907237, "en": "IN PARTY", "zh": "同行中"}
+{"offset": 16907251, "en": "RIBBONS", "zh": "奖章"}
 {"offset": 16907302, "en": "UNKNOWN", "zh": "未知的"}
 {"offset": 16907310, "en": "CALL", "zh": "呼叫"}
 {"offset": 16907315, "en": "CHECK", "zh": "检查"}
 {"offset": 16907321, "en": "CANCEL", "zh": "取消"}
-{"offset": 16907395, "en": "Combine four words or phrases", "zh": "组合四个单词或短语"}
-{"offset": 16907425, "en": "and make your profile.", "zh": "制作你的个人资料。"}
-{"offset": 16907448, "en": "Combine six words or phrases", "zh": "组合六个单词或短语"}
-{"offset": 16907477, "en": "and make a message.", "zh": "并发送一条消息。"}
-{"offset": 16907497, "en": "Find words that describe your", "zh": "寻找描述你的词语"}
-{"offset": 16907527, "en": "feelings right now.", "zh": "现在的感觉。"}
-{"offset": 16907547, "en": "With four phrases,", "zh": "用四个短语，"}
-{"offset": 16907566, "en": "Combine nine words or phrases", "zh": "组合九个单词或短语"}
-{"offset": 16907596, "en": "and make a message.", "zh": "并发送一条消息。"}
-{"offset": 16907616, "en": "Change just one word or phrase", "zh": "只改变一个单词或短语"}
-{"offset": 16907647, "en": "and improve the BARD's song.", "zh": "改进吟游诗人的歌。"}
-{"offset": 16907676, "en": "Your profile", "zh": "你的资料"}
-{"offset": 16907689, "en": "Your feeling at the battle's start", "zh": "你在战斗开始时的感觉"}
-{"offset": 16907724, "en": "What you say if you win a battle", "zh": "如果你赢得一场战斗，你会说什么"}
-{"offset": 16907757, "en": "What you say if you lose a battle", "zh": "如果你输了一场战斗，你会说什么"}
+{"offset": 16907395, "en": "Combine four words or phrases", "zh": "请选择4个词语"}
+{"offset": 16907425, "en": "and make your profile.", "zh": "组成你的个人简介。"}
+{"offset": 16907448, "en": "Combine six words or phrases", "zh": "请选择6个词语"}
+{"offset": 16907477, "en": "and make a message.", "zh": "组成一句话。"}
+{"offset": 16907497, "en": "Find words that describe your", "zh": "请选择合适的词语，"}
+{"offset": 16907527, "en": "feelings right now.", "zh": "表达你现在的心情！"}
+{"offset": 16907547, "en": "With four phrases,", "zh": "使用4个短语，"}
+{"offset": 16907566, "en": "Combine nine words or phrases", "zh": "请选择9个词语"}
+{"offset": 16907596, "en": "and make a message.", "zh": "组成一句话。"}
+{"offset": 16907616, "en": "Change just one word or phrase", "zh": "只更改1个词语，"}
+{"offset": 16907647, "en": "and improve the BARD's song.", "zh": "改编吟游诗人的歌词。"}
+{"offset": 16907676, "en": "Your profile", "zh": "你的个人简介"}
+{"offset": 16907689, "en": "Your feeling at the battle's start", "zh": "对战开始时的感想"}
+{"offset": 16907724, "en": "What you say if you win a battle", "zh": "对战获胜时要说的话"}
+{"offset": 16907757, "en": "What you say if you lose a battle", "zh": "对战落败时要说的话"}
 {"offset": 16907791, "en": "The answer", "zh": "答案"}
-{"offset": 16907802, "en": "The MAIL message", "zh": "邮件消息"}
-{"offset": 16907819, "en": "The MAIL salutation", "zh": "邮件敬礼"}
-{"offset": 16907839, "en": "The new song", "zh": "新歌"}
-{"offset": 16907852, "en": "Combine two words or phrases", "zh": "组合两个单词或短语"}
-{"offset": 16907881, "en": "and make a trendy saying.", "zh": "创造一个流行的说法。"}
-{"offset": 16907907, "en": "The trendy saying", "zh": "时髦的说法"}
-{"offset": 16907925, "en": "is as shown. Okay?", "zh": "如图所示。好吗？"}
-{"offset": 16907944, "en": "Combine two words or phrases", "zh": "组合两个单词或短语"}
-{"offset": 16907973, "en": "to teach her a good saying.", "zh": "教她一句好俗语。"}
-{"offset": 16908001, "en": "Find words which fit", "zh": "找到合适的词"}
-{"offset": 16908022, "en": "the TRAINER's image.", "zh": "训练家的形象。"}
-{"offset": 16908043, "en": "The image:", "zh": "图像:"}
-{"offset": 16908054, "en": "Out of the listed choices,", "zh": "在列出的选项中，"}
-{"offset": 16908081, "en": "select the answer to the quiz!", "zh": "选择测验的答案!"}
-{"offset": 16908112, "en": "and create a quiz!", "zh": "做一个小测验！"}
-{"offset": 16908131, "en": "Pick a word or phrase and", "zh": "选择一个单词或短语并"}
-{"offset": 16908157, "en": "set the quiz answer.", "zh": "设置测验答案。"}
-{"offset": 16908178, "en": "The answer:", "zh": "答案是:"}
-{"offset": 16908190, "en": "The quiz:", "zh": "测试:"}
-{"offset": 16908200, "en": "Apprentice's phrase:", "zh": "学徒的话："}
-{"offset": 16908221, "en": "Quit editing?", "zh": "退出编辑吗?"}
-{"offset": 16908255, "en": "MON MAIL?", "zh": "宝可梦邮件？"}
+{"offset": 16907802, "en": "The MAIL message", "zh": "邮件正文"}
+{"offset": 16907819, "en": "The MAIL salutation", "zh": "邮件称呼"}
+{"offset": 16907839, "en": "The new song", "zh": "新歌词"}
+{"offset": 16907852, "en": "Combine two words or phrases", "zh": "请选择2个词语"}
+{"offset": 16907881, "en": "and make a trendy saying.", "zh": "组成一句流行语。"}
+{"offset": 16907907, "en": "The trendy saying", "zh": "当前流行语"}
+{"offset": 16907925, "en": "is as shown. Okay?", "zh": "内容如上，可以吗？"}
+{"offset": 16907944, "en": "Combine two words or phrases", "zh": "请选择2个词语"}
+{"offset": 16907973, "en": "to teach her a good saying.", "zh": "教她一句格言。"}
+{"offset": 16908001, "en": "Find words which fit", "zh": "请选择符合"}
+{"offset": 16908022, "en": "the TRAINER's image.", "zh": "训练家形象的词语。"}
+{"offset": 16908043, "en": "The image:", "zh": "形象："}
+{"offset": 16908054, "en": "Out of the listed choices,", "zh": "请从列出的选项中，"}
+{"offset": 16908081, "en": "select the answer to the quiz!", "zh": "选择谜题的答案！"}
+{"offset": 16908112, "en": "and create a quiz!", "zh": "并创建一道谜题！"}
+{"offset": 16908131, "en": "Pick a word or phrase and", "zh": "请选择一个词语，"}
+{"offset": 16908157, "en": "set the quiz answer.", "zh": "设为谜题答案。"}
+{"offset": 16908178, "en": "The answer:", "zh": "答案："}
+{"offset": 16908190, "en": "The quiz:", "zh": "谜题："}
+{"offset": 16908200, "en": "Apprentice's phrase:", "zh": "学徒的词组："}
+{"offset": 16908221, "en": "Quit editing?", "zh": "退出编辑吗？"}
+{"offset": 16908255, "en": "MON MAIL?", "zh": "停止编辑宝可梦邮件吗？"}
 {"offset": 16908265, "en": "and fill out the questionnaire.", "zh": "并填写问卷。"}
-{"offset": 16908297, "en": "Let's reply to the interview!", "zh": "让我们回复采访!"}
-{"offset": 16908327, "en": "All the text being edited will", "zh": "所有正在编辑的文本将"}
-{"offset": 16908358, "en": "be deleted. Is that okay?", "zh": "被删除。可以吗？"}
-{"offset": 16908384, "en": "Quit editing?", "zh": "退出编辑吗?"}
-{"offset": 16908398, "en": "The edited text will not be saved.", "zh": "编辑后的文本将不会被保存。"}
+{"offset": 16908297, "en": "Let's reply to the interview!", "zh": "来回答采访问题吧！"}
+{"offset": 16908327, "en": "All the text being edited will", "zh": "正在编辑的所有内容"}
+{"offset": 16908358, "en": "be deleted. Is that okay?", "zh": "都会被删除。可以吗？"}
+{"offset": 16908384, "en": "Quit editing?", "zh": "退出编辑吗？"}
+{"offset": 16908398, "en": "The edited text will not be saved.", "zh": "编辑的内容不会被保存。"}
 {"offset": 16908433, "en": "Is that okay?", "zh": "可以吗？"}
-{"offset": 16908447, "en": "Please enter a phrase or word.", "zh": "请输入一个短语或单词。"}
-{"offset": 16908478, "en": "The entire text can't be deleted.", "zh": "整个文本不能被删除。"}
-{"offset": 16908512, "en": "Only one phrase may be changed.", "zh": "只能更改一个短语。"}
-{"offset": 16908544, "en": "The original song will be used.", "zh": "将使用原歌曲。"}
-{"offset": 16908576, "en": "That's trendy already!", "zh": "这已经很流行了！"}
-{"offset": 16908599, "en": "Combine two words or phrases.", "zh": "将两个单词或短语结合起来。"}
-{"offset": 16908629, "en": "Quit giving information?", "zh": "停止提供信息？"}
-{"offset": 16908674, "en": "MON MAIL?", "zh": "宝可梦邮件？"}
-{"offset": 16908684, "en": "Create a quiz!", "zh": "做一个小测验！"}
+{"offset": 16908447, "en": "Please enter a phrase or word.", "zh": "请输入词语或短语。"}
+{"offset": 16908478, "en": "The entire text can't be deleted.", "zh": "不能删除全部内容！"}
+{"offset": 16908512, "en": "Only one phrase may be changed.", "zh": "只能更改一个词语。"}
+{"offset": 16908544, "en": "The original song will be used.", "zh": "将使用原来的歌词。"}
+{"offset": 16908576, "en": "That's trendy already!", "zh": "这已经是流行语了！"}
+{"offset": 16908599, "en": "Combine two words or phrases.", "zh": "请选择2个词语。"}
+{"offset": 16908629, "en": "Quit giving information?", "zh": "放弃提供信息吗？"}
+{"offset": 16908674, "en": "MON MAIL?", "zh": "停止编辑宝可梦邮件吗？"}
+{"offset": 16908684, "en": "Create a quiz!", "zh": "创建一道谜题！"}
 {"offset": 16908699, "en": "Set the answer!", "zh": "设置答案！"}
-{"offset": 16908715, "en": "Cancel the selection?", "zh": "取消选择？"}
-{"offset": 16908737, "en": "PROFILE", "zh": "配置文件"}
-{"offset": 16908745, "en": "At the battle's start:", "zh": "在战斗的开始:"}
-{"offset": 16908768, "en": "Upon winning a battle:", "zh": "赢得一场战斗:"}
+{"offset": 16908715, "en": "Cancel the selection?", "zh": "取消选择吗？"}
+{"offset": 16908737, "en": "PROFILE", "zh": "个人简介"}
+{"offset": 16908745, "en": "At the battle's start:", "zh": "对战开始时："}
+{"offset": 16908768, "en": "Upon winning a battle:", "zh": "对战获胜时："}
 {"offset": 16908791, "en": "Upon losing a battle:", "zh": "在战败时："}
 {"offset": 16908813, "en": "The BARD's Song", "zh": "吟游诗人的歌"}
-{"offset": 16908829, "en": "What's hip and happening?", "zh": "发生了什么新鲜事？"}
-{"offset": 16908855, "en": "Interview", "zh": "面试"}
-{"offset": 16908865, "en": "Good saying", "zh": "好的说"}
-{"offset": 16908877, "en": "Fan's question", "zh": "风扇的问题"}
-{"offset": 16908903, "en": "Apprentice's phrase", "zh": "学徒的短语"}
+{"offset": 16908829, "en": "What's hip and happening?", "zh": "当下流行什么？"}
+{"offset": 16908855, "en": "Interview", "zh": "采访"}
+{"offset": 16908865, "en": "Good saying", "zh": "一句格言"}
+{"offset": 16908877, "en": "Fan's question", "zh": "粉丝的问题"}
+{"offset": 16908903, "en": "Apprentice's phrase", "zh": "学徒的词组"}
 {"offset": 16908923, "en": "QUESTIONNAIRE", "zh": "问卷"}
-{"offset": 16908937, "en": "You cannot quit here.", "zh": "你不能离开这里。"}
-{"offset": 16908959, "en": "This section must be completed.", "zh": "此部分必须完成。"}
-{"offset": 16908992, "en": " 's quiz", "zh": "的测试"}
-{"offset": 16909001, "en": "Lady", "zh": "夫人"}
-{"offset": 16909006, "en": "After you have read the quiz", "zh": "在你看完测试之后"}
-{"offset": 16909035, "en": "question, press the A Button.", "zh": "如果有问题，请按键。"}
-{"offset": 16909065, "en": "The quiz answer is?", "zh": "测试的答案是？"}
-{"offset": 16909085, "en": "Would you like to quit this quiz", "zh": "你想退出这个测试吗"}
-{"offset": 16909118, "en": "challenge?", "zh": "挑战?"}
+{"offset": 16908937, "en": "You cannot quit here.", "zh": "现在不能退出。"}
+{"offset": 16908959, "en": "This section must be completed.", "zh": "必须完成这一部分！"}
+{"offset": 16908992, "en": " 's quiz", "zh": "的谜题"}
+{"offset": 16909001, "en": "Lady", "zh": "大姐姐"}
+{"offset": 16909006, "en": "After you have read the quiz", "zh": "看完谜题后，"}
+{"offset": 16909035, "en": "question, press the A Button.", "zh": "请按A键。"}
+{"offset": 16909065, "en": "The quiz answer is?", "zh": "谜题的答案是？"}
+{"offset": 16909085, "en": "Would you like to quit this quiz", "zh": "要退出这次答题"}
+{"offset": 16909118, "en": "challenge?", "zh": "挑战吗？"}
 {"offset": 16909129, "en": "Is this quiz OK?", "zh": "这个测验可以吗？"}
-{"offset": 16909146, "en": "Create a quiz!", "zh": "做一个小测验！"}
+{"offset": 16909146, "en": "Create a quiz!", "zh": "创建一道谜题！"}
 {"offset": 16909161, "en": "Select the answer!", "zh": "选择答案！"}
-{"offset": 16909180, "en": "The lyrics can't be deleted.", "zh": "歌词无法删除。"}
-{"offset": 16909213, "en": "MON LEAGUE", "zh": "我的联盟"}
-{"offset": 16909228, "en": "MON CENTER", "zh": "我的中心"}
-{"offset": 16909254, "en": "Coolness ", "zh": "凉爽"}
-{"offset": 16909264, "en": "Beauty ", "zh": "美"}
-{"offset": 16909272, "en": "Cuteness ", "zh": "可爱"}
-{"offset": 16909282, "en": "Smartness ", "zh": "聪明"}
-{"offset": 16909293, "en": "Toughness ", "zh": "韧性"}
+{"offset": 16909180, "en": "The lyrics can't be deleted.", "zh": "不能删除全部歌词！"}
+{"offset": 16909213, "en": "MON LEAGUE", "zh": "宝可梦联盟"}
+{"offset": 16909228, "en": "MON CENTER", "zh": "宝可梦中心"}
+{"offset": 16909254, "en": "Coolness ", "zh": "帅气度"}
+{"offset": 16909264, "en": "Beauty ", "zh": "美丽度"}
+{"offset": 16909272, "en": "Cuteness ", "zh": "可爱度"}
+{"offset": 16909282, "en": "Smartness ", "zh": "聪明度"}
+{"offset": 16909293, "en": "Toughness ", "zh": "强壮度"}
 {"offset": 16909304, "en": "was enhanced!", "zh": "得到了增强！"}
 {"offset": 16909318, "en": "Nothing changed!", "zh": "什么都没变！"}
 {"offset": 16909335, "en": "It won't eat anymore…", "zh": "它不会再吃了……"}
 {"offset": 16909414, "en": "“Time required: about 1 minute”", "zh": "“所需时间：约1分钟”"}
-{"offset": 16909446, "en": "The backup memory is damaged, or\nthe internal battery has run dry.\nYou can still play, but not save.", "zh": ""}
+{"offset": 16909446, "en": "The backup memory is damaged, or\nthe internal battery has run dry.\nYou can still play, but not save.", "zh": "备份存储器损坏，或\n内置电池电量已耗尽。\n仍可游戏，但无法保存。"}
 {"offset": 16909550, "en": "“Game play cannot be continued.\nReturning to the title screen…”", "zh": "“游戏玩法无法继续。\n回到标题界面……”"}
 {"offset": 16909614, "en": "Check completed.\nAttempting to save again.\nPlease wait.", "zh": "检查已完成。\n试图再次保存。\n请稍等。"}
 {"offset": 16909689, "en": "“Game play cannot be continued.\nReturning to the title screen.”", "zh": "“游戏无法继续。\n正在返回标题画面。”"}
-{"offset": 16909772, "en": "“Please press the A Button.”", "zh": "“请按按钮。”"}
+{"offset": 16909772, "en": "“Please press the A Button.”", "zh": "“请按A键。”"}
 {"offset": 16909801, "en": "FERRY", "zh": "渡船"}
 {"offset": 16909807, "en": "SECRET BASE", "zh": "秘密基地"}
 {"offset": 16909819, "en": "HIDEOUT", "zh": "藏身之处"}
-{"offset": 16909827, "en": "Reset RTC?\nA: Confirm, B: Cancel", "zh": "重置吗?\nA：确认，B：取消"}
+{"offset": 16909827, "en": "Reset RTC?\nA: Confirm, B: Cancel", "zh": "重设时钟？\nA：确认，B：取消"}
 {"offset": 16909860, "en": "Present time in game", "zh": "游戏中的当前时间"}
 {"offset": 16909881, "en": "Previous time in game", "zh": "上次游戏时间"}
 {"offset": 16909903, "en": "Please reset the time.", "zh": "请重设时间。"}
-{"offset": 16909926, "en": "The clock has been reset.\nData will be saved. Please wait.", "zh": ""}
+{"offset": 16909926, "en": "The clock has been reset.\nData will be saved. Please wait.", "zh": "时钟已重设。\n正在保存数据，请稍候。"}
 {"offset": 16909985, "en": "Save completed.", "zh": "保存完成。"}
 {"offset": 16910001, "en": "Save failed…", "zh": "保存失败……"}
 {"offset": 16910014, "en": "There is no save file, so the time\ncan't be set.", "zh": "没有保存文件，所以时间不能设定。"}
-{"offset": 16910063, "en": "The in-game clock adjustment system\nis now useable.", "zh": ""}
-{"offset": 16910115, "en": "SLOTS", "zh": "槽"}
+{"offset": 16910063, "en": "The in-game clock adjustment system\nis now useable.", "zh": "现在可以使用游戏内时钟\n校准功能了。"}
+{"offset": 16910115, "en": "SLOTS", "zh": "老虎机"}
 {"offset": 16910121, "en": "ROULETTE", "zh": "轮盘赌"}
 {"offset": 16910130, "en": "Good", "zh": "好"}
 {"offset": 16910135, "en": "Very good", "zh": "很好"}
@@ -13135,7 +13140,7 @@
 {"offset": 16911279, "en": "NAME: ", "zh": "名称:"}
 {"offset": 16911286, "en": "IDNo.", "zh": "身份证号"}
 {"offset": 16911292, "en": "MONEY", "zh": "钱"}
-{"offset": 16911304, "en": "DEX", "zh": "去中心化交易所"}
+{"offset": 16911304, "en": "DEX", "zh": "图鉴"}
 {"offset": 16911311, "en": " points", "zh": "点"}
 {"offset": 16911319, "en": "TIME", "zh": "时间"}
 {"offset": 16911332, "en": "{FD:02}'s TRAINER CARD", "zh": "{FD:02}的训练家卡"}
@@ -13277,7 +13282,7 @@
 {"offset": 16914928, "en": "Aim for the top with exploration!\nYour bravery will be tested.", "zh": "以探索为目标登顶！\n你的勇气将受到考验。"}
 {"offset": 16914991, "en": "PLAYER", "zh": "玩家"}
 {"offset": 16914998, "en": "TIME", "zh": "时间"}
-{"offset": 16915007, "en": "DEX", "zh": "去中心化交易所"}
+{"offset": 16915007, "en": "DEX", "zh": "图鉴"}
 {"offset": 16915011, "en": "BADGES", "zh": "徽章"}
 {"offset": 16915018, "en": "POWDER", "zh": "粉"}
 {"offset": 16915025, "en": "DODRIO BERRY-PICKING RECORDS", "zh": "嘟嘟利 BERRY-PICKING RECORDS"}
@@ -13348,7 +13353,7 @@
 {"offset": 16917008, "en": "Communication error…\nPlease check all connections,\nthen turn the power OFF and ON.", "zh": "通信错误……请检查所有连接，\n然后再打开和关闭电源。"}
 {"offset": 16917091, "en": "Communication error…", "zh": "通信错误…"}
 {"offset": 16917147, "en": ".\nAvoid obstacles between partners.", "zh": ".\n避免伴侣之间的障碍。"}
-{"offset": 16917183, "en": "A Button: Registration Counter", "zh": "一个按钮: 登记计数器"}
+{"offset": 16917183, "en": "A Button: Registration Counter", "zh": "A键：报名柜台"}
 {"offset": 16917214, "en": "A Button: Title Screen", "zh": "按钮：标题画面"}
 {"offset": 16917237, "en": "OPTION", "zh": "选项"}
 {"offset": 16917244, "en": "TEXT SPEED", "zh": "文字速度"}
@@ -13380,7 +13385,7 @@
 {"offset": 16917519, "en": "Game time", "zh": "游戏时间"}
 {"offset": 16917529, "en": "RTC time", "zh": "RTC的时间"}
 {"offset": 16917538, "en": "Updated time", "zh": "更新的时间"}
-{"offset": 16917555, "en": "DEX", "zh": "去中心化交易所"}
+{"offset": 16917555, "en": "DEX", "zh": "图鉴"}
 {"offset": 16917563, "en": "MON", "zh": "宝可梦"}
 {"offset": 16917567, "en": "MISC", "zh": "杂项"}
 {"offset": 16917572, "en": "BAG", "zh": "背包"}
@@ -13423,25 +13428,25 @@
 {"offset": 16918289, "en": "MON", "zh": "宝可梦"}
 {"offset": 16918293, "en": "TRAINER", "zh": "训练家"}
 {"offset": 16918301, "en": "STATUS", "zh": "状态"}
-{"offset": 16918308, "en": "BATTLE", "zh": "战斗"}
-{"offset": 16918315, "en": "GREETINGS", "zh": "问候"}
-{"offset": 16918325, "en": "PEOPLE", "zh": "人"}
-{"offset": 16918332, "en": "VOICES", "zh": "的声音"}
-{"offset": 16918339, "en": "SPEECH", "zh": "演讲"}
-{"offset": 16918346, "en": "ENDINGS", "zh": "结局"}
-{"offset": 16918354, "en": "FEELINGS", "zh": "感情"}
-{"offset": 16918363, "en": "CONDITIONS", "zh": "条件"}
-{"offset": 16918374, "en": "ACTIONS", "zh": "行动"}
-{"offset": 16918382, "en": "LIFESTYLE", "zh": "生活方式"}
+{"offset": 16918308, "en": "BATTLE", "zh": "对战"}
+{"offset": 16918315, "en": "GREETINGS", "zh": "问候语"}
+{"offset": 16918325, "en": "PEOPLE", "zh": "人物"}
+{"offset": 16918332, "en": "VOICES", "zh": "拟声词"}
+{"offset": 16918339, "en": "SPEECH", "zh": "口语"}
+{"offset": 16918346, "en": "ENDINGS", "zh": "句尾"}
+{"offset": 16918354, "en": "FEELINGS", "zh": "感受"}
+{"offset": 16918363, "en": "CONDITIONS", "zh": "状况"}
+{"offset": 16918374, "en": "ACTIONS", "zh": "动作"}
+{"offset": 16918382, "en": "LIFESTYLE", "zh": "生活"}
 {"offset": 16918392, "en": "HOBBIES", "zh": "爱好"}
 {"offset": 16918400, "en": "TIME", "zh": "时间"}
-{"offset": 16918405, "en": "MISC.", "zh": "混杂。"}
+{"offset": 16918405, "en": "MISC.", "zh": "杂项"}
 {"offset": 16918411, "en": "ADJECTIVES", "zh": "形容词"}
 {"offset": 16918422, "en": "EVENTS", "zh": "事件"}
-{"offset": 16918429, "en": "MOVE 1", "zh": "移动1"}
-{"offset": 16918436, "en": "MOVE 2", "zh": "招式 2"}
-{"offset": 16918443, "en": "TRENDY SAYING", "zh": "时髦的说"}
-{"offset": 16918461, "en": "MON2", "zh": "精灵宝可梦2"}
+{"offset": 16918429, "en": "MOVE 1", "zh": "招式1"}
+{"offset": 16918436, "en": "MOVE 2", "zh": "招式2"}
+{"offset": 16918443, "en": "TRENDY SAYING", "zh": "流行语"}
+{"offset": 16918461, "en": "MON2", "zh": "宝可梦2"}
 {"offset": 16918470, "en": "MAX. HP", "zh": "最大生命值"}
 {"offset": 16918478, "en": "ATTACK", "zh": "攻击"}
 {"offset": 16918485, "en": "DEFENSE", "zh": "防御"}
@@ -13500,7 +13505,7 @@
 {"offset": 16919185, "en": " in party already.", "zh": "已经在派对上了。"}
 {"offset": 16919206, "en": "PLAYER", "zh": "玩家"}
 {"offset": 16919213, "en": "BADGES", "zh": "徽章"}
-{"offset": 16919224, "en": "DEX", "zh": "去中心化交易所"}
+{"offset": 16919224, "en": "DEX", "zh": "图鉴"}
 {"offset": 16919228, "en": "TIME", "zh": "时间"}
 {"offset": 16919233, "en": "Wireless Communication Status", "zh": "无线通信状态"}
 {"offset": 16919263, "en": "People trading:", "zh": "人们交易:"}
@@ -13656,14 +13661,14 @@
 {"offset": 16923219, "en": "SUNNY3", "zh": "阳光3"}
 {"offset": 16923226, "en": "HEAVY RAIN", "zh": "大雨"}
 {"offset": 16923237, "en": "SEAFLOOR2", "zh": "海底2"}
-{"offset": 16923247, "en": "DEL. ALL", "zh": "德尔。所有"}
+{"offset": 16923247, "en": "DEL. ALL", "zh": "全部清除"}
 {"offset": 16923256, "en": "CANCEL", "zh": "取消"}
-{"offset": 16923266, "en": "QUIZ", "zh": "测试"}
+{"offset": 16923266, "en": "QUIZ", "zh": "测验"}
 {"offset": 16923271, "en": "ANSWER", "zh": "答案"}
-{"offset": 16923282, "en": " BALLS", "zh": "球"}
+{"offset": 16923282, "en": " BALLS", "zh": "精灵球"}
 {"offset": 16923289, "en": "BERRY", "zh": "树果"}
 {"offset": 16923295, "en": "BERRIES", "zh": "树果"}
-{"offset": 16923303, "en": "You have already used your encounter\nfor this area!{FC:09}", "zh": "你已经利用了你的遭遇这个区域！{FC:09}"}
+{"offset": 16923303, "en": "You have already used your encounter\nfor this area!{FC:09}", "zh": "你已用掉该区域的遭遇机会！{FC:09}"}
 {"offset": 16923387, "en": "MON\nin this evolution line!{FC:09}", "zh": "宝可梦在这条进化线上!{FC:09}"}
 {"offset": 16923450, "en": "MON!{FC:09}", "zh": "我的!{FC:09}"}
 {"offset": 16923457, "en": "One Type Challenge active, capture\nblocked!{FC:09}", "zh": "一种类型挑战已激活，捕获被封锁！{FC:09}"}

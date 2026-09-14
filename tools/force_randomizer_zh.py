@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chs_encode import encode_text_safe  # noqa: E402
+from chs_encode import encode_text, encode_text_safe  # noqa: E402
 
 ROM = ROOT / "work" / "cn_build.gba"
 GOLDEN = ROOT / "golden" / "en_0.8.4.gba"
@@ -26,6 +26,7 @@ FORCED: list[tuple[int, str]] = [
     (0x1703EB4, "挑战"),
     (0x1703EBF, "防肝"),
     (0x1703ECD, "杂项"),
+    (0x1703E93, "返回"),
     (0x170185C, "下一步"),
     (0x1703E98, "下一步{FD:03}"),
     (0x1701B95, "保存"),
@@ -59,6 +60,7 @@ FORCED: list[tuple[int, str]] = [
     (0x17018FF, "濒死"),
     (0x1701908, "复活"),
     # Challenges labels
+    (0x1701940, "游戏难度"),
     (0x170194B, "道馆队伍"),
     (0x1701955, "难度模式"),
     (0x1701965, "仅单一属性"),
@@ -71,6 +73,7 @@ FORCED: list[tuple[int, str]] = [
     (0x17019B9, "玩家道具"),
     (0x17019C6, "进化限制"),
     # Anti-grind labels
+    (0x1701A04, "防肝模式"),
     (0x1701A12, "等级"),
     (0x1701A18, "努力值"),
     (0x1701A1C, "个体值"),
@@ -182,6 +185,7 @@ FORCED: list[tuple[int, str]] = [
     (0x1702160, "上述选项都会变得非常混乱。\n不推荐！"),
     (0x17021A8, "继续设置严格规则选项。"),
     # Nuzlocke help
+    (0x1702250, "严格规则已关闭。"),
     (0x170226B, "每条路线只能捉一只。\n濒死宝可梦不可再使用。"),
     (0x17022A7, "与普通相同，但战败会删除存档。"),
     (0x17022E8, "每有一只濒死失去一条命。\n命数耗尽删除存档。"),
@@ -205,6 +209,7 @@ FORCED: list[tuple[int, str]] = [
     (0x17026D1, "每获得一枚徽章可复活一只。"),
     (0x1702718, "继续设置挑战选项。"),
     # Challenges help
+    (0x17027F8, "设置游戏难度。"),
     (0x1702809, "道馆主与四天王使用标准队伍。"),
     (0x170283E, "道馆主与四天王使用传说队伍。"),
     (0x1702874, "游戏中可有限制地调整难度。"),
@@ -239,6 +244,7 @@ FORCED: list[tuple[int, str]] = [
     (0x1702E18, "对战训练家时获得随机队伍。"),
     (0x1702E4A, "继续设置防肝选项。"),
     # Anti-grind help
+    (0x1702F40, "开局不额外获得道具。"),
     (0x1702F5E, "开局额外道具。\n设置见下方……"),
     (0x1702F88, "开局无神奇糖果。"),
     (0x1702FA7, "开局有神奇糖果。"),
@@ -268,6 +274,7 @@ FORCED: list[tuple[int, str]] = [
     (0x1703233, "开局有太晶碎块。"),
     (0x170324D, "继续设置杂项选项。"),
     # Misc help
+    (0x17032E8, "不解锁作弊选项。"),
     (0x1703304, "开局解锁作弊选项。"),
     (0x1703327, "宝可梦闪光概率。"),
     (0x170333B, "宝可梦光耀概率。"),
@@ -313,6 +320,32 @@ FORCED: list[tuple[int, str]] = [
     (0x1703ADF, "后期解锁太晶珠。"),
     (0x1703C96, "仅在随机御三家/训练家/野生/固定时可用。"),
     (0x1703CD8, "仅在启用其他随机选项时可用。"),
+]
+
+# These strings are addressed indirectly by the menu code and have no aligned
+# ROM pointer. Each translation is written only after the English source slot
+# is verified byte-for-byte and only when the Chinese text fits that slot.
+INPLACE_FORCED: list[tuple[int, str, str]] = [
+    (0x1703E93, "BACK", "返回"),
+    (0x17022D3, "SAVE on battle loss!", "战败删档！"),
+    (0x1702319, "SAVE if you lost all lives!", "命数耗尽删档！"),
+    (0x1702A3A, "POKéMON gain normal EXP. Points.", "宝可梦获得正常经验。"),
+    (0x1702A5B, "POKéMON 50 percent more EXP. Points!", "宝可梦获得额外50%经验！"),
+    (0x1702A80, "POKéMON gain double EXP. Points!", "宝可梦获得双倍经验！"),
+    (
+        0x1702AA1,
+        "POKéMON gain {FC:01}{07}{FC:01}{08}ZERO EXP. Points!!!",
+        "宝可梦获得{FC:01}{07}{FC:01}{08}零经验！！！",
+    ),
+    (0x1702C5F, "All POKéMON have their original base\nstats.", "宝可梦种族值保持原版。"),
+    (0x1702C8B, "POKéMON stats are calculated with\n100 of each base stat.", "各项种族值均按100计算。"),
+    (0x1702CC4, "POKéMON stats are calculated with\n255 of each base stat.", "各项种族值均按255计算。"),
+    (0x1702CFD, "POKéMON stats are calculated with\n500 of each base stat.", "各项种族值均按500计算。"),
+    (
+        0x1702DD6,
+        "The player gets a copy of the\nenemies party in {FC:01}{07}{FC:01}{08}ALL battles!",
+        "所有{FC:01}{07}{FC:01}{08}对战中，玩家获得\n对方队伍副本！",
+    ),
 ]
 
 
@@ -364,6 +397,17 @@ def main() -> int:
     free_at = int(cursor_path.read_text().strip(), 0) if cursor_path.exists() else FREE_START
     stats = {"patched": 0, "no_ptr": 0, "fail": 0}
     seen: set[int] = set()
+
+    for off, en, zh in INPLACE_FORCED:
+        source = encode_text(en)
+        encoded = encode_zh(zh, golden, off)
+        if encoded is None or golden[off:off + len(source)] != source or len(encoded) > len(source):
+            print("in-place validation failed", hex(off), len(encoded or b""), len(source))
+            stats["fail"] += 1
+            continue
+        data[off:off + len(source)] = encoded + bytes(len(source) - len(encoded))
+        seen.add(off)
+        stats["patched"] += 1
 
     for off, zh in FORCED:
         if off in seen:

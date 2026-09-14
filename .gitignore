@@ -2,6 +2,7 @@
 # Keep source, locale data, dumps and curated glossaries. ROM images and
 # machine-generated caches stay local and must never be committed.
 *.gba
+*.sav
 fontpatch/*.generated.asm
 work/gtrans_cache.json
 work/*.txt
@@ -21,6 +22,9 @@ work/map_en_*
 work/_dialogue_*
 work/_real_*
 work/_last_need.txt
+work/reference_pokeemerald_zh/
+work/mGBA*
+work/map_acceptance/
 
 # Python
 __pycache__/

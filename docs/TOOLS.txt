@@ -16,6 +16,10 @@ audit_dialogue_zh.py
   对 3926 条指针剧情逐项检查未译/中英混杂、控制码顺序、乱码及人名地名官译；
   同时拦截 all_en_zh.jsonl 全表中的旧译术语与缺字。任何命中都会中止构建。
 
+audit_low_frequency_zh.py
+  检查 Easy Chat 18 组/1008 词、87 条编辑器文本、关键低频固定译文、
+  原位长度、非对齐脚本来源/指针和缺字；任何失败都会中止构建。
+
 apply_text.py
   把 locale/zh_CN/all_en_zh.jsonl 写入 work/cn_build.gba（多为指针 reloc）。
   用法：python tools/apply_text.py locale/zh_CN/all_en_zh.jsonl
@@ -31,12 +35,20 @@ force_randomizer_zh.py
   新游戏随机化向导全文（RANDOMIZER/御三家/严格规则/各页标签与帮助）。
   同步写 out/。补漏时也可单独重跑。
 
+patch_low_frequency_zh.py
+  对动态验收确认的非 4 字节对齐脚本做来源验证后重定位；少数无指针文本仅在
+  原文完全匹配且长度安全时原位覆盖。构建末尾用 --check 回读 ROM。
+
 force_names_zh.py
   按 official_names_zh 官译强制人名/地名等。
 
 force_trainer_class_zh.py
   对话框/对战名牌上的训练家头衔（YOUNGSTER→少年、PKMN TRAINER→宝可梦训练家 等）。
   表址 0x4065EC，66×13 字节定长，只能 inplace。
+
+patch_easy_chat_zh.py
+  把 Easy Chat 18 组、1008 个词条写入自由区并重定向 FC 元数据指针；
+  构建末尾用 --check 校验每个词条的元数据和中文内容。
 
 patch_battle_names_zh.py
   确定性写入 2 组宝可梦名、3 组招式名与特性名固定表；严格检查缺字和槽位长度。
@@ -80,6 +92,10 @@ repair_dialogue_locale.py
 
 import_item_glossary.py
   维护道具词表。读取 PokeAPI CSV 与已提交说明基线；不属于日常联网构建步骤。
+
+import_easy_chat_zh.py
+  从 rh-hideout-chinese/pokeemerald-expansion 导入经校对的 Easy Chat 分组词表，
+  同时按 Quetzal 英文母盘逐组核对地址、数量与槽位；仅在更新词库时运行。
 
 
 三、编码库（被其它脚本 import，勿删）
@@ -135,6 +151,9 @@ restore_clock_ui.py
 
 剧情/官译门禁：
   python tools/audit_dialogue_zh.py --fail-on-issues
+
+Easy Chat / 低频门禁：
+  python tools/audit_low_frequency_zh.py --fail-on-issues
 
 合并人工剧情修订：
   python tools/repair_dialogue_locale.py

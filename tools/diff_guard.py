@@ -47,6 +47,17 @@ def allowed_ranges() -> list[tuple[int, int]]:
             o = int(row["offset"])
             ln = int(row.get("length") or 8)
             rs.append((o, o + max(ln, 8)))
+    from chs_encode import encode_text
+    from force_mode_zh import INPLACE_MODE_WIZARD
+    from force_randomizer_zh import INPLACE_FORCED
+    for off, en, _zh in (*INPLACE_MODE_WIZARD, *INPLACE_FORCED):
+        rs.append((off, off + len(encode_text(en))))
+    from patch_low_frequency_zh import load_entries
+    for row in load_entries():
+        if row.get("in_place"):
+            rs.append((int(row["offset"]), int(row["offset"]) + len(encode_text(str(row["en"])))))
+        for site in row["pointer_sites"]:
+            rs.append((int(site), int(site) + 4))
     return rs
 
 

@@ -33,12 +33,16 @@ archive/                历史一次性补丁与调查（不进日常构建）
 6. python tools/force_ui_zh.py       （开始菜单等）
 7. python tools/force_mode_zh.py     （新游戏难度/模式向导）
 8. python tools/force_randomizer_zh.py
-9. python tools/force_names_zh.py    （官方人名地名）
-10. python tools/force_trainer_class_zh.py
-11. python tools/patch_battle_names_zh.py（宝可梦/招式/特性固定表）
-12. python tools/patch_items_zh.py    （827 个道具名 + 800 条说明）
-13. python tools/diff_guard.py       （须 OK；PokemonSioInfo 区不变）
-14. copy work\cn_build.gba out\quetzal_084_cn.gba
+9. python tools/patch_low_frequency_zh.py（已核实的非对齐低频脚本）
+10. python tools/force_names_zh.py    （官方人名地名）
+11. python tools/force_trainer_class_zh.py
+12. python tools/patch_easy_chat_zh.py（Easy Chat 18 组、1008 词条）
+13. python tools/patch_battle_names_zh.py（宝可梦/招式/特性固定表）
+14. python tools/patch_items_zh.py    （827 个道具名 + 800 条说明）
+15. python tools/patch_easy_chat_zh.py --check
+16. python tools/patch_low_frequency_zh.py --check
+17. python tools/diff_guard.py       （须 OK；PokemonSioInfo 区不变）
+18. copy work\cn_build.gba out\quetzal_084_cn.gba
 
 维护（按需，非 build_all）
 --------------------------
