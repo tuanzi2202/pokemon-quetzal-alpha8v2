@@ -3,6 +3,10 @@
 # machine-generated caches stay local and must never be committed.
 *.gba
 *.sav
+*.ips
+*.ups
+*.bps
+*.xdelta
 fontpatch/*.generated.asm
 work/gtrans_cache.json
 work/*.txt
@@ -25,6 +29,12 @@ work/_last_need.txt
 work/reference_pokeemerald_zh/
 work/mGBA*
 work/map_acceptance/
+work/*_manifest.json
+
+# Web player keeps local ROMs and browser saves out of Git.
+web-player/rom/*.gba
+web-player/**/*.sav
+web-player/**/*.state
 
 # Python
 __pycache__/
