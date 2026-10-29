@@ -2,6 +2,9 @@
 $ErrorActionPreference = "Stop"
 $Root = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location $Root
+Write-Host "[CN] validate private Quetzal 0.8.4 base ROM"
+python tools\prepare_rom.py
+if ($LASTEXITCODE -ne 0) { throw "ROM preflight failed; add your own legal golden/en_0.8.4.gba" }
 Write-Host "[CN] dump (optional if already done)"
 # python tools\dump_text.py
 Write-Host "[CN] audit dialogue controls / English / official terms"
