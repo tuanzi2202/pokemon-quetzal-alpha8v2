@@ -79,20 +79,10 @@ Copy-Item out\alpha8v2_npc.gba web-player\rom\alpha8v2_npc.gba -Force
 
 ## 新手村传送门与独立空地
 
-`tools/add_gate_alpha8v2.py` 会在新手村 `(12,10)` 放置一个可见门并添加双向传送：进入后到独立的 `group 27 / map 0` 空地，空地 `(10,10)` 的门可返回新手村。脚本基于本地 `out/alpha8v2_npc.gba`，不会覆盖输入 ROM：
-
-```powershell
-python tools\add_gate_alpha8v2.py
-```
-
-输出为 `out/alpha8v2_gate.gba`；ROM 文件和生成的 manifest 保持本地并被 Git 忽略。可用 mGBA 打开输出 ROM 验证两个方向的传送。
-
-## 新手村传送门与独立空地
-
 以 `out/alpha8v2_npc.gba` 为输入，可生成带可见门砖的双向传送门版：
 
 ```powershell
 python tools\add_gate_alpha8v2.py
 ```
 
-输出为 `out/alpha8v2_gate.gba`。新手村坐标 `(10,10)` 的门通往独立地图 `group 27 / map 0`，空地为 20×20，空地坐标 `(10,10)` 可返回新手村。脚本、输出 SHA-1 和偏移记录在 `work/alpha8v2_gate_manifest.json`；原输入 ROM 不会被覆盖。
+输出为 `out/alpha8v2_gate.gba`（当前输出 SHA-1：`7c7196e43f63768abdc89e42adaee2e79d42930`）。新手村坐标 `(10,10)` 的门通往独立地图 `group 27 / map 0`，空地为 20×20，空地坐标 `(10,10)` 可返回新手村。脚本、输出 SHA-1 和偏移记录在 `work/alpha8v2_gate_manifest.json`；原输入 ROM 不会被覆盖。
