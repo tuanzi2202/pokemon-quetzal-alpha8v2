@@ -64,3 +64,15 @@
   `locale/zh_CN/dialogue_repairs_zh.jsonl`，再运行 `python tools/repair_dialogue_locale.py`。
 - 一次性 `fix_*` 已迁到 `archive/oneshot/`，不要再堆回 `tools/`。
 - 换 ROM 后若仍见旧字：清应用数据，或 bump `MbRomBootstrap.ROM_PACK_VERSION`。
+
+## 浏览器运行
+
+仓库提供了一个基于 GitHub 开源项目 [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) 的本地网页播放器，位于 `web-player/`。它只加载你本机的 ROM，不把 ROM 放进仓库：
+
+```powershell
+cd quetzal-cn
+Copy-Item out\alpha8v2_npc.gba web-player\rom\alpha8v2_npc.gba -Force
+.\web-player\start_server.ps1 -OpenBrowser
+```
+
+然后访问 <http://127.0.0.1:54321/>。首次打开需要联网加载 EmulatorJS CDN；ROM 和存档文件保持本地并被 Git 忽略。详细说明见 [`web-player/README.md`](web-player/README.md)。
