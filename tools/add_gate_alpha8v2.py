@@ -128,6 +128,10 @@ def build_patch(source: Path, output: Path, source_x: int, source_y: int,
     data[map_header_off:map_header_off + MAP_HEADER_SIZE] = data[group27_old_header:group27_old_header + MAP_HEADER_SIZE]
     put_u32(data, map_header_off, pointer(layout_off))
     put_u32(data, map_header_off + 4, pointer(dest_events_off))
+    # Keep normal outdoor-map behavior (music, weather, map type and field
+    # flags) instead of inheriting the placeholder slot's dummy metadata.
+    data[map_header_off + 0x10:map_header_off + MAP_HEADER_SIZE] = \
+        data[LITTLEROOT_HEADER + 0x10:LITTLEROOT_HEADER + MAP_HEADER_SIZE]
     put_u32(data, GROUP27_TABLE, pointer(map_header_off))
 
     # Reuse Littleroot's tested border and tilesets, but make every block a
@@ -193,7 +197,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
-    parser.add_argument("--source-x", type=int, default=12)
+    parser.add_argument("--source-x", type=int, default=10)
     parser.add_argument("--source-y", type=int, default=10)
     parser.add_argument("--destination-x", type=int, default=10)
     parser.add_argument("--destination-y", type=int, default=10)
