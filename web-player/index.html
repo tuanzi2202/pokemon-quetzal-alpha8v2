@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>格查尔 Alpha8v2 · 网页版</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      font-family: system-ui, -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif;
+      background: #111827;
+      color: #e5e7eb;
+    }
+    body { margin: 0; min-height: 100vh; background: radial-gradient(circle at top, #243b53, #111827 60%); }
+    main { width: min(1100px, 100% - 32px); margin: 0 auto; padding: 24px 0 40px; }
+    h1 { margin: 0 0 8px; font-size: clamp(24px, 4vw, 36px); }
+    .subtitle { color: #cbd5e1; margin: 0 0 18px; }
+    .notice { padding: 12px 14px; margin: 0 0 16px; border: 1px solid #475569; border-radius: 10px; background: #1e293b; line-height: 1.6; }
+    #game { min-height: 480px; width: 100%; border-radius: 12px; overflow: hidden; background: #000; box-shadow: 0 20px 45px rgb(0 0 0 / 35%); }
+    .tips { margin-top: 18px; color: #cbd5e1; line-height: 1.7; }
+    .tips code { color: #fbbf24; }
+    a { color: #93c5fd; }
+    noscript { display: block; padding: 16px; background: #7f1d1d; border-radius: 10px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>宝可梦格查尔 Alpha8v2 · 网页版</h1>
+    <p class="subtitle">本地网页播放器，默认加载新手村 NPC 版 ROM。</p>
+    <div class="notice">
+      正在使用 GitHub 开源项目
+      <a href="https://github.com/EmulatorJS/EmulatorJS" target="_blank" rel="noreferrer">EmulatorJS</a>
+      的 GBA 核心。首次打开需要联网加载模拟器资源；ROM 本体从本机的 <code>rom/</code> 目录读取，不会上传。
+    </div>
+    <div id="game" aria-label="GBA 游戏画面"></div>
+    <p class="tips">
+      键盘按键由模拟器菜单显示；通常方向键控制移动，<code>Z</code>/<code>X</code> 对应 A/B，<code>Enter</code> 对应 Start。
+      存档保存在浏览器本地。若要换 ROM，可在模拟器菜单中选择加载游戏，或替换 <code>rom/alpha8v2_npc.gba</code> 后刷新页面。
+    </p>
+    <noscript>需要启用 JavaScript 才能运行模拟器。</noscript>
+  </main>
+
+  <script>
+    // EmulatorJS 的公开嵌入配置，项目源码见上方 GitHub 链接。
+    var EJS_player = '#game';
+    var EJS_core = 'gba';
+    var EJS_pathtodata = 'https://cdn.emulatorjs.org/stable/data/';
+    var EJS_gameUrl = './rom/alpha8v2_npc.gba';
+    var EJS_gameName = 'quetzal-alpha8v2-npc';
+    var EJS_startOnLoaded = true;
+  </script>
+  <script src="https://cdn.emulatorjs.org/stable/data/loader.js"></script>
+</body>
+</html>
