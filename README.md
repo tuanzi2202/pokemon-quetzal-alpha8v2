@@ -76,3 +76,13 @@ Copy-Item out\alpha8v2_npc.gba web-player\rom\alpha8v2_npc.gba -Force
 ```
 
 然后访问 <http://127.0.0.1:54321/>。首次打开需要联网加载 EmulatorJS CDN；ROM 和存档文件保持本地并被 Git 忽略。详细说明见 [`web-player/README.md`](web-player/README.md)。
+
+## 新手村传送门与独立空地
+
+以 `out/alpha8v2_npc.gba` 为输入，可生成带可见门砖的双向传送门版：
+
+```powershell
+python tools\add_gate_alpha8v2.py
+```
+
+输出为 `out/alpha8v2_gate.gba`。新手村坐标 `(12,10)` 的门通往独立地图 `group 27 / map 0`，空地为 20×20，空地坐标 `(10,10)` 可返回新手村。脚本、输出 SHA-1 和偏移记录在 `work/alpha8v2_gate_manifest.json`；原输入 ROM 不会被覆盖。
